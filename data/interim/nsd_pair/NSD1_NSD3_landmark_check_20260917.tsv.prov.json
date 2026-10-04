@@ -1,0 +1,11 @@
+{
+  "file": "data/interim/nsd_pair/NSD1_NSD3_landmark_check_20260917.tsv",
+  "sha256": "99ee582c6bdc995dad2eb7c9b5dc8607303407d0d5d33cce38a69f1dec3a1cb0",
+  "bytes": 680,
+  "retrieved_utc": "2026-09-17T18:43:30+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "tool": "scripts/nsd_pair_calibration.py",
+  "source": "derived: UniProt binding-site features mapped through the paralog map",
+  "urls": [],
+  "n_records": 11
+}

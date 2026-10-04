@@ -1,0 +1,10 @@
+{
+  "file": "data/interim/nsd_pair/NSD1_curation_summary_20260917.json",
+  "sha256": "d545dbaab43c1c62b1e163651d6be5e6fa2ad13d981c44a3299b86d193a05d80",
+  "bytes": 3717,
+  "retrieved_utc": "2026-09-17T18:45:08+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "tool": "scripts/nsd_pair_calibration.py",
+  "source": "derived: curation summary",
+  "urls": []
+}

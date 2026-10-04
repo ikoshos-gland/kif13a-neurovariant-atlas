@@ -1,0 +1,9 @@
+{
+  "file": "data/processed/KIF13A_saturation_summary_20260916.json",
+  "sha256": "1eacf8b7e6a27581c208e6b9272c72c8ac97cf1bc760fd8fe8208e6c325b886c",
+  "bytes": 1668,
+  "retrieved_utc": "2026-09-16T10:50:55+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived",
+  "tool": "scripts/build_saturation_table.py"
+}

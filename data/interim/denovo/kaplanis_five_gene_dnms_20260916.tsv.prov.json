@@ -1,0 +1,13 @@
+{
+  "file": "data/interim/denovo/kaplanis_five_gene_dnms_20260916.tsv",
+  "sha256": "a0c48ff841d650087a5af6d7b2782273c4db2704e48ec327e2400b37792d0814",
+  "bytes": 18567,
+  "retrieved_utc": "2026-09-16T14:35:16+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "Kaplanis 2020 Supplementary Table 1, rows for the five project genes",
+  "urls": [
+    "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7116826/supplementaryFiles"
+  ],
+  "tool": "scripts/denovo_axis.py",
+  "n_records": 235
+}

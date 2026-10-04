@@ -1,0 +1,12 @@
+{
+  "file": "data/interim/imaging_gwas/scan_TRIM47.tsv.gz",
+  "sha256": "45407d94cc31d04ab049abb9af1b101ebc07d917897bb9878b4362b9951c83ae",
+  "bytes": 901427,
+  "retrieved_utc": "2026-09-17T19:13:10+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "https://open.win.ox.ac.uk/ukbiobank/big40/pheweb33k/api/region/<IDP>/lz-results/?filter=chr17:73620242-74124656",
+  "note": "BIG40 33k, TRIM47 +-250kb, 683 IDP, p<0.05 satirlari",
+  "n_idp": 683,
+  "window": "17:73620242-74124656",
+  "build": "GRCh37"
+}

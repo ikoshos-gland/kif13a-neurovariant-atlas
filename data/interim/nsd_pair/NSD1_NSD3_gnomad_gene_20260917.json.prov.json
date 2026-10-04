@@ -1,0 +1,12 @@
+{
+  "file": "data/interim/nsd_pair/NSD1_NSD3_gnomad_gene_20260917.json",
+  "sha256": "dc311304a075c72cde180b748e121182069fcb5c56fed14651e7ad5fcf1ad4c8",
+  "bytes": 1679,
+  "retrieved_utc": "2026-09-17T18:31:23+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "tool": "scripts/nsd_pair_calibration.py",
+  "source": "gnomAD v4.1 GraphQL gene query (MANE Select + constraint)",
+  "urls": [
+    "https://gnomad.broadinstitute.org/api"
+  ]
+}

@@ -1,0 +1,12 @@
+feature	NSD1_pos	NSD1_aa	NSD3_pos	NSD3_aa	identical
+Binding site: S-adenosyl-L-methionine	1952	R	1155	R	True
+Binding site: S-adenosyl-L-methionine	1953	G	1156	G	True
+Binding site: S-adenosyl-L-methionine	1954	W	1157	W	True
+Binding site: S-adenosyl-L-methionine	1994	T	1197	T	True
+Binding site: S-adenosyl-L-methionine	1995	N	1198	N	True
+Binding site: S-adenosyl-L-methionine	1996	F	1199	F	True
+Binding site: S-adenosyl-L-methionine	1997	Y	1200	Y	True
+Binding site: S-adenosyl-L-methionine	2020	N	1223	N	True
+Binding site: S-adenosyl-L-methionine	2021	H	1224	H	True
+Binding site: S-adenosyl-L-methionine	2065	N	1268	N	True
+Binding site: S-adenosyl-L-methionine	2071	K	1274	H	False

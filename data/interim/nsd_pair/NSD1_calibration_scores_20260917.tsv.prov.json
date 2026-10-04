@@ -1,0 +1,28 @@
+{
+  "file": "data/interim/nsd_pair/NSD1_calibration_scores_20260917.tsv",
+  "sha256": "648a912a4c83c94614d027a3a571ca31a9e32f2caab7d672f5430df8ea8299a6",
+  "bytes": 115158,
+  "retrieved_utc": "2026-09-17T18:48:43+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "tool": "scripts/nsd_pair_calibration.py",
+  "source": "derived: one Ensembl VEP run over positives and negatives together",
+  "urls": [
+    "https://rest.ensembl.org/vep/human/region"
+  ],
+  "params": {
+    "AlphaMissense": 1,
+    "CADD": 1,
+    "SpliceAI": 1,
+    "REVEL": 1,
+    "dbNSFP": "Ensembl_transcriptid,ESM1b_score,PrimateAI_score,MetaRNN_score",
+    "mane": 1,
+    "canonical": 1,
+    "hgvs": 1,
+    "protein": 1,
+    "numbers": 1,
+    "variant_class": 1,
+    "af_gnomade": 1,
+    "af_gnomadg": 1
+  },
+  "n_records": 477
+}

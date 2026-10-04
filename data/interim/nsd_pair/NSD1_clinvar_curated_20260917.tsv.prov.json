@@ -1,0 +1,14 @@
+{
+  "file": "data/interim/nsd_pair/NSD1_clinvar_curated_20260917.tsv",
+  "sha256": "9abd7fa334f182d913070563904a5fa0d97ef1700693cefafa74b961169bc530",
+  "bytes": 526192,
+  "retrieved_utc": "2026-09-17T18:45:08+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "tool": "scripts/nsd_pair_calibration.py",
+  "source": "derived: ClinVar VCV XML + one Ensembl VEP run",
+  "urls": [
+    "https://eutils.ncbi.nlm.nih.gov/entrez/eutils",
+    "https://rest.ensembl.org/vep/human/region"
+  ],
+  "n_records": 1121
+}

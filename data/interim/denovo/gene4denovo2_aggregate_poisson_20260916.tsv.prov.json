@@ -1,0 +1,19 @@
+{
+  "file": "data/interim/denovo/gene4denovo2_aggregate_poisson_20260916.tsv",
+  "sha256": "8b87d83fa14eb92ac9891841aff9df55d84bb7d06ad21d2331eb73e1dc061f98",
+  "bytes": 447,
+  "retrieved_utc": "2026-09-16T14:35:16+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "Gene4Denovo2 ALL Disorders LoF counts against expectation at an effective trio count calibrated from synonymous de novo variants of the same five genes",
+  "urls": [
+    "https://java.genemed.tech/admin-api/backend/data/hg38/gene4denovo2_Candidate_Gene2/geneSymbol/page",
+    "https://storage.googleapis.com/gcp-public-data--gnomad/release/2.1.1/constraint/gnomad.v2.1.1.lof_metrics.by_gene.txt.bgz"
+  ],
+  "tool": "scripts/denovo_axis.py",
+  "params": {
+    "n_eff": 97716.87397972088,
+    "syn_total": 34,
+    "mu_syn_total": 0.000173972
+  },
+  "n_records": 5
+}

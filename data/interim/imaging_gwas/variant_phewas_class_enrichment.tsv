@@ -1,0 +1,28 @@
+rsid	grch37	not	kume	sinif	gozlenen	beklenen	hipergeometrik_p_tek_yonlu	en_iyi_p
+rs143422697	6-17828055-T-G	BIG40'in tek 5e-8 gecen hiti (gri-ak kontrasti)	en iyi 20	gri_madde_ve_diger	15	16.45	0.87	1.1e-08
+rs143422697	6-17828055-T-G	BIG40'in tek 5e-8 gecen hiti (gri-ak kontrasti)	en iyi 20	ak_madde_mikroyapi	5	3.43	0.25	0.00049
+rs143422697	6-17828055-T-G	BIG40'in tek 5e-8 gecen hiti (gri-ak kontrasti)	p<=0.01 olan 65	gri_madde_ve_diger	48	53.45	0.97	1.1e-08
+rs143422697	6-17828055-T-G	BIG40'in tek 5e-8 gecen hiti (gri-ak kontrasti)	p<=0.01 olan 65	ak_madde_mikroyapi	17	11.15	0.043	0.00049
+rs4712326	6-18052156-C-T	rs143422697 ile r2=0,83	en iyi 20	gri_madde_ve_diger	17	16.45	0.51	1.2e-06
+rs4712326	6-18052156-C-T	rs143422697 ile r2=0,83	en iyi 20	ak_madde_mikroyapi	3	3.43	0.69	0.00027
+rs4712326	6-18052156-C-T	rs143422697 ile r2=0,83	p<=0.01 olan 45	gri_madde_ve_diger	34	37.01	0.91	1.2e-06
+rs4712326	6-18052156-C-T	rs143422697 ile r2=0,83	p<=0.01 olan 45	ak_madde_mikroyapi	11	7.72	0.14	0.00027
+rs4716216	6-18074064-G-A	rs143422697 ile r2=0,66	en iyi 20	gri_madde_ve_diger	19	16.45	0.11	1.8e-07
+rs4716216	6-18074064-G-A	rs143422697 ile r2=0,66	en iyi 20	ak_madde_mikroyapi	1	3.43	0.98	0.00084
+rs4716216	6-18074064-G-A	rs143422697 ile r2=0,66	p<=0.01 olan 58	gri_madde_ve_diger	51	47.7	0.17	1.8e-07
+rs4716216	6-18074064-G-A	rs143422697 ile r2=0,66	p<=0.01 olan 58	ak_madde_mikroyapi	7	9.95	0.89	0.00084
+rs75428660	6-17886045-A-G	yayimlanmis kortikal kalinlik / sulkus derinligi hiti, KIF13A introniki	en iyi 20	gri_madde_ve_diger	12	16.45	1	4.6e-05
+rs75428660	6-17886045-A-G	yayimlanmis kortikal kalinlik / sulkus derinligi hiti, KIF13A introniki	en iyi 20	ak_madde_mikroyapi	8	3.43	0.013	1.2e-05
+rs75428660	6-17886045-A-G	yayimlanmis kortikal kalinlik / sulkus derinligi hiti, KIF13A introniki	p<=0.01 olan 139	gri_madde_ve_diger	87	114.31	1	4.6e-05
+rs75428660	6-17886045-A-G	yayimlanmis kortikal kalinlik / sulkus derinligi hiti, KIF13A introniki	p<=0.01 olan 139	ak_madde_makroyapi	1	0.28	0.25	0.0047
+rs75428660	6-17886045-A-G	yayimlanmis kortikal kalinlik / sulkus derinligi hiti, KIF13A introniki	p<=0.01 olan 139	ak_madde_mikroyapi	51	23.84	1.5e-08	1.2e-05
+rs76091407	6-18020433-G-A	yayimlanmis ak madde mikroyapi hiti (UDIP-FA), KIF13A'dan 32,6 kb	en iyi 20	gri_madde_ve_diger	5	16.45	1	3e-05
+rs76091407	6-18020433-G-A	yayimlanmis ak madde mikroyapi hiti (UDIP-FA), KIF13A'dan 32,6 kb	en iyi 20	ak_madde_mikroyapi	15	3.43	1.9e-08	6.9e-07
+rs76091407	6-18020433-G-A	yayimlanmis ak madde mikroyapi hiti (UDIP-FA), KIF13A'dan 32,6 kb	p<=0.01 olan 201	gri_madde_ve_diger	99	165.3	1	3e-05
+rs76091407	6-18020433-G-A	yayimlanmis ak madde mikroyapi hiti (UDIP-FA), KIF13A'dan 32,6 kb	p<=0.01 olan 201	ak_madde_makroyapi	2	0.41	0.059	0.00028
+rs76091407	6-18020433-G-A	yayimlanmis ak madde mikroyapi hiti (UDIP-FA), KIF13A'dan 32,6 kb	p<=0.01 olan 201	ak_madde_mikroyapi	100	34.48	5.6e-28	6.9e-07
+rs144963738	6-18012583-G-C	BIG40'in en iyi ak madde mikroyapi hiti	en iyi 20	gri_madde_ve_diger	6	16.45	1	3e-05
+rs144963738	6-18012583-G-C	BIG40'in en iyi ak madde mikroyapi hiti	en iyi 20	ak_madde_mikroyapi	14	3.43	2.4e-07	3.5e-07
+rs144963738	6-18012583-G-C	BIG40'in en iyi ak madde mikroyapi hiti	p<=0.01 olan 205	gri_madde_ve_diger	102	168.58	1	3e-05
+rs144963738	6-18012583-G-C	BIG40'in en iyi ak madde mikroyapi hiti	p<=0.01 olan 205	ak_madde_makroyapi	1	0.42	0.35	0.0014
+rs144963738	6-18012583-G-C	BIG40'in en iyi ak madde mikroyapi hiti	p<=0.01 olan 205	ak_madde_mikroyapi	102	35.17	1.5e-28	3.5e-07

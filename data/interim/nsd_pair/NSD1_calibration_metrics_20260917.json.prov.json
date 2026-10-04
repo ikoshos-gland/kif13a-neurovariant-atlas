@@ -1,0 +1,10 @@
+{
+  "file": "data/interim/nsd_pair/NSD1_calibration_metrics_20260917.json",
+  "sha256": "4452dcc7af0fa311219bfee56413f107eb7de167d979d95c51d97e127d02f9d9",
+  "bytes": 10812,
+  "retrieved_utc": "2026-09-17T19:14:27+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "tool": "scripts/nsd_pair_calibration.py",
+  "source": "derived: AUROC with residue-grouped bootstrap on one VEP score table",
+  "urls": []
+}

@@ -1,0 +1,12 @@
+{
+  "file": "data/interim/imaging_gwas/scan_MYH7.tsv.gz",
+  "sha256": "9109f782702f8a1f9b5125818b169a10c31aea7b63dbe3684828a8994797d8ab",
+  "bytes": 233554,
+  "retrieved_utc": "2026-09-17T19:19:52+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "https://open.win.ox.ac.uk/ukbiobank/big40/pheweb33k/api/region/<IDP>/lz-results/?filter=chr14:23631947-24154927",
+  "note": "BIG40 33k, MYH7 +-250kb, 683 IDP, p<0.05 satirlari",
+  "n_idp": 683,
+  "window": "14:23631947-24154927",
+  "build": "GRCh37"
+}

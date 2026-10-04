@@ -1,0 +1,21 @@
+{
+  "file": "data/interim/paralog_pairs/paralog_scan_metrics_20260916.tsv",
+  "sha256": "67014f40371acdf6d71a279d09a85751f1c6dd9ae3b0656898a7d04b1b928c0d",
+  "bytes": 1205935,
+  "retrieved_utc": "2026-09-16T11:58:25+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "gnomAD v4.1 GraphQL + Ensembl MANE proteins + ClinVar esummary + UniProt features",
+  "urls": [
+    "https://gnomad.broadinstitute.org/api",
+    "https://rest.ensembl.org/sequence/id/",
+    "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+    "https://rest.uniprot.org/uniprotkb/search"
+  ],
+  "tool": "scripts/paralog_pairs_scan.py::metrics",
+  "params": {
+    "top": 0,
+    "max_protein_len": 6000,
+    "aligner": "global NW-Gotoh BLOSUM62 gap -10/-0.5 free end gaps"
+  },
+  "n_records": 3510
+}

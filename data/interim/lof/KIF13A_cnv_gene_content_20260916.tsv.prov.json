@@ -1,0 +1,17 @@
+{
+  "file": "data/interim/lof/KIF13A_cnv_gene_content_20260916.tsv",
+  "sha256": "a1e0454b22f1c3efe3a90ebab1910ab8d0c16df963a2fa0cb0b268762a7fd4e6",
+  "bytes": 8050,
+  "retrieved_utc": "2026-09-16T11:08:09+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: ClinVar esummary + Ensembl REST overlap",
+  "urls": [
+    "https://rest.ensembl.org/overlap/region/human",
+    "https://grch37.rest.ensembl.org/overlap/region/human"
+  ],
+  "tool": "scripts/lof_axis.py",
+  "params": {
+    "gene": "KIF13A"
+  },
+  "n_records": 20
+}

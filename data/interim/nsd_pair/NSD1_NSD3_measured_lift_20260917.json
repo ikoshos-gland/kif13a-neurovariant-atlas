@@ -1,0 +1,48 @@
+{
+ "curated_positives": {
+  "n_unique_residues": 87,
+  "n_aligned": 86,
+  "gap_fraction_at_plp_residues": 0.011,
+  "transfer_signal_residues": 0.931,
+  "hotspot_window": [
+   1952,
+   2183
+  ],
+  "hotspot_width_fraction": 0.086,
+  "background_identity_in_window": 0.703,
+  "transfer_lift": 0.228
+ },
+ "curated_positives_inside_module": {
+  "n_unique_residues": 82,
+  "n_aligned": 82,
+  "gap_fraction_at_plp_residues": 0.0,
+  "transfer_signal_residues": 0.963,
+  "hotspot_window": [
+   1968,
+   2186
+  ],
+  "hotspot_width_fraction": 0.081,
+  "background_identity_in_window": 0.689,
+  "transfer_lift": 0.274
+ },
+ "screen_definition_raw_clinvar_plp": {
+  "n_unique_residues": 106,
+  "n_aligned": 105,
+  "gap_fraction_at_plp_residues": 0.009,
+  "transfer_signal_residues": 0.915,
+  "hotspot_window": [
+   1968,
+   2219
+  ],
+  "hotspot_width_fraction": 0.093,
+  "background_identity_in_window": 0.664,
+  "transfer_lift": 0.251
+ },
+ "shared_module_background_identity": 0.646,
+ "population_control_identity_in_module": {
+  "n": 72,
+  "identical_fraction": 0.486
+ },
+ "lift_vs_module_background": 0.317,
+ "lift_vs_population_controls": 0.477
+}

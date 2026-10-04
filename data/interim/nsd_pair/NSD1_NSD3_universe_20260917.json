@@ -1,0 +1,92 @@
+{
+ "NSD1": {
+  "gnomad": {
+   "transcript": "ENST00000439151.7",
+   "n_variants_on_transcript": 6931,
+   "n_missense": 2789,
+   "n_missense_confidently_observed_ac_ge1_no_AC0": 2721,
+   "n_missense_AC0_filtered": 64,
+   "n_missense_ac0_value": 65,
+   "consequence_counts": {
+    "missense_variant": 2789,
+    "intron_variant": 2569,
+    "synonymous_variant": 1227,
+    "splice_region_variant": 113,
+    "frameshift_variant": 59,
+    "3_prime_UTR_variant": 58,
+    "stop_gained": 35,
+    "inframe_deletion": 34,
+    "inframe_insertion": 19,
+    "5_prime_UTR_variant": 12
+   },
+   "distinct_missense_positions": 1679
+  },
+  "clinvar": {
+   "n_records": 2694,
+   "n_parsed": 2694,
+   "query": "NSD1[gene] AND single_gene[prop]",
+   "classification_counts": {
+    "Uncertain significance": 963,
+    "Likely benign": 567,
+    "Pathogenic": 470,
+    "Conflicting classifications of pathogenicity": 225,
+    "Likely pathogenic": 191,
+    "Benign": 118,
+    "Benign/Likely benign": 92,
+    "Pathogenic/Likely pathogenic": 35,
+    "": 32,
+    "other": 1
+   },
+   "n_missense": 1467,
+   "n_missense_P_LP": 158,
+   "n_missense_B_LB": 241,
+   "n_missense_VUS": 874,
+   "n_missense_P_LP_on_mane_title": 158,
+   "records_not_on_mane_title": 0,
+   "esearch_plp_missense_properties": 158,
+   "esearch_plp_missense_wrong_field": 371
+  }
+ },
+ "NSD3": {
+  "gnomad": {
+   "transcript": "ENST00000317025.13",
+   "n_variants_on_transcript": 4772,
+   "n_missense": 1336,
+   "n_missense_confidently_observed_ac_ge1_no_AC0": 1250,
+   "n_missense_AC0_filtered": 85,
+   "n_missense_ac0_value": 86,
+   "consequence_counts": {
+    "intron_variant": 2499,
+    "missense_variant": 1336,
+    "synonymous_variant": 597,
+    "splice_region_variant": 129,
+    "3_prime_UTR_variant": 60,
+    "frameshift_variant": 48,
+    "stop_gained": 27,
+    "inframe_deletion": 22,
+    "5_prime_UTR_variant": 22,
+    "splice_acceptor_variant": 13
+   },
+   "distinct_missense_positions": 843
+  },
+  "clinvar": {
+   "n_records": 164,
+   "n_parsed": 164,
+   "query": "NSD3[gene] AND single_gene[prop]",
+   "classification_counts": {
+    "Uncertain significance": 120,
+    "": 27,
+    "Likely benign": 10,
+    "Benign": 7
+   },
+   "n_missense": 136,
+   "n_missense_P_LP": 0,
+   "n_missense_B_LB": 7,
+   "n_missense_VUS": 120,
+   "n_missense_P_LP_on_mane_title": 0,
+   "records_not_on_mane_title": 0,
+   "esearch_plp_missense_properties": 0,
+   "esearch_plp_missense_wrong_field": 0
+  }
+ }
+}

@@ -1,0 +1,17 @@
+variant	papers	clinvar_tier
+A255V	Anazawa 2022 PNAS;Shatarupa 2026 Nat Commun	exclude
+D180N	Anazawa 2022 PNAS	
+E253K	Boyle 2021 HGG Adv	positive_gold
+G251R	Boyle 2021 HGG Adv	positive_gold
+P305L	Anazawa 2022 PNAS;Boyle 2021 HGG Adv;Shatarupa 2026 Nat Commun	positive_gold
+R11Q	Anazawa 2022 PNAS	positive_gold
+R13H	Boyle 2021 HGG Adv	positive_gold
+R169T	Anazawa 2022 PNAS;Shatarupa 2026 Nat Commun	positive_gold
+R254Q	Anazawa 2022 PNAS	positive_gold
+R254W	Anazawa 2022 PNAS;Boyle 2021 HGG Adv	positive_gold
+R316W	Boyle 2021 HGG Adv	positive_gold
+R350G	Anazawa 2022 PNAS;Shatarupa 2026 Nat Commun	positive_silver
+R350W	Shatarupa 2026 Nat Commun	positive_gold
+S274L	Boyle 2021 HGG Adv	positive_gold
+T99M	Boyle 2021 HGG Adv	positive_gold
+V8M	Anazawa 2022 PNAS;Shatarupa 2026 Nat Commun	

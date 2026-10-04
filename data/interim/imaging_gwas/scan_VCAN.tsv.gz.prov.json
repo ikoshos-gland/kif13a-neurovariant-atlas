@@ -1,0 +1,12 @@
+{
+  "file": "data/interim/imaging_gwas/scan_VCAN.tsv.gz",
+  "sha256": "76bb073cbe2967027d4742c1dc87910351079c16acb1a28e2e39c71ffcc33d8c",
+  "bytes": 3572154,
+  "retrieved_utc": "2026-09-17T19:10:33+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "https://open.win.ox.ac.uk/ukbiobank/big40/pheweb33k/api/region/<IDP>/lz-results/?filter=chr5:82517284-83128122",
+  "note": "BIG40 33k, VCAN +-250kb, 683 IDP, p<0.05 satirlari",
+  "n_idp": 683,
+  "window": "5:82517284-83128122",
+  "build": "GRCh37"
+}

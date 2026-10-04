@@ -1,0 +1,14 @@
+{
+  "file": "data/interim/denovo/kaplanis_KIF13A_mane_rows_20260916.tsv",
+  "sha256": "12c92100bb01efa3db1618a8b89b4744e8e3d5c39285c5f14982bd309a0ecc54",
+  "bytes": 1040,
+  "retrieved_utc": "2026-09-16T14:35:16+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "Kaplanis 2020 KIF13A de novo rows lifted to GRCh38 and annotated on MANE",
+  "urls": [
+    "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7116826/supplementaryFiles",
+    "https://rest.ensembl.org/vep/human/region"
+  ],
+  "tool": "scripts/denovo_axis.py",
+  "n_records": 4
+}

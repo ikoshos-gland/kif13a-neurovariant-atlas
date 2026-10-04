@@ -1,0 +1,29 @@
+# machine-specific MCP config (absolute paths, inlined API keys): regenerate with mcp/setup_mcp.py
+.mcp.json
+.env
+.claude/settings.local.json
+
+# environments
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+
+# data: raw pulls are reproducible from provenance (data/raw/PROVENANCE.jsonl is kept as the index);
+# derived results in data/interim and data/processed are versioned (largest file < 10 MB)
+data/raw/**
+!data/raw/.gitkeep
+!data/raw/PROVENANCE.jsonl
+# case-finding tables carrying individual submitter e-mail addresses stay local
+data/interim/casefinding/KIF13A_clinvar_tierA_submitters_20260916.tsv*
+data/interim/casefinding/KIF13A_phenotyped_leads_20260916.tsv*
+data/external/**
+!data/external/.gitkeep
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+
+# logs written by servers started from this folder
+*.log

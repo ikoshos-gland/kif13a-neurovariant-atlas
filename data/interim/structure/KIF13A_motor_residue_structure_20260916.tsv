@@ -1,0 +1,381 @@
+protein_pos	aa	domain	structural_class	dist_nucleotide_A	dist_tubulin_A	tubulin_frame	nearest_tubulin	sasa_A2	rel_sasa	neighbours_10A	plddt	kif1a_pos	superpose_pair	superpose_pair_kept	dist_tubulin_chainK_A	dist_tubulin_chainN_A
+1	MET	N_term	yuzey	33.66	6.97	N	S/alpha/TYR451	191.5	0.855	8	42.69		False	False	11.75	6.97
+2	SER	N_term	yuzey	29.83	12.64	N	S/alpha/TYR451	33.5	0.216	11	57.78		False	False	16.66	12.64
+3	ASP	N_term	yuzey	29.35	9.6	N	S/alpha/GLU449	113.7	0.589	9	70.38		False	False	12.06	9.6
+4	THR	N_term	yuzey	25.87	14.23	N	S/alpha/GLU449	37.2	0.216	16	85.5	4	True	True	17.07	14.23
+5	LYS	motor	yuzey	22.8	13.61	N	I/beta/GLN433	133.0	0.564	14	91.5	5	True	True	17.75	13.61
+6	VAL	motor	gomulu cekirdek	18.75	14.75	N	E/alpha/ARG402	4.4	0.025	26	93.69	6	True	True	18.28	14.75
+7	LYS	motor	yuzey	17.13	16.72	N	E/alpha/ARG402	79.9	0.339	20	94.62	7	True	True	19.71	16.72
+8	VAL	motor	gomulu cekirdek	14.79	13.9	N	E/alpha/ARG402	0.0	0.0	26	96.75	8	True	True	17.09	13.9
+9	ALA	motor	gomulu cekirdek	11.57	16.43	N	E/alpha/GLU414	0.0	0.0	24	97.06	9	True	True	18.33	16.43
+10	VAL	motor	gomulu cekirdek	8.79	15.24	N	E/alpha/GLU414	0.0	0.0	28	97.69	10	True	True	17.29	15.24
+11	ARG	motor	ATP cebi	3.12	15.45	N	E/alpha/GLU414	11.7	0.043	27	96.75	11	True	True	17.44	15.45
+12	VAL	motor	ATP cebi	4.24	17.0	N	E/alpha/GLU414	0.0	0.0	25	96.0	12	True	True	18.59	17.0
+13	ARG	motor	ATP cebi	3.1	15.14	N	E/alpha/GLU414	40.9	0.149	21	93.69	13	True	True	15.85	15.14
+14	PRO	motor	ATP cebi	3.04	19.17	N	E/alpha/GLU414	58.9	0.37	14	91.31	14	True	True	20.2	19.17
+15	MET	motor	yuzey	7.43	19.37	N	E/alpha/GLU414	36.5	0.163	17	88.19	15	True	True	19.87	19.37
+16	ASN	motor	yuzey	5.9	17.14	N	E/alpha/GLU414	56.8	0.291	13	84.31	16	True	True	17.66	17.14
+17	ARG	motor	yuzey	8.48	22.11	N	E/alpha/GLU414	184.3	0.673	7	79.0	17	True	False	22.58	22.11
+18	ARG	motor	yuzey	10.25	15.28	K	A/alpha/GLU417	165.5	0.604	10	76.94	18	True	False	15.28	16.07
+19	GLU	motor	gomulu cekirdek	7.95	15.66	N	E/alpha/GLU414	10.3	0.046	18	86.19	19	True	True	15.97	15.66
+20	LEU	motor	yuzey	11.04	21.8	K	A/alpha/GLU420	103.6	0.515	11	85.81	20	True	True	21.8	22.07
+21	GLU	motor	yuzey	13.59	22.78	K	A/alpha/GLU420	103.6	0.465	9	81.5	21	True	False	22.78	24.04
+22	LEU	motor	yuzey	14.84	17.96	K	A/alpha/GLU420	122.3	0.609	11	79.44	22	True	True	17.96	19.5
+23	ASN	motor	yuzey	16.63	19.83	K	A/alpha/GLU420	134.3	0.689	6	83.25	23	True	False	19.83	20.52
+24	THR	motor	yuzey	14.02	15.79	K	A/alpha/GLU420	29.5	0.171	18	84.44	24	True	True	15.79	16.83
+25	LYS	motor	yuzey	15.34	16.47	N	E/alpha/GLU420	117.2	0.497	15	88.69	25	True	True	16.83	16.47
+26	CYS	motor	yuzey	12.79	17.24	N	E/alpha/GLU420	47.5	0.284	14	92.31	26	True	True	18.06	17.24
+27	VAL	motor	gomulu cekirdek	15.0	13.49	N	E/alpha/GLU420	3.6	0.021	23	93.88	27	True	True	14.45	13.49
+28	VAL	motor	gomulu cekirdek	11.27	15.18	N	E/alpha/GLU414	9.8	0.056	23	94.31	28	True	True	16.49	15.18
+29	GLU	motor	yuzey	13.78	16.99	N	E/alpha/GLU423	84.0	0.377	18	92.62	29	True	True	19.27	16.99
+30	MET	motor	gomulu cekirdek	9.51	17.86	N	E/alpha/GLU414	7.0	0.031	22	93.06	30	True	True	19.92	17.86
+31	GLU	motor	yuzey	15.16	20.44	N	E/alpha/GLU423	135.7	0.609	11	88.25	31	True	True	24.18	20.44
+32	GLY	motor	yuzey	14.74	22.36	N	E/alpha/GLU423	71.3	0.686	11	88.88	32	True	True	26.38	22.36
+33	ASN	motor	yuzey	16.28	18.37	N	E/alpha/GLU423	68.6	0.352	14	92.56	33	True	True	22.72	18.37
+34	GLN	motor	yuzey	14.81	17.25	N	E/alpha/GLU423	77.8	0.346	13	94.12	34	True	True	21.3	17.25
+35	THR	motor	gomulu cekirdek	12.95	13.4	N	E/alpha/GLU423	0.0	0.0	27	95.44	35	True	True	17.39	13.4
+36	VAL	motor	yuzey	15.57	13.43	N	E/alpha/GLU423	29.0	0.167	15	95.5	36	True	True	16.55	13.43
+37	LEU	motor	gomulu cekirdek	15.69	9.28	N	E/alpha/GLU423	1.2	0.006	17	95.69	37	True	True	11.35	9.28
+38	HIS	motor	yuzey	18.19	12.24	N	E/alpha/GLU423	70.5	0.315	16	93.06		False	False	12.77	12.24
+39	PRO	motor	yuzey	21.22	10.49	K	A/alpha/GLU423	42.9	0.27	14	86.12		False	False	10.49	10.69
+40	PRO	motor	yuzey	20.65	9.6	N	E/alpha/GLU420	57.3	0.36	15	80.75		False	False	10.12	9.6
+41	PRO	motor	yuzey	22.16	12.18	N	E/alpha/GLU196	105.4	0.663	10	66.81		False	False	13.25	12.18
+42	SER	motor	yuzey	26.02	9.46	N	E/alpha/GLU196	87.4	0.564	10	56.66	38	True	False	10.84	9.46
+43	ASN	motor	yuzey	27.5	10.1	K	A/alpha/GLU196	160.1	0.821	5	48.5	39	True	False	10.1	10.7
+44	THR	motor	yuzey	30.52	7.04	K	A/alpha/ARG264	93.3	0.543	6	43.25	40	True	False	7.04	8.43
+45	LYS	motor	yuzey	33.59	7.17	N	B/beta/THR399	192.5	0.815	5	40.53	41	True	False	9.56	7.17
+46	GLN	motor	mikrotubul arayuzu	34.62	3.76	N	B/beta/THR399	170.2	0.757	4	37.59	42	True	False	7.68	3.76
+47	GLY	motor	yuzey	33.25	6.75	N	E/alpha/ARG264	76.2	0.733	7	37.53		False	False	6.79	6.75
+48	GLU	motor	mikrotubul arayuzu	30.82	4.05	N	E/alpha/ASP431	177.6	0.796	6	48.03	43	True	False	7.25	4.05
+49	ARG	motor	yuzey	28.91	8.65	N	E/alpha/LYS430	224.5	0.819	8	57.22	44	True	True	11.34	8.65
+50	LYS	motor	mikrotubul arayuzu	26.33	3.93	N	E/alpha/ASP424	157.1	0.665	10	70.62	45	True	True	5.23	3.93
+51	PRO	motor	yuzey	24.42	7.45	N	E/alpha/LYS430	90.0	0.566	8	83.75	46	True	True	11.78	7.45
+52	PRO	motor	yuzey	22.08	10.22	N	E/alpha/GLU423	76.2	0.479	11	89.5	47	True	True	13.8	10.22
+53	LYS	motor	mikrotubul arayuzu	19.22	4.79	N	E/alpha/GLU423	61.4	0.26	16	93.44	48	True	True	7.08	4.79
+54	VAL	motor	yuzey	20.12	10.51	N	E/alpha/GLU423	86.3	0.496	12	94.75	49	True	True	14.97	10.51
+55	PHE	motor	gomulu cekirdek	17.69	7.75	N	E/alpha/GLU423	32.6	0.136	21	96.38	50	True	True	11.94	7.75
+56	ALA	motor	yuzey	18.34	14.02	N	E/alpha/GLU423	47.2	0.366	13	95.44	51	True	True	18.83	14.02
+57	PHE	motor	gomulu cekirdek	15.12	13.33	N	E/alpha/GLU423	13.4	0.056	22	96.56	52	True	True	16.29	13.33
+58	ASP	motor	yuzey	16.12	17.8	N	E/alpha/ARG402	78.2	0.405	16	95.19	53	True	True	21.6	17.8
+59	TYR	motor	yuzey	12.51	20.01	N	E/alpha/ARG402	63.8	0.243	18	95.5	54	True	True	22.09	20.01
+60	CYS	motor	gomulu cekirdek	10.29	18.76	N	E/alpha/GLU423	24.7	0.148	25	95.69	55	True	True	22.17	18.76
+61	PHE	motor	gomulu cekirdek	6.5	20.07	N	E/alpha/GLU414	4.8	0.02	26	95.06	56	True	True	22.1	20.07
+62	TRP	motor	gomulu cekirdek	6.55	20.95	N	E/alpha/GLU423	33.8	0.119	24	93.75	57	True	True	22.9	20.95
+63	SER	motor	ATP cebi	3.18	21.84	N	E/alpha/GLU414	9.3	0.06	22	90.25	58	True	True	23.76	21.84
+64	MET	motor	yuzey	6.36	21.2	N	E/alpha/GLU414	48.8	0.218	19	85.81	59	True	True	22.5	21.2
+65	ASP	motor	yuzey	8.13	25.26	N	E/alpha/GLU414	48.0	0.249	11	81.81	60	True	True	26.69	25.26
+66	GLU	motor	yuzey	7.54	28.34	N	E/alpha/GLU414	114.6	0.514	9	82.25	61	True	True	29.8	28.34
+67	SER	motor	yuzey	11.92	30.61	N	E/alpha/GLU414	100.8	0.65	8	79.88	62	True	False	31.86	30.61
+68	ASN	motor	yuzey	12.73	27.58	N	E/alpha/GLU423	39.3	0.202	10	82.06	63	True	True	29.84	27.58
+69	THR	motor	yuzey	13.9	31.76	N	E/alpha/GLU414	120.8	0.702	7	78.44	64	True	True	33.5	31.76
+70	THR	motor	yuzey	14.52	29.46	N	E/alpha/GLU423	126.4	0.735	6	80.56	65	True	False	32.24	29.46
+71	LYS	motor	yuzey	10.38	23.73	N	E/alpha/GLU423	86.9	0.368	16	83.31	66	True	True	26.83	23.73
+72	TYR	motor	yuzey	5.46	25.93	N	E/alpha/GLU414	67.3	0.256	15	89.5	67	True	True	27.69	25.93
+73	ALA	motor	gomulu cekirdek	5.55	24.16	N	E/alpha/GLU414	3.6	0.028	20	90.31	68	True	True	26.09	24.16
+74	GLY	motor	gomulu cekirdek	6.98	25.95	N	E/alpha/GLU414	13.2	0.127	16	90.75	69	True	True	27.82	25.95
+75	GLN	motor	gomulu cekirdek	5.8	23.41	N	E/alpha/GLU414	8.8	0.039	20	93.0	70	True	True	25.11	23.41
+76	GLU	motor	yuzey	9.97	28.11	N	E/alpha/GLU414	125.9	0.564	12	92.12	71	True	True	29.92	28.11
+77	VAL	motor	yuzey	10.48	26.75	N	E/alpha/GLU414	62.8	0.361	15	93.0	72	True	True	28.64	26.75
+78	VAL	motor	gomulu cekirdek	7.0	22.44	N	E/alpha/GLU414	1.2	0.007	22	94.81	73	True	True	24.25	22.44
+79	PHE	motor	gomulu cekirdek	11.08	26.2	N	E/alpha/GLU414	25.4	0.106	23	95.62	74	True	True	27.98	26.2
+80	LYS	motor	yuzey	13.65	28.55	N	E/alpha/GLU414	136.3	0.577	13	93.94	75	True	True	30.34	28.55
+81	CYS	motor	yuzey	13.45	25.3	N	E/alpha/GLU415	38.1	0.228	18	92.62	76	True	True	27.64	25.3
+82	LEU	motor	gomulu cekirdek	11.75	21.42	N	E/alpha/GLU414	2.1	0.011	23	93.31	77	True	True	23.15	21.42
+83	GLY	motor	gomulu cekirdek	14.99	26.07	N	E/alpha/GLU415	0.0	0.0	23	92.62	78	True	True	27.91	26.07
+84	GLU	motor	yuzey	17.28	28.74	N	S/alpha/GLU449	87.5	0.392	13	92.12	79	True	True	30.76	28.74
+85	GLY	motor	yuzey	19.18	24.98	N	S/alpha/GLU449	41.5	0.399	18	88.88	80	True	True	28.81	24.98
+86	ILE	motor	gomulu cekirdek	18.45	23.02	N	E/alpha/GLU415	8.5	0.043	23	92.88	81	True	True	25.57	23.02
+87	LEU	motor	gomulu cekirdek	20.79	26.95	N	S/alpha/GLU449	14.5	0.072	22	93.94	82	True	True	28.12	26.95
+88	GLU	motor	yuzey	23.04	25.0	N	S/alpha/TYR451	67.7	0.304	14	93.0	83	True	True	28.77	25.0
+89	LYS	motor	yuzey	24.45	20.69	N	S/alpha/TYR451	58.7	0.249	22	92.44	84	True	True	25.11	20.69
+90	ALA	motor	gomulu cekirdek	24.11	23.95	N	S/alpha/GLU449	4.3	0.033	25	93.19	85	True	True	24.21	23.95
+91	PHE	motor	gomulu cekirdek	26.02	24.33	N	S/alpha/TYR451	18.8	0.078	17	93.25	86	True	True	26.34	24.33
+92	GLN	motor	yuzey	28.41	20.13	N	S/alpha/TYR451	70.4	0.313	15	91.56	87	True	True	25.07	20.13
+93	GLY	motor	gomulu cekirdek	29.13	18.89	N	S/alpha/TYR451	0.0	0.0	22	90.38	88	True	True	21.03	18.89
+94	TYR	motor	gomulu cekirdek	25.46	16.46	N	S/alpha/TYR451	37.9	0.144	24	92.88	89	True	True	21.1	16.46
+95	ASN	motor	yuzey	23.51	16.4	K	B/beta/MET406	30.8	0.158	24	93.44	90	True	True	16.4	17.1
+96	ALA	motor	gomulu cekirdek	19.57	20.71	N	S/alpha/GLU449	0.0	0.0	28	94.25	91	True	True	21.22	20.71
+97	CYS	motor	gomulu cekirdek	16.17	18.24	N	E/alpha/GLU415	1.3	0.008	23	95.56	92	True	True	20.24	18.24
+98	ILE	motor	gomulu cekirdek	12.71	18.71	N	E/alpha/GLU415	0.0	0.0	26	96.81	93	True	True	20.22	18.71
+99	PHE	motor	gomulu cekirdek	10.68	12.14	N	E/alpha/GLU415	4.8	0.02	25	95.5	94	True	True	14.08	12.14
+100	ALA	motor	gomulu cekirdek	7.24	13.2	N	E/alpha/GLU414	0.0	0.0	26	96.0	95	True	True	14.48	13.2
+101	TYR	motor	gomulu cekirdek	6.92	5.9	N	E/alpha/GLU414	12.5	0.047	27	94.75	96	True	True	6.82	5.9
+102	GLY	motor	ATP cebi	4.85	8.15	N	E/alpha/GLU414	0.0	0.0	27	91.5	97	True	True	9.74	8.15
+103	GLN	motor	ATP cebi	3.11	7.42	N	E/alpha/GLU414	8.8	0.039	24	88.12	98	True	True	8.78	7.42
+104	THR	motor	ATP cebi	2.09	9.06	N	E/alpha/GLU414	11.3	0.065	22	82.81	99	True	True	10.08	9.06
+105	GLY	motor	ATP cebi	2.87	12.43	N	E/alpha/GLU414	36.6	0.352	20	82.38	100	True	True	13.4	12.43
+106	SER	motor	ATP cebi	3.57	11.62	N	E/alpha/GLU414	3.2	0.021	26	90.19	101	True	True	13.27	11.62
+107	GLY	motor	ATP cebi	2.75	14.68	N	E/alpha/GLU414	16.4	0.158	22	90.0	102	True	True	16.26	14.68
+108	LYS	motor	ATP cebi	2.41	10.72	N	E/alpha/GLU414	16.0	0.068	29	91.94	103	True	True	11.89	10.72
+109	SER	motor	ATP cebi	2.58	16.76	N	E/alpha/GLU414	34.9	0.225	24	88.69	104	True	True	17.96	16.76
+110	PHE	motor	ATP cebi	3.13	19.04	N	E/alpha/GLU414	70.8	0.295	22	91.38	105	True	True	20.42	19.04
+111	SER	motor	gomulu cekirdek	5.23	18.45	N	E/alpha/GLU414	2.1	0.014	27	94.31	106	True	True	20.17	18.45
+112	MET	motor	gomulu cekirdek	7.08	18.77	N	E/alpha/GLU414	1.2	0.005	25	93.31	107	True	True	20.11	18.77
+113	MET	motor	yuzey	7.75	22.08	N	E/alpha/GLU414	35.1	0.157	20	90.0	108	True	True	23.38	22.08
+114	GLY	motor	yuzey	6.79	23.27	N	E/alpha/GLU414	24.8	0.238	17	88.06	109	True	True	24.61	23.27
+115	HIS	motor	yuzey	5.33	25.57	N	E/alpha/GLU414	78.6	0.351	10	81.81	110	True	True	26.9	25.57
+116	ALA	motor	yuzey	9.61	28.95	N	E/alpha/GLU414	97.5	0.756	6	74.88	111	True	True	30.06	28.95
+117	GLU	motor	yuzey	9.94	30.37	N	E/alpha/GLU414	162.8	0.73	6	81.75	112	True	False	31.86	30.37
+118	GLN	motor	yuzey	7.41	26.27	N	E/alpha/GLU414	61.1	0.272	10	83.94	115	True	True	27.78	26.27
+119	LEU	motor	yuzey	10.39	26.97	N	E/alpha/GLU414	59.2	0.294	17	91.19	116	True	True	28.48	26.97
+120	GLY	motor	gomulu cekirdek	10.17	24.94	N	E/alpha/GLU414	2.4	0.023	20	93.25	117	True	True	26.45	24.94
+121	LEU	motor	gomulu cekirdek	10.76	21.81	N	E/alpha/GLU414	6.0	0.03	25	94.81	118	True	True	23.41	21.81
+122	ILE	motor	gomulu cekirdek	10.89	23.11	N	E/alpha/GLU414	6.0	0.031	26	93.69	119	True	True	24.24	23.11
+123	PRO	motor	gomulu cekirdek	12.63	26.94	N	E/alpha/GLU414	5.9	0.037	20	92.81	120	True	True	28.24	26.94
+124	ARG	motor	yuzey	11.48	28.92	N	E/alpha/GLU414	59.4	0.217	19	94.19	121	True	True	30.56	28.92
+125	LEU	motor	gomulu cekirdek	16.74	27.24	N	E/alpha/GLU415	4.8	0.024	25	94.94	122	True	True	27.51	27.24
+126	CYS	motor	gomulu cekirdek	17.79	28.08	K	B/beta/MET406	0.0	0.0	27	94.12	123	True	True	28.08	28.8
+127	CYS	motor	yuzey	19.83	32.23	K	B/beta/MET406	39.3	0.235	16	92.81	124	True	True	32.23	33.03
+128	ALA	motor	yuzey	20.2	32.46	K	B/beta/MET406	26.0	0.202	16	94.31	125	True	True	32.46	33.6
+129	LEU	motor	gomulu cekirdek	22.46	26.56	K	B/beta/MET406	0.0	0.0	21	95.44	126	True	True	26.56	27.52
+130	PHE	motor	gomulu cekirdek	23.99	28.13	K	B/beta/MET406	22.8	0.095	18	94.56	127	True	True	28.13	28.35
+131	LYS	motor	yuzey	21.89	33.82	K	B/beta/MET406	127.9	0.542	11	93.38	128	True	True	33.82	34.7
+132	ARG	motor	yuzey	25.64	29.31	N	S/alpha/TYR451	62.7	0.229	15	94.12	129	True	True	32.3	29.31
+133	ILE	motor	gomulu cekirdek	27.65	28.1	K	B/beta/MET406	13.3	0.067	20	94.0	130	True	True	28.1	28.95
+134	SER	motor	yuzey	30.22	33.6	K	B/beta/MET406	98.5	0.635	11	91.06	131	True	True	33.6	34.38
+135	LEU	motor	yuzey	28.57	35.71	K	B/beta/MET406	143.9	0.716	8	91.69	132	True	True	35.71	36.11
+136	GLU	motor	yuzey	29.8	30.08	N	S/alpha/TYR451	52.8	0.237	12	91.12	133	True	True	31.51	30.08
+137	GLN	motor	yuzey	33.43	30.89	K	B/beta/MET406	96.8	0.43	12	88.94	134	True	True	30.89	31.26
+138	ASN	motor	yuzey	37.57	32.96	K	B/beta/MET406	69.2	0.355	8	89.75	135	True	True	32.96	33.62
+139	GLU	motor	yuzey	41.28	33.06	K	B/beta/MET406	154.3	0.692	7	84.38	136	True	True	33.06	33.7
+140	SER	motor	yuzey	40.37	29.82	N	S/alpha/TYR451	41.2	0.266	11	85.25	137	True	True	30.87	29.82
+141	GLN	motor	gomulu cekirdek	35.25	28.93	N	S/alpha/TYR451	30.7	0.137	15	89.19	138	True	True	29.99	28.93
+142	THR	motor	yuzey	34.36	26.29	K	B/beta/MET406	38.2	0.222	16	92.44	139	True	True	26.29	27.15
+143	PHE	motor	gomulu cekirdek	31.07	25.68	K	B/beta/MET406	30.4	0.127	18	93.62	140	True	True	25.68	26.16
+144	LYS	motor	yuzey	28.26	21.63	K	B/beta/MET406	93.7	0.397	15	93.25	141	True	True	21.63	21.77
+145	VAL	motor	gomulu cekirdek	24.11	22.34	K	B/beta/MET406	4.5	0.026	20	95.44	142	True	True	22.34	22.5
+146	GLU	motor	yuzey	22.35	16.86	N	I/beta/MET406	74.1	0.332	16	94.62	143	True	True	17.29	16.86
+147	VAL	motor	gomulu cekirdek	19.93	19.57	N	I/beta/MET406	1.2	0.007	20	95.0	144	True	True	19.6	19.57
+148	SER	motor	gomulu cekirdek	16.44	17.32	K	B/beta/MET406	6.4	0.041	21	93.75	145	True	True	17.32	17.84
+149	TYR	motor	gomulu cekirdek	9.26	18.48	K	B/beta/GLU157	5.6	0.021	26	92.69	146	True	True	18.48	20.26
+150	MET	motor	gomulu cekirdek	11.74	16.1	K	B/beta/GLU410	7.2	0.032	22	91.81	147	True	True	16.1	16.61
+151	GLU	motor	gomulu cekirdek	9.17	14.01	K	B/beta/GLU157	0.0	0.0	19	88.38	148	True	True	14.01	15.04
+152	ILE	motor	gomulu cekirdek	10.41	12.79	K	B/beta/GLU194	3.5	0.018	24	88.25	149	True	True	12.79	14.22
+153	TYR	motor	yuzey	10.13	10.78	K	B/beta/PRO160	50.4	0.192	22	81.0	150	True	True	10.78	11.77
+154	ASN	motor	yuzey	12.75	6.56	K	B/beta/PRO160	57.9	0.297	18	76.31	151	True	True	6.56	7.67
+155	GLU	motor	yuzey	14.94	8.29	K	B/beta/GLU194	38.2	0.171	16	85.69	152	True	True	8.29	9.17
+156	LYS	motor	mikrotubul arayuzu	15.03	4.74	K	B/beta/GLU157	115.0	0.487	15	84.12	153	True	True	4.74	5.46
+157	VAL	motor	gomulu cekirdek	16.64	9.93	K	B/beta/GLU157	2.4	0.014	22	89.12	154	True	True	9.93	11.25
+158	ARG	motor	yuzey	13.05	10.77	K	B/beta/GLU157	54.4	0.199	23	85.81	155	True	True	10.77	12.27
+159	ASP	motor	gomulu cekirdek	16.56	13.5	K	B/beta/GLU157	22.0	0.114	22	89.62	156	True	True	13.5	15.41
+160	LEU	motor	gomulu cekirdek	11.44	16.75	K	B/beta/GLU157	3.5	0.017	24	86.12	157	True	True	16.75	18.62
+161	LEU	motor	gomulu cekirdek	17.09	18.52	K	B/beta/GLU157	6.4	0.032	20	86.94	158	True	True	18.52	20.61
+162	ASP	motor	yuzey	19.75	13.81	K	B/beta/GLU157	31.5	0.163	17	81.62	159	True	True	13.81	16.34
+163	PRO	motor	yuzey	22.31	18.38	K	B/beta/GLU157	123.5	0.777	9	67.31	160	True	False	18.38	20.84
+164	LYS	motor	yuzey	22.47	15.02	K	B/beta/GLU157	172.9	0.733	7	66.44	161	True	True	15.02	17.36
+165	GLY	motor	yuzey	19.93	13.2	K	B/beta/GLU157	57.2	0.55	12	61.5		False	False	13.2	15.22
+166	SER	motor	yuzey	20.01	10.49	K	B/beta/GLU157	50.9	0.329	10	54.44	162	True	False	10.49	12.66
+167	ARG	motor	yuzey	20.24	6.8	K	B/beta/GLU157	232.0	0.847	7	58.0	163	True	False	6.8	8.61
+168	GLN	motor	yuzey	20.93	6.31	K	B/beta/GLU157	141.7	0.63	12	64.69	164	True	True	6.31	9.09
+169	SER	motor	yuzey	19.95	6.02	K	B/beta/GLU157	49.3	0.318	14	81.25	165	True	True	6.02	7.47
+170	LEU	motor	yuzey	20.54	8.4	K	B/beta/GLU157	36.5	0.182	18	88.31	166	True	True	8.4	10.35
+171	LYS	motor	yuzey	22.96	5.73	K	B/beta/GLN191	140.0	0.593	12	87.88	167	True	True	5.73	6.47
+172	VAL	motor	gomulu cekirdek	20.45	5.9	K	B/beta/GLU410	24.1	0.139	18	90.06	168	True	True	5.9	6.48
+173	ARG	motor	mikrotubul arayuzu	24.84	2.37	N	I/beta/GLU410	113.1	0.413	13	87.25	169	True	True	4.17	2.37
+174	GLU	motor	mikrotubul arayuzu	27.41	4.62	K	B/beta/MET406	76.5	0.343	13	83.62	170	True	True	4.62	4.97
+175	HIS	motor	mikrotubul arayuzu	29.19	2.95	K	B/beta/MET406	36.7	0.164	12	75.81	171	True	True	2.95	5.93
+176	LYS	motor	mikrotubul arayuzu	32.19	3.5	N	I/beta/THR409	163.1	0.691	9	69.81	172	True	True	3.56	3.5
+177	VAL	motor	yuzey	30.75	7.18	K	B/beta/MET406	49.5	0.284	13	66.94	173	True	True	7.18	8.54
+178	LEU	motor	yuzey	26.56	6.78	K	B/beta/MET406	96.3	0.479	14	72.19	174	True	True	6.78	8.33
+179	GLY	motor	gomulu cekirdek	26.2	7.35	K	B/beta/MET406	10.6	0.102	14	80.06	175	True	True	7.35	9.68
+180	PRO	motor	gomulu cekirdek	22.93	9.52	K	B/beta/MET406	7.6	0.048	18	88.06	176	True	True	9.52	10.15
+181	TYR	motor	mikrotubul arayuzu	22.99	3.31	K	B/beta/MET406	88.4	0.336	15	88.5	177	True	True	3.31	3.92
+182	VAL	motor	gomulu cekirdek	19.68	9.96	K	B/beta/MET406	14.2	0.081	21	91.31	178	True	True	9.96	10.16
+183	ASP	motor	yuzey	24.05	6.47	N	I/beta/GLU410	68.6	0.355	9	87.44	179	True	True	8.02	6.47
+184	GLY	motor	yuzey	23.61	10.17	N	I/beta/MET406	60.3	0.58	14	85.81	180	True	True	10.86	10.17
+185	LEU	motor	gomulu cekirdek	18.71	12.66	N	I/beta/MET406	29.8	0.148	20	89.88	181	True	True	13.05	12.66
+186	SER	motor	yuzey	20.94	15.54	N	I/beta/MET406	30.8	0.199	17	89.06	182	True	True	16.04	15.54
+187	GLN	motor	yuzey	23.18	12.55	K	B/beta/MET406	104.2	0.463	13	90.38	183	True	True	12.55	12.62
+188	LEU	motor	yuzey	22.2	18.74	N	I/beta/MET406	54.3	0.27	13	91.38	184	True	True	19.28	18.74
+189	ALA	motor	yuzey	25.99	20.69	N	I/beta/MET406	87.6	0.679	10	93.38	185	True	True	21.44	20.69
+190	VAL	motor	gomulu cekirdek	23.45	23.79	N	I/beta/MET406	12.1	0.069	19	93.06	186	True	True	24.3	23.79
+191	THR	motor	yuzey	27.0	27.36	N	I/beta/MET406	115.7	0.673	12	90.81	187	True	True	27.82	27.36
+192	SER	motor	yuzey	24.0	29.87	N	I/beta/MET406	27.5	0.177	13	90.88	188	True	True	29.98	29.87
+193	PHE	motor	gomulu cekirdek	18.32	31.57	K	B/beta/MET406	32.5	0.135	17	91.56	189	True	True	31.57	31.61
+194	GLU	motor	yuzey	22.19	31.74	N	I/beta/MET406	117.6	0.527	12	89.12	190	True	True	32.05	31.74
+195	ASP	motor	yuzey	21.23	28.34	N	I/beta/MET406	50.3	0.26	16	88.62	191	True	True	28.67	28.34
+196	ILE	motor	gomulu cekirdek	17.86	26.78	K	B/beta/MET406	0.0	0.0	24	90.0	192	True	True	26.78	27.12
+197	GLU	motor	yuzey	16.94	29.78	K	B/beta/GLU157	76.7	0.344	15	86.31	193	True	True	29.78	30.65
+198	SER	motor	yuzey	18.0	27.34	K	B/beta/GLU157	65.4	0.422	12	83.69	194	True	True	27.34	29.3
+199	LEU	motor	gomulu cekirdek	15.99	24.49	K	B/beta/GLU157	25.4	0.126	20	87.12	195	True	True	24.49	24.82
+200	MET	motor	gomulu cekirdek	13.23	25.6	K	B/beta/GLU157	8.5	0.038	19	84.62	196	True	True	25.6	27.2
+201	SER	motor	yuzey	14.63	26.09	K	B/beta/GLU157	55.2	0.356	10	78.19	197	True	True	26.09	27.74
+202	GLU	motor	yuzey	14.78	22.07	K	B/beta/GLU157	71.6	0.321	13	76.38	198	True	True	22.07	24.24
+203	GLY	motor	gomulu cekirdek	11.89	20.95	K	B/beta/GLU157	0.0	0.0	19	76.81	199	True	True	20.95	22.44
+204	ASN	motor	yuzey	9.56	22.7	K	B/beta/GLU157	56.4	0.289	16	74.38	200	True	True	22.7	23.93
+205	LYS	motor	yuzey	12.58	21.13	K	B/beta/GLU157	166.9	0.707	9	70.06	201	True	True	21.13	22.51
+206	SER	motor	yuzey	12.82	17.36	K	B/beta/GLU157	59.6	0.385	15	67.44	202	True	True	17.36	18.76
+207	ARG	motor	ATP cebi	4.34	17.13	N	E/alpha/GLU414	29.3	0.107	17	68.81	203	True	True	17.61	17.13
+208	THR	motor	yuzey	8.43	15.12	K	B/beta/PRO160	33.1	0.193	14	56.5	204	True	True	15.12	16.1
+209	VAL	motor	yuzey	9.76	17.54	K	B/beta/ASP161	103.5	0.595	11	49.47	205	True	True	17.54	19.72
+210	ALA	motor	yuzey	7.98	14.58	K	A/alpha/GLY412	28.5	0.221	13	40.5	206	True	True	14.58	16.5
+211	ALA	motor	yuzey	9.15	13.69	K	A/alpha/LYS112	50.6	0.392	10	39.94	207	True	True	13.69	16.87
+212	THR	motor	yuzey	5.9	11.65	K	A/alpha/GLY412	34.2	0.199	17	40.31	208	True	True	11.65	13.12
+213	ASN	motor	yuzey	8.81	9.45	K	A/alpha/LYS112	140.6	0.721	10	38.25	209	True	True	9.45	13.08
+214	MET	motor	yuzey	5.39	8.55	N	E/alpha/GLU414	63.2	0.282	15	42.09	210	True	True	9.09	8.55
+215	ASN	motor	ATP cebi	3.57	14.24	N	E/alpha/GLU414	75.6	0.388	13	43.47	211	True	True	14.39	14.24
+216	GLU	motor	yuzey	6.75	17.31	N	E/alpha/GLU414	133.3	0.598	10	43.72	212	True	False	17.31	17.31
+217	GLU	motor	ATP cebi	3.98	16.51	N	E/alpha/GLU414	118.0	0.529	13	47.19	213	True	True	16.84	16.51
+218	SER	motor	ATP cebi	2.02	15.18	N	E/alpha/GLU414	31.7	0.204	24	54.59	214	True	False	15.52	15.18
+219	SER	motor	ATP cebi	2.14	11.5	N	E/alpha/GLU414	16.1	0.104	21	61.53	215	True	True	11.76	11.5
+220	ARG	motor	ATP cebi	4.27	7.31	K	A/alpha/GLY412	29.9	0.109	24	66.06	216	True	True	7.31	10.5
+221	SER	motor	gomulu cekirdek	5.61	14.19	K	A/alpha/VAL409	1.1	0.007	22	77.88	217	True	True	14.19	14.44
+222	HIS	motor	gomulu cekirdek	7.82	11.2	K	A/alpha/VAL409	3.5	0.016	27	86.62	218	True	True	11.2	11.57
+223	ALA	motor	gomulu cekirdek	7.76	17.86	K	A/alpha/VAL409	1.1	0.008	26	90.06	219	True	True	17.86	17.86
+224	VAL	motor	gomulu cekirdek	10.72	17.86	K	B/beta/GLU194	7.2	0.042	23	92.88	220	True	True	17.86	18.68
+225	PHE	motor	gomulu cekirdek	12.72	21.59	K	B/beta/MET406	1.1	0.005	27	94.44	221	True	True	21.59	22.38
+226	ASN	motor	gomulu cekirdek	16.09	17.43	K	B/beta/MET406	12.0	0.062	19	94.62	222	True	True	17.43	18.23
+227	ILE	motor	gomulu cekirdek	18.85	20.06	K	B/beta/MET406	0.0	0.0	22	95.38	223	True	True	20.06	21.25
+228	ILE	motor	yuzey	22.44	15.5	K	B/beta/MET406	37.4	0.19	17	94.19	224	True	True	15.5	16.34
+229	ILE	motor	gomulu cekirdek	24.37	20.54	K	B/beta/MET406	8.2	0.042	20	94.56	225	True	True	20.54	21.73
+230	THR	motor	gomulu cekirdek	28.69	18.9	K	B/beta/MET406	10.9	0.063	18	92.69	226	True	True	18.9	19.95
+231	GLN	motor	gomulu cekirdek	31.66	22.93	K	B/beta/MET406	21.1	0.094	20	92.56	227	True	True	22.93	24.24
+232	THR	motor	gomulu cekirdek	34.87	23.53	K	B/beta/MET406	6.0	0.035	14	90.31	228	True	True	23.53	24.26
+233	LEU	motor	yuzey	37.48	23.84	N	S/alpha/TYR451	59.8	0.298	13	87.62	229	True	True	26.24	23.84
+234	TYR	motor	yuzey	39.25	26.89	K	B/beta/MET406	92.0	0.35	15	84.31	230	True	True	26.89	27.17
+235	ASP	motor	yuzey	44.51	27.66	N	S/alpha/TYR451	70.8	0.367	10	79.44	231	True	True	30.85	27.66
+236	LEU	motor	yuzey	45.93	31.14	N	S/alpha/TYR451	122.2	0.608	8	78.88	232	True	False	33.95	31.14
+237	GLN	motor	yuzey	49.68	31.69	N	S/alpha/TYR451	186.3	0.828	6	75.0	233	True	True	34.31	31.69
+238	SER	motor	yuzey	48.85	27.57	N	S/alpha/GLU445	66.8	0.431	7	72.69	234	True	False	30.19	27.57
+239	GLY	motor	yuzey	47.14	28.65	N	S/alpha/GLU445	75.6	0.727	7	73.0	235	True	False	29.79	28.65
+240	ASN	motor	yuzey	44.68	24.6	N	S/alpha/GLU445	94.0	0.482	9	75.19	236	True	False	27.16	24.6
+241	SER	motor	yuzey	41.57	24.0	N	S/alpha/GLU445	74.5	0.481	13	79.5	237	True	True	24.26	24.0
+242	GLY	motor	yuzey	37.91	23.02	N	S/alpha/TYR451	22.2	0.214	15	81.69	238	True	False	23.14	23.02
+243	GLU	motor	yuzey	34.7	18.54	K	B/beta/MET406	38.5	0.173	18	88.12	239	True	True	18.54	19.49
+244	LYS	motor	yuzey	31.38	19.93	N	S/alpha/TYR451	45.8	0.194	21	90.44	240	True	True	20.63	19.93
+245	VAL	motor	gomulu cekirdek	28.41	17.01	K	B/beta/MET406	23.9	0.137	22	91.5	241	True	True	17.01	18.56
+246	SER	motor	gomulu cekirdek	24.74	19.14	K	B/beta/MET406	1.1	0.007	24	93.06	242	True	True	19.14	20.86
+247	LYS	motor	yuzey	20.81	13.78	K	B/beta/MET406	80.3	0.34	23	93.31	243	True	True	13.78	15.28
+248	VAL	motor	gomulu cekirdek	18.28	20.23	K	B/beta/MET406	0.0	0.0	27	95.44	244	True	True	20.23	21.81
+249	SER	motor	gomulu cekirdek	15.55	18.71	K	B/beta/MET406	8.8	0.057	20	95.38	245	True	True	18.71	19.0
+250	LEU	motor	gomulu cekirdek	11.84	21.21	N	E/alpha/GLU414	4.6	0.023	23	95.44	246	True	True	21.95	21.21
+251	VAL	motor	gomulu cekirdek	9.15	16.95	N	E/alpha/GLU415	0.0	0.0	25	94.88	247	True	True	17.41	16.95
+252	ASP	motor	ATP cebi	3.83	15.58	N	E/alpha/GLU414	12.8	0.066	25	92.5	248	True	True	16.46	15.58
+253	LEU	motor	ATP cebi	4.69	12.31	N	E/alpha/GLU414	2.1	0.011	24	92.0	249	True	True	12.76	12.31
+254	ALA	motor	ATP cebi	4.27	9.68	N	E/alpha/GLU414	0.0	0.0	24	86.5	250	True	True	10.49	9.68
+255	GLY	motor	ATP cebi	3.73	6.71	N	E/alpha/GLU414	4.4	0.043	27	81.25	251	True	True	7.25	6.71
+256	SER	motor	mikrotubul arayuzu	5.81	2.81	N	E/alpha/GLU414	13.9	0.09	23	83.62	252	True	True	3.94	2.81
+257	GLU	motor	ATP cebi	4.91	2.62	N	E/alpha/GLU414	20.8	0.093	24	74.62	253	True	False	3.02	2.62
+258	ARG	motor	mikrotubul arayuzu	10.85	0.59	K	A/alpha/GLY416	168.9	0.617	14	66.94	254	True	False	0.59	0.94
+259	VAL	motor	mikrotubul arayuzu	12.16	1.47	K	A/alpha/GLY412	37.9	0.218	15	62.78	255	True	False	1.47	4.28
+260	SER	motor	mikrotubul arayuzu	13.92	0.95	K	A/alpha/GLU417	106.1	0.685	7	56.75	256	True	False	0.95	3.43
+261	LYS	motor	mikrotubul arayuzu	11.52	3.81	K	A/alpha/GLU417	103.4	0.438	15	56.5	257	True	False	3.81	6.09
+262	THR	motor	yuzey	8.89	5.01	K	A/alpha/GLY412	28.6	0.166	21	53.38	258	True	True	5.01	7.66
+263	GLY	motor	mikrotubul arayuzu	12.89	4.26	K	A/alpha/LYS112	68.1	0.655	11	50.97	259	True	False	4.26	7.85
+264	ALA	motor	mikrotubul arayuzu	12.91	4.49	K	A/alpha/TYR108	23.6	0.183	17	45.22	260	True	False	4.49	7.21
+265	ALA	motor	mikrotubul arayuzu	16.14	3.54	K	A/alpha/TYR108	75.6	0.586	8	40.03	261	True	False	3.54	6.91
+266	GLY	motor	mikrotubul arayuzu	17.67	4.94	K	A/alpha/THR109	57.1	0.549	7	57.5	262	True	False	4.94	7.42
+267	GLU	motor	yuzey	15.76	6.09	K	B/beta/ASP161	159.0	0.713	9	51.5	263	True	False	6.09	9.83
+268	ARG	motor	yuzey	11.82	5.82	K	A/alpha/GLY412	115.5	0.422	15	58.88	264	True	False	5.82	9.55
+269	LEU	motor	mikrotubul arayuzu	15.03	1.76	K	A/alpha/THR109	90.2	0.449	12	62.41	265	True	False	1.76	4.41
+270	LYS	motor	mikrotubul arayuzu	15.62	1.41	K	B/beta/ASP161	149.7	0.634	11	61.5	266	True	True	1.41	3.72
+271	GLU	motor	gomulu cekirdek	10.3	5.91	K	A/alpha/GLY410	14.8	0.066	18	64.31	267	True	True	5.91	8.59
+272	GLY	motor	mikrotubul arayuzu	11.77	4.3	K	A/alpha/VAL409	2.4	0.023	20	64.12	268	True	True	4.3	6.21
+273	SER	motor	mikrotubul arayuzu	13.93	1.23	K	A/alpha/GLY410	62.7	0.405	14	67.06	269	True	True	1.23	2.48
+274	ASN	motor	mikrotubul arayuzu	13.54	4.94	K	A/alpha/GLY410	51.0	0.262	17	75.31	270	True	True	4.94	6.06
+275	ILE	motor	gomulu cekirdek	8.58	6.35	K	A/alpha/VAL409	10.9	0.055	26	72.12	271	True	True	6.35	7.28
+276	ASN	motor	mikrotubul arayuzu	11.01	2.94	K	A/alpha/VAL409	39.2	0.201	17	74.44	272	True	True	2.94	4.08
+277	LYS	motor	mikrotubul arayuzu	14.18	4.54	N	E/alpha/VAL409	81.8	0.347	17	81.19	273	True	True	4.63	4.54
+278	SER	motor	gomulu cekirdek	12.3	6.52	N	E/alpha/VAL409	3.2	0.021	24	85.31	274	True	True	7.43	6.52
+279	LEU	motor	gomulu cekirdek	8.24	6.04	N	E/alpha/GLU415	10.6	0.053	23	86.19	275	True	True	6.21	6.04
+280	THR	motor	mikrotubul arayuzu	13.86	2.31	N	E/alpha/VAL409	75.0	0.436	16	85.44	276	True	True	4.09	2.31
+281	THR	motor	gomulu cekirdek	16.3	5.26	N	E/alpha/VAL409	9.6	0.056	21	89.69	277	True	True	7.13	5.26
+282	LEU	motor	gomulu cekirdek	12.47	6.34	N	E/alpha/GLU415	0.0	0.0	25	92.19	278	True	True	8.64	6.34
+283	GLY	motor	mikrotubul arayuzu	15.74	3.59	N	E/alpha/GLU415	6.9	0.066	21	89.5	279	True	True	6.75	3.59
+284	LEU	motor	mikrotubul arayuzu	18.49	2.48	N	E/alpha/ARG402	98.9	0.492	16	90.25	280	True	True	4.06	2.48
+285	VAL	motor	gomulu cekirdek	19.87	6.16	N	E/alpha/ARG402	1.2	0.007	23	92.75	281	True	True	9.35	6.16
+286	ILE	motor	gomulu cekirdek	15.74	6.35	N	E/alpha/ARG402	3.6	0.018	23	92.12	282	True	True	10.62	6.35
+287	SER	motor	mikrotubul arayuzu	20.33	2.52	N	E/alpha/ARG402	24.8	0.16	19	89.0	283	True	True	6.7	2.52
+288	SER	motor	mikrotubul arayuzu	23.31	4.14	N	E/alpha/LYS401	10.7	0.069	19	90.38	284	True	True	6.65	4.14
+289	LEU	motor	gomulu cekirdek	22.63	7.3	N	E/alpha/ALA400	15.3	0.076	24	91.06	285	True	True	10.1	7.3
+290	ALA	motor	gomulu cekirdek	23.41	7.25	N	E/alpha/ALA400	4.6	0.035	20	88.5	286	True	True	12.33	7.25
+291	ASP	motor	mikrotubul arayuzu	26.26	2.02	N	E/alpha/ALA400	60.5	0.314	17	86.5	287	True	True	7.94	2.02
+292	GLN	motor	yuzey	28.54	5.88	N	I/beta/GLN424	64.8	0.288	18	84.94	288	True	True	8.3	5.88
+293	ALA	motor	yuzey	27.72	8.79	N	I/beta/GLN433	52.2	0.404	17	83.06	289	True	True	12.43	8.79
+294	ALA	motor	yuzey	29.46	8.86	N	I/beta/GLN433	67.5	0.523	11	80.5	290	True	True	13.28	8.86
+295	GLY	motor	yuzey	32.05	5.26	N	I/beta/ALA430	42.5	0.409	9	71.44	291	True	True	11.14	5.26
+296	LYS	motor	mikrotubul arayuzu	31.29	4.54	N	E/alpha/LYS401	160.9	0.682	10	62.5	292	True	False	9.51	4.54
+297	GLY	motor	mikrotubul arayuzu	32.0	3.75	N	E/alpha/LYS401	42.2	0.406	9	57.5	293	True	False	8.48	3.75
+298	LYS	motor	mikrotubul arayuzu	34.05	1.54	N	I/beta/GLN433	173.2	0.734	8	53.19	294	True	False	5.48	1.54
+299	SER	motor	mikrotubul arayuzu	32.3	1.99	N	I/beta/GLN424	95.3	0.615	8	56.75	295	True	False	6.02	1.99
+300	LYS	motor	mikrotubul arayuzu	27.51	0.57	N	E/alpha/LYS401	111.1	0.471	13	64.94	296	True	False	3.63	0.57
+301	PHE	motor	mikrotubul arayuzu	26.95	1.99	N	I/beta/GLU421	157.7	0.657	7	82.81	303	True	True	3.51	1.99
+302	VAL	motor	gomulu cekirdek	24.09	5.2	N	I/beta/TYR425	21.7	0.125	18	87.38	304	True	True	6.2	5.2
+303	PRO	motor	mikrotubul arayuzu	21.51	4.92	N	I/beta/PHE260	12.1	0.076	17	90.25	305	True	True	6.03	4.92
+304	TYR	motor	yuzey	21.15	6.71	N	I/beta/ARG262	39.7	0.151	23	92.62	306	True	True	7.72	6.71
+305	ARG	motor	mikrotubul arayuzu	22.57	2.38	N	I/beta/ASN414	153.3	0.559	13	91.5	307	True	True	3.23	2.38
+306	ASP	motor	mikrotubul arayuzu	20.33	2.09	N	I/beta/PRO261	77.2	0.4	16	89.88	308	True	True	4.05	2.09
+307	SER	motor	gomulu cekirdek	16.77	6.66	N	I/beta/PRO261	1.2	0.008	23	92.12	309	True	True	7.4	6.66
+308	VAL	motor	yuzey	17.21	7.59	K	B/beta/GLU194	27.7	0.159	25	91.69	310	True	True	7.59	9.02
+309	LEU	motor	gomulu cekirdek	12.27	10.87	K	B/beta/GLU194	1.2	0.006	25	93.12	311	True	True	10.87	11.66
+310	THR	motor	gomulu cekirdek	16.99	8.84	N	I/beta/PRO261	2.1	0.012	25	93.88	312	True	True	9.66	8.84
+311	TRP	motor	mikrotubul arayuzu	19.68	4.84	N	I/beta/GLU194	48.3	0.169	19	93.88	313	True	True	5.79	4.84
+312	LEU	motor	gomulu cekirdek	17.3	11.47	N	I/beta/GLU194	23.5	0.117	25	92.81	314	True	True	11.67	11.47
+313	LEU	motor	gomulu cekirdek	14.86	12.66	N	I/beta/ASP417	13.3	0.066	27	92.81	315	True	True	13.34	12.66
+314	LYS	motor	mikrotubul arayuzu	20.87	4.78	N	I/beta/ASP417	61.8	0.262	18	93.12	316	True	True	6.61	4.78
+315	ASP	motor	yuzey	22.82	10.17	N	I/beta/ASP417	50.9	0.264	21	90.12	317	True	True	11.9	10.17
+316	ASN	motor	gomulu cekirdek	18.55	14.01	N	I/beta/ASP417	15.4	0.079	24	93.12	318	True	True	15.22	14.01
+317	LEU	motor	gomulu cekirdek	17.74	11.84	N	E/alpha/GLU415	6.0	0.03	24	92.25	319	True	True	13.41	11.84
+318	GLY	motor	yuzey	23.41	10.77	N	S/alpha/GLU449	23.8	0.229	22	87.19	320	True	True	13.26	10.77
+319	GLY	motor	yuzey	25.25	12.23	N	S/alpha/GLU449	19.2	0.185	18	89.31	321	True	True	14.46	12.23
+320	ASN	motor	yuzey	25.38	12.7	N	S/alpha/GLU449	41.1	0.211	18	90.94	322	True	True	15.89	12.7
+321	SER	motor	gomulu cekirdek	21.63	15.09	N	S/alpha/GLU449	0.0	0.0	26	92.62	323	True	True	18.61	15.09
+322	GLN	motor	gomulu cekirdek	20.7	17.36	N	S/alpha/GLU449	19.7	0.088	25	93.56	324	True	True	21.34	17.36
+323	THR	motor	gomulu cekirdek	18.16	16.64	N	E/alpha/GLU415	5.4	0.031	27	94.94	325	True	True	19.49	16.64
+324	SER	motor	gomulu cekirdek	14.97	17.18	N	E/alpha/GLU415	5.4	0.035	25	95.44	326	True	True	19.46	17.18
+325	MET	motor	gomulu cekirdek	12.44	10.68	N	E/alpha/GLU415	0.0	0.0	26	96.06	327	True	True	12.51	10.68
+326	ILE	motor	gomulu cekirdek	8.13	14.34	N	E/alpha/GLU414	0.0	0.0	26	96.81	328	True	True	16.06	14.34
+327	ALA	motor	gomulu cekirdek	9.22	12.78	N	E/alpha/GLU414	0.0	0.0	31	97.25	329	True	True	14.69	12.78
+328	THR	motor	gomulu cekirdek	5.67	10.9	N	E/alpha/GLU414	2.3	0.013	29	96.38	330	True	True	12.83	10.9
+329	ILE	motor	gomulu cekirdek	6.56	11.29	N	E/alpha/GLU414	1.2	0.006	27	96.5	331	True	True	13.35	11.29
+330	SER	motor	gomulu cekirdek	8.15	12.22	N	E/alpha/GLU414	1.2	0.008	26	93.25	332	True	True	13.4	12.22
+331	PRO	motor	gomulu cekirdek	8.09	15.12	N	E/alpha/GLU414	0.0	0.0	23	93.56	333	True	True	16.21	15.12
+332	ALA	motor	gomulu cekirdek	11.24	13.47	K	A/alpha/GLU420	0.0	0.0	22	91.12	334	True	True	13.47	13.47
+333	ALA	motor	yuzey	14.36	10.86	K	A/alpha/GLU420	23.1	0.179	18	90.12	335	True	True	10.86	10.92
+334	ASP	motor	yuzey	12.13	8.92	K	A/alpha/GLU420	96.3	0.499	16	87.0	336	True	True	8.92	10.54
+335	ASN	motor	gomulu cekirdek	10.14	9.06	N	E/alpha/GLU414	21.5	0.11	23	88.56	337	True	True	9.54	9.06
+336	TYR	motor	gomulu cekirdek	14.74	6.99	N	E/alpha/GLU420	14.1	0.054	18	91.38	338	True	True	7.54	6.99
+337	GLU	motor	mikrotubul arayuzu	14.28	3.47	N	E/alpha/GLU420	102.7	0.461	13	89.94	339	True	True	4.87	3.47
+338	GLU	motor	mikrotubul arayuzu	10.64	3.03	N	E/alpha/GLU414	18.8	0.084	21	89.62	340	True	True	3.87	3.03
+339	THR	motor	gomulu cekirdek	11.54	7.81	N	E/alpha/GLU414	1.2	0.007	27	94.06	341	True	True	9.2	7.81
+340	LEU	motor	mikrotubul arayuzu	14.45	4.92	N	E/alpha/GLU423	4.8	0.024	16	94.0	342	True	True	6.38	4.92
+341	SER	motor	mikrotubul arayuzu	13.53	3.89	N	E/alpha/GLU414	39.0	0.252	17	91.31	343	True	True	5.56	3.89
+342	THR	motor	gomulu cekirdek	9.76	6.84	N	E/alpha/GLU414	3.4	0.019	25	94.44	344	True	True	8.82	6.84
+343	LEU	motor	gomulu cekirdek	13.8	9.27	N	E/alpha/GLY416	1.2	0.006	21	96.25	345	True	True	11.7	9.27
+344	ARG	motor	mikrotubul arayuzu	16.27	1.77	N	E/alpha/GLU423	137.5	0.502	14	94.0	346	True	True	5.62	1.77
+345	TYR	motor	mikrotubul arayuzu	13.97	2.38	N	E/alpha/GLU415	52.5	0.2	21	90.88	347	True	True	3.75	2.38
+346	ALA	motor	gomulu cekirdek	14.86	9.53	N	E/alpha/GLU415	0.0	0.0	23	95.12	348	True	True	11.97	9.53
+347	ASP	motor	yuzey	17.75	9.13	N	E/alpha/ARG402	34.6	0.179	17	94.12	349	True	True	12.84	9.13
+348	ARG	motor	mikrotubul arayuzu	19.42	1.4	N	E/alpha/ARG402	99.9	0.365	19	92.62	350	True	True	4.79	1.4
+349	ALA	motor	gomulu cekirdek	17.17	8.85	N	E/alpha/ARG402	1.2	0.009	26	93.88	351	True	True	12.87	8.85
+350	LYS	motor	yuzey	19.88	11.55	N	E/alpha/ARG402	58.9	0.249	18	93.75	352	True	True	15.69	11.55
+351	ARG	motor	yuzey	22.6	7.79	N	E/alpha/ARG402	94.4	0.344	17	92.25	353	True	True	11.79	7.79
+352	ILE	motor	gomulu cekirdek	20.27	10.43	N	E/alpha/ARG402	1.2	0.006	23	92.5	354	True	True	14.7	10.43
+353	VAL	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	25.37	11.84	N	I/beta/GLN433	45.7	0.263	16	91.25	355	True	True	13.74	11.84
+354	ASN	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	22.71	11.97	N	S/alpha/GLU449	1.2	0.006	24	92.06	356	True	True	15.06	11.97
+355	HIS	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	28.06	7.9	N	S/alpha/GLU449	85.7	0.382	13	89.94	357	True	True	10.29	7.9
+356	ALA	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	27.53	12.36	N	S/alpha/GLU449	1.2	0.009	23	89.62	358	True	True	16.55	12.36
+357	VAL	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	29.82	11.2	N	S/alpha/TYR451	39.9	0.229	13	89.88	359	True	True	15.9	11.2
+358	VAL	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	31.94	14.52	N	S/alpha/TYR451	49.3	0.283	16	91.19	360	True	True	19.8	14.52
+359	ASN	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	28.52	16.17	N	S/alpha/TYR451	24.1	0.124	18	88.06	361	True	True	17.05	16.17
+360	GLU	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	34.26	15.77	N	S/alpha/TYR451	109.8	0.492	13	83.88	362	True	True	18.0	15.77
+361	ASP	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	35.79	15.86	K	B/beta/MET406	66.3	0.344	14	81.06	363	True	False	15.86	17.76
+362	PRO	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	32.09	12.58	K	B/beta/MET406	29.0	0.182	18	73.31	364	True	False	12.58	14.47
+363	ASN	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	31.75	12.69	K	B/beta/MET406	67.9	0.348	14	76.0	365	True	False	12.69	13.93
+364	ALA	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	36.68	13.9	K	B/beta/MET406	62.8	0.487	11	74.62		False	False	13.9	15.34
+365	LYS	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	36.33	11.58	K	B/beta/MET406	99.7	0.422	13	77.0		False	False	11.58	11.6
+366	VAL	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	33.1	8.06	K	B/beta/MET406	12.1	0.069	15	75.38		False	False	8.06	9.69
+367	ILE	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	36.83	10.67	K	B/beta/MET406	96.5	0.49	12	76.94		False	False	10.67	11.82
+368	ARG	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	39.66	9.93	N	S/alpha/GLU445	125.2	0.457	12	80.44		False	False	10.74	9.93
+369	GLU	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	37.65	8.4	N	I/beta/THR409	50.7	0.227	13	79.44		False	False	8.5	8.4
+370	LEU	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	35.13	4.81	K	B/beta/MET406	68.7	0.342	15	79.19		False	False	4.81	5.83
+371	ARG	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	40.72	7.0	K	B/beta/LYS392	171.1	0.624	10	81.62		False	False	7.0	7.8
+372	GLU	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	42.94	4.74	K	B/beta/LYS392	103.5	0.464	10	84.56		False	False	4.74	6.59
+373	GLU	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	37.69	3.01	N	I/beta/THR409	62.3	0.28	13	80.38		False	False	3.42	3.01
+374	VAL	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	40.66	3.11	N	I/beta/GLU405	65.1	0.374	10	82.5		False	False	3.75	3.11
+375	GLU	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	44.74	3.18	K	B/beta/LYS392	117.1	0.525	10	84.81		False	False	3.18	3.5
+376	LYS	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	45.28	0.49	K	B/beta/LYS392	119.4	0.506	9	85.06		False	False	0.49	1.88
+377	LEU	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	40.54	0.16	K	B/beta/GLU405	112.7	0.561	9	82.56		False	False	0.16	1.06
+378	ARG	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	45.11	0.8	N	I/beta/LYS392	185.1	0.675	7	82.25		False	False	3.18	0.8
+379	GLU	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	48.7	1.26	N	I/beta/ARG391	162.8	0.73	6	83.44		False	False	3.4	1.26
+380	GLN	neck_linker	boyun baglayici (yapi ekseni guvenilmez)	45.16	0.64	K	B/beta/LYS392	157.4	0.699	5	80.06		False	False	0.64	0.7

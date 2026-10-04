@@ -1,0 +1,6 @@
+gen	g4d2_LoF_ALL_Disorders	g4d2_Syn_ALL_Disorders	beklenen_LoF_n_eff	zenginlesme	poisson_p	g4d2_kendi_Pval	g4d2_kendi_Qval	g4d2_guven	ust_sinir_zenginlesme_95
+KIF13A	0	4	1.156	0.0	1.0	0.975374	0.951588	Grey	2.6
+KIF1A	2	6	0.937	2.1	0.2410472709470993	0	0	Red	6.7
+KIF13B	2	4	1.06	1.9	0.2863560836074324	0.835271	0.942419	Grey	5.9
+ANKRD11	144	14	0.97	148.4	8.984641517978145e-253	0	0	Red	103.1
+CHD8	74	6	1.564	47.3	1.556292609056307e-94	0	0	Red	57.4

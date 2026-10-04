@@ -1,0 +1,20 @@
+{
+  "file": "data/interim/lof/gnomad_lof_summary_20260916.tsv",
+  "sha256": "8d9a7853bd8979bfa33f8752a5e440fddc8285f17d6f658bc71ca58e250b9508",
+  "bytes": 1924,
+  "retrieved_utc": "2026-09-16T11:22:48+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived",
+  "urls": [
+    "https://gnomad.broadinstitute.org/api"
+  ],
+  "tool": "scripts/lof_axis.py",
+  "params": {
+    "genes": [
+      "KIF13A",
+      "KIF1A",
+      "KIF13B"
+    ]
+  },
+  "n_records": 3
+}

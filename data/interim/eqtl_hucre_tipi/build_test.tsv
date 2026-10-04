@@ -1,0 +1,15 @@
+veri	beyan_edilen_yapi	karsilastirma	varyant	GRCh37_eslesme_orani	konum+1_eslesme_orani
+BIG40 L3 ACR L	GRCh37 (BIG40 sayfasi)	1000G faz 3 GRCh37 (konum+allel)	16123	0.7019785399739502	0.0032252062271289463
+BIG40 ICVF ACR L	GRCh37 (BIG40 sayfasi)	1000G faz 3 GRCh37 (konum+allel)	16123	0.7019785399739502	0.0032252062271289463
+BIG40 FA ACR L	GRCh37 (BIG40 sayfasi)	1000G faz 3 GRCh37 (konum+allel)	16123	0.7019785399739502	0.0032252062271289463
+GCST90860937 UDIP-FA	GRCh37 (GWAS Catalog meta.yaml)	1000G faz 3 GRCh37 (konum+allel)	9334	0.9612170559245768	0.002678380115706021
+GCST90095129 sulkus derinligi	GRCh37 (dosya adi)	1000G faz 3 GRCh37 (konum+allel)	9443	0.9619824208408345	0.0026474637297469023
+Bryois snp_pos SNP_id_hg19	hg19 (yazarlarin liftOver'i)	1000G faz 3 GRCh37 (konum+allel)	5191	0.9932575611635523	0.001541128876902331
+Bryois snp_pos SNP_id_hg38	hg38 (genotipler)	1000G faz 3 GRCh37 (konum+allel)	5192	0.0023112480739599386	0.004044684129429892
+Zeng 2026 Oligo 'end' (ham)	? (hg38 bekleniyor)	1000G faz 3 GRCh37 (konum+allel)	9582	0.002504696305572949	0.0031308703819661866
+Zeng 'end' -> python liftOver	hg19 (bizim liftOver)	1000G faz 3 GRCh37 (konum+allel)	9581	0.9174407681870368	0.0026093309675399227
+Zeng 2026 Oligo 'start'	?	Bryois hg38 (rsID)	5113	0.0	en sik farklar 5113:-1
+Zeng 2026 Oligo 'end'	?	Bryois hg38 (rsID)	5113	1.0	en sik farklar 5113:0
+SingleBrain OD 'pos' (ham)	hg38 (Zenodo aciklamasi)	1000G faz 3 GRCh37 (konum+allel)	5871	0.0018736160790325327	0.0030659172202350538
+SingleBrain OD 'pos'	hg38	Bryois hg38 (rsID)	3574	1.0	en sik farklar 3574:0
+Bryois hg38 -> python liftOver	hg19 (bizim liftOver)	Bryois hg19 (yazarlarin liftOver'i)	5217	1.0	en sik farklar 5217:0

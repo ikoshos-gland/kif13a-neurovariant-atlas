@@ -1,0 +1,11 @@
+{
+ "conventional_5e-8": 5e-08,
+ "big40_single_pheno_neglog10": 7.5,
+ "big40_single_pheno_p": 3.162277660168379e-08,
+ "big40_bonferroni_neglog10": 11.1,
+ "big40_bonferroni_p": 7.943282347242821e-12,
+ "bonferroni_recomputed_neglog10": 11.095,
+ "bonferroni_recomputed_p": 8.036283761546069e-12,
+ "n_idp": 3935,
+ "source": "PMID 33875891 / PMC7610742 / doi 10.1038/s41593-021-00826-4"
+}

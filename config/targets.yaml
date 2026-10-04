@@ -1,0 +1,131 @@
+# Target genes for the KIF13A NeuroVariant Atlas.
+# Every identifier below was verified live on 2026-09-15 against Ensembl REST
+# (GRCh38, MANE Select) and UniProt REST. Re-verify before a new data freeze.
+
+assembly: GRCh38
+gnomad_dataset: gnomad_r4        # gnomAD v4.1
+reference_numbering: MANE_Select # all protein positions in this project use MANE numbering
+
+genes:
+  KIF13A:
+    role: target
+    ensembl_gene: ENSG00000137177
+    locus: "chr6:17758198-17988274"
+    strand: -1
+    mane_transcript: ENST00000259711.11
+    refseq_transcript: NM_022113.6
+    uniprot: Q9H1H9
+    uniprot_isoform_matching_mane: Q9H1H9
+    protein_length: 1805
+    notes: >
+      UniProt canonical == MANE translation (1805 aa). The project plan's 1770 aa
+      is isoform Q9H1H9-2, NOT the reference. Saturation matrix = 1805 x 19 = 34295.
+
+  KIF1A:
+    role: paralog_reference   # clinical labels (KAND) come from here
+    ensembl_gene: ENSG00000130294
+    locus: "chr2:240713761-240824320"
+    strand: -1
+    mane_transcript: ENST00000498729.9
+    refseq_transcript: NM_001244008.2
+    uniprot: Q12756
+    uniprot_isoform_matching_mane: Q12756-3
+    protein_length: 1791
+    uniprot_canonical_length: 1690
+    isoform_offsets:
+      # MANE (Q12756-3) position = canonical (Q12756) position + offset
+      - {canonical_from: 1,   canonical_to: 393,  offset: 0}    # motor domain, R350/P305 identical
+      - {canonical_from: 395, canonical_to: 848,  offset: 9}    # canonical M394 -> MANE 394-403 (TNTVPGGPKL)
+      - {canonical_from: 849, canonical_to: 1690, offset: 101}  # MANE inserts 92 aa after canonical 848
+    reference_structures:
+      # Verified on RCSB GraphQL 2026-09-15 (UniProt Q12756 in polymer entities).
+      # All are cryo-EM of KIF1A[1-393] bound to microtubules.
+      wild_type: {8UTN: AMP-PNP 2-heads, 8UTO: AMP-PNP 2-heads, 8UTP: AMP-PNP 2-heads, 8UTQ: AMP-PNP 1-head, 8UTR: ADP, 8UTS: apo}
+      P305L: {8UTT: AMP-PNP 2-heads, 8UTU: AMP-PNP merged, 8UTV: ADP, 8UTW: apo}
+      P364L: {8UTY: AMP-PNP 2-heads}
+      R350G: {9YA5: AMP-PNP 2-heads, 9YA7: apo}
+      R350W: {9YAI: AMP-PNP 2-heads, 9YAB: apo}
+      not_kif1a:
+        8H3T: "crystal structure of AlpH (X-ray); cited by mistake in the first project plan"
+        8UTX: "NMR structure of a 12-mer peptide; sits inside the 8UTN-8UTY ID range"
+    notes: >
+      TRAP: AlphaMissense (aa_substitutions file) and the canonical AlphaFold DB model
+      use UniProt Q12756 (1690 aa) while ClinVar/KAND literature use NM_001244008
+      (1791 aa). Motor-domain positions 1-393 agree; everything after needs the
+      offsets above. VEP's AlphaMissense plugin is transcript-aware and avoids this;
+      AlphaFold DB also serves an isoform model AF-Q12756-3-F1 (without AlphaMissense).
+
+  KIF13B:
+    role: paralog
+    ensembl_gene: ENSG00000197892
+    locus: "chr8:29067278-29263124"
+    strand: -1
+    mane_transcript: ENST00000524189.6
+    refseq_transcript: NM_015254.4
+    uniprot: Q9NQT8
+    uniprot_isoform_matching_mane: Q9NQT8
+    protein_length: 1826
+
+  KIF1B:
+    role: paralog
+    ensembl_gene: ENSG00000054523
+    locus: "chr1:10210481-10381606"
+    strand: 1
+    mane_transcript: ENST00000676179.1
+    refseq_transcript: NM_001365951.3
+    uniprot: O60333
+    uniprot_isoform_matching_mane: O60333
+    protein_length: 1816
+
+  KIF1C:
+    role: paralog
+    ensembl_gene: ENSG00000129250
+    locus: "chr17:4997629-5028401"
+    strand: 1
+    mane_transcript: ENST00000320785.10
+    refseq_transcript: NM_006612.6
+    uniprot: O43896
+    uniprot_isoform_matching_mane: O43896
+    protein_length: 1103
+
+  # --- Second case study: out-of-sample validation pair (verified live 2026-09-17) ---
+  # gnomAD v4.1 gene query (MANE Select block), Ensembl REST lookup + protein sequence, UniProt REST.
+  # No isoform trap in this pair: both UniProt canonical sequences are byte-identical to the MANE
+  # translation, so isoform_offsets is empty for both (contrast KIF1A above).
+  NSD1:
+    role: paralog_reference   # clinical labels (Sotos syndrome) come from here
+    ensembl_gene: ENSG00000165671
+    locus: "chr5:177131787-177300213"      # Ensembl gene span; gnomAD's gene record starts at 177131830
+    strand: 1
+    mane_transcript: ENST00000439151.7
+    refseq_transcript: NM_022455.5
+    ensembl_protein: ENSP00000395929
+    uniprot: Q96L73
+    uniprot_isoform_matching_mane: Q96L73
+    protein_length: 2696
+    uniprot_canonical_length: 2696
+    isoform_offsets: []       # UniProt canonical == MANE translation, checked residue by residue
+    notes: >
+      MANE Select == Ensembl canonical == UniProt canonical (Q96L73-1). NM_022455.5 / NP_071900.2.
+      RefSeq also lists NP_001396230-2 for the same 2696 aa protein and NP_758859.2 for a shorter
+      isoform; ClinVar titles use NM_022455, so protein positions from ClinVar titles are MANE.
+      The PWWP1-PWWP2-PHD-AWS-SET-PostSET module is the region shared with NSD3.
+
+  NSD3:
+    role: target              # clinically almost empty sibling (the KIF13A analogue in this pair)
+    ensembl_gene: ENSG00000147548
+    locus: "chr8:38269704-38383021"        # Ensembl gene span; gnomAD's gene record ends at 38382272
+    strand: -1
+    mane_transcript: ENST00000317025.13
+    refseq_transcript: NM_023034.2
+    ensembl_protein: ENSP00000313983
+    uniprot: Q9BZ95
+    uniprot_isoform_matching_mane: Q9BZ95
+    protein_length: 1437
+    uniprot_canonical_length: 1437
+    isoform_offsets: []       # UniProt canonical == MANE translation, checked residue by residue
+    notes: >
+      Former symbol WHSC1L1 (Ensembl rejects the old symbol in lookup/symbol). MANE Select ==
+      Ensembl canonical == UniProt canonical (Q9BZ95-1, 1437 aa). TRAP: the widely studied
+      "NSD3-short" isoform Q9BZ95-3 (NM_060248 / NP_060248.2, 645 aa) has no SET domain at all;
+      any position taken from a short-isoform paper is not comparable with MANE numbering.

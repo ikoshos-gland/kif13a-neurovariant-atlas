@@ -1,0 +1,12 @@
+{
+  "file": "data/interim/imaging_gwas/scan_KIF1A.tsv.gz",
+  "sha256": "49acb8aca4a2153bcf2bbad79aafb1aa8907b6e7b21029ec1f79e33c3e48c7ac",
+  "bytes": 1831293,
+  "retrieved_utc": "2026-09-17T19:08:01+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "https://open.win.ox.ac.uk/ukbiobank/big40/pheweb33k/api/region/<IDP>/lz-results/?filter=chr2:241403181-242009725",
+  "note": "BIG40 33k, KIF1A +-250kb, 3935 IDP, p<0.05 satirlari",
+  "n_idp": 3935,
+  "window": "2:241403181-242009725",
+  "build": "GRCh37"
+}

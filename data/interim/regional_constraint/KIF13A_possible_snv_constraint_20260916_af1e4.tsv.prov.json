@@ -1,0 +1,19 @@
+{
+  "file": "data/interim/regional_constraint/KIF13A_possible_snv_constraint_20260916_af1e4.tsv",
+  "sha256": "e2cb2bab46390cfbda55c31bf7478c460bf6d0d1056cde7bddab9aa9da61da19",
+  "bytes": 1813827,
+  "retrieved_utc": "2026-09-16T14:16:54+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: every possible KIF13A CDS SNV with context, rate, calibrated expectation and whether gnomAD v4.1 has seen it",
+  "urls": [
+    "https://gnomad.broadinstitute.org/api",
+    "https://rest.ensembl.org",
+    "https://raw.githubusercontent.com/jeremymcrae/denovonear/master/src/denovonear/data/rates.txt"
+  ],
+  "tool": "scripts/regional_constraint.py",
+  "params": {
+    "transcript": "ENST00000259711",
+    "max_af": 0.0001
+  },
+  "n_records": 16245
+}

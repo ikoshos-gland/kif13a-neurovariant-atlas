@@ -1,0 +1,29 @@
+{
+  "file": "data/interim/regional_constraint/regional_constraint_summary_20260916_bins12.json",
+  "sha256": "d933e7b7f52e27842e6266db23a171e0c6e9dbb22da9996ea1d5a3783a022013",
+  "bytes": 18299,
+  "retrieved_utc": "2026-09-16T14:17:03+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived",
+  "urls": [
+    "https://gnomad.broadinstitute.org/api",
+    "https://rest.ensembl.org",
+    "https://raw.githubusercontent.com/jeremymcrae/denovonear/master/src/denovonear/data/rates.txt"
+  ],
+  "tool": "scripts/regional_constraint.py",
+  "params": {
+    "panel": [
+      "KIF13A",
+      "KIF1A",
+      "KIF13B",
+      "KIF1B",
+      "KIF1C",
+      "KIF5A",
+      "KIF5C",
+      "KIF3A",
+      "KIF21A",
+      "KIF16B",
+      "KIF14"
+    ]
+  }
+}

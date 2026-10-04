@@ -1,0 +1,184 @@
+gene	uniprot	source	type	name	start	end
+NSD1	Q96L73	UniProt	Domain	PWWP 1	323	388
+NSD1	Q96L73	UniProt	Domain	PWWP 2	1756	1818
+NSD1	Q96L73	UniProt	Domain	AWS	1890	1940
+NSD1	Q96L73	UniProt	Domain	SET	1942	2059
+NSD1	Q96L73	UniProt	Domain	Post-SET	2066	2082
+NSD1	Q96L73	UniProt	Zinc finger	PHD-type 1	1543	1589
+NSD1	Q96L73	UniProt	Zinc finger	PHD-type 2	1590	1646
+NSD1	Q96L73	UniProt	Zinc finger	PHD-type 3	1707	1751
+NSD1	Q96L73	UniProt	Zinc finger	PHD-type 4; atypical	2118	2165
+NSD1	Q96L73	UniProt	Region	Disordered	207	252
+NSD1	Q96L73	UniProt	Region	Disordered	281	311
+NSD1	Q96L73	UniProt	Region	Disordered	487	514
+NSD1	Q96L73	UniProt	Region	Disordered	872	891
+NSD1	Q96L73	UniProt	Region	Disordered	936	1035
+NSD1	Q96L73	UniProt	Region	Disordered	1067	1093
+NSD1	Q96L73	UniProt	Region	Disordered	1112	1134
+NSD1	Q96L73	UniProt	Region	Disordered	1243	1272
+NSD1	Q96L73	UniProt	Region	Disordered	1294	1344
+NSD1	Q96L73	UniProt	Region	Disordered	1382	1428
+NSD1	Q96L73	UniProt	Region	Disordered	1480	1534
+NSD1	Q96L73	UniProt	Region	Inhibits enzyme activity in the absence of bound histone	2060	2066
+NSD1	Q96L73	UniProt	Region	Disordered	2091	2111
+NSD1	Q96L73	UniProt	Region	Disordered	2213	2422
+NSD1	Q96L73	UniProt	Region	Disordered	2464	2499
+NSD1	Q96L73	UniProt	Region	Disordered	2553	2575
+NSD1	Q96L73	UniProt	Region	Disordered	2595	2616
+NSD1	Q96L73	UniProt	Region	Disordered	2665	2696
+NSD1	Q96L73	UniProt	Compositional bias	Basic and acidic residues	236	248
+NSD1	Q96L73	UniProt	Compositional bias	Polar residues	281	290
+NSD1	Q96L73	UniProt	Compositional bias	Polar residues	297	306
+NSD1	Q96L73	UniProt	Compositional bias	Low complexity	948	961
+NSD1	Q96L73	UniProt	Compositional bias	Polar residues	971	982
+NSD1	Q96L73	UniProt	Compositional bias	Basic and acidic residues	1000	1017
+NSD1	Q96L73	UniProt	Compositional bias	Basic and acidic residues	1070	1090
+NSD1	Q96L73	UniProt	Compositional bias	Basic and acidic residues	1112	1124
+NSD1	Q96L73	UniProt	Compositional bias	Basic and acidic residues	1300	1314
+NSD1	Q96L73	UniProt	Compositional bias	Polar residues	1323	1337
+NSD1	Q96L73	UniProt	Compositional bias	Basic and acidic residues	1513	1523
+NSD1	Q96L73	UniProt	Compositional bias	Basic residues	2097	2108
+NSD1	Q96L73	UniProt	Compositional bias	Pro residues	2222	2232
+NSD1	Q96L73	UniProt	Compositional bias	Basic and acidic residues	2281	2298
+NSD1	Q96L73	UniProt	Compositional bias	Polar residues	2303	2314
+NSD1	Q96L73	UniProt	Compositional bias	Low complexity	2330	2348
+NSD1	Q96L73	UniProt	Compositional bias	Polar residues	2371	2381
+NSD1	Q96L73	UniProt	Compositional bias	Polar residues	2394	2404
+NSD1	Q96L73	UniProt	Compositional bias	Polar residues	2674	2686
+NSD1	Q96L73	UniProt	Binding site	S-adenosyl-L-methionine	1952	1954
+NSD1	Q96L73	UniProt	Binding site	S-adenosyl-L-methionine	1994	1997
+NSD1	Q96L73	UniProt	Binding site	S-adenosyl-L-methionine	2020	2021
+NSD1	Q96L73	UniProt	Binding site	S-adenosyl-L-methionine	2065	2065
+NSD1	Q96L73	UniProt	Binding site	S-adenosyl-L-methionine	2071	2071
+NSD1	Q96L73	InterPro/cdd	domain	cd15648 PHD finger 1 found in nuclear receptor-binding SET domain-containing protein NSD1 and NSD2	1545	1587
+NSD1	Q96L73	InterPro/cdd	domain	cd15650 PHD finger 2 found in nuclear receptor-binding SET domain-containing protein 1 (NSD1)	1592	1638
+NSD1	Q96L73	InterPro/cdd	domain	cd15653 PHD finger 3 found in nuclear receptor-binding SET domain-containing protein 1 (NSD1)	1639	1692
+NSD1	Q96L73	InterPro/cdd	domain	cd15656 PHD finger 4 found in nuclear receptor-binding SET domain-containing protein 1 (NSD1)	1709	1748
+NSD1	Q96L73	InterPro/cdd	domain	cd15659 PHD finger 5 found in nuclear receptor-binding SET domain-containing protein 1 (NSD1)	2120	2162
+NSD1	Q96L73	InterPro/cdd	domain	cd19210 SET domain (including post-SET domain) found in nuclear receptor-binding SET domain-containing protein 1 (NSD1) and similar proteins	1941	2082
+NSD1	Q96L73	InterPro/cdd	domain	cd20161 first PWWP domain found in nuclear receptor-binding SET domain-containing protein 1 (NSD1) and similar proteins	318	433
+NSD1	Q96L73	InterPro/cdd	domain	cd20164 second PWWP domain found in nuclear receptor-binding SET domain-containing protein 1 (NSD1) and similar proteins	1755	1850
+NSD1	Q96L73	InterPro/interpro	domain	IPR000313 PWWP domain	321	408
+NSD1	Q96L73	InterPro/interpro	domain	IPR000313 PWWP domain	1754	1845
+NSD1	Q96L73	InterPro/interpro	domain	IPR001214 SET domain	1942	2065
+NSD1	Q96L73	InterPro/interpro	domain	IPR001965 Zinc finger, PHD-type	1545	1587
+NSD1	Q96L73	InterPro/interpro	domain	IPR001965 Zinc finger, PHD-type	1592	1639
+NSD1	Q96L73	InterPro/interpro	domain	IPR001965 Zinc finger, PHD-type	1640	1693
+NSD1	Q96L73	InterPro/interpro	domain	IPR001965 Zinc finger, PHD-type	1709	1749
+NSD1	Q96L73	InterPro/interpro	domain	IPR001965 Zinc finger, PHD-type	2120	2163
+NSD1	Q96L73	InterPro/interpro	domain	IPR003616 Post-SET domain	2066	2082
+NSD1	Q96L73	InterPro/interpro	domain	IPR006560 AWS domain	1890	1941
+NSD1	Q96L73	InterPro/interpro	domain	IPR019787 Zinc finger, PHD-finger	1543	1589
+NSD1	Q96L73	InterPro/interpro	domain	IPR019787 Zinc finger, PHD-finger	1707	1751
+NSD1	Q96L73	InterPro/interpro	domain	IPR041306 NSD, Cys-His rich domain	2161	2210
+NSD1	Q96L73	InterPro/interpro	domain	IPR047423 Nuclear receptor-binding SET domain-containing protein 1, second PWWP domain	1755	1850
+NSD1	Q96L73	InterPro/interpro	domain	IPR047426 Histone-lysine N-methyltransferase NSD1 / NSD2, first PHD finger	1545	1587
+NSD1	Q96L73	InterPro/interpro	domain	IPR047428 Nuclear receptor-binding SET domain-containing protein 1, second PHD finger	1592	1638
+NSD1	Q96L73	InterPro/interpro	domain	IPR047429 Nuclear receptor-binding SET domain-containing protein 1, third PHD finger	1639	1692
+NSD1	Q96L73	InterPro/interpro	domain	IPR047430 Nuclear receptor-binding SET domain-containing protein 1, fourth PHD finger	1709	1748
+NSD1	Q96L73	InterPro/interpro	domain	IPR047432 Nuclear receptor-binding SET domain-containing protein 1, fifth PHD finger	2120	2162
+NSD1	Q96L73	InterPro/interpro	domain	IPR047433 Nuclear receptor-binding SET domain-containing protein 1, SET domain	1941	2082
+NSD1	Q96L73	InterPro/interpro	domain	IPR055197 Histone-lysine N-methyltransferase NSD-like, variant PHD zinc finger	1650	1692
+NSD1	Q96L73	InterPro/interpro	domain	IPR055198 Histone-lysine N-methyltransferase NSD-like, PHD zinc finger	1590	1638
+NSD1	Q96L73	InterPro/interpro	domain	IPR059153 Histone-lysine N-methyltransferase NSD-like, PHD zinc finger 1	1539	1587
+NSD1	Q96L73	InterPro/pfam	domain	PF00628 PHD-finger	1710	1748
+NSD1	Q96L73	InterPro/pfam	domain	PF00855 PWWP domain	324	408
+NSD1	Q96L73	InterPro/pfam	domain	PF00855 PWWP domain	1758	1845
+NSD1	Q96L73	InterPro/pfam	domain	PF17907 AWS domain	1901	1939
+NSD1	Q96L73	InterPro/pfam	domain	PF17982 NSD Cys-His rich domain	2161	2210
+NSD1	Q96L73	InterPro/pfam	domain	PF22908 Histone-lysine N-methyltransferase NSD-like, PHD zinc finger	1590	1638
+NSD1	Q96L73	InterPro/pfam	domain	PF23004 Histone-lysine N-methyltransferase NSD-like, variant PHD zinc finger	1650	1692
+NSD1	Q96L73	InterPro/pfam	domain	PF23011 Histone-lysine N-methyltransferase NSD-like, PHD zinc finger 1	1539	1587
+NSD1	Q96L73	InterPro/profile	domain	PS50016 Zinc finger PHD-type profile	1543	1589
+NSD1	Q96L73	InterPro/profile	domain	PS50016 Zinc finger PHD-type profile	1707	1751
+NSD1	Q96L73	InterPro/profile	domain	PS50280 SET domain profile	1942	2059
+NSD1	Q96L73	InterPro/profile	domain	PS50812 PWWP domain profile	323	388
+NSD1	Q96L73	InterPro/profile	domain	PS50812 PWWP domain profile	1756	1818
+NSD1	Q96L73	InterPro/profile	domain	PS50868 Post-SET domain profile	2066	2082
+NSD1	Q96L73	InterPro/profile	domain	PS51215 AWS domain profile	1890	1940
+NSD1	Q96L73	InterPro/smart	domain	SM00249 PHD zinc finger	1545	1587
+NSD1	Q96L73	InterPro/smart	domain	SM00249 PHD zinc finger	1592	1639
+NSD1	Q96L73	InterPro/smart	domain	SM00249 PHD zinc finger	1640	1693
+NSD1	Q96L73	InterPro/smart	domain	SM00249 PHD zinc finger	1709	1749
+NSD1	Q96L73	InterPro/smart	domain	SM00249 PHD zinc finger	2120	2163
+NSD1	Q96L73	InterPro/smart	domain	SM00293 domain with conserved PWWP motif	321	387
+NSD1	Q96L73	InterPro/smart	domain	SM00293 domain with conserved PWWP motif	1754	1816
+NSD1	Q96L73	InterPro/smart	domain	SM00317 SET (Su(var)3-9, Enhancer-of-zeste, Trithorax) domain	1942	2065
+NSD1	Q96L73	InterPro/smart	domain	SM00508 Cysteine-rich motif following a subset of SET domains	2066	2082
+NSD1	Q96L73	InterPro/smart	domain	SM00570 associated with SET domains	1890	1941
+NSD3	Q9BZ95	UniProt	Domain	PWWP 1	270	333
+NSD3	Q9BZ95	UniProt	Domain	PWWP 2	960	1022
+NSD3	Q9BZ95	UniProt	Domain	AWS	1093	1143
+NSD3	Q9BZ95	UniProt	Domain	SET	1145	1262
+NSD3	Q9BZ95	UniProt	Domain	Post-SET	1269	1285
+NSD3	Q9BZ95	UniProt	Zinc finger	PHD-type 1	701	748
+NSD3	Q9BZ95	UniProt	Zinc finger	PHD-type 2	749	805
+NSD3	Q9BZ95	UniProt	Zinc finger	PHD-type 3	862	955
+NSD3	Q9BZ95	UniProt	Zinc finger	PHD-type 4; atypical	1321	1368
+NSD3	Q9BZ95	UniProt	Region	Disordered	121	157
+NSD3	Q9BZ95	UniProt	Region	Disordered	181	252
+NSD3	Q9BZ95	UniProt	Region	Disordered	344	365
+NSD3	Q9BZ95	UniProt	Region	Disordered	406	465
+NSD3	Q9BZ95	UniProt	Region	Disordered	540	696
+NSD3	Q9BZ95	UniProt	Motif	KIKL	154	157
+NSD3	Q9BZ95	UniProt	Compositional bias	Pro residues	128	139
+NSD3	Q9BZ95	UniProt	Compositional bias	Basic residues	187	201
+NSD3	Q9BZ95	UniProt	Compositional bias	Basic and acidic residues	202	248
+NSD3	Q9BZ95	UniProt	Compositional bias	Polar residues	425	445
+NSD3	Q9BZ95	UniProt	Compositional bias	Polar residues	546	571
+NSD3	Q9BZ95	UniProt	Compositional bias	Basic and acidic residues	583	595
+NSD3	Q9BZ95	UniProt	Compositional bias	Polar residues	682	692
+NSD3	Q9BZ95	InterPro/cdd	domain	cd15649 PHD finger 1 found in nuclear SET domain-containing protein 3 (NSD3)	703	746
+NSD3	Q9BZ95	InterPro/cdd	domain	cd15652 PHD finger 2 found in nuclear SET domain-containing protein 3 (NSD3)	751	797
+NSD3	Q9BZ95	InterPro/cdd	domain	cd15655 PHD finger 3 found in nuclear SET domain-containing protein 3 (NSD3)	798	850
+NSD3	Q9BZ95	InterPro/cdd	domain	cd15658 PHD finger 4 found in nuclear SET domain-containing protein 3 (NSD3)	917	952
+NSD3	Q9BZ95	InterPro/cdd	domain	cd15661 PHD finger 5 found in nuclear SET domain-containing protein 3 (NSD3)	1323	1365
+NSD3	Q9BZ95	InterPro/cdd	domain	cd19212 SET domain (including post-SET domain) found in nuclear receptor-binding SET domain-containing protein 3 (NSD3) and similar proteins	1144	1285
+NSD3	Q9BZ95	InterPro/cdd	domain	cd20163 first PWWP domain found in nuclear SET domain-containing protein 3 (NSD3) and similar proteins	268	397
+NSD3	Q9BZ95	InterPro/cdd	domain	cd20166 second PWWP domain found in nuclear SET domain-containing protein 3 (NSD3) and similar proteins	959	1053
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR000313 PWWP domain	268	349
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR000313 PWWP domain	958	1048
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR001214 SET domain	1145	1268
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR001965 Zinc finger, PHD-type	703	746
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR001965 Zinc finger, PHD-type	751	798
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR001965 Zinc finger, PHD-type	799	851
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR001965 Zinc finger, PHD-type	916	953
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR001965 Zinc finger, PHD-type	1323	1366
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR003616 Post-SET domain	1269	1285
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR006560 AWS domain	1093	1144
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR019787 Zinc finger, PHD-finger	701	748
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR019787 Zinc finger, PHD-finger	1321	1368
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR041306 NSD, Cys-His rich domain	1364	1413
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR047451 Histone-lysine N-methyltransferase NSD3, first PWWP domain	268	397
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR047453 Histone-lysine N-methyltransferase NSD3, second PWWP domain	959	1053
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR047456 Histone-lysine N-methyltransferase NSD3, second PHD finger	751	797
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR047458 Histone-lysine N-methyltransferase NSD3, fourth PHD finger	917	952
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR047461 Histone-lysine N-methyltransferase NSD3, SET domain	1144	1285
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR047527 Histone-lysine N-methyltransferase NSD3, fifth PHD finger	1323	1365
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR055197 Histone-lysine N-methyltransferase NSD-like, variant PHD zinc finger	799	851
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR055198 Histone-lysine N-methyltransferase NSD-like, PHD zinc finger	748	797
+NSD3	Q9BZ95	InterPro/interpro	domain	IPR059153 Histone-lysine N-methyltransferase NSD-like, PHD zinc finger 1	697	746
+NSD3	Q9BZ95	InterPro/pfam	domain	PF00855 PWWP domain	271	349
+NSD3	Q9BZ95	InterPro/pfam	domain	PF00855 PWWP domain	962	1048
+NSD3	Q9BZ95	InterPro/pfam	domain	PF17907 AWS domain	1104	1142
+NSD3	Q9BZ95	InterPro/pfam	domain	PF17982 NSD Cys-His rich domain	1364	1413
+NSD3	Q9BZ95	InterPro/pfam	domain	PF22908 Histone-lysine N-methyltransferase NSD-like, PHD zinc finger	748	797
+NSD3	Q9BZ95	InterPro/pfam	domain	PF23004 Histone-lysine N-methyltransferase NSD-like, variant PHD zinc finger	799	851
+NSD3	Q9BZ95	InterPro/pfam	domain	PF23011 Histone-lysine N-methyltransferase NSD-like, PHD zinc finger 1	697	746
+NSD3	Q9BZ95	InterPro/profile	domain	PS50016 Zinc finger PHD-type profile	701	748
+NSD3	Q9BZ95	InterPro/profile	domain	PS50016 Zinc finger PHD-type profile	1321	1368
+NSD3	Q9BZ95	InterPro/profile	domain	PS50280 SET domain profile	1145	1262
+NSD3	Q9BZ95	InterPro/profile	domain	PS50812 PWWP domain profile	270	333
+NSD3	Q9BZ95	InterPro/profile	domain	PS50812 PWWP domain profile	960	1022
+NSD3	Q9BZ95	InterPro/profile	domain	PS50868 Post-SET domain profile	1269	1285
+NSD3	Q9BZ95	InterPro/profile	domain	PS51215 AWS domain profile	1093	1143
+NSD3	Q9BZ95	InterPro/smart	domain	SM00249 PHD zinc finger	703	746
+NSD3	Q9BZ95	InterPro/smart	domain	SM00249 PHD zinc finger	751	798
+NSD3	Q9BZ95	InterPro/smart	domain	SM00249 PHD zinc finger	799	851
+NSD3	Q9BZ95	InterPro/smart	domain	SM00249 PHD zinc finger	916	953
+NSD3	Q9BZ95	InterPro/smart	domain	SM00249 PHD zinc finger	1323	1366
+NSD3	Q9BZ95	InterPro/smart	domain	SM00293 domain with conserved PWWP motif	268	331
+NSD3	Q9BZ95	InterPro/smart	domain	SM00293 domain with conserved PWWP motif	958	1020
+NSD3	Q9BZ95	InterPro/smart	domain	SM00317 SET (Su(var)3-9, Enhancer-of-zeste, Trithorax) domain	1145	1268
+NSD3	Q9BZ95	InterPro/smart	domain	SM00508 Cysteine-rich motif following a subset of SET domains	1269	1285
+NSD3	Q9BZ95	InterPro/smart	domain	SM00570 associated with SET domains	1093	1144

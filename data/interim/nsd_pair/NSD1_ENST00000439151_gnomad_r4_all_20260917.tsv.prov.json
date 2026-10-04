@@ -1,0 +1,16 @@
+{
+  "file": "data/interim/nsd_pair/NSD1_ENST00000439151_gnomad_r4_all_20260917.tsv",
+  "sha256": "0a2f851e828b6b652b757558114cabb250694e08a07ccdf0384db61b521378dd",
+  "bytes": 1052817,
+  "retrieved_utc": "2026-09-17T18:35:59+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "tool": "scripts/nsd_pair_calibration.py",
+  "source": "gnomAD v4.1 GraphQL transcript query (MANE Select; never the gene query)",
+  "urls": [
+    "https://gnomad.broadinstitute.org/api"
+  ],
+  "params": {
+    "transcript": "ENST00000439151"
+  },
+  "n_records": 6931
+}

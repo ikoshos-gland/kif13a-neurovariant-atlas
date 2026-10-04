@@ -1,0 +1,13 @@
+{
+  "file": "data/interim/casefinding/KIF13A_curated_resources_20260916.tsv",
+  "sha256": "79f676c20e826a3b076bb32ecf2d80194f01af7db829ce0156a6a12bbb27bd3b",
+  "bytes": 3463,
+  "retrieved_utc": "2026-09-16T06:55:42+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "note": "Live status of KIF13A in curated gene-disease resources, with KIF1A as positive control.",
+  "source": "live web/API queries by Claude research session",
+  "tool": "curl + Europe PMC REST + NCBI E-utilities + ClinGen/G2P/PanelApp/SysNDD APIs",
+  "accessed": "2026-09-16",
+  "gene": "KIF13A (HGNC:14566, ENSG00000137177, MANE NM_022113.6 / ENST00000259711.11)",
+  "n_records": 9
+}

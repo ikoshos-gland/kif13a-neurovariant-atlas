@@ -1,0 +1,17 @@
+{
+  "file": "data/interim/denovo/power_sensitivity_20260916.tsv",
+  "sha256": "cf79919ca9d0f81789e9c30fd860aa00ec6694e1d1011a6a7d84ecc1f82313cc",
+  "bytes": 276,
+  "retrieved_utc": "2026-09-16T14:35:16+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "Poisson power sensitivity for KIF13A de novo LoF at assumed cohort sizes; only n=31058 is a measured cohort",
+  "urls": [
+    "https://storage.googleapis.com/gcp-public-data--gnomad/release/2.1.1/constraint/gnomad.v2.1.1.lof_metrics.by_gene.txt.bgz"
+  ],
+  "tool": "scripts/denovo_axis.py",
+  "params": {
+    "mu_lof": 5.9159e-06,
+    "mu_mis": 5.0924e-05
+  },
+  "n_records": 5
+}

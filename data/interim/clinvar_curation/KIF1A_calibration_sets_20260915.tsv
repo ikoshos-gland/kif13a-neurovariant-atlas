@@ -1,0 +1,398 @@
+set	label	source	id	hgvsc	variant_key	domain	protein_change	protein_pos	cv_group	kif13a_pos	kif13a_ref	residue_identical_in_kif13a	functional_literature	classification	stars	tier	gnomad_af_max	am_pathogenicity	cadd_phred	spliceai_ds_max
+heldout_pp3_dependent_positive	1	ClinVar	VCV004875244	c.553G>A	2-240786390-C-T	motor	A185T	185	res185	189	A	True		Likely pathogenic	1	positive_circular	6.57e-06	0.9105	29.1	0
+heldout_pp3_dependent_positive	1	ClinVar	VCV004856338	c.596G>T	2-240786347-C-A	motor	G199V	199	res199	203	G	True		Likely pathogenic	1	positive_circular		0.9977	32	0
+heldout_pp3_dependent_positive	1	ClinVar	VCV004856199	c.968C>T	2-240774252-G-A	motor	S323L	323	res323	321	S	True		Likely pathogenic	1	positive_circular		0.9872	31	0
+heldout_pp3_dependent_positive	1	ClinVar	VCV004856116	c.926C>A	2-240775883-G-T	motor	S309Y	309	res309	307	S	True		Likely pathogenic	1	positive_circular		0.9955	32	0
+missense_positive_core	1	ClinVar	VCV004845676	c.323T>C	2-240788091-A-G	motor	M108T	108	res108	113	M	True		Likely pathogenic	1	positive_silver		0.9836	28.2	0.01
+splice_positive	1	ClinVar	VCV004819159	c.4122+1G>A	2-240726825-C-T							False		Pathogenic	1	positive_splice			25.2	0.87
+missense_positive_core	1	ClinVar	VCV004813322	c.55G>A	2-240797698-C-T	motor	E19K	19	res19	19	E	True		Likely pathogenic	1	positive_gold		0.9918	33	0
+missense_positive_core	1	ClinVar	VCV004795001	c.274T>C	2-240788140-A-G	motor	C92R	92	res92	97	C	True		Pathogenic	1	positive_gold		0.9995	33	0.06
+reference_lof		ClinVar	VCV004794226	c.593C>A	2-240786350-G-T	motor	S198*	198	res198	202	E	False		Pathogenic	1	lof_reference			45	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV004794225	c.3632C>G	2-240742937-G-C	stalk	S1211C	1211	res1211			False		Likely benign	1	negative_other	0	0.6993	28.7	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV004791708	c.4159G>A	2-240725368-C-T	stalk	D1387N	1387	res1387	1273	R	False		Likely benign	1	negative_other	2.74e-06	0.943	27	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV004790777	c.4544C>G	2-240722577-G-C	stalk	P1515R	1515	res1515	1502	P	True		Likely benign	1	negative_other	2.841e-06	0.1194	23.1	0
+missense_positive_core	1	ClinVar	VCV004789387	c.203C>A	2-240788211-G-T	motor	A68E	68	res68	73	A	True		Pathogenic	1	positive_gold		0.7065	28.5	0
+reference_lof		ClinVar	VCV004786440	c.31del								False		Pathogenic	1	lof_reference				
+splice_positive	1	ClinVar	VCV004785288	c.864+1G>T	2-240783043-C-A							False		Likely pathogenic	1	positive_splice			36	0.99
+splice_positive	1	ClinVar	VCV004784655	c.864+2T>G	2-240783042-A-C							False		Likely pathogenic	1	positive_splice			34	0.95
+splice_positive	1	ClinVar	VCV004784147	c.5022-1G>A	2-240719199-C-T							False		Likely pathogenic	1	positive_splice			34	0.98
+missense_positive_core	1	ClinVar	VCV004538461	c.505A>T	2-240786438-T-A	motor	R169W	169	res169	173	R	True		Likely pathogenic	1	positive_gold		0.9873	21	0
+missense_positive_core	1	ClinVar	VCV004531852	c.748G>C	2-240783789-C-G	motor	A250P	250	res250	254	A	True		Likely pathogenic	1	positive_gold		0.9974	31	0
+heldout_pp3_dependent_positive	1	ClinVar	VCV004293830	c.803G>T	2-240783105-C-A	motor	G268V	268	res268	272	G	True		Likely pathogenic	1	positive_circular		0.9969	27.6	0.02
+reference_lof		ClinVar	VCV004291989	c.2737G>T	2-240757440-C-A	stalk	E913*	913	res913			False		Pathogenic	1	lof_reference			36	0
+missense_positive_core	1	ClinVar	VCV003897785	c.923A>G	2-240775886-T-C	motor	D308G	308	res308	306	D	True		Likely pathogenic	1	positive_gold		0.9958	31	0
+heldout_pp3_dependent_positive	1	ClinVar	VCV003897203	c.164C>A	2-240789255-G-T	motor	S55Y	55	res55	60	C	False		Likely pathogenic	1	positive_circular		0.9827	32	0
+heldout_pp3_dependent_positive	1	ClinVar	VCV003776103	c.814A>G	2-240783094-T-C	motor	N272D	272	res272	276	N	True		Likely pathogenic	1	positive_circular		0.9968	30	0
+missense_positive_core	1	ClinVar	VCV003774955	c.631A>C	2-240785078-T-G	motor	N211H	211	res211	215	N	True		Pathogenic	1	positive_silver		0.9943	29.1	0
+heldout_pp3_dependent_positive	1	ClinVar	VCV003772293	c.916T>A	2-240775893-A-T	motor	Y306N	306	res306	304	Y	True		Likely pathogenic	1	positive_circular		0.9905	28.9	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV003768617	c.1208-13C>T	2-240771117-G-A							False		Likely benign	1	negative_other	6.573e-06		12.81	0
+missense_positive_core	1	ClinVar	VCV003767220	c.935C>T	2-240775874-G-A	motor	T312I	312	res312	310	T	True		Likely pathogenic	1	positive_silver		0.9956	31	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV003761963	c.1217C>A	2-240771095-G-T	CC_region	A406D	406	res406			False		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS	3.422e-06	0.5337	24.9	0.09
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV003761147	c.4282C>A	2-240724011-G-T	stalk	L1428I	1428	res1428	1348	R	False		Likely benign	1	negative_other	1.37e-06	0.1433	23.6	0
+reference_lof		ClinVar	VCV003757757	c.4645_4660del								False		Pathogenic	1	lof_reference				
+splice_positive	1	ClinVar	VCV003757596	c.430-2A>G	2-240786515-T-C							False		Likely pathogenic	1	positive_splice			36	1
+missense_positive_core	1	ClinVar	VCV003753722	c.40C>G	2-240797713-G-C	motor	P14A	14	res14	14	P	True		Likely pathogenic	1	positive_silver		0.8768	28.5	0
+missense_positive_core	1	ClinVar	VCV003753720	c.208C>A	2-240788206-G-T	motor	Q70K	70	res70	75	Q	True		Pathogenic	1	positive_gold		0.9278	29.3	0
+missense_positive_core	1	ClinVar	VCV003753714	c.745C>A	2-240783792-G-T	motor	L249M	249	res249	253	L	True		Likely pathogenic	1	positive_silver		0.9393	23.8	0.02
+missense_positive_core	1	ClinVar	VCV003753713	c.802G>T	2-240783106-C-A	motor	G268W	268	res268	272	G	True		Likely pathogenic	1	positive_silver		0.9996	30	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV003753699	c.3469G>T	2-240744057-C-A	stalk	A1157S	1157	res1157	933	V	False		Likely benign	1	negative_other	2.063e-06	0.1357	29.3	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV003753690	c.4895C>G	2-240719900-G-C	stalk	A1632G	1632	res1632	1678	G	False		Benign	1	negative_other	1.314e-05	0.1009	20.7	0.01
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV003753459	c.4586C>T	2-240722535-G-A	stalk	A1529V	1529	res1529	1523	R	False		Benign	1	negative_other	2.627e-05	0.0701	23.6	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV003751726	c.5240C>T	2-240718143-G-A	PH	T1747M	1747	res1747	1736	T	True		Likely benign	1	negative_other	4.122e-06	0.8408	32	0.01
+splice_positive	1	ClinVar	VCV003749395	c.4319-1G>A	2-240723559-C-T							False		Likely pathogenic	1	positive_splice			34	0.99
+splice_positive	1	ClinVar	VCV003629971	c.3203-1G>A	2-240745910-C-T							False		Likely pathogenic	1	positive_splice			25.3	0.99
+heldout_pp3_dependent_positive	1	ClinVar	VCV003389696	c.733A>C	2-240783804-T-G	motor	S245R	245	res245	249	S	True		Likely pathogenic	1	positive_circular		0.9995	28.8	0
+splice_positive	1	ClinVar	VCV003383435	c.1685-1G>C	2-240765794-C-G							False		Pathogenic	1	positive_splice			27.5	0.95
+reference_lof		ClinVar	VCV003377464	c.3661del								False		Pathogenic	1	lof_reference				
+missense_positive_core	1	ClinVar	VCV003376669	c.629T>G	2-240785080-A-C	motor	M210R	210	res210	214	M	True		Likely pathogenic	1	positive_gold		0.9983	32	0.04
+missense_positive_core	1	ClinVar	VCV003337222	c.296C>A	2-240788118-G-T	motor	T99K	99	res99	104	T	True		Likely pathogenic	1	positive_silver		0.9959	33	0
+heldout_pp3_dependent_positive	1	ClinVar	VCV003027205	c.989C>A	2-240774231-G-T	motor	A330D	330	res330	328	T	False		Likely pathogenic	1	positive_circular		0.9994	33	0
+missense_positive_core	1	ClinVar	VCV003024339	c.631A>G	2-240785078-T-C	motor	N211D	211	res211	215	N	True		Pathogenic	1	positive_gold		0.9936	30	0
+missense_positive_core	1	ClinVar	VCV002952198	c.1114C>G	2-240773180-G-C	neck_coil_CC1	L372V	372	res372	370	L	True		Pathogenic	1	positive_gold		0.9177	27.9	0.01
+reference_lof		ClinVar	VCV002951200	c.4324C>T	2-240723553-G-A	stalk	Q1442*	1442	res1442	1360	E	False		Pathogenic	1	lof_reference	0		43	0.01
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002950913	c.4802C>G	2-240720980-G-C	stalk	A1601G	1601	res1601	1626	Q	False		Likely benign	1	negative_other	2.061e-06	0.0935	23.2	0.03
+splice_positive	1	ClinVar	VCV002950233	c.798+2T>G	2-240783737-A-C							False		Pathogenic	1	positive_splice			29.6	1
+reference_lof		ClinVar	VCV002947384	c.5005C>T	2-240719790-G-A	stalk	Q1669*	1669	res1669			False		Pathogenic	1	lof_reference	0		52	0
+missense_positive_core	1	ClinVar	VCV002946720	c.824T>A	2-240783084-A-T	motor	L275Q	275	res275	279	L	True		Likely pathogenic	1	positive_silver		0.9996	31	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002946463	c.3211C>G	2-240745901-G-C	stalk	P1071A	1071	res1071	836	E	False		Likely benign	1	negative_other	3.447e-06	0.0582	16.73	0.01
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002946247	c.4295A>G	2-240723998-T-C	stalk	H1432R	1432	res1432	1352	Q	False		Likely benign	1	negative_other	6.571e-06	0.0827	19.46	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002942603	c.5135A>G	2-240719085-T-C	PH	K1712R	1712	res1712			False		Likely benign	1	negative_other	2.054e-06	0.0776	19.08	0.01
+missense_positive_core	1	ClinVar	VCV002940950	c.103A>G	2-240797650-T-C	motor	T35A	35	res35	35	T	True		Likely pathogenic	1	positive_silver	6.872e-07	0.7369	26.6	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002938627	c.3160G>C	2-240746081-C-G	stalk	V1054L	1054	res1054			False		Likely benign	1	negative_other	2.766e-06	0.0734	0.123	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002936907	c.4954C>G	2-240719841-G-C	stalk	R1652G	1652	res1652	1698	S	False		Likely benign	1	negative_other	1.314e-05	0.0607	17.72	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002934144	c.4607A>C	2-240722514-T-G	stalk	E1536A	1536	res1536	1530	E	True		Likely benign	1	negative_other	3.582e-06	0.0751	21.4	0.01
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002933382	c.4924G>A	2-240719871-C-T	stalk	A1642T	1642	res1642	1688	K	False		Likely benign	1	negative_other	3.152e-05	0.0624	7.432	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002931321	c.4557G>C	2-240722564-C-G	stalk	E1519D	1519	res1519	1506	V	False		Likely benign	1	negative_other	1.427e-06	0.0893	18.79	0.01
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002930643	c.4261C>T	2-240724032-G-A	stalk	R1421C	1421	res1421	1334	E	False		Likely benign	1	negative_other	2.055e-06	0.4634	26.3	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002929464	c.4876C>A	2-240719919-G-T	stalk	Q1626K	1626	res1626			False		Likely benign	1	negative_other	2.06e-06	0.1032	20.7	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002925904	c.4763C>A	2-240721019-G-T	stalk	T1588N	1588	res1588	1615	P	False		Likely benign	1	negative_other	1.314e-05	0.2346	24.5	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002924851	c.4070G>A	2-240726878-C-T	stalk	R1357Q	1357	res1357	1242	R	True		Likely benign	1	negative_other	1.314e-05	0.8573	28.7	0.28
+splice_positive	1	ClinVar	VCV002924424	c.1208-2A>C	2-240771106-T-G							False		Likely pathogenic	1	positive_splice			33	0.89
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002923842	c.5044T>C	2-240719176-A-G	PH	Y1682H	1682	res1682			False		Likely benign	1	negative_other	2.062e-06	0.4245	25.3	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002922561	c.3013C>T	2-240747286-G-A	stalk	R1005C	1005	res1005			False		Likely benign	1	negative_other	6.844e-06	0.9853	29.4	0
+reference_lof		ClinVar	VCV002921394	c.805del								False		Pathogenic/Likely pathogenic	2	lof_reference				
+missense_positive_core	1	ClinVar	VCV002578901	c.275G>A	2-240788139-C-T	motor	C92Y	92	res92	97	C	True		Pathogenic	1	positive_gold	0	0.9992	32	0
+heldout_pp3_dependent_positive	1	ClinVar	VCV002576565	c.1000G>A	2-240774220-C-T	motor	A334T	334	res334	332	A	True		Likely pathogenic	1	positive_circular	0	0.9538	28.7	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV002574479	c.1049G>A	2-240773245-C-T	motor	R350Q	350	res350	348	R	True		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS	6.842e-07	0.9905	33	0.07
+heldout_pp3_dependent_positive	1	ClinVar	VCV002504638	c.1021A>C	2-240774199-T-G	motor	T341P	341	res341	339	T	True		Likely pathogenic	1	positive_circular		0.9968	26.7	0
+heldout_pp3_dependent_positive	1	ClinVar	VCV002444305	c.302C>T	2-240788112-G-A	motor	A101V	101	res101	106	S	False		Likely pathogenic	1	positive_circular		0.9504	29.7	0
+heldout_pp3_dependent_positive	1	ClinVar	VCV002444114	c.630G>A	2-240785079-C-T	motor	M210I	210	res210	214	M	True		Likely pathogenic	1	positive_circular		0.9993	32	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV002433128	c.739G>A	2-240783798-C-T	motor	V247M	247	res247	251	V	True		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS	0	0.9878	27.3	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002428665	c.1208-43C>T	2-240771147-G-A							False		Likely benign	1	negative_frequency	0.0006568		7.868	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002414922	c.3275T>C	2-240745837-A-G	stalk	L1092P	1092	res1092	860	G	False		Likely benign	1	negative_other	6.847e-07	0.1515	21.7	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002201376	c.5275G>C	2-240718108-C-G	PH	D1759H	1759	res1759	1744	G	False		Likely benign	1	negative_other	6.852e-07	0.9702	28.6	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002194801	c.5053T>C	2-240719167-A-G	PH	F1685L	1685	res1685			False		Likely benign	1	negative_other	1.166e-05	0.9939	23	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002159770	c.2156C>T	2-240761338-G-A	stalk	A719V	719	res719			False		Likely benign	1	negative_other	6.568e-06	0.8938	24.4	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002150982	c.5302G>A	2-240718081-C-T	PH	A1768T	1768	res1768			False		Likely benign	1	negative_other	1.971e-05	0.9749	29.9	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002141949	c.4294C>T	2-240723999-G-A	stalk	H1432Y	1432	res1432	1352	Q	False		Likely benign	1	negative_other	6.57e-06	0.1109	22.8	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002139190	c.4216C>T	2-240725311-G-A	stalk	R1406C	1406	res1406	1295	K	False		Likely benign	1	negative_other	1.314e-05	0.8223	27.2	0
+reference_lof		ClinVar	VCV002134284	c.1693dup								False		Pathogenic	1	lof_reference				
+reference_lof		ClinVar	VCV002127421	c.2451del								False		Pathogenic	1	lof_reference				
+reference_lof		ClinVar	VCV002105634	c.3074_3075dup								False		Pathogenic	1	lof_reference				
+missense_positive_core	1	ClinVar	VCV002098196	c.751G>A	2-240783786-C-T	motor	G251R	251	res251	255	G	True	Boyle 2021 HGG Adv	Pathogenic	1	positive_gold		0.9999	29.2	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002077289	c.3208C>T	2-240745904-G-A	stalk	P1070S	1070	res1070	835	P	True		Likely benign	1	negative_other	2.069e-06	0.0629	7.903	0.02
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002071149	c.4772G>A	2-240721010-C-T	stalk	R1591Q	1591	res1591	1616	S	False		Likely benign	1	negative_other	8.225e-06	0.086	23.9	0.11
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002060548	c.5254A>T	2-240718129-T-A	PH	I1752F	1752	res1752	1741	V	False		Likely benign	1	negative_other	3.292e-05	0.6506	20.4	0.02
+missense_positive_core	1	ClinVar	VCV002035801	c.764C>A	2-240783773-G-T	motor	A255D	255	res255	259	V	False		Likely pathogenic	2	positive_gold		0.9991	29.2	0
+reference_lof		ClinVar	VCV002031536	c.200dup								False		Pathogenic	1	lof_reference				
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002026401	c.5359G>T	2-240717381-C-A	C_terminal	A1787S	1787	res1787	1764	L	False		Likely benign	1	negative_other	1.37e-06	0.086	22.6	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002024728	c.4387G>A	2-240723490-C-T	stalk	A1463T	1463	res1463	1392	S	False		Likely benign	1	negative_other	7.144e-07	0.8333	27.7	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002020192	c.1208-10C>T	2-240771114-G-A							False		Likely benign	1	negative_other			19.89	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV002005626	c.961G>A	2-240774259-C-T	motor	G321S	321	res321	319	G	True		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS	0	0.9531	34	0.53
+missense_positive_core	1	ClinVar	VCV001987306	c.266A>T	2-240788148-T-A	motor	Y89F	89	res89	94	Y	True		Likely pathogenic	1	positive_silver	2.053e-06	0.3123	27	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV001978199	c.79A>G	2-240797674-T-C	motor	I27V	27	res27	27	V	False		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS		0.1813	23.7	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001973194	c.5254A>G	2-240718129-T-C	PH	I1752V	1752	res1752	1741	V	False		Likely benign	1	negative_other	1.972e-05	0.2619	18.63	0
+reference_lof		ClinVar	VCV001962714	c.4700_4701del								False		Pathogenic	1	lof_reference				
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001959032	c.1264C>A	2-240771048-G-T	CC_region	R422S	422	res422	383	Q	False		Likely benign	1	negative_frequency	6.573e-06	0.8863	24.6	0
+splice_positive	1	ClinVar	VCV001955838	c.3465+1G>A	2-240745426-C-T							False		Likely pathogenic	1	positive_splice	6.86e-07		29.3	0.74
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001946833	c.4136C>T	2-240725391-G-A	stalk	T1379I	1379	res1379	1261	S	False		Likely benign	1	negative_other	6.849e-07	0.1564	22.2	0.01
+reference_lof		ClinVar	VCV001937691	c.5014C>T	2-240719781-G-A	stalk	R1672*	1672	res1672			False		Pathogenic	1	lof_reference	6.57e-06		47	0
+missense_positive_core	1	ClinVar	VCV001803047	c.806C>A	2-240783102-G-T	motor	A269D	269	res269	273	S	False		Likely pathogenic	1	positive_gold		0.9989	26.1	0
+missense_positive_core	1	ClinVar	VCV001801064	c.835G>C	2-240783073-C-G	motor	G279R	279	res279	283	G	True		Pathogenic	1	positive_silver		0.9999	30	0
+splice_positive	1	ClinVar	VCV001709861	c.798+1G>C	2-240783738-C-G							False		Pathogenic	1	positive_splice			33	1
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV001700774	c.301G>A	2-240788113-C-T	motor	A101T	101	res101	106	S	False		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS		0.7936	29.2	0.15
+heldout_pp3_dependent_positive	1	ClinVar	VCV001696931	c.440T>G	2-240786503-A-C	motor	M147R	147	res147	150	M	True		Likely pathogenic	1	positive_circular	6.168e-06	0.994	32	0.02
+missense_positive_core	1	ClinVar	VCV001685908	c.653A>G	2-240785056-T-C	motor	H218R	218	res218	222	H	True		Pathogenic	1	positive_silver		0.999	26.5	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV001676446	c.935C>A	2-240775874-G-T	motor	T312N	312	res312	310	T	True		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS		0.9747	29.5	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001655966	c.1208-6C>T	2-240771110-G-A							False		Likely benign	1	negative_other	1.971e-05		16.61	0.03
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001600298	c.3053A>C	2-240747246-T-G	stalk	H1018P	1018	res1018			False		Benign	1	negative_frequency	0.000184	0.309	23.8	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001528901	c.4847G>A	2-240720935-C-T	stalk	R1616Q	1616	res1616			False		Likely benign	1	negative_other	9.2e-05	0.0842	26.3	0.01
+splice_positive	1	ClinVar	VCV001524644	c.1578-2A>G	2-240767023-T-C							False		Likely pathogenic	1	positive_splice	0		29.9	0.97
+splice_positive	1	ClinVar	VCV001513283	c.3374+2T>G	2-240745736-A-C							False		Likely pathogenic	1	positive_splice			33	0.99
+missense_positive_core	1	ClinVar	VCV001507070	c.773C>A	2-240783764-G-T	motor	T258K	258	res258	262	T	True		Likely pathogenic	1	positive_silver	0	0.9948	24.8	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001506702	c.3590T>G	2-240742979-A-C	stalk	L1197R	1197	res1197	965	I	False		Likely benign	1	negative_other	6.571e-06	0.4181	25.7	0.02
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001506252	c.5188A>G	2-240719032-T-C	PH	S1730G	1730	res1730	1730	L	False		Likely benign	1	negative_other	1.371e-05	0.8411	34	0.89
+missense_positive_core	1	ClinVar	VCV001505292	c.79A>T	2-240797674-T-A	motor	I27F	27	res27	27	V	False		Likely pathogenic	1	positive_silver		0.9292	28.2	0
+missense_positive_core	1	ClinVar	VCV001486265	c.759G>C	2-240783778-C-G	motor	E253D	253	res253	257	E	True		Likely pathogenic	1	positive_silver		0.9978	23.4	0
+missense_positive_core	1	ClinVar	VCV001477424	c.760C>G	2-240783777-G-C	motor	R254G	254	res254	258	R	True		Likely pathogenic	1	positive_silver		0.9955	32	0.15
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001475747	c.4977G>T	2-240719818-C-A	stalk	E1659D	1659	res1659	1705	C	False		Benign	1	negative_other	2.626e-05	0.0902	17.18	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001473034	c.5178G>C	2-240719042-C-G	PH	Q1726H	1726	res1726	1728	N	False		Likely benign	1	negative_other	6.569e-06	0.3303	20.5	0.05
+splice_positive	1	ClinVar	VCV001472010	c.958+1G>C	2-240775850-C-G							False		Likely pathogenic	1	positive_splice			35	1
+splice_positive	1	ClinVar	VCV001467822	c.1037+1G>C	2-240774182-C-G							False		Likely pathogenic	1	positive_splice			30	0.99
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001463718	c.4637A>G	2-240722484-T-C	stalk	N1546S	1546	res1546	1540	N	True		Likely benign	1	negative_other	2.653e-05	0.0462	0.262	0
+reference_lof		ClinVar	VCV001459290	c.4624del								False		Pathogenic	1	lof_reference				
+reference_lof		ClinVar	VCV001456633	c.2270_2271del								False		Pathogenic	1	lof_reference				
+reference_lof		ClinVar	VCV001454352	c.919C>T	2-240775890-G-A	motor	R307*	307	res307	305	R	True		Pathogenic	1	lof_reference	6.568e-06		36	0.01
+missense_positive_core	1	ClinVar	VCV001452132	c.1031C>T	2-240774189-G-A	motor	T344M	344	res344	342	T	True		Pathogenic	2	positive_gold		0.9822	29.2	0
+reference_lof		ClinVar	VCV001451452	c.2389G>T	2-240760720-C-A	stalk	E797*	797	res797	730	A	False		Pathogenic	1	lof_reference			44	0.01
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001442629	c.3227T>C	2-240745885-A-G	stalk	L1076P	1076	res1076	841	D	False		Likely benign	1	negative_other	6.573e-06	0.0678	22.7	0
+reference_lof		ClinVar	VCV001439490	c.4529del								False		Pathogenic	1	lof_reference				
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV001431889	c.153C>G	2-240789266-G-C	motor	S51R	51	res51	56	A	False		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS		0.8637	31	0.54
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001428495	c.1291G>A	2-240771021-C-T	CC_region	E431K	431	res431			False		Likely benign	1	negative_other	6.572e-06	0.5584	26	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001422108	c.4370G>A	2-240723507-C-T	stalk	R1457Q	1457	res1457	1380	R	True		Likely benign	1	negative_other	6.569e-06	0.9771	34	0.49
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001419726	c.4955G>T	2-240719840-C-A	stalk	R1652L	1652	res1652	1698	S	False		Likely benign	1	negative_other	6.853e-07	0.0766	5.57	0.02
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001418721	c.4519C>T	2-240722602-G-A	stalk	R1507W	1507	res1507	1494	M	False		Benign	1	negative_other	6.572e-06	0.1078	23.2	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001417676	c.1271C>G	2-240771041-G-C	CC_region	A424G	424	res424	385	E	False		Likely benign	1	negative_other	1.369e-06	0.1097	22.2	0.04
+reference_lof		ClinVar	VCV001413300	c.361C>T	2-240788053-G-A	motor	Q121*	121	res121	124	R	False		Pathogenic	1	lof_reference	7.13e-07		41	0.09
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001408827	c.4142C>T	2-240725385-G-A	stalk	P1381L	1381	res1381	1263	P	True		Benign	1	negative_other	1.971e-05	0.3893	28.8	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001403754	c.4093A>G	2-240726855-T-C	stalk	I1365V	1365	res1365	1250	I	True		Likely benign	1	negative_other	6.575e-06	0.3214	22.8	0.04
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001401299	c.5339A>G	2-240717401-T-C	C_terminal	K1780R	1780	res1780	1757	E	False		Likely benign	1	negative_other	1.314e-05	0.2143	25.9	0.03
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001400326	c.4649G>C	2-240722472-C-G	stalk	R1550P	1550	res1550	1567	R	True		Likely benign	1	negative_other	1.315e-05	0.9055	25.1	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001398006	c.4877A>C	2-240719918-T-G	stalk	Q1626P	1626	res1626			False		Likely benign	1	negative_other	1.373e-06	0.0654	19.6	0.01
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001369386	c.3614C>T	2-240742955-G-A	stalk	P1205L	1205	res1205			False		Likely benign	1	negative_other	6.569e-06	0.8069	26.6	0.02
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001360820	c.3695G>A	2-240741323-C-T	stalk	C1232Y	1232	res1232	980	D	False		Likely benign	1	negative_other	6.57e-06	0.373	23.6	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001354461	c.5069C>T	2-240719151-G-A	PH	T1690M	1690	res1690	1713	A	False		Likely benign	1	negative_other	6.165e-06	0.2231	28.1	0
+missense_positive_core	1	ClinVar	VCV001349128	c.173C>G	2-240789246-G-C	motor	S58W	58	res58	63	S	True		Pathogenic	1	positive_gold		0.9909	33	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001346902	c.1394G>A	2-240769654-C-T	CC_region	R465Q	465	res465	415	R	True		Likely benign	1	negative_other	1.437e-05	0.2907	28.5	0
+splice_positive	1	ClinVar	VCV001323148	c.4869-2A>C	2-240719928-T-G							False		Pathogenic	1	positive_splice			34	0.99
+missense_positive_core	1	ClinVar	VCV001320263	c.812T>G	2-240783096-A-C	motor	I271S	271	res271	275	I	True		Likely pathogenic	1	positive_gold		0.9991	32	0
+reference_lof		ClinVar	VCV001320162	c.3073del								False		Pathogenic	1	lof_reference				
+missense_positive_core	1	ClinVar	VCV001319270	c.442G>A	2-240786501-C-T	motor	E148K	148	res148	151	E	True		Likely pathogenic	1	positive_silver		0.9993	33	0.02
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001063161	c.5141C>A	2-240719079-G-T	PH	T1714N	1714	res1714	1722	T	True		Likely benign	1	negative_other	3.942e-05	0.0837	18.11	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001062627	c.1299C>G	2-240771013-G-C	CC_region	I433M	433	res433			False		Likely benign	1	negative_other	1.314e-05	0.1083	19.54	0
+missense_positive_core	1	ClinVar	VCV001058331	c.467A>T	2-240786476-T-A	motor	D156V	156	res156	159	D	True		Pathogenic	1	positive_gold		0.9975	28.7	0.01
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001052105	c.4811C>G	2-240720971-G-C	stalk	T1604S	1604	res1604	1629	D	False		Likely benign	1	negative_other	6.569e-06	0.1817	26.3	0.01
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001041657	c.3990C>G	2-240737080-G-C	stalk	H1330Q	1330	res1330	1203	L	False		Likely benign	1	negative_other	6.57e-06	0.0978	19.59	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001038191	c.4244G>A	2-240725283-C-T	stalk	R1415Q	1415	res1415	1328	A	False		Likely benign	1	negative_other	2.631e-05	0.2192	26.7	0
+missense_positive_core	1	ClinVar	VCV001032200	c.839A>G	2-240783069-T-C	motor	K280R	280	res280	284	L	False		Likely pathogenic	1	positive_gold		0.4396	28.3	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV001028217	c.650C>T	2-240785059-G-A	motor	S217F	217	res217	221	S	True		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS		0.9991	33	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001025820	c.4952C>T	2-240719843-G-A	stalk	A1651V	1651	res1651	1697	G	False		Benign	1	negative_other	1.439e-05	0.0686	2.598	0.02
+missense_positive_core	1	ClinVar	VCV001023002	c.748G>T	2-240783789-C-A	motor	A250S	250	res250	254	A	True		Likely pathogenic	1	positive_silver	0	0.9009	25.3	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001019986	c.4639G>A	2-240722482-C-T	stalk	E1547K	1547	res1547	1541	R	False		Likely benign	1	negative_other	1.97e-05	0.1933	25.6	0
+missense_positive_core	1	ClinVar	VCV001004912	c.934A>C	2-240775875-T-G	motor	T312P	312	res312	310	T	True		Pathogenic	1	positive_gold		0.9764	31	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001004820	c.1979G>A	2-240763062-C-T	stalk	R660H	660	res660	611	E	False		Likely benign	1	negative_other	1.351e-05	0.2113	25.7	0
+missense_positive_core	1	ClinVar	VCV001001813	c.32G>T	2-240797721-C-A	motor	R11L	11	res11	11	R	True		Likely pathogenic	1	positive_silver		0.9867	32	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000989197	c.890A>G	2-240775919-T-C	motor	K297R	297	res297			False		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS	6.569e-06	0.1408	25.4	0
+missense_positive_core	1	ClinVar	VCV000989196	c.841G>C	2-240783067-C-G	motor	V281L	281	res281	285	V	True		Pathogenic	1	positive_silver		0.9928	25.3	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000989195	c.801G>T	2-240783107-C-A	motor	E267D	267	res267	271	E	True		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS		0.9877	17.22	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000989194	c.742G>A	2-240783795-C-T	motor	D248N	248	res248	252	D	True		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS	0	0.9984	29.1	0
+missense_positive_core	1	ClinVar	VCV000989193	c.658G>T	2-240785051-C-A	motor	V220F	220	res220	224	V	True		Pathogenic	1	positive_silver		0.9795	29.6	0
+missense_positive_core	1	ClinVar	VCV000989192	c.644G>A	2-240785065-C-T	motor	S215N	215	res215	219	S	True		Pathogenic	1	positive_silver		0.9895	29.4	0
+missense_positive_core	1	ClinVar	VCV000989191	c.521T>C	2-240786422-A-G	motor	L174P	174	res174	178	L	True		Pathogenic	1	positive_silver		0.9857	31	0
+missense_positive_core	1	ClinVar	VCV000989190	c.232G>C	2-240788182-C-G	motor	G78R	78	res78	83	G	True		Pathogenic	1	positive_silver		0.9975	28.9	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000989189	c.217G>T	2-240788197-C-A	motor	V73L	73	res73	78	V	True		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS	6.569e-06	0.9174	27.2	0
+missense_positive_core	1	ClinVar	VCV000989188	c.206C>G	2-240788208-G-C	motor	S69W	69	res69	74	G	False		Pathogenic	1	positive_silver		0.755	29.9	0
+missense_positive_core	1	ClinVar	VCV000989187	c.76T>C	2-240797677-A-G	motor	C26R	26	res26	26	C	True		Pathogenic	1	positive_silver		0.9837	31	0
+splice_positive	1	ClinVar	VCV000989078	c.798+2T>C	2-240783737-A-G							False		Pathogenic	1	positive_splice			26.7	0.98
+splice_positive	1	ClinVar	VCV000989077	c.2582+1G>A	2-240758359-C-T							False		Pathogenic/Likely pathogenic	2	positive_splice			35	0.99
+missense_positive_core	1	ClinVar	VCV000988992	c.1013A>G	2-240774207-T-C	motor	Y338C	338	res338	336	Y	True		Pathogenic	1	positive_silver		0.9754	26.4	0
+missense_positive_core	1	ClinVar	VCV000988991	c.1001C>T	2-240774219-G-A	motor	A334V	334	res334	332	A	True		Pathogenic	1	positive_silver	6.855e-07	0.9747	31	0
+missense_positive_core	1	ClinVar	VCV000986214	c.746T>C	2-240783791-A-G	motor	L249P	249	res249	253	L	True		Pathogenic/Likely pathogenic	2	positive_gold		0.9999	31	0
+missense_positive_core	1	ClinVar	VCV000985565	c.824T>C	2-240783084-A-G	motor	L275P	275	res275	279	L	True		Likely pathogenic	1	positive_silver		0.9999	32	0
+missense_positive_core	1	ClinVar	VCV000985166	c.469C>T	2-240786474-G-A	motor	L157F	157	res157	160	L	True		Likely pathogenic	1	positive_silver		0.9878	28.5	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000979181	c.1115T>C	2-240773179-A-G	neck_coil_CC1	L372P	372	res372	370	L	True		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS		0.9998	32	0
+missense_positive_core	1	ClinVar	VCV000977818	c.38G>T	2-240797715-C-A	motor	R13L	13	res13	13	R	True		Likely pathogenic	1	positive_gold		0.988	33	0
+missense_positive_core	1	ClinVar	VCV000974924	c.556G>T	2-240786387-C-A	motor	V186F	186	res186	190	V	True		Likely pathogenic	2	positive_gold		0.9701	31	0
+missense_positive_core	1	ClinVar	VCV000974923	c.317C>A	2-240788097-G-T	motor	T106N	106	res106	111	S	False		Likely pathogenic	1	positive_gold		0.9811	32	0
+missense_positive_core	1	ClinVar	VCV000974922	c.967T>C	2-240774253-A-G	motor	S323P	323	res323	321	S	True		Likely pathogenic	1	positive_gold		0.9932	28.2	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000974921	c.756C>G	2-240783781-G-C	motor	S252R	252	res252	256	S	True		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS		0.9997	19.2	0.36
+missense_positive_core	1	ClinVar	VCV000974917	c.1048C>T	2-240773246-G-A	motor	R350W	350	res350	348	R	True	Shatarupa 2026 Nat Commun	Likely pathogenic	2	positive_gold	6.571e-06	0.9972	33	0.01
+missense_positive_core	1	ClinVar	VCV000974916	c.518T>C	2-240786425-A-G	motor	L173P	173	res173	177	V	False		Likely pathogenic	2	positive_gold		0.9571	28.9	0
+missense_positive_core	1	ClinVar	VCV000974915	c.444G>T	2-240786499-C-A	motor	E148D	148	res148	151	E	True		Likely pathogenic	1	positive_gold		0.996	25.6	0
+missense_positive_core	1	ClinVar	VCV000974913	c.500G>A	2-240786443-C-T	motor	R167H	167	res167	171	K	False		Pathogenic/Likely pathogenic	2	positive_gold	2.737e-06	0.7779	28	0
+missense_positive_core	1	ClinVar	VCV000974871	c.40C>A	2-240797713-G-T	motor	P14T	14	res14	14	P	True		Likely pathogenic	1	positive_gold		0.9713	31	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000962903	c.3073G>A	2-240746168-C-T	stalk	E1025K	1025	res1025			False		Likely benign	1	negative_other	9.215e-06	0.3561	24	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000947656	c.2120A>G	2-240761374-T-C	stalk	Q707R	707	res707	662	Q	True		Likely benign	1	negative_other	1.174e-05	0.1224	17.07	0.02
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000945941	c.5302G>T	2-240718081-C-A	PH	A1768S	1768	res1768			False		Likely benign	1	negative_other	1.371e-06	0.6608	27.4	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000936699	c.350G>A	2-240788064-C-T	motor	G117D	117	res117	120	G	True		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS	0	0.997	31	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000871018	c.110T>C	2-240789309-A-G	motor	I37T	37	res37	37	L	False		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS		0.9754	27	0
+missense_positive_core	1	ClinVar	VCV000869126	c.920G>C	2-240775889-C-G	motor	R307P	307	res307	305	R	True		Likely pathogenic	1	positive_gold		0.9978	32	0.01
+reference_lof		ClinVar	VCV000869125	c.4278C>G	2-240724015-G-C	stalk	Y1426*	1426	res1426	1346	Y	True		Likely pathogenic	1	lof_reference			23	0.08
+reference_lof		ClinVar	VCV000869124	c.1894C>T	2-240763221-G-A	stalk	Q632*	632	res632	584	Q	True		Likely pathogenic	1	lof_reference			40	0.01
+missense_positive_core	1	ClinVar	VCV000864523	c.104C>A	2-240797649-G-T	motor	T35N	35	res35	35	T	True		Likely pathogenic	1	positive_gold	0	0.9634	31	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000863001	c.1021A>G	2-240774199-T-C	motor	T341A	341	res341	339	T	True		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS	6.878e-07	0.972	25.3	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000862867	c.4133G>A	2-240725394-C-T	stalk	C1378Y	1378	res1378			False		Likely benign	1	negative_other	2.055e-06	0.9339	26.2	0.01
+reference_lof		ClinVar	VCV000850864	c.10del								False		Pathogenic	1	lof_reference				
+reference_lof		ClinVar	VCV000807620	c.1214dup								False		Pathogenic	1	lof_reference				
+missense_positive_core	1	ClinVar	VCV000801920	c.233G>A	2-240788181-C-T	motor	G78D	78	res78	83	G	True		Likely pathogenic	1	positive_silver		0.9976	28.4	0
+missense_positive_core	1	ClinVar	VCV000801919	c.470T>C	2-240786473-A-G	motor	L157P	157	res157	160	L	True		Likely pathogenic	1	positive_silver		0.9997	32	0
+missense_positive_core	1	ClinVar	VCV000801918	c.802G>A	2-240783106-C-T	motor	G268R	268	res268	272	G	True		Likely pathogenic	1	positive_silver		0.9996	28.5	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000801916	c.3278A>G	2-240745834-T-C	stalk	D1093G	1093	res1093	861	E	False		Likely benign	2	negative_other	1.315e-05	0.1095	23.5	0.11
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000679511	c.1208-73G>A	2-240771177-C-T							False		Benign/Likely benign	2	negative_frequency	0.008113		0.871	0
+missense_positive_core	1	ClinVar	VCV000666256	c.506G>C	2-240786437-C-G	motor	R169T	169	res169	173	R	True	Anazawa 2022 PNAS;Shatarupa 2026 Nat Commun	Likely pathogenic	1	positive_gold		0.9947	24.8	0
+reference_lof		ClinVar	VCV000665003	c.2350C>T	2-240760759-G-A	stalk	R784*	784	res784	717	S	False		Pathogenic/Likely pathogenic	2	lof_reference	0		37	0
+reference_lof		ClinVar	VCV000664959	c.4981C>T	2-240719814-G-A	stalk	Q1661*	1661	res1661	1707	S	False		Pathogenic	1	lof_reference			44	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000664164	c.3935C>A	2-240737135-G-T	stalk	S1312Y	1312	res1312	1190	Q	False		Likely benign	1	negative_other	2.737e-05	0.246	26.5	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000662405	c.3469G>A	2-240744057-C-T	stalk	A1157T	1157	res1157	933	V	False		Likely benign	1	negative_other	1.375e-06	0.1177	29.2	0.01
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000659507	c.2491G>A	2-240758451-C-T	stalk	V831M	831	res831	766	V	True		Likely benign	1	negative_other	1.971e-05	0.1154	23.4	0
+missense_positive_core	1	ClinVar	VCV000654820	c.32G>A	2-240797721-C-T	motor	R11Q	11	res11	11	R	True	Anazawa 2022 PNAS	Pathogenic/Likely pathogenic	2	positive_gold	6.852e-07	0.9782	33	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000654461	c.4759G>A	2-240721023-C-T	stalk	V1587I	1587	res1587	1614	V	True		Likely benign	1	negative_other	6.851e-07	0.1038	23.5	0.01
+missense_positive_core	1	ClinVar	VCV000647033	c.737T>G	2-240783800-A-C	motor	L246R	246	res246	250	L	True		Pathogenic	1	positive_gold		0.9985	33	0.03
+missense_positive_core	1	ClinVar	VCV000645308	c.799G>C	2-240783109-C-G	motor	E267Q	267	res267	271	E	True		Pathogenic	1	positive_gold		0.9873	35	0.88
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000644605	c.4852G>A	2-240720930-C-T	stalk	G1618S	1618	res1618			False		Likely benign	1	negative_other	6.571e-06	0.0638	18.59	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000583174	c.1138C>T	2-240773156-G-A	neck_coil_CC1	R380W	380	res380	378	R	True		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS	1.314e-05	0.7161	32	0.02
+missense_positive_core	1	ClinVar	VCV000580199	c.749C>A	2-240783788-G-T	motor	A250D	250	res250	254	A	True		Likely pathogenic	1	positive_silver	0	0.9995	32	0
+splice_positive	1	ClinVar	VCV000574529	c.609-1G>A	2-240785101-C-T							False		Likely pathogenic	1	positive_splice			35	1
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000574511	c.1139G>C	2-240773155-C-G	neck_coil_CC1	R380P	380	res380	378	R	True		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS		0.9948	33	0
+splice_positive	1	ClinVar	VCV000574244	c.4319-2A>G	2-240723560-T-C							False		Likely pathogenic	1	positive_splice	0		28.8	0.99
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000572111	c.5248C>T	2-240718135-G-A	PH	R1750C	1750	res1750	1739	M	False		Likely benign	1	negative_other	6.57e-06	0.8736	33	0
+reference_lof		ClinVar	VCV000568993	c.1954C>T	2-240763087-G-A	stalk	Q652*	652	res652	603	Q	True		Pathogenic	1	lof_reference	6.569e-06		44	0.14
+splice_positive	1	ClinVar	VCV000546892	c.1181-1G>A	2-240772597-C-T							False		Likely pathogenic	1	positive_splice	0		32	0.07
+splice_positive	1	ClinVar	VCV000532873	c.1421+2T>A	2-240769625-A-T							False		Likely pathogenic	1	positive_splice			23.6	0.98
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000532860	c.3286C>T	2-240745826-G-A	stalk	R1096C	1096	res1096	864	H	False		Likely benign	1	negative_other	5.82e-05	0.0968	24.8	0.01
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000532857	c.2962G>A	2-240750444-C-T	stalk	V988I	988	res988	827	V	True		Likely benign	1	negative_other	1.314e-05	0.2505	23.2	0
+splice_positive	1	ClinVar	VCV000532856	c.4868+1G>C	2-240720913-C-G							False		Likely pathogenic	1	positive_splice			31	0.99
+splice_positive	1	ClinVar	VCV000532854	c.2116+1G>C	2-240762718-C-G							False		Likely pathogenic	1	positive_splice			32	1
+missense_positive_core	1	ClinVar	VCV000521717	c.641G>A	2-240785068-C-T	motor	S214N	214	res214	218	S	True		Likely pathogenic	1	positive_silver		0.9887	30	0
+missense_positive_core	1	ClinVar	VCV000521233	c.799G>A	2-240783109-C-T	motor	E267K	267	res267	271	E	True		Pathogenic/Likely pathogenic	2	positive_gold		0.998	34	0.38
+missense_positive_core	1	ClinVar	VCV000520815	c.350G>T	2-240788064-C-A	motor	G117V	117	res117	120	G	True		Pathogenic	1	positive_silver	0	0.9964	36	0.98
+missense_positive_core	1	ClinVar	VCV000464261	c.773C>T	2-240783764-G-A	motor	T258M	258	res258	262	T	True		Pathogenic/Likely pathogenic	2	positive_gold	0	0.9834	28.4	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000464225	c.3329C>T	2-240745783-G-A	stalk	A1110V	1110	res1110	878	A	True		Likely benign	1	negative_other	2.739e-06	0.9665	34	0.17
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000451648	c.452G>A	2-240786491-C-T	motor	C151Y	151	res151	154	N	False		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS		0.9994	31	0
+missense_positive_core	1	ClinVar	VCV000449043	c.595G>A	2-240786348-C-T	motor	G199R	199	res199	203	G	True		Pathogenic/Likely pathogenic	2	positive_gold		0.9983	28.7	0
+missense_positive_core	1	ClinVar	VCV000435636	c.919C>G	2-240775890-G-C	motor	R307G	307	res307	305	R	True		Likely pathogenic	1	positive_silver		0.9928	23.1	0.01
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000435632	c.311C>T	2-240788103-G-A	motor	S104F	104	res104	109	S	True		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS		0.9995	33	0.02
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000435629	c.1898G>A	2-240763217-C-T	stalk	R633H	633	res633	585	M	False		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS	6.846e-07	0.6217	25.6	0
+missense_positive_core	1	ClinVar	VCV000432584	c.254C>A	2-240788160-G-T	motor	A85D	85	res85	90	A	True		Pathogenic/Likely pathogenic	2	positive_gold		0.9982	31	0
+missense_positive_core	1	ClinVar	VCV000432272	c.308A>C	2-240788106-T-G	motor	K103T	103	res103	108	K	True		Pathogenic	1	positive_silver		0.9967	31	0.01
+missense_positive_core	1	ClinVar	VCV000428604	c.914C>T	2-240775895-G-A	motor	P305L	305	res305	303	P	True	Anazawa 2022 PNAS;Boyle 2021 HGG Adv;Shatarupa 2026 Nat Commun	Pathogenic/Likely pathogenic	2	positive_gold	0	0.9314	33	0
+missense_positive_core	1	ClinVar	VCV000426934	c.37C>T	2-240797716-G-A	motor	R13C	13	res13	13	R	True		Pathogenic/Likely pathogenic	2	positive_gold		0.9791	34	0
+missense_positive_core	1	ClinVar	VCV000424652	c.31C>T	2-240797722-G-A	motor	R11W	11	res11	11	R	True		Pathogenic/Likely pathogenic	2	positive_gold	6.853e-07	0.99	33	0
+splice_positive	1	ClinVar	VCV000423668	c.798+1G>A	2-240783738-C-T							False		Pathogenic/Likely pathogenic	2	positive_splice	0		33	1
+missense_positive_core	1	ClinVar	VCV000422067	c.304G>A	2-240788110-C-T	motor	G102S	102	res102	107	G	True		Pathogenic/Likely pathogenic	2	positive_gold	6.88e-07	0.9831	33	0
+missense_positive_core	1	ClinVar	VCV000421138	c.37C>A	2-240797716-G-T	motor	R13S	13	res13	13	R	True		Likely pathogenic	2	positive_gold		0.9981	33	0
+missense_positive_core	1	ClinVar	VCV000418275	c.920G>A	2-240775889-C-T	motor	R307Q	307	res307	305	R	True		Pathogenic/Likely pathogenic	2	positive_gold	0	0.952	32	0
+missense_positive_core	1	ClinVar	VCV000392042	c.761G>C	2-240783776-C-G	motor	R254P	254	res254	258	R	True		Pathogenic	1	positive_silver		0.9991	32	0
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000378046	c.2813G>A	2-240757364-C-T	stalk	R938Q	938	res938			False		Benign/Likely benign	2	negative_frequency	0.0009053		20.9	0.01
+reference_lof		ClinVar	VCV000374775	c.4339C>T	2-240723538-G-A	stalk	R1447*	1447	res1447	1365	A	False		Pathogenic/Likely pathogenic	2	lof_reference	7.201e-07		38	0
+reference_lof		ClinVar	VCV000374597	c.1529del								False		Pathogenic	1	lof_reference				
+missense_positive_core	1	ClinVar	VCV000373905	c.232G>A	2-240788182-C-T	motor	G78S	78	res78	83	G	True		Pathogenic/Likely pathogenic	2	positive_gold	6.842e-07	0.8411	30	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000373642	c.947G>A	2-240775862-C-T	motor	R316Q	316	res316	314	K	False		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS	0	0.8547	32	0
+missense_positive_core	1	ClinVar	VCV000373113	c.803G>A	2-240783105-C-T	motor	G268E	268	res268	272	G	True		Pathogenic/Likely pathogenic	2	positive_gold		0.9989	28.3	0.05
+missense_positive_core	1	ClinVar	VCV000280500	c.761G>A	2-240783776-C-T	motor	R254Q	254	res254	258	R	True	Anazawa 2022 PNAS	Pathogenic/Likely pathogenic	2	positive_gold	0	0.9948	32	0
+reference_lof		ClinVar	VCV000246113	c.3910C>T	2-240737160-G-A	stalk	R1304*	1304	res1304	1117	S	False		Likely pathogenic	1	lof_reference	1.369e-06		41	0
+heldout_pp3_dependent_positive	1	ClinVar	VCV000245961	c.829A>C	2-240783079-T-G	motor	T277P	277	res277	281	T	True		Likely pathogenic	1	positive_circular		0.994	32	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000245928	c.1040A>G	2-240773254-T-C	motor	Y347C	347	res347	345	Y	True		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS		0.9982	32	0.03
+heldout_pp3_dependent_positive	1	ClinVar	VCV000245914	c.925T>C	2-240775884-A-G	motor	S309P	309	res309	307	S	True		Likely pathogenic	1	positive_circular		0.9953	31	0
+heldout_pp3_dependent_positive	1	ClinVar	VCV000245898	c.1477G>A	2-240769153-C-T	CC_region	G493S	493	res493	443	G	True		Likely pathogenic	1	positive_circular		0.9772	27.4	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000245852	c.41C>T	2-240797712-G-A	motor	P14L	14	res14	14	P	True		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS		0.9745	33	0
+missense_positive_core	1	ClinVar	VCV000245636	c.760C>T	2-240783777-G-A	motor	R254W	254	res254	258	R	True	Anazawa 2022 PNAS;Boyle 2021 HGG Adv	Pathogenic/Likely pathogenic	2	positive_gold	1.394e-06	0.998	33	0.07
+missense_positive_core	1	ClinVar	VCV000234899	c.815A>G	2-240783093-T-C	motor	N272S	272	res272	276	N	True		Pathogenic/Likely pathogenic	2	positive_gold		0.8693	27.4	0
+missense_positive_core	1	ClinVar	VCV000234758	c.650C>G	2-240785059-G-C	motor	S217C	217	res217	221	S	True		Pathogenic	1	positive_silver		0.966	31	0
+missense_positive_core	1	ClinVar	VCV000234716	c.512A>C	2-240786431-T-G	motor	H171P	171	res171	175	H	True		Pathogenic	1	positive_silver		0.9652	28.3	0
+missense_positive_core	1	ClinVar	VCV000234697	c.506G>A	2-240786437-C-T	motor	R169K	169	res169	173	R	True		Pathogenic/Likely pathogenic	2	positive_gold		0.7661	24.2	0
+missense_positive_core	1	ClinVar	VCV000224157	c.265T>G	2-240788149-A-C	motor	Y89D	89	res89	94	Y	True		Pathogenic	1	positive_gold		0.9784	32	0
+missense_positive_core	1	ClinVar	VCV000211298	c.821C>T	2-240783087-G-A	motor	S274L	274	res274	278	S	True	Boyle 2021 HGG Adv	Pathogenic/Likely pathogenic	2	positive_gold		0.9976	31	0
+missense_positive_core	1	ClinVar	VCV000209165	c.38G>A	2-240797715-C-T	motor	R13H	13	res13	13	R	True	Boyle 2021 HGG Adv	Pathogenic/Likely pathogenic	2	positive_gold	0	0.977	33	0
+missense_positive_core	1	ClinVar	VCV000208161	c.647G>A	2-240785062-C-T	motor	R216H	216	res216	220	R	True		Pathogenic/Likely pathogenic	2	positive_gold		0.9922	33	0
+missense_positive_core	1	ClinVar	VCV000208160	c.646C>T	2-240785063-G-A	motor	R216C	216	res216	220	R	True		Pathogenic/Likely pathogenic	2	positive_gold		0.9968	34	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000191158	c.223C>T	2-240788191-G-A	motor	R75W	75	res75	80	K	False		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS	6.5e-05	0.1277	26	0
+missense_positive_core	1	ClinVar	VCV000188057	c.206C>T	2-240788208-G-A	motor	S69L	69	res69	74	G	False		Pathogenic/Likely pathogenic	2	positive_gold		0.2543	32	0.1
+missense_positive_core	1	ClinVar	VCV000162061	c.746T>A	2-240783791-A-T	motor	L249Q	249	res249	253	L	True		Likely pathogenic	1	positive_gold		0.9997	31	0
+missense_positive_core	1	ClinVar	VCV000162060	c.946C>T	2-240775863-G-A	motor	R316W	316	res316	314	K	False	Boyle 2021 HGG Adv	Pathogenic/Likely pathogenic	2	positive_gold		0.9881	31	0.01
+missense_positive_core	1	ClinVar	VCV000162059	c.757G>A	2-240783780-C-T	motor	E253K	253	res253	257	E	True	Boyle 2021 HGG Adv	Pathogenic	2	positive_gold	0	0.999	30	0
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000162058	c.647G>C	2-240785062-C-G	motor	R216P	216	res216	220	R	True		Conflicting classifications of pathogenicity	1	conflict_P_vs_VUS		0.9984	33	0
+missense_positive_core	1	ClinVar	VCV000162057	c.643A>C	2-240785066-T-G	motor	S215R	215	res215	219	S	True		Pathogenic	2	positive_gold		0.9995	31	0
+missense_positive_core	1	ClinVar	VCV000162056	c.604G>C	2-240786339-C-G	motor	A202P	202	res202	206	S	False		Likely pathogenic	1	positive_gold		0.9932	32	0
+missense_positive_core	1	ClinVar	VCV000162055	c.499C>T	2-240786444-G-A	motor	R167C	167	res167	171	K	False		Pathogenic/Likely pathogenic	2	positive_gold	6.57e-06	0.9314	32	0
+missense_positive_core	1	ClinVar	VCV000162054	c.430G>T	2-240786513-C-A	motor	V144F	144	res144	147	V	True		Likely pathogenic	2	positive_gold		0.9814	35	0.29
+missense_positive_core	1	ClinVar	VCV000162053	c.305G>A	2-240788109-C-T	motor	G102D	102	res102	107	G	True		Likely pathogenic	1	positive_gold	0	0.9996	31	0.01
+missense_positive_core	1	ClinVar	VCV000162052	c.173C>T	2-240789246-G-A	motor	S58L	58	res58	63	S	True		Pathogenic	2	positive_gold		0.9265	33	0.01
+reference_lof		ClinVar	VCV000065875	c.5271dup								False		Pathogenic	0	lof_reference				
+reference_lof		ClinVar	VCV000065859	c.2840del								False		Pathogenic/Likely pathogenic	2	lof_reference				
+missense_positive_core	1	ClinVar	VCV000037004	c.1048C>G	2-240773246-G-C	motor	R350G	350	res350	348	R	True	Anazawa 2022 PNAS;Shatarupa 2026 Nat Commun	Likely pathogenic	1	positive_silver	6.842e-07	0.9963	28.6	0
+missense_positive_core	1	ClinVar	VCV000030169	c.296C>T	2-240788118-G-A	motor	T99M	99	res99	104	T	True	Boyle 2021 HGG Adv	Pathogenic	2	positive_gold		0.9874	34	0
+missense_positive_core	1	ClinVar	VCV000030166	c.764C>T	2-240783773-G-A	motor	A255V	255	res255	259	V	False	Anazawa 2022 PNAS;Shatarupa 2026 Nat Commun	Pathogenic	0	literature_rescue	0	0.9936	28.2	0.02
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240773210-C-T	c.1084G>A	2-240773210-C-T	neck_linker	E362K	362	res362	360	E	True		population AC=2 hom=0			1.239177334950873e-06	0.948	29.3	
+missense_negative_motor_population	0	gnomAD v4.1	2-240773212-T-A	c.1082A>T	2-240773212-T-A	neck_linker	N361I	361	res361	359	N	True		population AC=3 hom=0			1.8587590924298937e-06	0.9427	28.0	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240773216-T-C	c.1078A>G	2-240773216-T-C	neck_linker	I360V	360	res360	358	V	False		population AC=2 hom=0			1.239169657196106e-06	0.1841	21.0	
+missense_negative_motor_population	0	gnomAD v4.1	2-240773230-C-T	c.1064G>A	2-240773230-C-T	neck_linker	R355H	355	res355	353	V	False		population AC=186 hom=0			0.0001152556320346213	0.6077	23.0	
+missense_negative_motor_population	0	gnomAD v4.1	2-240773231-G-A	c.1063C>T	2-240773231-G-A	neck_linker	R355C	355	res355	353	V	False		population AC=12 hom=0			7.435856443355505e-06	0.705	28.8	
+missense_negative_motor_population	0	gnomAD v4.1	2-240774203-A-C	c.1017T>G	2-240774203-A-C	motor	D339E	339	res339	337	E	False		population AC=199 hom=0			0.00012414626051500112	0.7434	0.291	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240774229-A-T	c.991T>A	2-240774229-A-T	motor	L331M	331	res331	329	I	False		population AC=2 hom=0			1.241429481219034e-06	0.8168	27.3	
+missense_negative_motor_population	0	gnomAD v4.1	2-240774241-T-C	c.979A>G	2-240774241-T-C	motor	M327V	327	res327	325	M	True		population AC=3 hom=0			1.861478684207587e-06	0.8179	25.5	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240775881-C-T	c.928G>A	2-240775881-C-T	motor	V310M	310	res310	308	V	True		population AC=2 hom=0			1.2402623899112095e-06	0.9563	26.1	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240775910-T-C	c.899A>G	2-240775910-T-C	motor	K300R	300	res300			False		population AC=2 hom=0			1.2420339050415398e-06	0.1054	23.8	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240775911-T-C	c.898A>G	2-240775911-T-C	motor	K300E	300	res300			False		population AC=2 hom=0			1.2420477890307307e-06	0.7578	32.0	
+missense_negative_motor_population	0	gnomAD v4.1	2-240782591-T-C	c.881A>G	2-240782591-T-C	motor	K294R	294	res294	298	K	True		population AC=4 hom=0			2.576599069590076e-06	0.1014	26.4	
+missense_negative_motor_population	0	gnomAD v4.1	2-240782594-T-C	c.878A>G	2-240782594-T-C	motor	N293S	293	res293	297	G	False		population AC=10 hom=0			6.441713444242461e-06	0.0643	19.0	
+missense_negative_motor_population	0	gnomAD v4.1	2-240782595-T-A	c.877A>T	2-240782595-T-A	motor	N293Y	293	res293	297	G	False		population AC=6 hom=0			3.8645102699360424e-06	0.241	22.6	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240782598-G-A	c.874C>T	2-240782598-G-A	motor	P292S	292	res292	296	K	False		population AC=2 hom=0			1.2882314900458354e-06	0.0669	21.0	
+missense_negative_motor_population	0	gnomAD v4.1	2-240782607-C-G	c.865G>C	2-240782607-C-G	motor	D289H	289	res289	293	A	False		population AC=3 hom=0			1.9326509786944556e-06	0.7283	25.3	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240783058-C-A	c.850G>T	2-240783058-C-A	motor	A284S	284	res284	288	S	False		population AC=2 hom=0			1.2395306145468835e-06	0.295	23.8	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240783073-C-T	c.835G>A	2-240783073-C-T	motor	G279S	279	res279	283	G	True		population AC=2 hom=0			1.2393431976789581e-06	0.996	26.5	
+missense_negative_motor_population	0	gnomAD v4.1	2-240783102-G-A	c.806C>T	2-240783102-G-A	motor	A269V	269	res269	273	S	False		population AC=3 hom=0			1.8594249914156546e-06	0.9944	26.8	
+missense_negative_motor_population	0	gnomAD v4.1	2-240783749-G-A	c.788C>T	2-240783749-G-A	motor	T263M	263	res263	267	E	False		population AC=13 hom=0			8.253580466695534e-06	0.7565	24.1	
+missense_negative_motor_population	0	gnomAD v4.1	2-240784994-C-T	c.715G>A	2-240784994-C-T	motor	E239K	239	res239	243	E	True		population AC=13 hom=0			8.062605511597128e-06	0.8781	27.4	
+missense_negative_motor_population	0	gnomAD v4.1	2-240784996-G-A	c.713C>T	2-240784996-G-A	motor	T238M	238	res238	242	G	False		population AC=19 hom=0			1.1784012692001881e-05	0.1064	27.7	
+missense_negative_motor_population	0	gnomAD v4.1	2-240785006-T-C	c.703A>G	2-240785006-T-C	motor	N235D	235	res235	239	G	False		population AC=3 hom=0			1.8593512351670255e-06	0.0456	4.64	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240785008-G-C	c.701C>G	2-240785008-G-C	motor	T234S	234	res234	238	S	False		population AC=2 hom=0			1.2395306145468835e-06	0.0947	22.2	
+missense_negative_motor_population	0	gnomAD v4.1	2-240785015-C-T	c.694G>A	2-240785015-C-T	motor	A232T	232	res232	236	L	False		population AC=38 hom=0			2.3552482989529062e-05	0.0628	19.3	
+missense_negative_motor_population	0	gnomAD v4.1	2-240785020-T-C	c.689A>G	2-240785020-T-C	motor	H230R	230	res230	234	Y	False		population AC=22 hom=0			1.3634008671229515e-05	0.0965	22.2	
+missense_negative_motor_population	0	gnomAD v4.1	2-240785023-C-T	c.686G>A	2-240785023-C-T	motor	R229H	229	res229	233	L	False		population AC=8 hom=0			4.958202354154478e-06	0.0992	23.9	
+missense_negative_motor_population	0	gnomAD v4.1	2-240785024-G-A	c.685C>T	2-240785024-G-A	motor	R229C	229	res229	233	L	False		population AC=34 hom=0			2.1072098805831766e-05	0.1401	24.9	
+missense_negative_motor_population	0	gnomAD v4.1	2-240785025-C-A	c.684G>T	2-240785025-C-A	motor	K228N	228	res228	232	T	False		population AC=4 hom=0			2.478858436113001e-06	0.7526	24.9	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240785045-T-C	c.664A>G	2-240785045-T-C	motor	N222D	222	res222	226	N	True		population AC=2 hom=0			1.239461478776701e-06	0.9138	25.8	
+missense_negative_motor_population	0	gnomAD v4.1	2-240785051-C-T	c.658G>A	2-240785051-C-T	motor	V220I	220	res220	224	V	True		population AC=31 hom=0			1.9212414938582248e-05	0.2351	24.4	
+missense_negative_motor_population	0	gnomAD v4.1	2-240785092-G-A	c.617C>T	2-240785092-G-A	motor	A206V	206	res206	210	A	True		population AC=4 hom=0			2.48076169307024e-06	0.9933	25.7	
+missense_negative_motor_population	0	gnomAD v4.1	2-240785096-C-T	c.613G>A	2-240785096-C-T	motor	V205M	205	res205	209	V	True		population AC=5 hom=0			3.1009559627041823e-06	0.9816	24.3	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240786360-G-A	c.583C>T	2-240786360-G-A	motor	L195F	195	res195	199	L	True		population AC=2 hom=0			1.2394307542431911e-06	0.988	28.1	
+missense_negative_motor_population	0	gnomAD v4.1	2-240786383-G-A	c.560C>T	2-240786383-G-A	motor	T187I	187	res187	191	T	True		population AC=31 hom=0			1.9211843419757706e-05	0.6293	24.3	
+missense_negative_motor_population	0	gnomAD v4.1	2-240786441-C-T	c.502G>A	2-240786441-C-T	motor	V168M	168	res168	172	V	True		population AC=4 hom=0			2.479018209628259e-06	0.9681	24.5	
+missense_negative_motor_population	0	gnomAD v4.1	2-240786449-T-C	c.494A>G	2-240786449-T-C	motor	N165S	165	res165	169	S	False		population AC=9 hom=0			5.577638873911896e-06	0.161	22.9	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240786458-T-C	c.485A>G	2-240786458-T-C	motor	N162S	162	res162	166	S	False		population AC=2 hom=0			1.2394783779194364e-06	0.3674	21.8	
+missense_negative_motor_population	0	gnomAD v4.1	2-240786461-T-A	c.482A>T	2-240786461-T-A	motor	K161M	161	res161	164	K	True		population AC=18 hom=0			1.1155955296847575e-05	0.8649	27.9	
+missense_negative_motor_population	0	gnomAD v4.1	2-240786479-C-T	c.464G>A	2-240786479-C-T	motor	R155H	155	res155	158	R	True		population AC=3 hom=0			1.8593097498484662e-06	0.9273	26.6	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240786483-C-T	c.460G>A	2-240786483-C-T	motor	V154I	154	res154	157	V	True		population AC=2 hom=0			1.2395521250261856e-06	0.5167	24.4	
+missense_negative_motor_population	0	gnomAD v4.1	2-240786485-C-T	c.458G>A	2-240786485-C-T	motor	R153H	153	res153	156	K	False		population AC=7 hom=0			4.338873454896171e-06	0.9422	26.5	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240786486-G-C	c.457C>G	2-240786486-G-C	motor	R153G	153	res153	156	K	False		population AC=2 hom=0			1.2396043678699507e-06	0.9881	26.5	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240786486-G-A	c.457C>T	2-240786486-G-A	motor	R153C	153	res153	156	K	False		population AC=2 hom=0			1.2396043678699507e-06	0.9911	28.5	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240786503-A-T	c.440T>A	2-240786503-A-T	motor	M147K	147	res147	150	M	True		population AC=2 hom=0			1.2411228686817538e-06	0.9923	28.4	
+missense_negative_motor_population	0	gnomAD v4.1	2-240786503-A-G	c.440T>C	2-240786503-A-G	motor	M147T	147	res147	150	M	True		population AC=4 hom=0			2.4820670654521087e-06	0.969	27.0	
+missense_negative_motor_population	0	gnomAD v4.1	2-240787256-C-T	c.424G>A	2-240787256-C-T	motor	V142M	142	res142	145	V	True		population AC=15 hom=0			9.303479501333498e-06	0.7721	24.9	
+missense_negative_motor_population	0	gnomAD v4.1	2-240787272-G-C	c.408C>G	2-240787272-G-C	motor	D136E	136	res136	139	E	False		population AC=65 hom=0			4.029153716553375e-05	0.107	12.5	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240787273-T-C	c.407A>G	2-240787273-T-C	motor	D136G	136	res136	139	E	False		population AC=2 hom=0			1.239845664011744e-06	0.1087	20.9	
+missense_negative_motor_population	0	gnomAD v4.1	2-240787274-C-T	c.406G>A	2-240787274-C-T	motor	D136N	136	res136	139	E	False		population AC=29 hom=0			1.797557800781008e-05	0.0719	16.9	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240787286-C-T	c.394G>A	2-240787286-C-T	motor	D132N	132	res132	135	L	False		population AC=2 hom=0			1.2397211619162618e-06	0.0738	20.8	
+missense_negative_motor_population	0	gnomAD v4.1	2-240787292-T-G	c.388A>C	2-240787292-T-G	motor	I130L	130	res130	133	I	True		population AC=7 hom=0			4.339142411893713e-06	0.2363	22.7	
+missense_negative_motor_population	0	gnomAD v4.1	2-240787310-C-T	c.370G>A	2-240787310-C-T	motor	E124K	124	res124	127	C	False		population AC=3 hom=0			1.8596555174119545e-06	0.2158	23.1	
+missense_negative_motor_population	0	gnomAD v4.1	2-240788052-T-A	c.362A>T	2-240788052-T-A	motor	Q121L	121	res121	124	R	False		population AC=12 hom=0			1.4234470193019415e-05	0.0863	24.4	
+missense_negative_motor_population	0	gnomAD v4.1	2-240788052-T-C	c.362A>G	2-240788052-T-C	motor	Q121R	121	res121	124	R	False		population AC=34 hom=0			4.033530501794921e-05	0.1586	25.9	
+missense_negative_motor_population	0	gnomAD v4.1	2-240788052-T-G	c.362A>C	2-240788052-T-G	motor	Q121P	121	res121	124	R	False		population AC=18 hom=0			2.135788699304682e-05	0.8363	30.0	
+missense_negative_motor_population	0	gnomAD v4.1	2-240788053-G-C	c.361C>G	2-240788053-G-C	motor	Q121E	121	res121	124	R	False		population AC=4 hom=0			2.5756965005299497e-06	0.1207	24.8	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240788053-G-T	c.361C>A	2-240788053-G-T	motor	Q121K	121	res121	124	R	False		population AC=2 hom=0			1.28783000643915e-06	0.1389	23.4	
+missense_negative_motor_population	0	gnomAD v4.1	2-240788058-A-G	c.356T>C	2-240788058-A-G	motor	I119T	119	res119	122	I	True		population AC=1165 hom=0			0.002246294096777677	0.9923	27.5	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240788071-G-T	c.343C>A	2-240788071-G-T	motor	Q115K	115	res115	118	Q	True		population AC=2 hom=0			1.2676729454507655e-06	0.3394	26.7	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240788072-G-C	c.342C>G	2-240788072-G-C	motor	D114E	114	res114			False		population AC=2 hom=0			1.2646749722087676e-06	0.0993	17.1	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240788075-C-A	c.339G>T	2-240788075-C-A	motor	K113N	113	res113			False		population AC=2 hom=0			1.2627107622100975e-06	0.1604	21.5	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240788143-C-T	c.271G>A	2-240788143-C-T	motor	V91M	91	res91	96	A	False		population AC=2 hom=0			1.2397073298935587e-06	0.9128	26.1	
+missense_negative_motor_population	0	gnomAD v4.1	2-240788179-C-T	c.235G>A	2-240788179-C-T	motor	E79K	79	res79	84	E	True		population AC=6 hom=0			3.717734709886572e-06	0.1836	22.2	
+missense_negative_motor_population	0	gnomAD v4.1	2-240788185-T-C	c.229A>G	2-240788185-T-C	motor	I77V	77	res77	82	L	False		population AC=4 hom=0			2.4786464607407187e-06	0.1628	24.7	
+missense_negative_motor_population	0	gnomAD v4.1	2-240788190-C-T	c.224G>A	2-240788190-C-T	motor	R75Q	75	res75	80	K	False		population AC=21 hom=0			1.301310357562906e-05	0.0589	18.9	
+missense_negative_motor_population	0	gnomAD v4.1	2-240788211-G-A	c.203C>T	2-240788211-G-A	motor	A68V	68	res68	73	A	True		population AC=17 hom=0			1.0534325790756067e-05	0.311	27.4	
+missense_negative_motor_population	0	gnomAD v4.1	2-240788212-C-T	c.202G>A	2-240788212-C-T	motor	A68T	68	res68	73	A	True		population AC=20 hom=0			1.2393892785391071e-05	0.1818	25.5	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240788214-T-C	c.200A>G	2-240788214-T-C	motor	Y67C	67	res67	72	Y	True		population AC=2 hom=0			1.23949681387344e-06	0.5043	26.7	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240788216-G-T	c.198C>A	2-240788216-G-T	motor	N66K	66	res66	71	K	False		population AC=2 hom=0			1.2393938868135927e-06	0.2841	17.6	
+missense_negative_motor_population	0	gnomAD v4.1	2-240788227-C-G	c.187G>C	2-240788227-C-G	motor	E63Q	63	res63	68	N	False		population AC=3 hom=0			1.859143827084751e-06	0.101	21.9	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240789279-G-T	c.140C>A	2-240789279-G-T	motor	P47H	47	res47	52	P	True		population AC=2 hom=0			1.2392310818983038e-06	0.2741	25.9	
+missense_negative_motor_population	0	gnomAD v4.1	2-240789282-G-A	c.137C>T	2-240789282-G-A	motor	T46M	46	res46	51	P	False		population AC=72 hom=0			4.4613645827136996e-05	0.0651	24.6	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240789297-T-C	c.122A>G	2-240789297-T-C	motor	K41R	41	res41	45	K	True		population AC=2 hom=0			1.2393155508076e-06	0.1244	23.4	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240789301-G-T	c.118C>A	2-240789301-G-T	motor	P40T	40	res40	44	T	False		population AC=2 hom=0			1.2393493415956622e-06	0.8783	26.7	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240789303-T-C	c.116A>G	2-240789303-T-C	motor	N39S	39	res39	43	N	True		population AC=2 hom=0			1.239435362826111e-06	0.1883	25.6	
+missense_negative_motor_population	0	gnomAD v4.1	2-240789307-C-T	c.112G>A	2-240789307-C-T	motor	V38I	38	res38	42	S	False		population AC=3 hom=0			1.8590816136828407e-06	0.0532	7.61	
+missense_negative_motor_population	0	gnomAD v4.1	2-240797647-T-C	c.106A>G	2-240797647-T-C	motor	T36A	36	res36	36	V	False		population AC=3 hom=0			1.8686256507488829e-06	0.1242	22.5	
+missense_negative_motor_population	0	gnomAD v4.1	2-240797658-C-T	c.95G>A	2-240797658-C-T	motor	G32E	32	res32	32	G	True		population AC=5 hom=0			3.1033502527989115e-06	0.7524	26.0	
+missense_negative_motor_population	0	gnomAD v4.1	2-240797663-C-T	c.90G>A	2-240797663-C-T	motor	M30I	30	res30	30	M	True		population AC=7 hom=0			4.343196940403892e-06	0.955	26.7	
+missense_negative_motor_population	0	gnomAD v4.1	2-240797667-T-A	c.86A>T	2-240797667-T-A	motor	Q29L	29	res29	29	E	False		population AC=4 hom=0			2.480918634552002e-06	0.3504	27.3	
+missense_negative_motor_population	0	gnomAD v4.1	2-240797678-C-G	c.75G>C	2-240797678-C-G	motor	K25N	25	res25	25	K	True		population AC=8 hom=0			4.9603113091377615e-06	0.8347	25.4	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240797679-T-C	c.74A>G	2-240797679-T-C	motor	K25R	25	res25	25	K	True		population AC=2 hom=0			1.2401685637111797e-06	0.1323	23.2	
+missense_negative_motor_population	0	gnomAD v4.1	2-240797686-C-G	c.67G>C	2-240797686-C-G	motor	D23H	23	res23	23	N	False		population AC=6 hom=0			3.7199797633100877e-06	0.5098	26.0	
+missense_negative_motor_population	0	gnomAD v4.1	2-240797688-C-T	c.65G>A	2-240797688-C-T	motor	R22H	22	res22	22	L	False		population AC=8 hom=0			4.960372821621273e-06	0.1767	23.7	
+missense_negative_motor_population	0	gnomAD v4.1	2-240797689-G-A	c.64C>T	2-240797689-G-A	motor	R22C	22	res22	22	L	False		population AC=12 hom=0			7.440033331349325e-06	0.3053	29.2	
+missense_negative_motor_population	0	gnomAD v4.1	2-240797693-C-T	c.60G>A	2-240797693-C-T	motor	M20I	20	res20	20	L	False		population AC=7 hom=0			4.340046351695036e-06	0.1215	17.1	
+missense_negative_motor_population	0	gnomAD v4.1	2-240797700-C-T	c.53G>A	2-240797700-C-T	motor	R18Q	18	res18	18	R	True		population AC=24 hom=0			1.4880435699157271e-05	0.9444	28.3	
+missense_negative_motor_population	0	gnomAD v4.1	2-240797701-G-A	c.52C>T	2-240797701-G-A	motor	R18W	18	res18	18	R	True		population AC=4 hom=0			2.480552468645817e-06	0.9802	27.9	
+missense_negative_motor_population	0	gnomAD v4.1	2-240797727-G-A	c.26C>T	2-240797727-G-A	motor	A9V	9	res9	9	A	True		population AC=8 hom=0			4.966137152292803e-06	0.9422	28.4	
+missense_negative_motor_population	0	gnomAD v4.1	2-240797739-G-A	c.14C>T	2-240797739-G-A	motor	S5L	5	res5	5	K	False		population AC=8 hom=0			4.969703445371156e-06	0.7972	29.8	
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240797740-A-T	c.13T>A	2-240797740-A-T	motor	S5T	5	res5	5	K	False		population AC=2 hom=0			1.242191275096922e-06	0.3701	25.8	
+missense_negative_motor_population	0	gnomAD v4.1	2-240797746-C-T	c.7G>A	2-240797746-C-T	motor	G3R	3	res3	3	D	False		population AC=16 hom=0			9.946871273808769e-06	0.8723	25.1	

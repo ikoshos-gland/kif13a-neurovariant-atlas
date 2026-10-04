@@ -1,0 +1,13 @@
+{
+  "file": "data/interim/denovo/gene4denovo2_gene_level_20260916.tsv",
+  "sha256": "06a2d7a1363fc4eacd12157b7d108d491719768b77622abf0fc5b123b3b80799",
+  "bytes": 3418,
+  "retrieved_utc": "2026-09-16T14:35:16+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "Gene4Denovo2 gene-level (Candidate_Gene2) summary rows",
+  "urls": [
+    "https://java.genemed.tech/admin-api/backend/data/hg38/gene4denovo2_Candidate_Gene2/geneSymbol/page"
+  ],
+  "tool": "scripts/denovo_axis.py",
+  "n_records": 45
+}

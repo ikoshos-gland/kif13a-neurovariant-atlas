@@ -1,0 +1,10 @@
+check	result	pass
+KIF1A motor domaini pozitif kontrol olarak kisitli cikiyor mu	o/e 0.450 [0.401-0.504], 207 gozlem -> guclu kisitli	True
+KIF13A gen duzeyi gnomAD v4.1 yayimlanan o/e missense degerini yeniden uretiyor mu	bizim 0.896 vs gnomAD 0.861 (+4.1 %); gozlenen 1901 vs 1901 (+0.0 %); beklenen 2121.4 vs 2209.0 (-4.0 %)	True
+sinonim o/e her pencerede 1,0 civarinda mi (KIF13A)	medyan 0.961, aralik 0.575-1.421; ortusmeyen pencerelerde ki-kare/sd = 1.214 (18 pencere), en sapan pencere 1-100 o/e 1.421	True
+sinonim o/e her pencerede 1,0 civarinda mi (KIF1A)	medyan 1.079, aralik 0.816-1.330; ki-kare/sd = 1.095 (17 pencere), en sapan pencere 1001-1100 o/e 1.228	True
+KIF13A motor domaininde kac gozlenen missense var (aralik genisligi)	333 gozlenen, 407.8 beklenen; %90 aralik genisligi 0.147	True
+KIF13A motor domaininde sinonim o/e (yerel kalibrasyon kontrolu)	1.001 [0.880-1.141], 160 gozlenen / 159.9 beklenen	True
+KIF13A motor domaini kendi kuyruguna gore anlamli olcude tukenmis mi (kalibrasyondan bagimsiz ic karsilastirma)	motor/kuyruk oran 0.892, p=0.0634; ayni karsilastirma KIF1A'da 0.577, p=7.27e-14	False
+kisitlilik olcumu klinik gerceklikle uyusuyor mu (motor domaindeki ClinVar P/LP missense sayisi, kisitlilik sirasina karsi)	KIF1A o/e 0.45 -> 132 P/LP; KIF5A o/e 0.46 -> 36 P/LP; KIF5C o/e 0.48 -> 7 P/LP; KIF1B o/e 0.64 -> 1 P/LP; KIF3A o/e 0.67 -> 0 P/LP; KIF21A o/e 0.78 -> 1 P/LP; KIF13A o/e 0.82 -> 0 P/LP; KIF14 o/e 0.87 -> 1 P/LP; KIF1C o/e 0.89 -> 7 P/LP; KIF16B o/e 0.90 -> 0 P/LP; KIF13B o/e 0.91 -> 0 P/LP	True
+nonsense o/e motor domainde LoF eksenini tekrar veriyor mu (ic tutarlilik)	KIF13A motor nonsense o/e 0.414 (10/24.2); KIF1A motor 0.204 (4/19.6)	True

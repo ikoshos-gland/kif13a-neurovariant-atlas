@@ -1,0 +1,17 @@
+{
+  "file": "data/interim/regional_constraint/sliding_window_100aa_20260916_bins12.tsv",
+  "sha256": "667a40fff3d00c1c5898eb2ccb3ac16c6dcbcec8c399465602f5bafa7411da57",
+  "bytes": 256579,
+  "retrieved_utc": "2026-09-16T14:17:03+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: sliding-window regional missense constraint",
+  "urls": [
+    "https://gnomad.broadinstitute.org/api"
+  ],
+  "tool": "scripts/regional_constraint.py",
+  "params": {
+    "window": 100,
+    "step": 10
+  },
+  "n_records": 1465
+}

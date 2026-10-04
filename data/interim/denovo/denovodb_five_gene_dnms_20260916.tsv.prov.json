@@ -1,0 +1,13 @@
+{
+  "file": "data/interim/denovo/denovodb_five_gene_dnms_20260916.tsv",
+  "sha256": "8d9b178eacc6a14d41a61a19285b6bbdb97b5a8b5cc7b9c002c84f136c921087",
+  "bytes": 29730,
+  "retrieved_utc": "2026-09-16T14:35:16+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "denovo-db v1.6.1 non-SSC rows for the five project genes",
+  "urls": [
+    "https://denovo-db.gs.washington.edu/denovo-db.non-ssc-samples.variants.tsv.gz"
+  ],
+  "tool": "scripts/denovo_axis.py",
+  "n_records": 168
+}

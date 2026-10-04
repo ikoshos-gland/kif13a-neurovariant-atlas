@@ -1,0 +1,11 @@
+donor_id	tissue_type	assay_ontology_term_id	disease_ontology_term_id	development_stage_ontology_term_id	sex_ontology_term_id	donor_id	suspension_type	self_reported_ethnicity_ontology_term_id	is_primary_data	assay	disease	sex	self_reported_ethnicity	development_stage	n_cells_total
+postnatB_1	tissue	EFO:0030059	PATO:0000461	HsapDv:0000098	PATO:0000384	postnatB_1	nucleus	unknown	True	10x multiome	normal	male	unknown	4-year-old stage	14478
+postnatB_2	tissue	EFO:0030059	PATO:0000461	HsapDv:0000133	PATO:0000384	postnatB_2	nucleus	unknown	True	10x multiome	normal	male	unknown	39-year-old stage	10395
+postnatB_3	tissue	EFO:0030059	PATO:0000461	HsapDv:0000261	PATO:0000383	postnatB_3	nucleus	unknown	True	10x multiome	normal	female	unknown	infant stage	6696
+postnatB_4	tissue	EFO:0030059	PATO:0000461	HsapDv:0000155	PATO:0000383	postnatB_4	nucleus	unknown	True	10x multiome	normal	female	unknown	61-year-old stage	12253
+postnatB_5	tissue	EFO:0030059	PATO:0000461	HsapDv:0000108	PATO:0000384	postnatB_5	nucleus	unknown	True	10x multiome	normal	male	unknown	14-year-old stage	11354
+postnatB_6	tissue	EFO:0030059	PATO:0000461	HsapDv:0000108	PATO:0000383	postnatB_6	nucleus	unknown	True	10x multiome	normal	female	unknown	14-year-old stage	12553
+postnatB_7	tissue	EFO:0030059	PATO:0000461	HsapDv:0000156	PATO:0000384	postnatB_7	nucleus	unknown	True	10x multiome	normal	male	unknown	62-year-old stage	9087
+postnatB_8	tissue	EFO:0030059	PATO:0000461	HsapDv:0000114	PATO:0000383	postnatB_8	nucleus	unknown	True	10x multiome	normal	female	unknown	20-year-old stage	4645
+postnatB_9	tissue	EFO:0030059	PATO:0000461	HsapDv:0000100	PATO:0000383	postnatB_9	nucleus	unknown	True	10x multiome	normal	female	unknown	6-year-old stage	12117
+postnatB_10	tissue	EFO:0030059	PATO:0000461	HsapDv:0000261	PATO:0000384	postnatB_10	nucleus	unknown	True	10x multiome	normal	male	unknown	infant stage	8346

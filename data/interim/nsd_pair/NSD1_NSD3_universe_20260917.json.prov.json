@@ -1,0 +1,13 @@
+{
+  "file": "data/interim/nsd_pair/NSD1_NSD3_universe_20260917.json",
+  "sha256": "5a99bec9def584666d756dc86ef3dc95b62eb9eeab7cfbefc44ff1e2bcf43311",
+  "bytes": 2437,
+  "retrieved_utc": "2026-09-17T18:37:39+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "tool": "scripts/nsd_pair_calibration.py",
+  "source": "derived: gnomAD transcript query + ClinVar esummary",
+  "urls": [
+    "https://gnomad.broadinstitute.org/api",
+    "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
+  ]
+}

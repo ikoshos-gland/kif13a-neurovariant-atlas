@@ -1,0 +1,18 @@
+{
+  "file": "data/interim/paralog_pairs/paralog_scan_pairs_all_20260916.tsv",
+  "sha256": "16f638833edc74e564df43dcf1107a2c97e4c928d8b48e9d9d1ff043a08e5a72",
+  "bytes": 231341,
+  "retrieved_utc": "2026-09-16T11:57:21+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "Ensembl REST homology (paralogues, condensed) + HGNC + ClinVar gene summary",
+  "urls": [
+    "https://rest.ensembl.org/homology/symbol/human/",
+    "https://storage.googleapis.com/public-download-files/hgnc/tsv/tsv/hgnc_complete_set.txt",
+    "https://ftp.ncbi.nlm.nih.gov/pub/clinvar/tab_delimited/gene_specific_summary.txt"
+  ],
+  "tool": "scripts/paralog_pairs_scan.py::pairs",
+  "params": {
+    "sibling_prefilter_plp_alleles": 8
+  },
+  "n_records": 3678
+}

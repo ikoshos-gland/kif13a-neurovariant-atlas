@@ -1,0 +1,20 @@
+{
+  "file": "data/processed/KIF13A_saturation_lookup_20260916.tsv",
+  "sha256": "e30e975851a3b65c83c4ccf32cda5f4aa7a7c79b71ce2d90d824409d3a7ed985",
+  "bytes": 5174948,
+  "retrieved_utc": "2026-09-16T10:50:55+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: AlphaMissense Q9H1H9 + Ensembl MANE CDS + gnomAD v4.1 + ClinVar + KIF1A paralog map and calibration sets + AlphaFold/8UTN structure axis",
+  "urls": [
+    "https://rest.ensembl.org/sequence/id/ENST00000259711"
+  ],
+  "tool": "scripts/build_saturation_table.py",
+  "params": {
+    "transcript": "ENST00000259711",
+    "protein_len": 1805,
+    "am_cutoff": 0.968,
+    "am_generic": 0.564,
+    "af_max": 0.0001
+  },
+  "n_records": 34295
+}

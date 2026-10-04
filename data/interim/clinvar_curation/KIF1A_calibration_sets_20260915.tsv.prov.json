@@ -1,0 +1,14 @@
+{
+  "file": "data/interim/clinvar_curation/KIF1A_calibration_sets_20260915.tsv",
+  "sha256": "63923de9e362cbb138c7f7efff21ea7659082033a6a9898390fee50d1832effa",
+  "bytes": 66552,
+  "retrieved_utc": "2026-09-15T17:40:46+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: curated ClinVar + gnomAD motor controls + literature + paralog map",
+  "urls": [],
+  "tool": "scripts/kif1a_build_calibration_sets.py",
+  "params": {
+    "population_min_ac": 3
+  },
+  "n_records": 397
+}

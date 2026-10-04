@@ -1,0 +1,1224 @@
+gene	variant_id	consequence	hgvsc	hgvsp	cds_pos	exon_number	n_exons	protein_pos	protein_fraction	domain	in_last_exon	nmd_escape_rule	in_last_50_codons	loftee	lof_filter	lof_flags	flags	joint_ac	joint_an	joint_af	joint_hom	joint_filters	confident_carrier	true_lof_candidate
+KIF13A	6-17987458-CG-C	frameshift_variant	c.5del	p.Ser2TrpfsTer5	5	1	39	2	0.0011	N-uc	False	False	False	HC				0	1315918	0.0	0	AC0	False	False
+KIF13A	6-17987459-G-T	stop_gained	c.5C>A	p.Ser2Ter	5	1	39	2	0.0011	N-uc	False	False	False	HC				0	1317586	0.0	0	AC0	False	False
+KIF13A	6-17987456-TCC-T	frameshift_variant	c.6_7del	p.Asp3TyrfsTer40	6	1	39	3	0.0017	N-uc	False	False	False	HC				0	1320852	0.0	0	AC0	False	False
+KIF13A	6-17987453-GTA-G	frameshift_variant	c.9_10del	p.Thr4GlnfsTer39	9	1	39	4	0.0022	N-uc	False	False	False	HC				1	1324876	7.547876178600865e-07	0		True	True
+KIF13A	6-17987451-T-A	stop_gained	c.13A>T	p.Lys5Ter	13	1	39	5	0.0028	motor	False	False	False	HC				0	1328406	0.0	0	AC0	False	False
+KIF13A	6-17987445-T-A	stop_gained	c.19A>T	p.Lys7Ter	19	1	39	7	0.0039	motor	False	False	False	HC				0	1336854	0.0	0	AC0	False	False
+KIF13A	6-17987442-CT-C	frameshift_variant	c.21del	p.Val8LeufsTer8	21	1	39	8	0.0044	motor	False	False	False	HC				1	1339956	7.462931618650164e-07	0		True	True
+KIF13A	6-17987435-AC-A	frameshift_variant	c.28del	p.Val10SerfsTer6	28	1	39	10	0.0055	motor	False	False	False	HC				0	1347478	0.0	0	AC0	False	False
+KIF13A	6-17987432-CG-C	frameshift_variant	c.31del	p.Arg11GlyfsTer5	31	1	39	11	0.0061	motor	False	False	False	HC				0	1349526	0.0	0	AC0	False	False
+KIF13A	6-17987429-AC-A	frameshift_variant	c.34del	p.Val12SerfsTer4	34	1	39	12	0.0066	motor	False	False	False	HC				2	1353128	1.4780567692043917e-06	0		True	True
+KIF13A	6-17987426-CG-C	frameshift_variant	c.37del	p.Arg13GlyfsTer3	37	1	39	13	0.0072	motor	False	False	False	HC				1	1353480	7.388361852410084e-07	0		True	True
+KIF13A	6-17987421-TG-T	frameshift_variant	c.42del	p.Met15Ter	42	1	39	15	0.0083	motor	False	False	False	HC				0	1360822	0.0	0	AC0	False	False
+KIF13A	6-17987415-G-A	stop_gained	c.49C>T	p.Arg17Ter	49	1	39	17	0.0094	motor	False	False	False	HC				0	1371432	0.0	0	AC0	False	False
+KIF13A	6-17987413-TC-T	frameshift_variant	c.50del	p.Arg17HisfsTer6	50	1	39	17	0.0094	motor	False	False	False	HC				0	1371764	0.0	0	AC0	False	False
+KIF13A	6-17987412-G-A	stop_gained	c.52C>T	p.Arg18Ter	52	1	39	18	0.01	motor	False	False	False	HC				1	1370854	7.2947228515947e-07	0		True	True
+KIF13A	6-17987407-A-T	splice_donor_variant	c.55+2T>A		55	1	39				False	False	False	HC				0	1370746	0.0	0	AC0	False	False
+KIF13A	6-17987407-A-G	splice_donor_variant	c.55+2T>C		55	1	39				False	False	False	HC				1	1370746	7.295297597074878e-07	0		True	True
+KIF13A	6-17987408-C-T	splice_donor_variant	c.55+1G>A		55	1	39				False	False	False	HC				0	1372578	0.0	0	AC0	False	False
+KIF13A	6-17987408-C-A	splice_donor_variant	c.55+1G>T		55	1	39				False	False	False	HC				0	1372578	0.0	0	AC0	False	False
+KIF13A	6-17987408-C-G	splice_donor_variant	c.55+1G>C		55	1	39				False	False	False	HC				0	1372578	0.0	0	AC0	False	False
+KIF13A	6-17987409-C-A	stop_gained	c.55G>T	p.Glu19Ter	55	1	39	19	0.0105	motor	False	False	False	HC				0	1372570	0.0	0	AC0	False	False
+KIF13A	6-17987101-ATTCCC-A	frameshift_variant	c.94_98del	p.Gly32SerfsTer10	94	2	39	32	0.0177	motor	False	False	False	HC				1	1613670	6.197053920566163e-07	0		True	True
+KIF13A	6-17987064-GT-G	frameshift_variant	c.135del	p.Lys45AsnfsTer68	135	2	39	45	0.0249	motor	False	False	False	HC				0	1612984	0.0	0	AC0	False	False
+KIF13A	6-17987064-G-A	stop_gained	c.136C>T	p.Gln46Ter	136	2	39	46	0.0255	motor	False	False	False	HC				1	1612986	6.199681832328365e-07	0		True	True
+KIF13A	6-17987053-C-T	splice_donor_variant	c.146+1G>A		146	2	39				False	False	False	HC				0	1612364	0.0	0	AC0	False	False
+KIF13A	6-17873438-CTGAA-C	splice_acceptor_variant	c.160-5_160-2del		160	4	39				False	False	False	HC				1	1571048	6.365177893991782e-07	0		True	True
+KIF13A	6-17873439-T-C	splice_acceptor_variant	c.160-2A>G		160	4	39				False	False	False	HC				0	1567078	0.0	0	AC0	False	False
+KIF13A	6-17873439-T-G	splice_acceptor_variant	c.160-2A>C		160	4	39				False	False	False	HC				0	1567078	0.0	0	AC0	False	False
+KIF13A	6-17873439-T-A	splice_acceptor_variant	c.160-2A>T		160	4	39				False	False	False	HC				1	1567078	6.381303291859116e-07	0		True	True
+KIF13A	6-17873417-G-T	stop_gained	c.180C>A	p.Cys60Ter	180	4	39	60	0.0332	motor	False	False	False	HC				0	1590822	0.0	0	AC0	False	False
+KIF13A	6-17873412-CA-C	frameshift_variant	c.184del	p.Trp62GlyfsTer51	184	4	39	62	0.0343	motor	False	False	False	HC				0	1592660	0.0	0	AC0	False	False
+KIF13A	6-17873410-AC-A	frameshift_variant	c.186del	p.Trp62CysfsTer51	186	4	39	62	0.0343	motor	False	False	False	HC				1	1593592	6.275131903272607e-07	0		True	True
+KIF13A	6-17873411-C-T	stop_gained	c.186G>A	p.Trp62Ter	186	4	39	62	0.0343	motor	False	False	False	HC				0	1593048	0.0	0	AC0	False	False
+KIF13A	6-17873401-C-A	stop_gained	c.196G>T	p.Glu66Ter	196	4	39	66	0.0366	motor	False	False	False	HC				0	1595698	0.0	0	AC0	False	False
+KIF13A	6-17873393-GT-G	frameshift_variant	c.203del	p.Asn68ThrfsTer45	203	4	39	68	0.0377	motor	False	False	False	HC				0	1596606	0.0	0	AC0	False	False
+KIF13A	6-17873389-TA-T	frameshift_variant	c.207del	p.Thr70GlnfsTer43	207	4	39	70	0.0388	motor	False	False	False	HC				1	1596356	6.264266867791395e-07	0		True	True
+KIF13A	6-17873386-T-A	stop_gained	c.211A>T	p.Lys71Ter	211	4	39	71	0.0393	motor	False	False	False	HC				0	1596354	0.0	0	AC0	False	False
+KIF13A	6-17873383-AT-A	frameshift_variant	c.213del	p.Lys71AsnfsTer42	213	4	39	71	0.0393	motor	False	False	False	HC				0	1596184	0.0	0	AC0	False	False
+KIF13A	6-17873381-G-GT	stop_gained	c.215dup	p.Tyr72Ter	215	4	39	72	0.0399	motor	False	False	False	HC				1	1593896	6.273935062262532e-07	0		True	True
+KIF13A	6-17873381-G-T	stop_gained	c.216C>A	p.Tyr72Ter	216	4	39	72	0.0399	motor	False	False	False	HC				0	1594014	0.0	0	AC0	False	False
+KIF13A	6-17873381-G-C	stop_gained	c.216C>G	p.Tyr72Ter	216	4	39	72	0.0399	motor	False	False	False	HC				0	1594014	0.0	0	AC0	False	False
+KIF13A	6-17873375-AC-A	splice_donor_variant	c.220+1del		220	4	39				False	False	False	HC				0	1592820	0.0	0	AC0	False	False
+KIF13A	6-17873376-C-T	splice_donor_variant	c.220+1G>A		220	4	39				False	False	False	HC				0	1593110	0.0	0	AC0	False	False
+KIF13A	6-17873376-C-A	splice_donor_variant	c.220+1G>T		220	4	39				False	False	False	HC				0	1593110	0.0	0	AC0	False	False
+KIF13A	6-17856123-C-A	splice_acceptor_variant	c.221-1G>T		221	5	39				False	False	False	HC				0	1598116	0.0	0	AC0	False	False
+KIF13A	6-17856124-T-A	splice_acceptor_variant	c.221-2A>T		221	5	39				False	False	False	HC				0	1595008	0.0	0	AC0	False	False
+KIF13A	6-17856124-T-C	splice_acceptor_variant	c.221-2A>G		221	5	39				False	False	False	HC				0	1595010	0.0	0	AC0	False	False
+KIF13A	6-17856063-AC-A	frameshift_variant	c.279del	p.Tyr94IlefsTer19	279	5	39	94	0.0521	motor	False	False	False	HC				1	1613640	6.197169133139982e-07	0		True	True
+KIF13A	6-17855618-C-T	splice_acceptor_variant	c.314-1G>A		314	6	39				False	False	False	HC				1	1598038	6.257673472095156e-07	0		True	True
+KIF13A	6-17855618-C-A	splice_acceptor_variant	c.314-1G>T		314	6	39				False	False	False	HC				0	1598036	0.0	0	AC0	False	False
+KIF13A	6-17855619-T-C	splice_acceptor_variant	c.314-2A>G		314	6	39				False	False	False	HC				0	1597200	0.0	0	AC0	False	False
+KIF13A	6-17855614-G-T	stop_gained	c.317C>A	p.Ser106Ter	317	6	39	106	0.0587	motor	False	False	False	HC				0	1597718	0.0	0	AC0	False	False
+KIF13A	6-17855599-GA-G	frameshift_variant	c.331del	p.Ser111ProfsTer2	331	6	39	111	0.0615	motor	False	False	False	HC				1	1600376	6.248531595075157e-07	0		True	True
+KIF13A	6-17855582-C-A	stop_gained	c.349G>T	p.Glu117Ter	349	6	39	117	0.0648	motor	False	False	False	HC				0	1607090	0.0	0	AC0	False	False
+KIF13A	6-17855571-GC-G	frameshift_variant	c.359del	p.Gly120AlafsTer42	359	6	39	120	0.0665	motor	False	False	False	HC				1	1612782	6.200466027026591e-07	0		True	True
+KIF13A	6-17855545-A-T	stop_gained	c.386T>A	p.Leu129Ter	386	6	39	129	0.0715	motor	False	False	False	HC				1	1613858	6.196332019297856e-07	0		True	True
+KIF13A	6-17855510-G-A	stop_gained	c.421C>T	p.Gln141Ter	421	6	39	141	0.0781	motor	False	False	False	HC				1	1613788	6.196600792669173e-07	0		True	True
+KIF13A	6-17855468-C-A	stop_gained	c.463G>T	p.Glu155Ter	463	6	39	155	0.0859	motor	False	False	False	HC				1	1612732	6.200658261881081e-07	0		True	True
+KIF13A	6-17855435-A-C	splice_donor_variant	c.494+2T>G		494	6	39				False	False	False	HC				1	1602026	6.242095946008366e-07	0		True	True
+KIF13A	6-17855435-AC-A	splice_donor_variant	c.494+1del		494	6	39				False	False	False	HC				1	1602026	6.242095946008366e-07	0		True	True
+KIF13A	6-17855436-C-A	splice_donor_variant	c.494+1G>T		494	6	39				False	False	False	HC				1	1605210	6.229714492184823e-07	0		True	True
+KIF13A	6-17852042-C-CCCTGT	frameshift_variant	c.495-1_495insACAGG	p.Ser166GlnfsTer19	495	7	39	166	0.092	motor	False	False	False	HC		NO_EXON_NUMBER	lof_flag	0	1475552	0.0	0	AC0	False	False
+KIF13A	6-17852043-C-A	splice_acceptor_variant	c.495-1G>T		495	7	39				False	False	False	HC		NAGNAG_SITE	lof_flag	0	1472466	0.0	0	AC0	False	False
+KIF13A	6-17852043-C-G	splice_acceptor_variant	c.495-1G>C		495	7	39				False	False	False	HC		NAGNAG_SITE	lof_flag	0	1472472	0.0	0	AC0	False	False
+KIF13A	6-17852044-T-C	splice_acceptor_variant	c.495-2A>G		495	7	39				False	False	False	HC		NAGNAG_SITE	lof_flag	2	1465364	1.3648485973450965e-06	0		True	True
+KIF13A	6-17852035-G-A	stop_gained	c.502C>T	p.Gln168Ter	502	7	39	168	0.0931	motor	False	False	False	HC				0	1506448	0.0	0	AC0	False	False
+KIF13A	6-17852026-T-A	stop_gained	c.511A>T	p.Lys171Ter	511	7	39	171	0.0947	motor	False	False	False	HC				0	1543640	0.0	0	AC0	False	False
+KIF13A	6-17852020-G-A	stop_gained	c.517C>T	p.Arg173Ter	517	7	39	173	0.0958	motor	False	False	False	HC				3	1546634	1.939696140133994e-06	0		True	True
+KIF13A	6-17852017-C-A	stop_gained	c.520G>T	p.Glu174Ter	520	7	39	174	0.0964	motor	False	False	False	HC				0	1552026	0.0	0	AC0	False	False
+KIF13A	6-17852008-CT-C	frameshift_variant	c.528del	p.Val177PhefsTer6	528	7	39	177	0.0981	motor	False	False	False	HC				1	1553562	6.436820674038113e-07	0		True	True
+KIF13A	6-17852008-C-CT	frameshift_variant	c.528dup	p.Val177SerfsTer16	528	7	39	177	0.0981	motor	False	False	False	HC				1	1553562	6.436820674038113e-07	0		True	True
+KIF13A	6-17852003-CA-C	frameshift_variant	c.533del	p.Leu178TrpfsTer5	533	7	39	178	0.0986	motor	False	False	False	HC				1	1554414	6.43329254625859e-07	0		True	True
+KIF13A	6-17852002-C-A	stop_gained	c.535G>T	p.Gly179Ter	535	7	39	179	0.0992	motor	False	False	False	HC				0	1555580	0.0	0	AC0	False	False
+KIF13A	6-17852000-TC-T	frameshift_variant	c.536del	p.Gly179AspfsTer4	536	7	39	179	0.0992	motor	False	False	False	HC				0	1557788	0.0	0	AC0	False	False
+KIF13A	6-17851982-TA-T	frameshift_variant	c.554del	p.Leu185TyrfsTer4	554	7	39	185	0.1025	motor	False	False	False	HC				2	1552698	1.2880804895736326e-06	0		True	True
+KIF13A	6-17851978-G-A	stop_gained	c.559C>T	p.Gln187Ter	559	7	39	187	0.1036	motor	False	False	False	HC				0	1547072	0.0	0	AC0	False	False
+KIF13A	6-17851957-C-A	stop_gained	c.580G>T	p.Glu194Ter	580	7	39	194	0.1075	motor	False	False	False	HC				1	1497122	6.6794823668345e-07	0		True	True
+KIF13A	6-17851953-A-C	splice_donor_variant	c.582+2T>G		582	7	39				False	False	False	HC				0	1475526	0.0	0	AC0	False	False
+KIF13A	6-17851953-A-G	splice_donor_variant	c.582+2T>C		582	7	39				False	False	False	HC				0	1475528	0.0	0	AC0	False	False
+KIF13A	6-17851954-C-A	splice_donor_variant	c.582+1G>T		582	7	39				False	False	False	HC				0	1483914	0.0	0	AC0	False	False
+KIF13A	6-17851954-C-G	splice_donor_variant	c.582+1G>C		582	7	39				False	False	False	HC				0	1483914	0.0	0	AC0	False	False
+KIF13A	6-17851954-C-T	splice_donor_variant	c.582+1G>A		582	7	39				False	False	False	HC				0	1483914	0.0	0	AC0	False	False
+KIF13A	6-17850421-G-A	stop_gained	c.619C>T	p.Arg207Ter	619	8	39	207	0.1147	motor	False	False	False	HC				3	1613570	1.8592313937418272e-06	0		True	True
+KIF13A	6-17850331-G-A	stop_gained	c.709C>T	p.Gln237Ter	709	8	39	237	0.1313	motor	False	False	False	HC				1	1612710	6.20074284899331e-07	0		True	True
+KIF13A	6-17850325-C-CAG	frameshift_variant	c.713_714dup	p.Gly239LeufsTer14	713	8	39	239	0.1324	motor	False	False	False	HC				1	1612254	6.202496628943082e-07	0		True	True
+KIF13A	6-17850322-C-A	splice_donor_variant	c.717+1G>T		717	8	39				False	False	False	HC				1	1611986	6.203527822201929e-07	0		True	True
+KIF13A	6-17849405-G-A	stop_gained	c.802C>T	p.Arg268Ter	802	9	39	268	0.1485	motor	False	False	False	HC				5	1612902	3.1000023560017907e-06	0		True	True
+KIF13A	6-17849375-A-C	splice_donor_variant	c.830+2T>G		830	9	39				False	False	False	HC				1	1607288	6.221660337164217e-07	0		True	True
+KIF13A	6-17837584-C-A	splice_acceptor_variant	c.831-1G>T		831	10	39				False	False	False	HC				1	1587552	6.299006268771038e-07	0		True	True
+KIF13A	6-17837581-G-T	stop_gained	c.833C>A	p.Ser278Ter	833	10	39	278	0.154	motor	False	False	False	HC				1	1589496	6.291302400257692e-07	0		True	True
+KIF13A	6-17837576-TA-T	frameshift_variant	c.837del	p.Thr280GlnfsTer46	837	10	39	280	0.1551	motor	False	False	False	HC				0	1600460	0.0	0	AC0	False	False
+KIF13A	6-17837554-G-T	stop_gained	c.860C>A	p.Ser287Ter	860	10	39	287	0.159	motor	False	False	False	HC				0	1608328	0.0	0	AC0	False	False
+KIF13A	6-17837551-G-T	stop_gained	c.863C>A	p.Ser288Ter	863	10	39	288	0.1596	motor	False	False	False	HC				0	1608640	0.0	0	AC0	False	False
+KIF13A	6-17837518-CT-C	frameshift_variant	c.895del	p.Ser299AlafsTer27	895	10	39	299	0.1657	motor	False	False	False	HC				0	1609682	0.0	0	AC0	False	False
+KIF13A	6-17837501-G-A	stop_gained	c.913C>T	p.Arg305Ter	913	10	39	305	0.169	motor	False	False	False	HC				0	1607232	0.0	0	AC0	False	False
+KIF13A	6-17837494-G-T	stop_gained	c.920C>A	p.Ser307Ter	920	10	39	307	0.1701	motor	False	False	False	HC				0	1606474	0.0	0	AC0	False	False
+KIF13A	6-17837481-C-T	stop_gained	c.933G>A	p.Trp311Ter	933	10	39	311	0.1723	motor	False	False	False	HC				0	1602916	0.0	0	AC0	False	False
+KIF13A	6-17837469-TA-T	splice_donor_variant	c.942+2del		942	10	39				False	False	False	HC				0	1591878	0.0	0	AC0	False	False
+KIF13A	6-17837076-G-GCC	frameshift_variant	c.955_956dup	p.Asn320AlafsTer7	955	11	39	320	0.1773	motor	False	False	False	HC				1	1613646	6.197146090282503e-07	0		True	True
+KIF13A	6-17837027-AG-A	frameshift_variant	c.1005del	p.Tyr336MetfsTer8	1005	11	39	336	0.1861	motor	False	False	False	HC				1	1613946	6.195994165851893e-07	0		True	True
+KIF13A	6-17836991-G-A	stop_gained	c.1042C>T	p.Arg348Ter	1042	11	39	348	0.1928	motor	False	False	False	HC				1	1613846	6.196378093077035e-07	0		True	True
+KIF13A	6-17836965-AG-A	frameshift_variant	c.1067del	p.Ala356ValfsTer3	1067	11	39	356	0.1972	boyun	False	False	False	HC				3	1613938	1.8588074634837273e-06	0		True	True
+KIF13A	6-17836931-G-A	stop_gained	c.1102C>T	p.Arg368Ter	1102	11	39	368	0.2039	boyun	False	False	False	HC				2	1613848	1.2392740828132513e-06	0		True	True
+KIF13A	6-17836901-TCA-T	frameshift_variant	c.1130_1131del	p.Leu377GlnfsTer14	1130	11	39	377	0.2089	boyun	False	False	False	HC				11	1613902	6.8157793967663465e-06	0		True	True
+KIF13A	6-17836895-GCT-G	frameshift_variant	c.1136_1137del	p.Glu379AlafsTer12	1136	11	39	379	0.21	boyun	False	False	False	HC				1	1613680	6.197015517326855e-07	0		True	True
+KIF13A	6-17836895-G-A	stop_gained	c.1138C>T	p.Gln380Ter	1138	11	39	380	0.2105	boyun	False	False	False	HC				2	1613798	1.239312479009145e-06	0		True	True
+KIF13A	6-17836886-G-A	stop_gained	c.1147C>T	p.Gln383Ter	1147	11	39	383	0.2122	CC1	False	False	False	HC				1	1613728	6.196831188403498e-07	0		True	True
+KIF13A	6-17834072-C-T	splice_acceptor_variant	c.1156-1G>A		1156	12	39				False	False	False	HC				0	1571918	0.0	0	AC0	False	False
+KIF13A	6-17834072-CT-C	splice_acceptor_variant	c.1156-2del		1156	12	39				False	False	False	HC				0	1571912	0.0	0	AC0	False	False
+KIF13A	6-17834072-C-A	splice_acceptor_variant	c.1156-1G>T		1156	12	39				False	False	False	HC				0	1571920	0.0	0	AC0	False	False
+KIF13A	6-17834073-T-C	splice_acceptor_variant	c.1156-2A>G		1156	12	39				False	False	False	HC				0	1569878	0.0	0	AC0	False	False
+KIF13A	6-17834063-CT-C	frameshift_variant	c.1163del	p.Lys388ArgfsTer5	1163	12	39	388	0.215	CC1	False	False	False	HC				0	1577260	0.0	0	AC0	False	False
+KIF13A	6-17834057-AG-A	frameshift_variant	c.1169del	p.Pro390LeufsTer3	1169	12	39	390	0.2161	CC1	False	False	False	HC				0	1589572	0.0	0	AC0	False	False
+KIF13A	6-17834056-C-A	stop_gained	c.1171G>T	p.Glu391Ter	1171	12	39	391	0.2166	CC1	False	False	False	HC				0	1589492	0.0	0	AC0	False	False
+KIF13A	6-17834048-CT-C	frameshift_variant	c.1178del	p.Lys393ArgfsTer10	1178	12	39	393	0.2177	CC1	False	False	False	HC				0	1595470	0.0	0	AC0	False	False
+KIF13A	6-17834037-TC-T	frameshift_variant	c.1189del	p.Glu397LysfsTer6	1189	12	39	397	0.2199	CC1	False	False	False	HC				0	1600146	0.0	0	AC0	False	False
+KIF13A	6-17834021-C-CA	frameshift_variant	c.1205dup	p.Ile403AspfsTer27	1205	12	39	403	0.2233	CC1	False	False	False	HC				1	1604824	6.231212893127222e-07	0		True	True
+KIF13A	6-17834014-CTTTT-C	frameshift_variant	c.1209_1212del	p.Ile403MetfsTer3	1209	12	39	403	0.2233	CC1	False	False	False	HC				1	1604152	6.233823228721468e-07	0		True	True
+KIF13A	6-17834014-CT-C	frameshift_variant	c.1212del	p.Glu405AsnfsTer2	1212	12	39	405	0.2244	CC1	False	False	False	HC				0	1604150	0.0	0	AC0	False	False
+KIF13A	6-17834007-GT-G	frameshift_variant	c.1219del	p.Thr407GlnfsTer2	1219	12	39	407	0.2255	CC1	False	False	False	HC				0	1604268	0.0	0	AC0	False	False
+KIF13A	6-17833998-CA-C	frameshift_variant	c.1228del	p.Trp410GlyfsTer5	1228	12	39	410	0.2271	CC1	False	False	False	HC				0	1602414	0.0	0	AC0	False	False
+KIF13A	6-17833997-C-T	stop_gained	c.1230G>A	p.Trp410Ter	1230	12	39	410	0.2271	CC1	False	False	False	HC				0	1602388	0.0	0	AC0	False	False
+KIF13A	6-17833996-C-A	stop_gained	c.1231G>T	p.Glu411Ter	1231	12	39	411	0.2277	CC1	False	False	False	HC				0	1601660	0.0	0	AC0	False	False
+KIF13A	6-17833993-C-A	stop_gained	c.1234G>T	p.Glu412Ter	1234	12	39	412	0.2283	CC1	False	False	False	HC				0	1599310	0.0	0	AC0	False	False
+KIF13A	6-17833982-T-TC	frameshift_variant	c.1244dup	p.Thr417AsnfsTer13	1244	12	39	417	0.231	CC1	False	False	False	HC				0	1580238	0.0	0	AC0	False	False
+KIF13A	6-17833977-GT-G	frameshift_variant	c.1249del	p.Thr417GlnfsTer4	1249	12	39	417	0.231	CC1	False	False	False	HC				0	1580970	0.0	0	AC0	False	False
+KIF13A	6-17833975-C-A	stop_gained	c.1252G>T	p.Glu418Ter	1252	12	39	418	0.2316	CC1	False	False	False	HC				0	1574010	0.0	0	AC0	False	False
+KIF13A	6-17833972-CTT-C	frameshift_variant	c.1253_1254del	p.Glu418GlyfsTer11	1253	12	39	418	0.2316	CC1	False	False	False	HC				1	1569436	6.371715699142877e-07	0		True	True
+KIF13A	6-17833972-C-A	stop_gained	c.1255G>T	p.Glu419Ter	1255	12	39	419	0.2321	CC1	False	False	False	HC				0	1569436	0.0	0	AC0	False	False
+KIF13A	6-17833966-CTA-C	frameshift_variant	c.1259_1260del	p.Ile420SerfsTer9	1259	12	39	420	0.2327	CC1	False	False	False	HC				1	1533468	6.52116640190731e-07	0		True	True
+KIF13A	6-17833963-G-A	stop_gained	c.1264C>T	p.Gln422Ter	1264	12	39	422	0.2338	CC1	False	False	False	HC				1	1519626	6.580566534134056e-07	0		True	True
+KIF13A	6-17833959-A-G	splice_donor_variant	c.1266+2T>C		1266	12	39				False	False	False	HC				0	1491222	0.0	0	AC0	False	False
+KIF13A	6-17833959-A-T	splice_donor_variant	c.1266+2T>A		1266	12	39				False	False	False	HC				0	1491220	0.0	0	AC0	False	False
+KIF13A	6-17833960-C-A	splice_donor_variant	c.1266+1G>T		1266	12	39				False	False	False	HC				0	1497474	0.0	0	AC0	False	False
+KIF13A	6-17833960-C-T	splice_donor_variant	c.1266+1G>A		1266	12	39				False	False	False	HC				1	1497474	6.677912270930914e-07	0		True	True
+KIF13A	6-17831228-TG-T	frameshift_variant	c.1273del	p.Gln425AsnfsTer25	1273	13	39	425	0.2355	CC1	False	False	False	HC				1	1610888	6.20775621893018e-07	0		True	True
+KIF13A	6-17831229-G-A	stop_gained	c.1273C>T	p.Gln425Ter	1273	13	39	425	0.2355	CC1	False	False	False	HC				1	1610868	6.207833292361634e-07	0		True	True
+KIF13A	6-17831226-G-A	stop_gained	c.1276C>T	p.Arg426Ter	1276	13	39	426	0.236	CC1	False	False	False	HC				2	1612238	1.2405116366194073e-06	0		True	True
+KIF13A	6-17831105-A-C	stop_gained	c.1397T>G	p.Leu466Ter	1397	13	39	466	0.2582	CC1	False	False	False	HC				1	1611504	6.205383294115311e-07	0		True	True
+KIF13A	6-17828371-C-A	splice_acceptor_variant	c.1402-1G>T		1402	14	39				False	False	False	HC				0	1602638	0.0	0	AC0	False	False
+KIF13A	6-17828372-T-C	splice_acceptor_variant	c.1402-2A>G		1402	14	39				False	False	False	HC				0	1601984	0.0	0	AC0	False	False
+KIF13A	6-17828343-AG-A	frameshift_variant	c.1428del	p.Ser477LeufsTer9	1428	14	39	477	0.2643	FHA	False	False	False	HC				0	1611840	0.0	0	AC0	False	False
+KIF13A	6-17828310-G-A	stop_gained	c.1462C>T	p.Gln488Ter	1462	14	39	488	0.2704	FHA	False	False	False	HC				1	1610836	6.207956613832818e-07	0		True	True
+KIF13A	6-17828304-G-A	stop_gained	c.1468C>T	p.Gln490Ter	1468	14	39	490	0.2715	FHA	False	False	False	HC				4	1610682	2.4834200667791657e-06	0		True	True
+KIF13A	6-17826080-C-T	stop_gained	c.1577G>A	p.Trp526Ter	1577	15	39	526	0.2914	kuyruk	False	False	False	HC				2	1613956	1.239191155149211e-06	0		True	True
+KIF13A	6-17826069-G-A	stop_gained	c.1588C>T	p.Arg530Ter	1588	15	39	530	0.2936	kuyruk	False	False	False	HC				3	1613886	1.858867354943286e-06	0		True	True
+KIF13A	6-17826036-A-G	splice_donor_variant	c.1619+2T>C		1619	15	39				False	False	False	HC				2	1613572	1.2394860595002889e-06	0		True	True
+KIF13A	6-17825909-G-A	stop_gained	c.1645C>T	p.Arg549Ter	1645	16	39	549	0.3042	kuyruk	False	False	False	HC				5	1613902	3.098081543984703e-06	0		True	True
+KIF13A	6-17825888-CAA-C	frameshift_variant	c.1664_1665del	p.Phe555Ter	1664	16	39	555	0.3075	kuyruk	False	False	False	HC				2	1614014	1.2391466245026375e-06	0		True	True
+KIF13A	6-17817213-G-A	stop_gained	c.1807C>T	p.Gln603Ter	1807	17	39	603	0.3341	kuyruk	False	False	False	HC				2	1614024	1.2391389471284194e-06	0		True	True
+KIF13A	6-17817198-G-A	stop_gained	c.1822C>T	p.Gln608Ter	1822	17	39	608	0.3368	kuyruk	False	False	False	HC				1	1614042	6.1956256404728e-07	0		True	True
+KIF13A	6-17817162-G-A	stop_gained	c.1858C>T	p.Gln620Ter	1858	17	39	620	0.3435	kuyruk	False	False	False	HC				1	1614046	6.195610286200021e-07	0		True	True
+KIF13A	6-17817120-G-A	stop_gained	c.1900C>T	p.Gln634Ter	1900	17	39	634	0.3512	kuyruk	False	False	False	HC				1	1614008	6.195756154864164e-07	0		True	True
+KIF13A	6-17817027-C-A	stop_gained	c.1993G>T	p.Glu665Ter	1993	17	39	665	0.3684	kuyruk	False	False	False	HC				1	1610666	6.208611841312848e-07	0		True	True
+KIF13A	6-17817022-CT-C	frameshift_variant	c.1997del	p.Glu666GlyfsTer24	1997	17	39	666	0.369	kuyruk	False	False	False	HC				1	1609828	6.211843749767056e-07	0		True	True
+KIF13A	6-17817018-A-C	splice_donor_variant	c.2000+2T>G		2000	17	39				False	False	False	HC				1	1608734	6.216068038594324e-07	0		True	True
+KIF13A	6-17808931-C-A	splice_acceptor_variant	c.2001-1G>T		2001	18	39				False	False	False	HC				0	1594388	0.0	0	AC0	False	False
+KIF13A	6-17808932-T-C	splice_acceptor_variant	c.2001-2A>G		2001	18	39				False	False	False	HC				1	1594158	6.272903940512797e-07	0	AC0	False	False
+KIF13A	6-17808926-C-A	stop_gained	c.2005G>T	p.Glu669Ter	2005	18	39	669	0.3706	kuyruk	False	False	False	HC				0	1610866	0.0	0	AC0	False	False
+KIF13A	6-17808917-G-A	stop_gained	c.2014C>T	p.Arg672Ter	2014	18	39	672	0.3723	kuyruk	False	False	False	HC				4	1611788	2.4817159576817794e-06	0		True	True
+KIF13A	6-17808896-G-A	stop_gained	c.2035C>T	p.Arg679Ter	2035	18	39	679	0.3762	kuyruk	False	False	False	HC				9	1612724	5.580620118507568e-06	0		True	True
+KIF13A	6-17808767-C-T	splice_donor_variant	c.2163+1G>A		2163	18	39				False	False	False	HC				1	1609628	6.212615585712972e-07	0		True	True
+KIF13A	6-17805483-CT-C	frameshift_variant	c.2295del	p.Val766PhefsTer39	2295	19	39	766	0.4244	kuyruk	False	False	False	HC				1	1613110	6.199205261885427e-07	0		True	True
+KIF13A	6-17804511-C-G	splice_acceptor_variant	c.2305-1G>C		2305	20	39				False	False	False	HC				0	1590696	0.0	0	AC0	False	False
+KIF13A	6-17804511-C-A	splice_acceptor_variant	c.2305-1G>T		2305	20	39				False	False	False	HC				0	1590696	0.0	0	AC0	False	False
+KIF13A	6-17804512-T-A	splice_acceptor_variant	c.2305-2A>T		2305	20	39				False	False	False	HC				0	1589526	0.0	0	AC0	False	False
+KIF13A	6-17804512-T-C	splice_acceptor_variant	c.2305-2A>G		2305	20	39				False	False	False	HC				1	1589526	6.29118366104109e-07	0		True	True
+KIF13A	6-17804505-CTT-C	frameshift_variant	c.2308_2309del	p.Lys770GlufsTer8	2308	20	39	770	0.4266	kuyruk	False	False	False	HC				1	1594340	6.27218786457092e-07	0		True	True
+KIF13A	6-17804504-T-A	stop_gained	c.2311A>T	p.Arg771Ter	2311	20	39	771	0.4271	kuyruk	False	False	False	HC				0	1594818	0.0	0	AC0	False	False
+KIF13A	6-17804496-G-T	stop_gained	c.2319C>A	p.Tyr773Ter	2319	20	39	773	0.4283	kuyruk	False	False	False	HC				1	1598152	6.257227097297378e-07	0		True	True
+KIF13A	6-17804495-C-A	stop_gained	c.2320G>T	p.Gly774Ter	2320	20	39	774	0.4288	kuyruk	False	False	False	HC				0	1597948	0.0	0	AC0	False	False
+KIF13A	6-17804489-GT-G	frameshift_variant	c.2325del	p.Lys775AsnfsTer30	2325	20	39	775	0.4294	kuyruk	False	False	False	HC				0	1598856	0.0	0	AC0	False	False
+KIF13A	6-17804489-G-A	stop_gained	c.2326C>T	p.Arg776Ter	2326	20	39	776	0.4299	kuyruk	False	False	False	HC				0	1598858	0.0	0	AC0	False	False
+KIF13A	6-17804471-C-CCTA	stop_gained	c.2343_2344insTAG	p.Tyr781_Glu782insTer	2343	20	39	781	0.4327	kuyruk	False	False	False	HC				1	1596102	6.265263748808033e-07	0		True	True
+KIF13A	6-17804471-C-A	stop_gained	c.2344G>T	p.Glu782Ter	2344	20	39	782	0.4332	kuyruk	False	False	False	HC				0	1596102	0.0	0	AC0	False	False
+KIF13A	6-17804465-G-A	stop_gained	c.2350C>T	p.Gln784Ter	2350	20	39	784	0.4343	kuyruk	False	False	False	HC				0	1593428	0.0	0	AC0	False	False
+KIF13A	6-17804462-C-A	stop_gained	c.2353G>T	p.Glu785Ter	2353	20	39	785	0.4349	kuyruk	False	False	False	HC				0	1591942	0.0	0	AC0	False	False
+KIF13A	6-17804457-AT-A	frameshift_variant	c.2357del	p.Asn786IlefsTer19	2357	20	39	786	0.4355	kuyruk	False	False	False	HC				0	1589932	0.0	0	AC0	False	False
+KIF13A	6-17804423-C-A	stop_gained	c.2392G>T	p.Glu798Ter	2392	20	39	798	0.4421	kuyruk	False	False	False	HC				0	1565790	0.0	0	AC0	False	False
+KIF13A	6-17804418-G-T	stop_gained	c.2397C>A	p.Cys799Ter	2397	20	39	799	0.4427	kuyruk	False	False	False	HC				0	1561908	0.0	0	AC0	False	False
+KIF13A	6-17804402-T-A	stop_gained	c.2413A>T	p.Lys805Ter	2413	20	39	805	0.446	kuyruk	False	False	False	HC				0	1555068	0.0	0	AC0	False	False
+KIF13A	6-17804369-G-A	stop_gained	c.2446C>T	p.Gln816Ter	2446	20	39	816	0.4521	kuyruk	False	False	False	HC				1	1540982	6.489368467639466e-07	0		True	True
+KIF13A	6-17804362-TC-T	frameshift_variant	c.2452del	p.Glu818ArgfsTer10	2452	20	39	818	0.4532	kuyruk	False	False	False	HC				0	1536200	0.0	0	AC0	False	False
+KIF13A	6-17804360-C-T	splice_donor_variant	c.2454+1G>A		2454	20	39				False	False	False	HC				1	1535866	6.510984682257437e-07	0		True	True
+KIF13A	6-17804360-C-A	splice_donor_variant	c.2454+1G>T		2454	20	39				False	False	False	HC				0	1535866	0.0	0	AC0	False	False
+KIF13A	6-17800109-GCAACC-G	splice_acceptor_variant	c.2455-1_2458del		2455	21	39				False	False	False	HC				4	1613230	2.479497653775345e-06	0		True	True
+KIF13A	6-17800063-TG-T	frameshift_variant	c.2504del	p.Pro835GlnfsTer22	2504	21	39	835	0.4626	kuyruk	False	False	False	HC				1	1613980	6.195863641432979e-07	0		True	True
+KIF13A	6-17800038-AAG-A	frameshift_variant	c.2528_2529del	p.Ser843PhefsTer6	2528	21	39	843	0.467	kuyruk	False	False	False	HC				1	1613992	6.195817575303966e-07	0		True	True
+KIF13A	6-17799975-G-A	stop_gained	c.2593C>T	p.Arg865Ter	2593	21	39	865	0.4792	kuyruk	False	False	False	HC				2	1613634	1.2394384352337643e-06	0		True	True
+KIF13A	6-17799951-C-T	splice_donor_variant	c.2616+1G>A		2616	21	39				False	False	False	HC				1	1613608	6.197292031274014e-07	0		True	True
+KIF13A	6-17799440-C-T	splice_acceptor_variant	c.2617-1G>A		2617	22	39				False	False	False	HC				1	1535336	6.513232282705545e-07	0		True	True
+KIF13A	6-17799440-C-A	splice_acceptor_variant	c.2617-1G>T		2617	22	39				False	False	False	HC				0	1535454	0.0	0	AC0	False	False
+KIF13A	6-17799441-T-C	splice_acceptor_variant	c.2617-2A>G		2617	22	39				False	False	False	HC				0	1533948	0.0	0	AC0	False	False
+KIF13A	6-17799430-T-A	stop_gained	c.2626A>T	p.Lys876Ter	2626	22	39	876	0.4853	kuyruk	False	False	False	HC				0	1554632	0.0	0	AC0	False	False
+KIF13A	6-17799427-CT-C	frameshift_variant	c.2628del	p.Glu877LysfsTer7	2628	22	39	877	0.4859	kuyruk	False	False	False	HC				0	1557476	0.0	0	AC0	False	False
+KIF13A	6-17799415-GC-G	frameshift_variant	c.2640del	p.Leu881CysfsTer3	2640	22	39	881	0.4881	kuyruk	False	False	False	HC				0	1576388	0.0	0	AC0	False	False
+KIF13A	6-17799407-TA-T	frameshift_variant	c.2648del	p.Leu883Ter	2648	22	39	883	0.4892	kuyruk	False	False	False	HC				0	1596260	0.0	0	AC0	False	False
+KIF13A	6-17799382-G-A	stop_gained	c.2674C>T	p.Gln892Ter	2674	22	39	892	0.4942	kuyruk	False	False	False	HC				1	1608622	6.216500831146162e-07	0		True	True
+KIF13A	6-17799366-TCC-T	stop_gained	c.2688_2689del	p.Trp896Ter	2688	22	39	896	0.4964	kuyruk	False	False	False	HC				1	1612062	6.203235359434066e-07	0		True	True
+KIF13A	6-17799358-C-CT	frameshift_variant	c.2697_2698insA	p.Glu900ArgfsTer31	2697	22	39	900	0.4986	kuyruk	False	False	False	HC				0	1612568	0.0	0		False	False
+KIF13A	6-17799355-AC-A	frameshift_variant	c.2700del	p.Glu900AspfsTer25	2700	22	39	900	0.4986	kuyruk	False	False	False	HC				0	1613000	0.0	0		False	False
+KIF13A	6-17799351-GT-G	frameshift_variant	c.2704del	p.Thr902ArgfsTer23	2704	22	39	902	0.4997	kuyruk	False	False	False	HC				0	1612662	0.0	0		False	False
+KIF13A	6-17799338-CG-C	frameshift_variant	c.2717del	p.Pro906ArgfsTer19	2717	22	39	906	0.5019	kuyruk	False	False	False	HC				0	1612882	0.0	0	AC0	False	False
+KIF13A	6-17799330-TCC-T	frameshift_variant	c.2724_2725del	p.Asp909ProfsTer21	2724	22	39	909	0.5036	kuyruk	False	False	False	HC				0	1613218	0.0	0	AC0	False	False
+KIF13A	6-17799327-G-GTTTTTTAAT	stop_gained	c.2728_2729insATTAAAAAA	p.Pro910delinsHisTer	2728	22	39	910	0.5042	kuyruk	False	False	False	HC				0	1613310	0.0	0	AC0	False	False
+KIF13A	6-17799325-C-A	stop_gained	c.2731G>T	p.Glu911Ter	2731	22	39	911	0.5047	kuyruk	False	False	False	HC				2	1613456	1.239575172796779e-06	0		True	True
+KIF13A	6-17799310-G-A	stop_gained	c.2746C>T	p.Gln916Ter	2746	22	39	916	0.5075	kuyruk	False	False	False	HC				1	1613408	6.198060255062575e-07	0		True	True
+KIF13A	6-17799308-CT-C	frameshift_variant	c.2747del	p.Gln916ArgfsTer9	2747	22	39	916	0.5075	kuyruk	False	False	False	HC				1	1613198	6.198867095049709e-07	0		True	True
+KIF13A	6-17799294-TG-T	frameshift_variant	c.2761del	p.Gln921SerfsTer4	2761	22	39	921	0.5102	kuyruk	False	False	False	HC				1	1610796	6.208110772562137e-07	0		True	True
+KIF13A	6-17799265-C-A	splice_donor_variant	c.2790+1G>T		2790	22	39				False	False	False	HC				0	1585040	0.0	0	AC0	False	False
+KIF13A	6-17796821-C-A	splice_acceptor_variant	c.2791-1G>T		2791	23	39				False	False	False	HC				0	1506546	0.0	0	AC0	False	False
+KIF13A	6-17796822-T-C	splice_acceptor_variant	c.2791-2A>G		2791	23	39				False	False	False	HC				1	1494658	6.690493745057398e-07	0		True	True
+KIF13A	6-17796822-T-A	splice_acceptor_variant	c.2791-2A>T		2791	23	39				False	False	False	HC				4	1494658	2.676197498022959e-06	0		True	True
+KIF13A	6-17796799-C-A	stop_gained	c.2812G>T	p.Glu938Ter	2812	23	39	938	0.5197	kuyruk	False	False	False	HC				0	1569804	0.0	0	AC0	False	False
+KIF13A	6-17796796-C-A	stop_gained	c.2815G>T	p.Glu939Ter	2815	23	39	939	0.5202	kuyruk	False	False	False	HC				0	1572140	0.0	0	AC0	False	False
+KIF13A	6-17796786-TC-T	frameshift_variant	c.2824del	p.Glu942SerfsTer44	2824	23	39	942	0.5219	kuyruk	False	False	False	HC				1	1574588	6.3508676555391e-07	0		True	True
+KIF13A	6-17796787-C-A	stop_gained	c.2824G>T	p.Glu942Ter	2824	23	39	942	0.5219	kuyruk	False	False	False	HC				0	1574350	0.0	0	AC0	False	False
+KIF13A	6-17796777-G-T	stop_gained	c.2834C>A	p.Ser945Ter	2834	23	39	945	0.5235	kuyruk	False	False	False	HC				0	1578552	0.0	0	AC0	False	False
+KIF13A	6-17796772-C-A	stop_gained	c.2839G>T	p.Gly947Ter	2839	23	39	947	0.5247	kuyruk	False	False	False	HC				0	1580872	0.0	0	AC0	False	False
+KIF13A	6-17796762-GC-G	frameshift_variant	c.2848del	p.Ala950ProfsTer36	2848	23	39	950	0.5263	kuyruk	False	False	False	HC				0	1583542	0.0	0	AC0	False	False
+KIF13A	6-17796731-TC-T	frameshift_variant	c.2879del	p.Gly960GlufsTer26	2879	23	39	960	0.5319	kuyruk	False	False	False	HC				0	1593720	0.0	0	AC0	False	False
+KIF13A	6-17796714-C-T	stop_gained	c.2897G>A	p.Trp966Ter	2897	23	39	966	0.5352	kuyruk	False	False	False	HC				1	1588848	6.293868261784639e-07	0		True	True
+KIF13A	6-17796712-C-A	stop_gained	c.2899G>T	p.Glu967Ter	2899	23	39	967	0.5357	kuyruk	False	False	False	HC				0	1588730	0.0	0	AC0	False	False
+KIF13A	6-17796693-GC-G	frameshift_variant	c.2917del	p.Ala973LeufsTer13	2917	23	39	973	0.5391	kuyruk	False	False	False	HC				0	1577286	0.0	0	AC0	False	False
+KIF13A	6-17796689-CT-C	frameshift_variant	c.2921del	p.Lys974ArgfsTer12	2921	23	39	974	0.5396	kuyruk	False	False	False	HC				0	1572296	0.0	0	AC0	False	False
+KIF13A	6-17796668-C-T	splice_donor_variant	c.2942+1G>A		2942	23	39				False	False	False	HC				0	1504076	0.0	0	AC0	False	False
+KIF13A	6-17796668-C-A	splice_donor_variant	c.2942+1G>T		2942	23	39				False	False	False	HC				1	1504076	6.64860020371311e-07	0		True	True
+KIF13A	6-17794697-C-A	stop_gained	c.2950G>T	p.Glu984Ter	2950	24	39	984	0.5452	kuyruk	False	False	False	HC				0	1608184	0.0	0	AC0	False	False
+KIF13A	6-17794688-G-A	stop_gained	c.2959C>T	p.Arg987Ter	2959	24	39	987	0.5468	kuyruk	False	False	False	HC				2	1609632	1.2425200294228743e-06	0		True	True
+KIF13A	6-17794670-TC-T	frameshift_variant	c.2976del	p.Trp992Ter	2976	24	39	992	0.5496	kuyruk	False	False	False	HC				1	1612102	6.203081442737494e-07	0		True	True
+KIF13A	6-17794671-C-T	stop_gained	c.2976G>A	p.Trp992Ter	2976	24	39	992	0.5496	kuyruk	False	False	False	HC				1	1611988	6.203520125459991e-07	0		True	True
+KIF13A	6-17794571-CCTGT-C	frameshift_variant	c.3072_3075del	p.Gln1025ValfsTer10	3072	24	39	1025	0.5679	kuyruk	False	False	False	HC				1	1601532	6.244021349557798e-07	0		True	True
+KIF13A	6-17794571-C-A	splice_donor_variant	c.3075+1G>T		3075	24	39				False	False	False	HC				2	1601532	1.2488042699115596e-06	0		True	True
+KIF13A	6-17794382-C-CT	frameshift_variant	c.3088dup	p.Arg1030LysfsTer20	3088	25	39	1030	0.5706	kuyruk	False	False	False	HC				2	1613218	1.2397580488191925e-06	0		True	True
+KIF13A	6-17794336-TG-T	frameshift_variant	c.3134del	p.Pro1045HisfsTer15	3134	25	39	1045	0.5789	kuyruk	False	False	False	HC				1	1613462	6.197852815870469e-07	0		True	True
+KIF13A	6-17794302-CGATGGATACTGACA-C	frameshift_variant	c.3155_3168del	p.Leu1052ArgfsTer21	3155	25	39	1052	0.5828	kuyruk	False	False	False	HC				1	1613446	6.197914277887206e-07	0		True	True
+KIF13A	6-17794313-G-T	stop_gained	c.3158C>A	p.Ser1053Ter	3158	25	39	1053	0.5834	kuyruk	False	False	False	HC				0	1613458	0.0	0	AC0	False	False
+KIF13A	6-17794252-G-T	stop_gained	c.3219C>A	p.Tyr1073Ter	3219	25	39	1073	0.5945	kuyruk	False	False	False	HC				0	1609632	0.0	0	AC0	False	False
+KIF13A	6-17794250-TG-T	frameshift_variant	c.3220del	p.Gln1074ArgfsTer18	3220	25	39	1074	0.595	kuyruk	False	False	False	HC				0	1609084	0.0	0	AC0	False	False
+KIF13A	6-17787876-C-T	splice_acceptor_variant	c.3262-1G>A		3262	27	39				False	False	False	HC				0	1578330	0.0	0	AC0	False	False
+KIF13A	6-17787861-G-GT	frameshift_variant	c.3275dup	p.Asn1092LysfsTer13	3275	27	39	1092	0.605	kuyruk	False	False	False	HC				1	1606416	6.225037599227099e-07	0		True	True
+KIF13A	6-17787858-G-T	stop_gained	c.3279C>A	p.Cys1093Ter	3279	27	39	1093	0.6055	kuyruk	False	False	False	HC				0	1607736	0.0	0	AC0	False	False
+KIF13A	6-17787824-G-A	stop_gained	c.3313C>T	p.Arg1105Ter	3313	27	39	1105	0.6122	kuyruk	False	False	False	HC				4	1613446	2.4791657111548822e-06	0		True	True
+KIF13A	6-17787821-G-A	stop_gained	c.3316C>T	p.Arg1106Ter	3316	27	39	1106	0.6127	kuyruk	False	False	False	HC				3	1613282	1.8595633001545918e-06	0		True	True
+KIF13A	6-17787818-C-A	stop_gained	c.3319G>T	p.Glu1107Ter	3319	27	39	1107	0.6133	kuyruk	False	False	False	HC				1	1613406	6.198067938262285e-07	0		True	True
+KIF13A	6-17787806-C-A	stop_gained	c.3331G>T	p.Glu1111Ter	3331	27	39	1111	0.6155	kuyruk	False	False	False	HC				1	1612578	6.201250420134716e-07	0		True	True
+KIF13A	6-17787791-C-CT	frameshift_variant	c.3345dup	p.Val1116SerfsTer4	3345	27	39	1116	0.6183	kuyruk	False	False	False	HC				7	1608838	4.350966349626252e-06	0		True	True
+KIF13A	6-17787791-CT-C	frameshift_variant	c.3345del	p.Val1116SerfsTer23	3345	27	39	1116	0.6183	kuyruk	False	False	False	HC				0	1608934	0.0	0	AC0	False	False
+KIF13A	6-17787774-A-G	splice_donor_variant	c.3361+2T>C		3361	27	39				False	False	False	HC				0	1583906	0.0	0	AC0	False	False
+KIF13A	6-17787775-C-G	splice_donor_variant	c.3361+1G>C		3361	27	39				False	False	False	HC				1	1585158	6.308519403113128e-07	0		True	True
+KIF13A	6-17785642-C-A	splice_acceptor_variant	c.3362-1G>T		3362	28	39				False	False	False	HC				0	1602190	0.0	0	AC0	False	False
+KIF13A	6-17785630-CCT-C	frameshift_variant	c.3371_3372del	p.Glu1124GlyfsTer18	3371	28	39	1124	0.6227	kuyruk	False	False	False	HC				5	1604724	3.115800598732243e-06	0		True	True
+KIF13A	6-17785621-C-A	stop_gained	c.3382G>T	p.Glu1128Ter	3382	28	39	1128	0.6249	kuyruk	False	False	False	HC				4	1605786	2.4909919503595123e-06	0		True	True
+KIF13A	6-17785614-TC-T	frameshift_variant	c.3388del	p.Glu1130LysfsTer9	3388	28	39	1130	0.626	kuyruk	False	False	False	HC				1	1606392	6.225130603240056e-07	0		True	True
+KIF13A	6-17785609-G-A	stop_gained	c.3394C>T	p.Gln1132Ter	3394	28	39	1132	0.6271	kuyruk	False	False	False	HC				1	1606254	6.225665430249512e-07	0		True	True
+KIF13A	6-17785597-G-A	stop_gained	c.3406C>T	p.Gln1136Ter	3406	28	39	1136	0.6294	kuyruk	False	False	False	HC				0	1606034	0.0	0	AC0	False	False
+KIF13A	6-17785579-C-A	stop_gained	c.3424G>T	p.Glu1142Ter	3424	28	39	1142	0.6327	kuyruk	False	False	False	HC				0	1604324	0.0	0	AC0	False	False
+KIF13A	6-17785576-C-A	stop_gained	c.3427G>T	p.Glu1143Ter	3427	28	39	1143	0.6332	kuyruk	False	False	False	HC				0	1603986	0.0	0	AC0	False	False
+KIF13A	6-17785522-CA-C	frameshift_variant	c.3480del	p.Ala1161ProfsTer20	3480	28	39	1161	0.6432	kuyruk	False	False	False	HC				0	1575526	0.0	0	AC0	False	False
+KIF13A	6-17785513-A-G	splice_donor_variant	c.3488+2T>C		3488	28	39				False	False	False	HC				0	1565406	0.0	0	AC0	False	False
+KIF13A	6-17785514-C-G	splice_donor_variant	c.3488+1G>C		3488	28	39				False	False	False	HC				3	1566614	1.9149579922048443e-06	0		True	True
+KIF13A	6-17785515-C-T	stop_gained	c.3488G>A	p.Trp1163Ter	3488	28	39	1163	0.6443	kuyruk	False	False	False	HC				0	1567434	0.0	0	AC0	False	False
+KIF13A	6-17783701-C-T	stop_gained	c.3489G>A	p.Trp1163Ter	3489	29	39	1163	0.6443	kuyruk	False	False	False	HC				0	1559866	0.0	0	AC0	False	False
+KIF13A	6-17783702-C-T	splice_acceptor_variant	c.3489-1G>A		3489	29	39				False	False	False	HC				2	1556638	1.284820234376907e-06	0		True	True
+KIF13A	6-17783702-C-A	splice_acceptor_variant	c.3489-1G>T		3489	29	39				False	False	False	HC				0	1556638	0.0	0	AC0	False	False
+KIF13A	6-17783703-T-C	splice_acceptor_variant	c.3489-2A>G		3489	29	39				False	False	False	HC				0	1547162	0.0	0	AC0	False	False
+KIF13A	6-17783703-T-A	splice_acceptor_variant	c.3489-2A>T		3489	29	39				False	False	False	HC				0	1547162	0.0	0	AC0	False	False
+KIF13A	6-17783695-TG-T	frameshift_variant	c.3494del	p.Pro1165HisfsTer16	3494	29	39	1165	0.6454	kuyruk	False	False	False	HC				1	1569134	6.372942017698935e-07	0		True	True
+KIF13A	6-17783688-C-A	stop_gained	c.3502G>T	p.Gly1168Ter	3502	29	39	1168	0.6471	kuyruk	False	False	False	HC				1	1576170	6.344493297042831e-07	0		True	True
+KIF13A	6-17783682-C-A	stop_gained	c.3508G>T	p.Glu1170Ter	3508	29	39	1170	0.6482	kuyruk	False	False	False	HC				0	1580218	0.0	0	AC0	False	False
+KIF13A	6-17783675-TG-T	frameshift_variant	c.3514del	p.His1172ThrfsTer9	3514	29	39	1172	0.6493	kuyruk	False	False	False	HC				0	1582104	0.0	0	AC0	False	False
+KIF13A	6-17783668-TG-T	frameshift_variant	c.3521del	p.Pro1174GlnfsTer7	3521	29	39	1174	0.6504	kuyruk	False	False	False	HC				2	1582422	1.2638853605422573e-06	0		True	True
+KIF13A	6-17783650-CA-C	frameshift_variant	c.3539del	p.Leu1180Ter	3539	29	39	1180	0.6537	kuyruk	False	False	False	HC				0	1573716	0.0	0	AC0	False	False
+KIF13A	6-17783644-A-G	splice_donor_variant	c.3544+2T>C		3544	29	39				False	False	False	HC				0	1563946	0.0	0	AC0	False	False
+KIF13A	6-17783645-C-T	splice_donor_variant	c.3544+1G>A		3544	29	39				False	False	False	HC				1	1564694	6.391025976964186e-07	0		True	True
+KIF13A	6-17783645-C-A	splice_donor_variant	c.3544+1G>T		3544	29	39				False	False	False	HC				0	1564694	0.0	0	AC0	False	False
+KIF13A	6-17781302-C-A	splice_acceptor_variant	c.3545-1G>T		3545	30	39				False	False	False	HC				1	1592098	6.281020389448388e-07	0		True	True
+KIF13A	6-17781205-AG-A	frameshift_variant	c.3640del	p.Leu1214CysfsTer4	3640	30	39	1214	0.6726	kuyruk	False	False	False	HC				1	1613822	6.196470242690954e-07	0		True	True
+KIF13A	6-17780881-GA-G	frameshift_variant	c.3694del	p.Ser1232ProfsTer9	3694	31	39	1232	0.6825	kuyruk	False	False	False	HC				1	1613850	6.196362735074511e-07	0		True	True
+KIF13A	6-17780873-G-GC	frameshift_variant	c.3702dup	p.His1235AlafsTer2	3702	31	39	1235	0.6842	kuyruk	False	False	False	HC				1	1613866	6.196301303825721e-07	0		True	True
+KIF13A	6-17780765-G-A	stop_gained	c.3811C>T	p.Arg1271Ter	3811	31	39	1271	0.7042	kuyruk	False	False	False	HC				4	1613992	2.4783270301215866e-06	0		True	True
+KIF13A	6-17780759-GT-G	frameshift_variant	c.3816del	p.Lys1272AsnfsTer17	3816	31	39	1272	0.7047	kuyruk	False	False	False	HC				1	1614000	6.195786864931847e-07	0		True	True
+KIF13A	6-17780759-G-A	stop_gained	c.3817C>T	p.Arg1273Ter	3817	31	39	1273	0.7053	kuyruk	False	False	False	HC				5	1613998	3.0978972712481675e-06	0		True	True
+KIF13A	6-17780729-C-A	splice_donor_variant	c.3846+1G>T		3846	31	39				False	False	False	HC				1	1613388	6.198137087916855e-07	0		True	True
+KIF13A	6-17779682-ACTCTAGT-A	splice_acceptor_variant	c.3847-5_3848del		3847	32	39				False	False	False	HC				1	1356094	7.374120083121082e-07	0		True	True
+KIF13A	6-17779685-C-T	splice_acceptor_variant	c.3847-1G>A		3847	32	39				False	False	False	HC				1	1267116	7.891937281196039e-07	0		True	True
+KIF13A	6-17779685-C-A	splice_acceptor_variant	c.3847-1G>T		3847	32	39				False	False	False	HC				3	1267094	2.3676222916374004e-06	0		True	True
+KIF13A	6-17779686-T-A	splice_acceptor_variant	c.3847-2A>T		3847	32	39				False	False	False	HC				0	1270838	0.0	0	AC0	False	False
+KIF13A	6-17779686-T-C	splice_acceptor_variant	c.3847-2A>G		3847	32	39				False	False	False	HC				1	1270920	7.868315865672111e-07	0		True	True
+KIF13A	6-17779686-T-G	splice_acceptor_variant	c.3847-2A>C		3847	32	39				False	False	False	HC				0	1270926	0.0	0	AC0	False	False
+KIF13A	6-17779675-G-A	stop_gained	c.3856C>T	p.Gln1286Ter	3856	32	39	1286	0.7125	kuyruk	False	False	False	HC				1	1432564	6.9804909239657e-07	0		True	True
+KIF13A	6-17779666-T-A	stop_gained	c.3865A>T	p.Lys1289Ter	3865	32	39	1289	0.7141	kuyruk	False	False	False	HC				0	1474326	0.0	0	AC0	False	False
+KIF13A	6-17779660-TCC-T	frameshift_variant	c.3869_3870del	p.Arg1290LysfsTer16	3869	32	39	1290	0.7147	kuyruk	False	False	False	HC				0	1482268	0.0	0		False	False
+KIF13A	6-17779660-T-A	stop_gained	c.3871A>T	p.Arg1291Ter	3871	32	39	1291	0.7152	kuyruk	False	False	False	HC				0	1482358	0.0	0	AC0	False	False
+KIF13A	6-17779643-A-AT	frameshift_variant	c.3887dup	p.Asn1296LysfsTer11	3887	32	39	1296	0.718	kuyruk	False	False	False	HC				0	1514880	0.0	0	AC0	False	False
+KIF13A	6-17779643-AT-A	frameshift_variant	c.3887del	p.Asn1296IlefsTer8	3887	32	39	1296	0.718	kuyruk	False	False	False	HC				0	1514880	0.0	0	AC0	False	False
+KIF13A	6-17779635-TA-T	frameshift_variant	c.3895del	p.Tyr1299IlefsTer5	3895	32	39	1299	0.7197	kuyruk	False	False	False	HC				0	1516024	0.0	0	AC0	False	False
+KIF13A	6-17779625-AC-A	frameshift_variant	c.3905del	p.Gly1302ValfsTer2	3905	32	39	1302	0.7213	kuyruk	False	False	False	HC				1	1521650	6.571813491933099e-07	0		True	True
+KIF13A	6-17779611-AT-A	frameshift_variant	c.3919del	p.Ile1307Ter	3919	32	39	1307	0.7241	kuyruk	False	False	False	HC				0	1464408	0.0	0	AC0	False	False
+KIF13A	6-17779594-T-A	stop_gained	c.3937A>T	p.Lys1313Ter	3937	32	39	1313	0.7274	kuyruk	False	False	False	HC				0	1324574	0.0	0	AC0	False	False
+KIF13A	6-17779590-A-T	splice_donor_variant	c.3939+2T>A		3939	32	39				False	False	False	HC				0	1308210	0.0	0	AC0	False	False
+KIF13A	6-17779591-C-T	splice_donor_variant	c.3939+1G>A		3939	32	39				False	False	False	HC				0	1296768	0.0	0	AC0	False	False
+KIF13A	6-17779074-TCCCGGTC-T	frameshift_variant	c.3958_3964del	p.Asp1320LysfsTer36	3958	33	39	1320	0.7313	kuyruk	False	False	False	HC				5	1613636	3.098592247570084e-06	0		True	True
+KIF13A	6-17779004-CTTCTCAA-C	frameshift_variant	c.4028_4034del	p.Ile1343SerfsTer13	4028	33	39	1343	0.744	kuyruk	False	False	False	HC				1	1613412	6.198044888720302e-07	0		True	True
+KIF13A	6-17779001-GTA-G	frameshift_variant	c.4036_4037del	p.Tyr1346HisfsTer14	4036	33	39	1346	0.7457	kuyruk	False	False	False	HC				1	1613284	6.198536649467794e-07	0		True	True
+KIF13A	6-17778997-G-A	stop_gained	c.4042C>T	p.Arg1348Ter	4042	33	39	1348	0.7468	kuyruk	False	False	False	HC				5	1612742	3.1003099069783014e-06	0		True	True
+KIF13A	6-17778954-AG-A	frameshift_variant	c.4084del	p.Leu1362SerfsTer64	4084	33	39	1362	0.7546	kuyruk	False	False	False	HC				1	1588706	6.294430813504827e-07	0		True	True
+KIF13A	6-17778949-G-A	stop_gained	c.4090C>T	p.Gln1364Ter	4090	33	39	1364	0.7557	kuyruk	False	False	False	HC				0	1580804	0.0	0	AC0	False	False
+KIF13A	6-17778945-G-T	splice_donor_variant	c.4092+2C>A		4092	33	39				False	False	False	HC		NON_CAN_SPLICE	lof_flag	0	1575154	0.0	0	AC0	False	False
+KIF13A	6-17778945-G-A	splice_donor_variant	c.4092+2C>T		4092	33	39				False	False	False	LC	GC_TO_GT_DONOR	NON_CAN_SPLICE	lc_lof;lof_flag	1	1575154	6.348585598614485e-07	0		True	False
+KIF13A	6-17777345-CTG-C	frameshift_variant	c.4100_4101del	p.Thr1367SerfsTer23	4100	34	39	1367	0.7573	kuyruk	False	False	False	HC				0	1611702	0.0	0	AC0	False	False
+KIF13A	6-17777342-T-A	stop_gained	c.4105A>T	p.Lys1369Ter	4105	34	39	1369	0.7584	kuyruk	False	False	False	HC				3	1612706	1.8602274686148622e-06	0		True	True
+KIF13A	6-17777336-CTTCT-C	frameshift_variant	c.4107_4110del	p.Glu1370HisfsTer55	4107	34	39	1370	0.759	kuyruk	False	False	False	HC				0	1612840	0.0	0	AC0	False	False
+KIF13A	6-17777276-C-T	splice_donor_variant	c.4170+1G>A		4170	34	39				False	False	False	HC				1	1610182	6.210478070180887e-07	0		True	True
+KIF13A	6-17775064-T-A	splice_acceptor_variant	c.4171-2A>T		4171	35	39				False	False	False	HC				1	1609998	6.211187839984895e-07	0		True	True
+KIF13A	6-17775064-T-C	splice_acceptor_variant	c.4171-2A>G		4171	35	39				False	False	False	HC				3	1609998	1.8633563519954682e-06	0		True	True
+KIF13A	6-17775053-TG-T	frameshift_variant	c.4179del	p.Ser1394AlafsTer32	4179	35	39	1394	0.7723	kuyruk	False	False	False	HC				3	1611712	1.8613747369257038e-06	0		True	True
+KIF13A	6-17775050-G-A	stop_gained	c.4183C>T	p.Arg1395Ter	4183	35	39	1395	0.7729	kuyruk	False	False	False	HC				29	1611444	1.799628159588543e-05	0		True	True
+KIF13A	6-17775015-CT-C	frameshift_variant	c.4217del	p.Lys1406ArgfsTer20	4217	35	39	1406	0.7789	kuyruk	False	False	False	HC				1	1610412	6.209591086007804e-07	0		True	True
+KIF13A	6-17775013-A-T	splice_donor_variant	c.4218+2T>A		4218	35	39				False	False	False	HC				1	1610108	6.210763501578776e-07	0		True	True
+KIF13A	6-17773584-C-A	splice_acceptor_variant	c.4219-1G>T		4219	36	39				False	False	False	HC				1	1582378	6.319602522279759e-07	0		True	True
+KIF13A	6-17773585-T-C	splice_acceptor_variant	c.4219-2A>G		4219	36	39				False	False	False	HC				0	1580020	0.0	0	AC0	False	False
+KIF13A	6-17773578-C-T	stop_gained	c.4224G>A	p.Trp1408Ter	4224	36	39	1408	0.7801	kuyruk	False	False	False	HC				0	1597566	0.0	0	AC0	False	False
+KIF13A	6-17773567-TG-T	frameshift_variant	c.4234del	p.Gln1412SerfsTer14	4234	36	39	1412	0.7823	kuyruk	False	False	False	HC				0	1607978	0.0	0	AC0	False	False
+KIF13A	6-17773546-C-CT	frameshift_variant	c.4255dup	p.Ser1419LysfsTer22	4255	36	39	1419	0.7861	kuyruk	False	False	False	HC				1	1611806	6.204220607194662e-07	0		True	True
+KIF13A	6-17773509-TA-T	frameshift_variant	c.4292del	p.Leu1431TyrfsTer21	4292	36	39	1431	0.7928	kuyruk	False	False	False	HC				4	1609960	2.4845337772367014e-06	0		True	True
+KIF13A	6-17773493-G-A	stop_gained	c.4309C>T	p.Arg1437Ter	4309	36	39	1437	0.7961	kuyruk	False	False	False	HC				5	1591952	3.1407982150215583e-06	0		True	True
+KIF13A	6-17773476-A-ACCT	splice_donor_variant	c.4323_4324+1dup		4323	36	39				False	False	False	HC				1	1534876	6.515184288502784e-07	0		True	True
+KIF13A	6-17773477-C-T	splice_donor_variant	c.4324+1G>A		4324	36	39				False	False	False	HC				10	1540922	6.48962114889657e-06	0		True	True
+KIF13A	6-17772024-T-TGACG	frameshift_variant	c.4356_4359dup	p.Ser1454ArgfsTer5	4356	37	39	1454	0.8055	kuyruk	False	False	False	HC				1	1613958	6.195948097781974e-07	0		True	True
+KIF13A	6-17771927-CT-C	frameshift_variant	c.4456del	p.Arg1486GlyfsTer4	4456	37	39	1486	0.8233	kuyruk	False	False	False	HC				1	1613966	6.195917386115941e-07	0		True	True
+KIF13A	6-17771154-C-CTGCT	frameshift_variant	c.4537_4540dup	p.Ser1514LysfsTer9	4537	38	39	1514	0.8388	kuyruk	False	True	False	LC	END_TRUNC	PHYLOCSF_WEAK	lc_lof;lof_flag	1	1613268	6.198598125048039e-07	0		True	False
+KIF13A	6-17771131-TGCTA-T	frameshift_variant	c.4560_4563del	p.Asn1520LysfsTer23	4560	38	39	1520	0.8421	kuyruk	False	True	False	LC	END_TRUNC	PHYLOCSF_WEAK	lc_lof;lof_flag	3	1611524	1.8615918844522329e-06	0		True	False
+KIF13A	6-17771126-AC-A	frameshift_variant	c.4568del	p.Arg1523LeufsTer21	4568	38	39	1523	0.8438	kuyruk	False	True	False	LC	END_TRUNC	PHYLOCSF_WEAK	lc_lof;lof_flag	1	1610126	6.210694069905088e-07	0		True	False
+KIF13A	6-17771122-T-A	stop_gained	c.4573A>T	p.Lys1525Ter	4573	38	39	1525	0.8449	kuyruk	False	True	False	LC	END_TRUNC	PHYLOCSF_WEAK	lc_lof;lof_flag	2	1608766	1.2431888789295646e-06	0		True	False
+KIF13A	6-17771111-TA-T	splice_donor_variant	c.4581+2del		4581	38	39				False	True	False	HC				0	1600488	0.0	0	AC0	False	False
+KIF13A	6-17771113-C-T	splice_donor_variant	c.4581+1G>A		4581	38	39				False	True	False	HC				2	1603720	1.2471004913575937e-06	0		True	False
+KIF13A	6-17771113-C-A	splice_donor_variant	c.4581+1G>T		4581	38	39				False	True	False	HC				1	1603722	6.235494680499488e-07	0		True	False
+KIF13A	6-17771113-C-G	splice_donor_variant	c.4581+1G>C		4581	38	39				False	True	False	HC				128	1603720	7.9814431446886e-05	0		True	False
+KIF13A	6-17764947-C-T	splice_acceptor_variant	c.4582-1G>A		4582	39	39				True	True	False	HC				1	1592290	6.28026301741517e-07	0		True	False
+KIF13A	6-17764940-C-A	stop_gained	c.4588G>T	p.Glu1530Ter	4588	39	39	1530	0.8476	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	30	1605116	1.869023796410976e-05	0		True	False
+KIF13A	6-17764904-TC-T	frameshift_variant	c.4623del	p.Lys1542SerfsTer2	4623	39	39	1542	0.8543	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1613366	6.198221606256733e-07	0		True	False
+KIF13A	6-17764878-TACATAAGGCTGTGA-T	frameshift_variant	c.4636_4649del	p.Ser1546ThrfsTer6	4636	39	39	1546	0.8565	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	4	1613712	2.4787570520638133e-06	0		True	False
+KIF13A	6-17764827-CCT-C	frameshift_variant	c.4699_4700del	p.Arg1567GlyfsTer6	4699	39	39	1567	0.8681	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1613608	6.197292031274014e-07	0		True	False
+KIF13A	6-17764816-G-GAAAACCATT	stop_gained	c.4703_4711dup	p.Phe1570_Ser1571insTer	4703	39	39	1570	0.8698	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1613420	6.198014156264333e-07	0		True	False
+KIF13A	6-17764821-C-T	stop_gained	c.4707G>A	p.Trp1569Ter	4707	39	39	1569	0.8693	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	4	1613652	2.4788492190385534e-06	0		True	False
+KIF13A	6-17764816-GA-G	frameshift_variant	c.4711del	p.Ser1571ProfsTer4	4711	39	39	1571	0.8704	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1613538	6.197560887936944e-07	0		True	False
+KIF13A	6-17764765-CG-C	frameshift_variant	c.4762del	p.Arg1588ValfsTer65	4762	39	39	1588	0.8798	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1612958	6.199789455150103e-07	0		True	False
+KIF13A	6-17764731-G-T	stop_gained	c.4797C>A	p.Tyr1599Ter	4797	39	39	1599	0.8859	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	37	1612298	2.294861123688053e-05	0		True	False
+KIF13A	6-17764731-G-C	stop_gained	c.4797C>G	p.Tyr1599Ter	4797	39	39	1599	0.8859	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	2	1612402	1.240385462186229e-06	0		True	False
+KIF13A	6-17764664-G-A	stop_gained	c.4864C>T	p.Gln1622Ter	4864	39	39	1622	0.8986	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1613850	6.196362735074511e-07	0		True	False
+KIF13A	6-17764655-T-TG	frameshift_variant	c.4872dup	p.Ile1625HisfsTer19	4872	39	39	1625	0.9003	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1613912	6.196124695770277e-07	0		True	False
+KIF13A	6-17764646-TCGTC-T	frameshift_variant	c.4878_4881del	p.Thr1627ArgfsTer25	4878	39	39	1627	0.9014	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	0	1613312	0.0	0		False	False
+KIF13A	6-17764637-CT-C	frameshift_variant	c.4890del	p.Asp1631ThrfsTer22	4890	39	39	1631	0.9036	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	0	1613526	0.0	0		False	False
+KIF13A	6-17764632-GGA-G	frameshift_variant	c.4894_4895del	p.Ser1632HisfsTer11	4894	39	39	1632	0.9042	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	0	1613420	0.0	0		False	False
+KIF13A	6-17764622-AG-A	frameshift_variant	c.4905del	p.Ser1636ProfsTer17	4905	39	39	1636	0.9064	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	0	1613686	0.0	0		False	False
+KIF13A	6-17764577-CTTTG-C	frameshift_variant	c.4947_4950del	p.Asn1649LysfsTer3	4947	39	39	1649	0.9136	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	12	1613820	7.435773506338997e-06	0		True	False
+KIF13A	6-17764577-CTT-C	frameshift_variant	c.4949_4950del	p.Lys1650ArgfsTer37	4949	39	39	1650	0.9141	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	11	1613938	6.8156273661070006e-06	0		True	False
+KIF13A	6-17764577-C-CT	frameshift_variant	c.4950dup	p.Glu1651ArgfsTer37	4950	39	39	1651	0.9147	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1613938	6.196024878279092e-07	0		True	False
+KIF13A	6-17764561-TCGAC-T	frameshift_variant	c.4963_4966del	p.Val1655LysfsTer5	4963	39	39	1655	0.9169	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	0	1613860	0.0	0		False	False
+KIF13A	6-17764556-C-CT	frameshift_variant	c.4971dup	p.Gly1658ArgfsTer30	4971	39	39	1658	0.9186	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1613892	6.196201480644306e-07	0		True	False
+KIF13A	6-17764556-CT-C	frameshift_variant	c.4971del	p.Gly1658AlafsTer3	4971	39	39	1658	0.9186	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1613892	6.196201480644306e-07	0		True	False
+KIF13A	6-17764545-C-CT	frameshift_variant	c.4982dup	p.Asp1662GlyfsTer26	4982	39	39	1662	0.9208	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1613954	6.195963453729165e-07	0		True	False
+KIF13A	6-17764528-AC-A	frameshift_variant	c.4999del	p.Val1667CysfsTer9	4999	39	39	1667	0.9235	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1613976	6.19587899696154e-07	0		True	False
+KIF13A	6-17764473-GA-G	frameshift_variant	c.5054del	p.Ile1685ThrfsTer18	5054	39	39	1685	0.9335	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1614018	6.195717767707671e-07	0		True	False
+KIF13A	6-17764446-GCA-G	frameshift_variant	c.5080_5081del	p.Cys1694GlnfsTer16	5080	39	39	1694	0.9385	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1614018	6.195717767707671e-07	0		True	False
+KIF13A	6-17764444-C-CAAAAACA	frameshift_variant	c.5083_5084insTGTTTTT	p.Arg1695MetfsTer18	5083	39	39	1695	0.9391	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1614024	6.195694735642097e-07	0		True	False
+KIF13A	6-17764413-GC-G	frameshift_variant	c.5114del	p.Cys1705SerfsTer17	5114	39	39	1705	0.9446	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1614026	6.195687058324959e-07	0		True	False
+KIF13A	6-17764409-TG-T	frameshift_variant	c.5118del	p.Ser1707AlafsTer15	5118	39	39	1707	0.9457	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1614020	6.195710090333453e-07	0		True	False
+KIF13A	6-17764407-G-GTGGTAGACTCCTCCTACTGGAAAGCTCTCCAGCAGAAGAATCTGTCAAACCATCAAAATCTTTTCCTT	stop_gained	c.5120_5121insAAGGAAAAGATTTTGATGGTTTGACAGATTCTTCTGCTGGAGAGCTTTCCAGTAGGAGGAGTCTACCA	p.Ser1707ArgfsTer6	5120	39	39	1707	0.9457	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1613972	6.195894352566215e-07	0		True	False
+KIF13A	6-17764380-GA-G	frameshift_variant	c.5147del	p.Phe1716SerfsTer6	5147	39	39	1716	0.9507	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1613992	6.195817575303966e-07	0		True	False
+KIF13A	6-17764327-GA-G	frameshift_variant	c.5200del	p.Ser1734LeufsTer17	5200	39	39	1734	0.9607	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1613982	6.195855963697241e-07	0		True	False
+KIF13A	6-17764305-CA-C	frameshift_variant	c.5222del	p.Val1741GlyfsTer10	5222	39	39	1741	0.9645	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1614026	6.195687058324959e-07	0		True	False
+KIF13A	6-17764289-AATCTTTT-A	frameshift_variant	c.5232_5238del	p.Lys1745LeufsTer4	5232	39	39	1745	0.9668	kuyruk	True	True	False	LC	END_TRUNC		lc_lof	1	1613876	6.196262909913772e-07	0		True	False
+KIF13A	6-17764179-CA-C	frameshift_variant	c.5348del	p.Leu1783ArgfsTer5	5348	39	39	1783	0.9878	kuyruk	True	True	True	LC	END_TRUNC		lc_lof	1	1614030	6.195671703747762e-07	0		True	False
+KIF13A	6-17764166-C-A	stop_gained	c.5362G>T	p.Glu1788Ter	5362	39	39	1788	0.9906	kuyruk	True	True	True	LC	END_TRUNC		lc_lof	2	1613898	1.2392356889964546e-06	0		True	False
+KIF13A	6-17764158-GTCATTCT-G	frameshift_variant	c.5363_5369del	p.Glu1788AlafsTer3	5363	39	39	1788	0.9906	kuyruk	True	True	True	LC	END_TRUNC		lc_lof	1	1613968	6.195909708247003e-07	0		True	False
+KIF13A	6-17764140-CT-C	frameshift_variant	c.5387del	p.Glu1796GlyfsTer14	5387	39	39	1796	0.995	kuyruk	True	True	True	LC	END_TRUNC		lc_lof	2	1613878	1.2392510462376959e-06	0		True	False
+KIF13A	6-17764129-CA-C	frameshift_variant	c.5398del	p.Trp1800GlyfsTer10	5398	39	39	1800	0.9972	kuyruk	True	True	True	LC	END_TRUNC		lc_lof	1	1613908	6.196140052592837e-07	0		True	False
+KIF13A	6-17764129-C-T	stop_gained	c.5399G>A	p.Trp1800Ter	5399	39	39	1800	0.9972	kuyruk	True	True	True	LC	END_TRUNC		lc_lof	180	1613790	0.00011153867603591545	1		True	False
+KIF13A	6-17764128-C-T	stop_gained	c.5400G>A	p.Trp1800Ter	5400	39	39	1800	0.9972	kuyruk	True	True	True	LC	END_TRUNC		lc_lof	1	1613870	6.196285946203845e-07	0		True	False
+KIF13A	6-17764115-G-A	stop_gained	c.5413C>T	p.Gln1805Ter	5413	39	39	1805	1.0	kuyruk	True	True	True	LC	END_TRUNC		lc_lof	7	1613520	4.338341018394566e-06	0		True	False
+KIF1A	2-240797742-GC-G	frameshift_variant	c.10del	p.Ala4LeufsTer3	10	2	49	4	0.0022		False	False	False	HC				0	1609668	0.0	0	AC0	False	False
+KIF1A	2-240797714-GC-G	frameshift_variant	c.38del	p.Arg13ProfsTer8	38	2	49	13	0.0073		False	False	False	HC				0	1612362	0.0	0	AC0	False	False
+KIF1A	2-240797700-C-CG	frameshift_variant	c.52dup	p.Arg18ProfsTer6	52	2	49	18	0.0101		False	False	False	HC				0	1612738	0.0	0		False	False
+KIF1A	2-240797811-ACCTTGG-A	splice_acceptor_variant	c.-60-5_-60del		60	2	49				False	False	False	LC	5UTR_SPLICE		lc_lof	11	1063954	1.0338792842547704e-05	0		True	False
+KIF1A	2-240797813-C-T	splice_acceptor_variant	c.-60-1G>A		60	2	49				False	False	False	LC	5UTR_SPLICE		lc_lof	1	1051410	9.51103755908732e-07	0		True	False
+KIF1A	2-240797813-C-A	splice_acceptor_variant	c.-60-1G>T		60	2	49				False	False	False	LC	5UTR_SPLICE		lc_lof	1	1051410	9.51103755908732e-07	0		True	False
+KIF1A	2-240797813-C-G	splice_acceptor_variant	c.-60-1G>C		60	2	49				False	False	False	LC	5UTR_SPLICE		lc_lof	0	1051410	0.0	0	AC0	False	False
+KIF1A	2-240788099-G-C	stop_gained	c.315C>G	p.Tyr105Ter	315	4	49	105	0.0586		False	False	False	HC				1	1600900	6.246486351427322e-07	0		True	True
+KIF1A	2-240788041-CGCTTCGTGCCTGTGGGATGATGCCCTGCTGGTCCTTCTCCTGCTTG-C	splice_donor_variant	c.327_363+9del		327	4	49				False	False	False	HC		NON_CAN_SPLICE	lof_flag	0	1520682	0.0	0	AC0	False	False
+KIF1A	2-240788083-G-A	stop_gained	c.331C>T	p.Gln111Ter	331	4	49	111	0.062		False	False	False	HC				0	1581358	0.0	0	AC0	False	False
+KIF1A	2-240788080-C-A	stop_gained	c.334G>T	p.Glu112Ter	334	4	49	112	0.0625		False	False	False	HC				0	1541438	0.0	0	AC0	False	False
+KIF1A	2-240788066-CTGCTGGTCCTTCT-C	frameshift_variant	c.335_347del	p.Glu112GlyfsTer43	335	4	49	112	0.0625		False	False	False	HC				0	1576290	0.0	0	AC0	False	False
+KIF1A	2-240788066-CTGCTGGTCCTT-C	frameshift_variant	c.337_347del	p.Lys113GlyfsTer36	337	4	49	113	0.0631		False	False	False	HC				0	1576292	0.0	0	AC0	False	False
+KIF1A	2-240788068-G-A	stop_gained	c.346C>T	p.Gln116Ter	346	4	49	116	0.0648		False	False	False	HC				0	1572032	0.0	0	AC0	False	False
+KIF1A	2-240788041-CGCTTCGTGCCTGTGGGATGATG-C	splice_donor_variant	c.351_363+9del		351	4	49				False	False	False	HC		NON_CAN_SPLICE	lof_flag	0	1520646	0.0	0	AC0	False	False
+KIF1A	2-240788047-GTGCCTGT-G	splice_donor_variant	c.360_363+3del		360	4	49				False	False	False	HC		NON_CAN_SPLICE	lof_flag	1	1301426	7.683879068037676e-07	0		True	True
+KIF1A	2-240788053-GT-G	frameshift_variant	c.360del	p.Gln121SerfsTer38	360	4	49	121	0.0676		False	False	False	HC				0	1553026	0.0	0	AC0	False	False
+KIF1A	2-240788052-T-TTGCA	frameshift_variant	c.361_362insTGCA	p.Gln121LeufsTer33	361	4	49	121	0.0676		False	False	False	HC				0	843414	0.0	0	AC0	False	False
+KIF1A	2-240788053-G-A	stop_gained	c.361C>T	p.Gln121Ter	361	4	49	121	0.0676		False	False	False	HC				1	1553026	6.439042231102377e-07	0		True	True
+KIF1A	2-240788047-GTGCCT-G	splice_donor_variant	c.362_363+3del		362	4	49				False	False	False	HC		NON_CAN_SPLICE	lof_flag	0	1301458	0.0	0	AC0	False	False
+KIF1A	2-240788050-CCT-C	frameshift_variant	c.362_363del	p.Gln121ProfsTer31	362	4	49	121	0.0676		False	False	False	HC				0	741078	0.0	0	AC0	False	False
+KIF1A	2-240788051-C-CCT	frameshift_variant	c.362_363insAG	p.Leu122GlyfsTer38	362	4	49	122	0.0681		False	False	False	HC				1	1562582	6.399664145625638e-07	0		True	True
+KIF1A	2-240788051-CT-C	frameshift_variant	c.362del	p.Gln121ArgfsTer38	362	4	49	121	0.0676		False	False	False	HC				0	1562580	0.0	0	AC0	False	False
+KIF1A	2-240788040-CCGCTTCGTG-C	splice_donor_variant	c.363+2_363+10del		363	4	49				False	False	False	HC		NON_CAN_SPLICE	lof_flag	0	1518504	0.0	0	AC0	False	False
+KIF1A	2-240788041-CGCTTCGTG-C	splice_donor_variant	c.363+2_363+9del		363	4	49				False	False	False	HC		NON_CAN_SPLICE	lof_flag	4	1520634	2.6304817595818588e-06	0		True	True
+KIF1A	2-240788043-CTTCGTG-C	splice_donor_variant	c.363+2_363+7del		363	4	49				False	False	False	HC		NON_CAN_SPLICE	lof_flag	105	1531608	6.855540059858658e-05	0		True	True
+KIF1A	2-240788045-TCGTG-T	splice_donor_variant	c.363+2_363+5del		363	4	49				False	False	False	HC		NON_CAN_SPLICE	lof_flag	0	1330130	0.0	0	AC0	False	False
+KIF1A	2-240788049-G-GGC	splice_donor_variant	c.363+1_363+2insGC		363	4	49				False	False	False	HC		NON_CAN_SPLICE	lof_flag	0	1501298	0.0	0	AC0	False	False
+KIF1A	2-240788049-GC-G	splice_donor_variant	c.363+1del		363	4	49				False	False	False	HC		NON_CAN_SPLICE	lof_flag	0	1501294	0.0	0	AC0	False	False
+KIF1A	2-240788049-G-GC	splice_donor_variant	c.363+1dup		363	4	49				False	False	False	HC		NON_CAN_SPLICE	lof_flag	0	1501298	0.0	0	AC0	False	False
+KIF1A	2-240788049-G-T	splice_donor_variant	c.363+2C>A		363	4	49				False	False	False	HC		NON_CAN_SPLICE	lof_flag	4	1501246	2.6644533940473447e-06	0		True	True
+KIF1A	2-240788049-G-A	splice_donor_variant	c.363+2C>T		363	4	49				False	False	False	LC	GC_TO_GT_DONOR	NON_CAN_SPLICE	lc_lof;lof_flag	1	1501294	6.660920512571155e-07	0		True	False
+KIF1A	2-240788050-C-T	splice_donor_variant	c.363+1G>A		363	4	49				False	False	False	HC		NON_CAN_SPLICE	lof_flag	0	741074	0.0	0	AC0	False	False
+KIF1A	2-240788050-C-G	splice_donor_variant	c.363+1G>C		363	4	49				False	False	False	HC		NON_CAN_SPLICE	lof_flag	20	740574	2.7006079068398298e-05	0		True	True
+KIF1A	2-240788050-C-A	splice_donor_variant	c.363+1G>T		363	4	49				False	False	False	HC		NON_CAN_SPLICE	lof_flag	0	741080	0.0	0	AC0	False	False
+KIF1A	2-240786347-CCT-C	frameshift_variant	c.594_595del	p.Gly199GlufsTer13	594	6	49	199	0.1111		False	False	False	HC				1	1613530	6.197591615898062e-07	0		True	True
+KIF1A	2-240786333-A-G	splice_donor_variant	c.608+2T>C		608	6	49				False	False	False	HC				1	1612974	6.199727955937293e-07	0		True	True
+KIF1A	2-240783817-C-A	splice_acceptor_variant	c.721-1G>T		721	8	49				False	False	False	HC				0	1586812	0.0	0	AC0	False	False
+KIF1A	2-240783817-C-G	splice_acceptor_variant	c.721-1G>C		721	8	49				False	False	False	HC				0	1586812	0.0	0	AC0	False	False
+KIF1A	2-240783818-T-A	splice_acceptor_variant	c.721-2A>T		721	8	49				False	False	False	HC				0	1585886	0.0	0	AC0	False	False
+KIF1A	2-240783818-T-C	splice_acceptor_variant	c.721-2A>G		721	8	49				False	False	False	HC				0	1585886	0.0	0	AC0	False	False
+KIF1A	2-240783806-AT-A	frameshift_variant	c.730del	p.Ile244SerfsTer32	730	8	49	244	0.1362		False	False	False	HC				0	1590338	0.0	0	AC0	False	False
+KIF1A	2-240783797-AC-A	frameshift_variant	c.739del	p.Val247TrpfsTer29	739	8	49	247	0.1379		False	False	False	HC				0	1591790	0.0	0	AC0	False	False
+KIF1A	2-240783780-C-A	stop_gained	c.757G>T	p.Glu253Ter	757	8	49	253	0.1413		False	False	False	HC				0	1588416	0.0	0	AC0	False	False
+KIF1A	2-240783762-C-A	stop_gained	c.775G>T	p.Gly259Ter	775	8	49	259	0.1446		False	False	False	HC				0	1582378	0.0	0	AC0	False	False
+KIF1A	2-240783760-TC-T	frameshift_variant	c.776del	p.Gly259GlufsTer17	776	8	49	259	0.1446		False	False	False	HC				0	1581072	0.0	0	AC0	False	False
+KIF1A	2-240783738-C-T	splice_donor_variant	c.798+1G>A		798	8	49				False	False	False	HC				0	1568708	0.0	0	AC0	False	False
+KIF1A	2-240783738-C-A	splice_donor_variant	c.798+1G>T		798	8	49				False	False	False	HC				0	1568708	0.0	0	AC0	False	False
+KIF1A	2-240783045-AT-A	frameshift_variant	c.862del	p.Met288TrpfsTer24	862	9	49	288	0.1608		False	False	False	HC				0	1612896	0.0	0	AC0	False	False
+KIF1A	2-240782608-C-T	splice_acceptor_variant	c.865-1G>A		865	10	49				False	False	False	HC				1	1552402	6.441630453967464e-07	0		True	True
+KIF1A	2-240782608-C-A	splice_acceptor_variant	c.865-1G>T		865	10	49				False	False	False	HC				0	1552402	0.0	0	AC0	False	False
+KIF1A	2-240782609-T-A	splice_acceptor_variant	c.865-2A>T		865	10	49				False	False	False	HC				0	1552242	0.0	0	AC0	False	False
+KIF1A	2-240782609-T-C	splice_acceptor_variant	c.865-2A>G		865	10	49				False	False	False	HC				0	1552242	0.0	0	AC0	False	False
+KIF1A	2-240782601-C-A	stop_gained	c.871G>T	p.Gly291Ter	871	10	49	291	0.1625		False	False	False	HC				0	1552466	0.0	0	AC0	False	False
+KIF1A	2-240782588-A-G	splice_donor_variant	c.882+2T>C		882	10	49				False	False	False	HC				0	1552536	0.0	0	AC0	False	False
+KIF1A	2-240782589-C-A	splice_donor_variant	c.882+1G>T		882	10	49				False	False	False	HC				0	1552628	0.0	0	AC0	False	False
+KIF1A	2-240782589-C-T	splice_donor_variant	c.882+1G>A		882	10	49				False	False	False	HC				0	1552628	0.0	0	AC0	False	False
+KIF1A	2-240775920-T-A	stop_gained	c.889A>T	p.Lys297Ter	889	11	49	297	0.1658		False	False	False	HC				1	1608422	6.217273824904161e-07	0		True	True
+KIF1A	2-240775915-CT-C	frameshift_variant	c.893del	p.Lys298ArgfsTer14	893	11	49	298	0.1664		False	False	False	HC				0	1610476	0.0	0	AC0	False	False
+KIF1A	2-240775914-T-TAGCGTGCTAAGGGTCTCATCGTAGTTGATGTCTGCAGGACTCAGGGCTGCCACCATAG	stop_gained	c.894_895insCTATGGTGGCAGCCCTGAGTCCTGCAGACATCAACTACGATGAGACCCTTAGCACGCT	p.Lys299LeufsTer6	894	11	49	299	0.1669		False	False	False	HC				0	1610516	0.0	0	AC0	False	False
+KIF1A	2-240775890-G-A	stop_gained	c.919C>T	p.Arg307Ter	919	11	49	307	0.1714		False	False	False	HC				3	1612356	1.8606312749789748e-06	0		True	True
+KIF1A	2-240775855-GT-G	frameshift_variant	c.953del	p.Asn318ThrfsTer14	953	11	49	318	0.1776		False	False	False	HC				1	1605344	6.229194490402057e-07	0		True	True
+KIF1A	2-240775849-A-C	splice_donor_variant	c.958+2T>G		958	11	49				False	False	False	HC				11	1595560	6.894131214119181e-06	0		True	True
+KIF1A	2-240775850-C-T	splice_donor_variant	c.958+1G>A		958	11	49				False	False	False	HC				1	1600482	6.248117754526449e-07	0		True	True
+KIF1A	2-240774257-AC-A	frameshift_variant	c.962del	p.Gly321ValfsTer11	962	12	49	321	0.1792		False	False	False	HC				0	1606226	0.0	0	AC0	False	False
+KIF1A	2-240774207-TA-T	frameshift_variant	c.1012del	p.Tyr338ThrfsTer8	1012	12	49	338	0.1887		False	False	False	HC				0	1608546	0.0	0	AC0	False	False
+KIF1A	2-240774193-TA-T	frameshift_variant	c.1026del	p.Ser343AlafsTer3	1026	12	49	343	0.1915		False	False	False	HC				0	1604190	0.0	0	AC0	False	False
+KIF1A	2-240774181-A-G	splice_donor_variant	c.1037+2T>C		1037	12	49				False	False	False	HC				0	1579768	0.0	0	AC0	False	False
+KIF1A	2-240773142-G-T	stop_gained	c.1152C>A	p.Tyr384Ter	1152	13	49	384	0.2144		False	False	False	HC				1	1613618	6.197253625083508e-07	0		True	True
+KIF1A	2-240772597-C-CT	splice_acceptor_variant	c.1181-2dup		1181	14	49				False	False	False	HC				1	1544368	6.475140640054702e-07	0		True	True
+KIF1A	2-240772597-C-T	splice_acceptor_variant	c.1181-1G>A		1181	14	49				False	False	False	HC				0	1544368	0.0	0	AC0	False	False
+KIF1A	2-240772598-T-A	splice_acceptor_variant	c.1181-2A>T		1181	14	49				False	False	False	HC				1	1546062	6.468045912777107e-07	0		True	True
+KIF1A	2-240772598-T-C	splice_acceptor_variant	c.1181-2A>G		1181	14	49				False	False	False	HC				1	1546062	6.468045912777107e-07	0		True	True
+KIF1A	2-240772572-TTGGGTCCTCC-T	frameshift_variant	c.1195_1204del	p.Gly399AsnfsTer2	1195	14	49	399	0.2228		False	False	False	HC		PHYLOCSF_WEAK	lof_flag	1	1548312	6.458646577692351e-07	0		True	True
+KIF1A	2-240772568-A-G	splice_donor_variant	c.1207+2T>C		1207	14	49				False	False	False	HC				0	1547554	0.0	0	AC0	False	False
+KIF1A	2-240769685-C-A	stop_gained	c.1363G>T	p.Glu455Ter	1363	16	49	455	0.254		False	False	False	HC				3	1613566	1.8592360027417534e-06	0		True	True
+KIF1A	2-240769625-A-G	splice_donor_variant	c.1421+2T>C		1421	16	49				False	False	False	HC				2	1612092	1.240623984239113e-06	0		True	True
+KIF1A	2-240769209-C-G	splice_acceptor_variant	c.1422-1G>C		1422	17	49				False	False	False	HC				1	1607484	6.220901732147878e-07	0		True	True
+KIF1A	2-240769207-C-A	stop_gained	c.1423G>T	p.Glu475Ter	1423	17	49	475	0.2652		False	False	False	HC				0	1607952	0.0	0	AC0	False	False
+KIF1A	2-240769133-CT-C	frameshift_variant	c.1496del	p.Lys499ArgfsTer8	1496	17	49	499	0.2786		False	False	False	HC				0	1608238	0.0	0	AC0	False	False
+KIF1A	2-240769133-C-CT	frameshift_variant	c.1496dup	p.Thr500AspfsTer15	1496	17	49	500	0.2792		False	False	False	HC				0	1608242	0.0	0	AC0	False	False
+KIF1A	2-240769131-AC-A	splice_donor_variant	c.1497+1del		1497	17	49				False	False	False	HC				1	1607708	6.220034981476735e-07	0		True	True
+KIF1A	2-240767022-C-A	splice_acceptor_variant	c.1578-1G>T		1578	19	49				False	False	False	HC				0	1602880	0.0	0	AC0	False	False
+KIF1A	2-240767023-T-G	splice_acceptor_variant	c.1578-2A>C		1578	19	49				False	False	False	HC				1	1600738	6.247118516584226e-07	0		True	True
+KIF1A	2-240767023-T-C	splice_acceptor_variant	c.1578-2A>G		1578	19	49				False	False	False	HC				0	1600736	0.0	0	AC0	False	False
+KIF1A	2-240767011-C-A	stop_gained	c.1588G>T	p.Glu530Ter	1588	19	49	530	0.2959		False	False	False	HC				0	1610154	0.0	0	AC0	False	False
+KIF1A	2-240766938-CT-C	frameshift_variant	c.1660del	p.Ser554AlafsTer11	1660	19	49	554	0.3093		False	False	False	HC				0	1611372	0.0	0	AC0	False	False
+KIF1A	2-240766925-TC-T	frameshift_variant	c.1673del	p.Gly558GlufsTer7	1673	19	49	558	0.3116		False	False	False	HC				0	1608922	0.0	0	AC0	False	False
+KIF1A	2-240766918-C-A	stop_gained	c.1681G>T	p.Glu561Ter	1681	19	49	561	0.3132		False	False	False	HC				0	1605582	0.0	0	AC0	False	False
+KIF1A	2-240765757-GT-G	frameshift_variant	c.1720del	p.Thr574ProfsTer70	1720	20	49	574	0.3205		False	False	False	HC				1	1613666	6.197069281995159e-07	0		True	True
+KIF1A	2-240763347-C-A	splice_acceptor_variant	c.1769-1G>T		1769	21	49				False	False	False	HC				1	1570602	6.366985397955688e-07	0		True	True
+KIF1A	2-240763348-T-C	splice_acceptor_variant	c.1769-2A>G		1769	21	49				False	False	False	HC				1	1569850	6.370035353696213e-07	0		True	True
+KIF1A	2-240763348-T-A	splice_acceptor_variant	c.1769-2A>T		1769	21	49				False	False	False	HC				0	1569850	0.0	0	AC0	False	False
+KIF1A	2-240763337-AT-A	frameshift_variant	c.1777del	p.Ile593SerfsTer51	1777	21	49	593	0.3311		False	False	False	HC				1	1578462	6.335280798650839e-07	0		True	True
+KIF1A	2-240763182-G-A	stop_gained	c.1933C>T	p.Gln645Ter	1933	21	49	645	0.3601		False	False	False	HC				1	1611476	6.205491114977822e-07	0		True	True
+KIF1A	2-240763092-C-A	splice_acceptor_variant	c.1950-1G>T		1950	22	49				False	False	False	HC				1	1586880	6.301673724541238e-07	0		True	True
+KIF1A	2-240763093-T-C	splice_acceptor_variant	c.1950-2A>G		1950	22	49				False	False	False	HC				0	1586956	0.0	0	AC0	False	False
+KIF1A	2-240763087-G-A	stop_gained	c.1954C>T	p.Gln652Ter	1954	22	49	652	0.364		False	False	False	HC				2	1580958	1.2650557446813895e-06	0		True	True
+KIF1A	2-240763084-C-A	stop_gained	c.1957G>T	p.Glu653Ter	1957	22	49	653	0.3646		False	False	False	HC				0	1579566	0.0	0	AC0	False	False
+KIF1A	2-240763077-TC-T	frameshift_variant	c.1963del	p.Glu655ArgfsTer41	1963	22	49	655	0.3657		False	False	False	HC				0	1575016	0.0	0	AC0	False	False
+KIF1A	2-240763078-C-A	stop_gained	c.1963G>T	p.Glu655Ter	1963	22	49	655	0.3657		False	False	False	HC				0	1575426	0.0	0	AC0	False	False
+KIF1A	2-240763071-TG-T	frameshift_variant	c.1969del	p.Gln657SerfsTer39	1969	22	49	657	0.3668		False	False	False	HC				0	1571088	0.0	0	AC0	False	False
+KIF1A	2-240763067-G-T	stop_gained	c.1974C>A	p.Tyr658Ter	1974	22	49	658	0.3674		False	False	False	HC				1	1568184	6.376802722129546e-07	0		True	True
+KIF1A	2-240763061-GC-G	frameshift_variant	c.1979del	p.Arg660ProfsTer36	1979	22	49	660	0.3685		False	False	False	HC				0	1550812	0.0	0	AC0	False	False
+KIF1A	2-240763060-C-A	stop_gained	c.1981G>T	p.Glu661Ter	1981	22	49	661	0.3691		False	False	False	HC				0	1548214	0.0	0	AC0	False	False
+KIF1A	2-240763054-C-A	stop_gained	c.1987G>T	p.Glu663Ter	1987	22	49	663	0.3702		False	False	False	HC				0	1542630	0.0	0	AC0	False	False
+KIF1A	2-240763051-C-A	stop_gained	c.1990G>T	p.Glu664Ter	1990	22	49	664	0.3707		False	False	False	HC				0	1539006	0.0	0	AC0	False	False
+KIF1A	2-240763033-C-A	stop_gained	c.2008G>T	p.Glu670Ter	2008	22	49	670	0.3741		False	False	False	HC				1	1518288	6.586365696099818e-07	0		True	True
+KIF1A	2-240763030-G-A	stop_gained	c.2011C>T	p.Gln671Ter	2011	22	49	671	0.3747		False	False	False	HC				0	1514974	0.0	0	AC0	False	False
+KIF1A	2-240763027-G-A	stop_gained	c.2014C>T	p.Gln672Ter	2014	22	49	672	0.3752		False	False	False	HC				0	1511398	0.0	0	AC0	False	False
+KIF1A	2-240763017-A-C	splice_donor_variant	c.2022+2T>G		2022	22	49				False	False	False	HC				0	1495442	0.0	0	AC0	False	False
+KIF1A	2-240763018-C-T	splice_donor_variant	c.2022+1G>A		2022	22	49				False	False	False	HC				0	1498446	0.0	0	AC0	False	False
+KIF1A	2-240763018-C-A	splice_donor_variant	c.2022+1G>T		2022	22	49				False	False	False	HC				0	1498446	0.0	0	AC0	False	False
+KIF1A	2-240762813-C-A	splice_acceptor_variant	c.2023-1G>T		2023	23	49				False	False	False	HC				0	1585180	0.0	0	AC0	False	False
+KIF1A	2-240762814-T-C	splice_acceptor_variant	c.2023-2A>G		2023	23	49				False	False	False	HC				1	1584810	6.309904657340628e-07	0		True	True
+KIF1A	2-240762806-C-A	stop_gained	c.2029G>T	p.Glu677Ter	2029	23	49	677	0.378		False	False	False	HC				0	1590380	0.0	0	AC0	False	False
+KIF1A	2-240762785-G-A	stop_gained	c.2050C>T	p.Gln684Ter	2050	23	49	684	0.3819		False	False	False	HC				1	1599660	6.251328407286549e-07	0		True	True
+KIF1A	2-240762767-TG-T	frameshift_variant	c.2067del	p.Arg690GlyfsTer6	2067	23	49	690	0.3853		False	False	False	HC				0	1599856	0.0	0	AC0	False	False
+KIF1A	2-240762755-C-A	stop_gained	c.2080G>T	p.Glu694Ter	2080	23	49	694	0.3875		False	False	False	HC				0	1599990	0.0	0	AC0	False	False
+KIF1A	2-240762746-C-A	stop_gained	c.2089G>T	p.Glu697Ter	2089	23	49	697	0.3892		False	False	False	HC				0	1596178	0.0	0	AC0	False	False
+KIF1A	2-240762743-C-A	stop_gained	c.2092G>T	p.Glu698Ter	2092	23	49	698	0.3897		False	False	False	HC				0	1596136	0.0	0	AC0	False	False
+KIF1A	2-240762740-C-A	stop_gained	c.2095G>T	p.Glu699Ter	2095	23	49	699	0.3903		False	False	False	HC				0	1595388	0.0	0	AC0	False	False
+KIF1A	2-240762738-CT-C	frameshift_variant	c.2096del	p.Glu699GlyfsTer54	2096	23	49	699	0.3903		False	False	False	HC				0	1595450	0.0	0	AC0	False	False
+KIF1A	2-240762737-C-A	stop_gained	c.2098G>T	p.Glu700Ter	2098	23	49	700	0.3908		False	False	False	HC				0	1595266	0.0	0	AC0	False	False
+KIF1A	2-240762734-C-A	stop_gained	c.2101G>T	p.Glu701Ter	2101	23	49	701	0.3914		False	False	False	HC				0	1564670	0.0	0	AC0	False	False
+KIF1A	2-240762728-C-A	stop_gained	c.2107G>T	p.Glu703Ter	2107	23	49	703	0.3925		False	False	False	HC				0	1590978	0.0	0	AC0	False	False
+KIF1A	2-240762722-C-A	stop_gained	c.2113G>T	p.Glu705Ter	2113	23	49	705	0.3936		False	False	False	HC				0	1589302	0.0	0	AC0	False	False
+KIF1A	2-240762718-C-A	splice_donor_variant	c.2116+1G>T		2116	23	49				False	False	False	HC				0	1587944	0.0	0	AC0	False	False
+KIF1A	2-240762718-C-T	splice_donor_variant	c.2116+1G>A		2116	23	49				False	False	False	HC				1	1587944	6.29745129551168e-07	0		True	True
+KIF1A	2-240761378-C-G	splice_acceptor_variant	c.2117-1G>C		2117	24	49				False	False	False	HC				0	1597262	0.0	0	AC0	False	False
+KIF1A	2-240761375-G-A	stop_gained	c.2119C>T	p.Gln707Ter	2119	24	49	707	0.3948		False	False	False	HC				1	1598122	6.257344558175158e-07	0		True	True
+KIF1A	2-240761368-GT-G	frameshift_variant	c.2125del	p.Thr709GlnfsTer44	2125	24	49	709	0.3959		False	False	False	HC				2	1607138	1.2444482054434653e-06	0		True	True
+KIF1A	2-240761363-GCT-G	frameshift_variant	c.2129_2130del	p.Glu710AlafsTer4	2129	24	49	710	0.3964		False	False	False	HC				2	1609736	1.242439754096324e-06	0		True	True
+KIF1A	2-240761360-C-A	stop_gained	c.2134G>T	p.Glu712Ter	2134	24	49	712	0.3975		False	False	False	HC				1	1610124	6.210701784458836e-07	0		True	True
+KIF1A	2-240761243-C-A	stop_gained	c.2251G>T	p.Glu751Ter	2251	24	49	751	0.4193		False	False	False	HC				1	1612926	6.199912457236104e-07	0		True	True
+KIF1A	2-240761232-CT-C	frameshift_variant	c.2261del	p.Lys754ArgfsTer10	2261	24	49	754	0.421		False	False	False	HC				0	1611816	0.0	0	AC0	False	False
+KIF1A	2-240760775-TG-T	frameshift_variant	c.2333del	p.Pro778GlnfsTer43	2333	25	49	778	0.4344		False	False	False	HC				1	1604308	6.233217063057717e-07	0		True	True
+KIF1A	2-240760759-G-A	stop_gained	c.2350C>T	p.Arg784Ter	2350	25	49	784	0.4377		False	False	False	HC				0	1601340	0.0	0	AC0	False	False
+KIF1A	2-240760742-GA-G	frameshift_variant	c.2366del	p.Phe789SerfsTer32	2366	25	49	789	0.4405		False	False	False	HC				2	1598618	1.2510806208862906e-06	0		True	True
+KIF1A	2-240760737-CG-C	frameshift_variant	c.2371del	p.Arg791AlafsTer30	2371	25	49	791	0.4417		False	False	False	HC				0	1595942	0.0	0	AC0	False	False
+KIF1A	2-240760716-AC-A	frameshift_variant	c.2392del	p.Val798SerfsTer23	2392	25	49	798	0.4456		False	False	False	HC				1	1583792	6.313960419044925e-07	0		True	True
+KIF1A	2-240760714-G-A	stop_gained	c.2395C>T	p.Gln799Ter	2395	25	49	799	0.4461		False	False	False	HC				0	1585344	0.0	0	AC0	False	False
+KIF1A	2-240760685-G-T	stop_gained	c.2424C>A	p.Tyr808Ter	2424	25	49	808	0.4511		False	False	False	HC				0	1563380	0.0	0	AC0	False	False
+KIF1A	2-240760685-G-C	stop_gained	c.2424C>G	p.Tyr808Ter	2424	25	49	808	0.4511		False	False	False	HC				0	1563380	0.0	0	AC0	False	False
+KIF1A	2-240760681-TC-T	frameshift_variant	c.2427del	p.Trp809Ter	2427	25	49	809	0.4517		False	False	False	HC				0	1554872	0.0	0	AC0	False	False
+KIF1A	2-240760674-TC-T	frameshift_variant	c.2434del	p.Glu812ArgfsTer9	2434	25	49	812	0.4534		False	False	False	HC				1	1525680	6.554454407215143e-07	0		True	True
+KIF1A	2-240760675-C-A	stop_gained	c.2434G>T	p.Glu812Ter	2434	25	49	812	0.4534		False	False	False	HC				0	1528972	0.0	0	AC0	False	False
+KIF1A	2-240760663-A-G	splice_donor_variant	c.2444+2T>C		2444	25	49				False	False	False	HC				0	1502256	0.0	0	AC0	False	False
+KIF1A	2-240760664-C-T	splice_donor_variant	c.2444+1G>A		2444	25	49				False	False	False	HC				0	1506300	0.0	0	AC0	False	False
+KIF1A	2-240760664-C-A	splice_donor_variant	c.2444+1G>T		2444	25	49				False	False	False	HC				0	1506298	0.0	0	AC0	False	False
+KIF1A	2-240758498-C-T	splice_acceptor_variant	c.2445-1G>A		2445	26	49				False	False	False	HC				0	1576198	0.0	0	AC0	False	False
+KIF1A	2-240758499-T-C	splice_acceptor_variant	c.2445-2A>G		2445	26	49				False	False	False	HC				0	1574758	0.0	0	AC0	False	False
+KIF1A	2-240758496-G-A	stop_gained	c.2446C>T	p.Gln816Ter	2446	26	49	816	0.4556		False	False	False	HC				1	1579538	6.330965130310255e-07	0		True	True
+KIF1A	2-240758423-TCA-T	stop_gained	c.2517_2518del	p.Cys839Ter	2517	26	49	839	0.4685		False	False	False	HC				1	1612872	6.200120034323864e-07	0		True	True
+KIF1A	2-240758401-GT-G	frameshift_variant	c.2540del	p.Asp847AlafsTer31	2540	26	49	847	0.4729		False	False	False	HC				1	1612992	6.199658770781256e-07	0		True	True
+KIF1A	2-240757592-G-T	stop_gained	c.2585C>A	p.Ser862Ter	2585	27	49	862	0.4813		False	False	False	HC				0	1529614	0.0	0	AC0	False	False
+KIF1A	2-240757518-AG-A	frameshift_variant	c.2658del	p.Ser887ProfsTer64	2658	27	49	887	0.4953		False	False	False	HC				4	1548650	2.582894779323927e-06	0		True	True
+KIF1A	2-240757470-C-A	stop_gained	c.2707G>T	p.Glu903Ter	2707	27	49	903	0.5042		False	False	False	HC				0	1550566	0.0	0	AC0	False	False
+KIF1A	2-240757454-TC-T	frameshift_variant	c.2722del	p.Glu908ArgfsTer43	2722	27	49	908	0.507		False	False	False	HC			lcr	1	1502880	6.65389119557117e-07	0		True	True
+KIF1A	2-240757449-CCTCCT-C	frameshift_variant	c.2723_2727del	p.Glu908GlyfsTer10	2723	27	49	908	0.507		False	False	False	HC			lcr	14	1550318	9.03040537489728e-06	0		True	True
+KIF1A	2-240757452-CCT-C	frameshift_variant	c.2723_2724del	p.Glu908GlyfsTer11	2723	27	49	908	0.507		False	False	False	HC			lcr	10	1550100	6.4511966969872915e-06	0		True	True
+KIF1A	2-240757453-CT-C	frameshift_variant	c.2723del	p.Glu908GlyfsTer43	2723	27	49	908	0.507		False	False	False	HC			lcr	1	1550098	6.451205020585795e-07	0		True	True
+KIF1A	2-240757451-TCC-T	frameshift_variant	c.2724_2725del	p.Glu909GlyfsTer10	2724	27	49	909	0.5075		False	False	False	HC			lcr	7	1545382	4.529624390603747e-06	0		True	True
+KIF1A	2-240757449-CCT-C	frameshift_variant	c.2726_2727del	p.Glu909GlyfsTer10	2726	27	49	909	0.5075		False	False	False	HC			lcr	0	1550318	0.0	0	AC0	False	False
+KIF1A	2-240757450-CT-C	frameshift_variant	c.2726del	p.Glu909GlyfsTer42	2726	27	49	909	0.5075		False	False	False	HC			lcr	10	1550044	6.451429765864711e-06	0		True	True
+KIF1A	2-240757448-TCC-T	frameshift_variant	c.2727_2728del	p.Glu910GlyfsTer9	2727	27	49	910	0.5081		False	False	False	HC			lcr	0	1549400	0.0	0	AC0	False	False
+KIF1A	2-240757448-TC-T	frameshift_variant	c.2728del	p.Glu910ArgfsTer41	2728	27	49	910	0.5081		False	False	False	HC			lcr	7	1549400	4.517877888214793e-06	0		True	True
+KIF1A	2-240757447-CT-C	frameshift_variant	c.2729del	p.Glu910GlyfsTer41	2729	27	49	910	0.5081		False	False	False	HC			lcr	14	1550238	9.030871388780304e-06	0		True	True
+KIF1A	2-240757445-TCC-T	frameshift_variant	c.2730_2731del	p.Glu911GlyfsTer8	2730	27	49	911	0.5087		False	False	False	HC			lcr	1	1549248	6.454744495393895e-07	0		True	True
+KIF1A	2-240757445-TC-T	frameshift_variant	c.2731del	p.Glu911ArgfsTer40	2731	27	49	911	0.5087		False	False	False	HC			lcr	0	1549248	0.0	0	AC0	False	False
+KIF1A	2-240757446-C-A	stop_gained	c.2731G>T	p.Glu911Ter	2731	27	49	911	0.5087		False	False	False	HC			lcr	0	1550220	0.0	0	AC0	False	False
+KIF1A	2-240757442-TCC-T	frameshift_variant	c.2733_2734del	p.Glu912GlyfsTer7	2733	27	49	912	0.5092		False	False	False	HC			lcr	1	1549366	6.454252900863967e-07	0		True	True
+KIF1A	2-240757442-TC-T	frameshift_variant	c.2734del	p.Glu912ArgfsTer39	2734	27	49	912	0.5092		False	False	False	HC			lcr	0	1549366	0.0	0	AC0	False	False
+KIF1A	2-240757439-TC-T	frameshift_variant	c.2737del	p.Glu913ArgfsTer38	2737	27	49	913	0.5098		False	False	False	HC			lcr	1	1548908	6.456161373044752e-07	0		True	True
+KIF1A	2-240757437-C-A	stop_gained	c.2740G>T	p.Glu914Ter	2740	27	49	914	0.5103		False	False	False	HC			lcr	0	1548522	0.0	0	AC0	False	False
+KIF1A	2-240757427-TC-T	frameshift_variant	c.2749del	p.Glu917ArgfsTer34	2749	27	49	917	0.512		False	False	False	HC			lcr	5	828762	6.0330951467369405e-06	0		True	True
+KIF1A	2-240757428-C-A	stop_gained	c.2749G>T	p.Glu917Ter	2749	27	49	917	0.512		False	False	False	HC			lcr	1	954740	1.0474055763872887e-06	0		True	True
+KIF1A	2-240757424-TCC-T	frameshift_variant	c.2751_2752del	p.Asp918Ter	2751	27	49	918	0.5126		False	False	False	HC			lcr	5	231176	2.1628542755303317e-05	0		True	True
+KIF1A	2-240757419-CCTCAT-C	frameshift_variant	c.2753_2757del	p.Asp918GlyfsTer76	2753	27	49	918	0.5126		False	False	False	HC			lcr	0	1521208	0.0	0	AC0	False	False
+KIF1A	2-240757422-CA-C	frameshift_variant	c.2754del	p.Asp918GlufsTer33	2754	27	49	918	0.5126		False	False	False	HC			lcr	0	1462556	0.0	0	AC0	False	False
+KIF1A	2-240757410-CCT-C	frameshift_variant	c.2765_2766del	p.Glu922GlyfsTer73	2765	27	49	922	0.5148		False	False	False	HC			lcr	0	1528122	0.0	0	AC0	False	False
+KIF1A	2-240757408-GT-G	frameshift_variant	c.2768del	p.Asp923AlafsTer28	2768	27	49	923	0.5154		False	False	False	HC			lcr	0	1533002	0.0	0	AC0	False	False
+KIF1A	2-240757406-AG-A	frameshift_variant	c.2770del	p.Leu924TrpfsTer27	2770	27	49	924	0.5159		False	False	False	HC			lcr	0	1541464	0.0	0	AC0	False	False
+KIF1A	2-240757372-G-T	stop_gained	c.2805C>A	p.Cys935Ter	2805	27	49	935	0.5221		False	False	False	HC				1	1550542	6.449357708465814e-07	0		True	True
+KIF1A	2-240757346-CG-C	frameshift_variant	c.2830del	p.Arg944GlyfsTer7	2830	27	49	944	0.5271		False	False	False	HC				0	1550696	0.0	0	AC0	False	False
+KIF1A	2-240757337-AG-A	frameshift_variant	c.2839del	p.Leu947CysfsTer4	2839	27	49	947	0.5288		False	False	False	HC				1	1550508	6.449499131897417e-07	0		True	True
+KIF1A	2-240757337-A-AG	frameshift_variant	c.2839dup	p.Leu947ProfsTer49	2839	27	49	947	0.5288		False	False	False	HC				9	1550510	5.804541731430304e-06	0		True	True
+KIF1A	2-240757336-CA-C	frameshift_variant	c.2840del	p.Leu947ArgfsTer4	2840	27	49	947	0.5288		False	False	False	HC				20	1550568	1.2898499130641158e-05	0		True	True
+KIF1A	2-240750513-CG-C	frameshift_variant	c.2892del	p.Val965PhefsTer16	2892	28	49	965	0.5388		False	False	False	HC				1	1613852	6.196355056101799e-07	0		True	True
+KIF1A	2-240750428-C-T	splice_donor_variant	c.2977+1G>A		2977	28	49				False	False	False	HC				1	1611546	6.205221569846594e-07	0		True	True
+KIF1A	2-240747279-G-T	stop_gained	c.3020C>A	p.Ser1007Ter	3020	29	49	1007	0.5623		False	False	False	HC				0	1613406	0.0	0	AC0	False	False
+KIF1A	2-240747236-CT-C	frameshift_variant	c.3062del	p.Lys1021SerfsTer56	3062	29	49	1021	0.5701		False	False	False	HC				0	1612872	0.0	0	AC0	False	False
+KIF1A	2-240746178-C-T	splice_acceptor_variant	c.3064-1G>A		3064	30	49				False	False	False	HC				1	1560332	6.408892466475083e-07	0		True	True
+KIF1A	2-240746178-C-A	splice_acceptor_variant	c.3064-1G>T		3064	30	49				False	False	False	HC				0	1560332	0.0	0	AC0	False	False
+KIF1A	2-240746174-G-A	stop_gained	c.3067C>T	p.Gln1023Ter	3067	30	49	1023	0.5712		False	False	False	HC				0	1561616	0.0	0	AC0	False	False
+KIF1A	2-240746168-C-A	stop_gained	c.3073G>T	p.Glu1025Ter	3073	30	49	1025	0.5723		False	False	False	HC				0	1563104	0.0	0	AC0	False	False
+KIF1A	2-240746160-G-T	stop_gained	c.3081C>A	p.Cys1027Ter	3081	30	49	1027	0.5734		False	False	False	HC				0	1564818	0.0	0	AC0	False	False
+KIF1A	2-240746156-CG-C	frameshift_variant	c.3084del	p.Val1029TrpfsTer48	3084	30	49	1029	0.5745		False	False	False	HC				0	1565746	0.0	0	AC0	False	False
+KIF1A	2-240746137-G-T	stop_gained	c.3104C>A	p.Ser1035Ter	3104	30	49	1035	0.5779		False	False	False	HC				0	1569896	0.0	0	AC0	False	False
+KIF1A	2-240746123-C-A	stop_gained	c.3118G>T	p.Glu1040Ter	3118	30	49	1040	0.5807		False	False	False	HC				0	1577346	0.0	0	AC0	False	False
+KIF1A	2-240746105-C-A	stop_gained	c.3136G>T	p.Glu1046Ter	3136	30	49	1046	0.584		False	False	False	HC				1	1585356	6.30773151266971e-07	0		True	True
+KIF1A	2-240746093-G-A	stop_gained	c.3148C>T	p.Gln1050Ter	3148	30	49	1050	0.5863		False	False	False	HC				0	1592262	0.0	0	AC0	False	False
+KIF1A	2-240746071-G-T	stop_gained	c.3170C>A	p.Ser1057Ter	3170	30	49	1057	0.5902		False	False	False	HC				1	1603182	6.237594982977604e-07	0		True	True
+KIF1A	2-240746041-G-T	stop_gained	c.3200C>A	p.Ser1067Ter	3200	30	49	1067	0.5958		False	False	False	HC				0	1607882	0.0	0	AC0	False	False
+KIF1A	2-240745911-T-C	splice_acceptor_variant	c.3203-2A>G		3203	31	49				False	False	False	HC		NAGNAG_SITE	lof_flag	0	1600956	0.0	0	AC0	False	False
+KIF1A	2-240745737-C-T	splice_donor_variant	c.3374+1G>A		3374	31	49				False	False	False	HC				1	1611300	6.206168931918326e-07	0		True	True
+KIF1A	2-240745451-TG-T	frameshift_variant	c.3440del	p.Pro1147HisfsTer14	3440	32	49	1147	0.6404		False	False	False	HC				2	1613350	1.2396566151176125e-06	0		True	True
+KIF1A	2-240745432-G-A	stop_gained	c.3460C>T	p.Gln1154Ter	3460	32	49	1154	0.6443		False	False	False	HC				1	1612034	6.203343105666506e-07	0		True	True
+KIF1A	2-240745426-C-T	splice_donor_variant	c.3465+1G>A		3465	32	49				False	False	False	HC				1	1610078	6.210879224484777e-07	0		True	True
+KIF1A	2-240744030-C-A	stop_gained	c.3496G>T	p.Glu1166Ter	3496	33	49	1166	0.651		False	False	False	HC				0	1613698	0.0	0	AC0	False	False
+KIF1A	2-240742985-C-A	splice_acceptor_variant	c.3585-1G>T		3585	34	49				False	False	False	HC				0	1607924	0.0	0	AC0	False	False
+KIF1A	2-240742979-AG-A	frameshift_variant	c.3589del	p.Leu1197Ter	3589	34	49	1197	0.6683		False	False	False	HC				0	1609534	0.0	0	AC0	False	False
+KIF1A	2-240741378-C-A	splice_acceptor_variant	c.3641-1G>T		3641	35	49				False	False	False	HC				0	1561750	0.0	0	AC0	False	False
+KIF1A	2-240741378-C-T	splice_acceptor_variant	c.3641-1G>A		3641	35	49				False	False	False	HC				0	1561750	0.0	0	AC0	False	False
+KIF1A	2-240741379-T-C	splice_acceptor_variant	c.3641-2A>G		3641	35	49				False	False	False	HC				0	1560522	0.0	0	AC0	False	False
+KIF1A	2-240741371-GC-G	frameshift_variant	c.3646del	p.Ala1216ProfsTer7	3646	35	49	1216	0.679		False	False	False	HC				0	1572054	0.0	0	AC0	False	False
+KIF1A	2-240741340-A-T	stop_gained	c.3678T>A	p.Cys1226Ter	3678	35	49	1226	0.6845		False	False	False	HC				0	1592588	0.0	0	AC0	False	False
+KIF1A	2-240741336-C-A	stop_gained	c.3682G>T	p.Gly1228Ter	3682	35	49	1228	0.6857		False	False	False	HC				0	1593752	0.0	0	AC0	False	False
+KIF1A	2-240741330-AG-A	frameshift_variant	c.3687del	p.Cys1230AlafsTer51	3687	35	49	1230	0.6868		False	False	False	HC				0	1598362	0.0	0	AC0	False	False
+KIF1A	2-240741328-G-T	stop_gained	c.3690C>A	p.Cys1230Ter	3690	35	49	1230	0.6868		False	False	False	HC				0	1598614	0.0	0	AC0	False	False
+KIF1A	2-240741322-G-T	stop_gained	c.3696C>A	p.Cys1232Ter	3696	35	49	1232	0.6879		False	False	False	HC				0	1600150	0.0	0	AC0	False	False
+KIF1A	2-240741321-T-A	stop_gained	c.3697A>T	p.Lys1233Ter	3697	35	49	1233	0.6884		False	False	False	HC				0	1600688	0.0	0	AC0	False	False
+KIF1A	2-240741316-G-T	stop_gained	c.3702C>A	p.Tyr1234Ter	3702	35	49	1234	0.689		False	False	False	HC				0	1600450	0.0	0	AC0	False	False
+KIF1A	2-240741301-G-T	stop_gained	c.3717C>A	p.Tyr1239Ter	3717	35	49	1239	0.6918		False	False	False	HC				0	1599930	0.0	0	AC0	False	False
+KIF1A	2-240741297-C-A	stop_gained	c.3721G>T	p.Glu1241Ter	3721	35	49	1241	0.6929		False	False	False	HC				0	1598714	0.0	0	AC0	False	False
+KIF1A	2-240741282-C-A	stop_gained	c.3736G>T	p.Glu1246Ter	3736	35	49	1246	0.6957		False	False	False	HC				0	1594758	0.0	0	AC0	False	False
+KIF1A	2-240741268-C-T	splice_donor_variant	c.3749+1G>A		3749	35	49				False	False	False	HC				0	1581364	0.0	0	AC0	False	False
+KIF1A	2-240741268-C-A	splice_donor_variant	c.3749+1G>T		3749	35	49				False	False	False	HC				0	1581364	0.0	0	AC0	False	False
+KIF1A	2-240740143-C-A	splice_acceptor_variant	c.3817-1G>T		3817	37	49				False	False	False	HC				0	1589590	0.0	0	AC0	False	False
+KIF1A	2-240740143-C-G	splice_acceptor_variant	c.3817-1G>C		3817	37	49				False	False	False	HC				1	1589590	6.290930365691782e-07	0		True	True
+KIF1A	2-240740133-G-A	stop_gained	c.3826C>T	p.Arg1276Ter	3826	37	49	1276	0.7125		False	False	False	HC				4	1590078	2.5155998636544873e-06	0		True	True
+KIF1A	2-240740106-C-A	stop_gained	c.3853G>T	p.Glu1285Ter	3853	37	49	1285	0.7175		False	False	False	HC				0	1590616	0.0	0	AC0	False	False
+KIF1A	2-240740084-C-T	stop_gained	c.3875G>A	p.Trp1292Ter	3875	37	49	1292	0.7214		False	False	False	HC				1	1590164	6.288659534488266e-07	0		True	True
+KIF1A	2-240740083-C-T	stop_gained	c.3876G>A	p.Trp1292Ter	3876	37	49	1292	0.7214		False	False	False	HC				0	1589930	0.0	0	AC0	False	False
+KIF1A	2-240740079-C-A	stop_gained	c.3880G>T	p.Glu1294Ter	3880	37	49	1294	0.7225		False	False	False	HC				1	1588962	6.293416708517887e-07	0		True	True
+KIF1A	2-240740070-C-A	stop_gained	c.3889G>T	p.Glu1297Ter	3889	37	49	1297	0.7242		False	False	False	HC				0	1585452	0.0	0	AC0	False	False
+KIF1A	2-240740057-C-A	splice_donor_variant	c.3901+1G>T		3901	37	49				False	False	False	HC				0	1580112	0.0	0	AC0	False	False
+KIF1A	2-240740057-C-T	splice_donor_variant	c.3901+1G>A		3901	37	49				False	False	False	HC				0	1580112	0.0	0	AC0	False	False
+KIF1A	2-240737160-G-A	stop_gained	c.3910C>T	p.Arg1304Ter	3910	38	49	1304	0.7281		False	False	False	HC				2	1613376	1.2396366377087548e-06	0		True	True
+KIF1A	2-240726941-C-A	splice_acceptor_variant	c.4008-1G>T		4008	39	49				False	False	False	HC				0	1585222	0.0	0	AC0	False	False
+KIF1A	2-240726942-T-G	splice_acceptor_variant	c.4008-2A>C		4008	39	49				False	False	False	HC				1	1580466	6.327247786412362e-07	0		True	True
+KIF1A	2-240726942-T-C	splice_acceptor_variant	c.4008-2A>G		4008	39	49				False	False	False	HC				0	1580584	0.0	0	AC0	False	False
+KIF1A	2-240726932-TA-T	frameshift_variant	c.4015del	p.Tyr1339ThrfsTer17	4015	39	49	1339	0.7476		False	False	False	HC				1	1598840	6.254534537539717e-07	0		True	True
+KIF1A	2-240726842-A-AGGTGG	frameshift_variant	c.4105_4106insCCACC	p.Leu1369ProfsTer56	4105	39	49	1369	0.7644		False	False	False	HC				1	1608992	6.215071299297946e-07	0		True	True
+KIF1A	2-240726840-A-AGGCT	frameshift_variant	c.4107_4108insAGCC	p.Ala1371LeufsTer27	4107	39	49	1371	0.7655		False	False	False	HC				1	1608542	6.216810005582696e-07	0		True	True
+KIF1A	2-240726837-C-CCGGTGGCTCACACCTGTAATCCCAGCACTTTG	frameshift_variant	c.4110_4111insCAAAGTGCTGGGATTACAGGTGTGAGCCACCG	p.Ala1371GlnfsTer63	4110	39	49	1371	0.7655		False	False	False	HC				1	1606544	6.224541624754753e-07	0		True	True
+KIF1A	2-240726824-G-A	splice_donor_variant	c.4122+2C>T		4122	39	49				False	False	False	LC	GC_TO_GT_DONOR	NON_CAN_SPLICE	lc_lof;lof_flag	0	1592084	0.0	0	AC0	False	False
+KIF1A	2-240726824-G-T	splice_donor_variant	c.4122+2C>A		4122	39	49				False	False	False	HC		NON_CAN_SPLICE	lof_flag	0	1592082	0.0	0	AC0	False	False
+KIF1A	2-240726825-C-T	splice_donor_variant	c.4122+1G>A		4122	39	49				False	False	False	HC		NON_CAN_SPLICE	lof_flag	0	1596268	0.0	0	AC0	False	False
+KIF1A	2-240725277-G-T	stop_gained	c.4250C>A	p.Ser1417Ter	4250	40	49	1417	0.7912		False	False	False	HC				0	1601922	0.0	0	AC0	False	False
+KIF1A	2-240725275-C-A	stop_gained	c.4252G>T	p.Glu1418Ter	4252	40	49	1418	0.7917		False	False	False	HC				0	1600902	0.0	0	AC0	False	False
+KIF1A	2-240724038-T-G	splice_acceptor_variant	c.4257-2A>C		4257	41	49				False	False	False	HC				824	1611890	0.0005112011365539833	0		True	True
+KIF1A	2-240723974-C-T	splice_donor_variant	c.4318+1G>A		4318	41	49				False	False	False	HC				1	1611726	6.204528561306326e-07	0		True	True
+KIF1A	2-240723559-C-A	splice_acceptor_variant	c.4319-1G>T		4319	42	49				False	False	False	HC				0	1532826	0.0	0	AC0	False	False
+KIF1A	2-240723559-C-T	splice_acceptor_variant	c.4319-1G>A		4319	42	49				False	False	False	HC				0	1532828	0.0	0	AC0	False	False
+KIF1A	2-240723560-T-A	splice_acceptor_variant	c.4319-2A>T		4319	42	49				False	False	False	HC				0	1532828	0.0	0	AC0	False	False
+KIF1A	2-240723560-T-C	splice_acceptor_variant	c.4319-2A>G		4319	42	49				False	False	False	HC				0	1532826	0.0	0	AC0	False	False
+KIF1A	2-240723556-TC-T	frameshift_variant	c.4320del	p.Met1441CysfsTer43	4320	42	49	1441	0.8046		False	False	False	HC				1	1534616	6.516288113769177e-07	0		True	True
+KIF1A	2-240723553-G-A	stop_gained	c.4324C>T	p.Gln1442Ter	4324	42	49	1442	0.8051		False	False	False	HC				0	1534106	0.0	0	AC0	False	False
+KIF1A	2-240723546-CG-C	frameshift_variant	c.4330del	p.Arg1444GlyfsTer40	4330	42	49	1444	0.8063		False	False	False	HC				0	1537834	0.0	0	AC0	False	False
+KIF1A	2-240723541-G-A	stop_gained	c.4336C>T	p.Arg1446Ter	4336	42	49	1446	0.8074		False	False	False	HC				0	1539132	0.0	0	AC0	False	False
+KIF1A	2-240723538-G-A	stop_gained	c.4339C>T	p.Arg1447Ter	4339	42	49	1447	0.8079		False	False	False	HC				1	1541064	6.48902316840832e-07	0		True	True
+KIF1A	2-240723528-TC-T	frameshift_variant	c.4348del	p.Asp1450ThrfsTer34	4348	42	49	1450	0.8096		False	False	False	HC				1	1545972	6.468422455257922e-07	0		True	True
+KIF1A	2-240723502-C-A	stop_gained	c.4375G>T	p.Glu1459Ter	4375	42	49	1459	0.8146		False	False	False	HC				0	1551922	0.0	0	AC0	False	False
+KIF1A	2-240723499-C-A	stop_gained	c.4378G>T	p.Glu1460Ter	4378	42	49	1460	0.8152		False	False	False	HC				0	1551908	0.0	0	AC0	False	False
+KIF1A	2-240723494-GT-G	frameshift_variant	c.4382del	p.Asn1461ThrfsTer23	4382	42	49	1461	0.8157		False	False	False	HC				0	1552018	0.0	0	AC0	False	False
+KIF1A	2-240723485-GC-G	frameshift_variant	c.4391del	p.Gly1464AlafsTer20	4391	42	49	1464	0.8174		False	False	False	HC				0	1552196	0.0	0	AC0	False	False
+KIF1A	2-240723483-C-T	stop_gained	c.4394G>A	p.Trp1465Ter	4394	42	49	1465	0.818		False	False	False	HC				0	1552182	0.0	0	AC0	False	False
+KIF1A	2-240723474-CG-C	frameshift_variant	c.4402del	p.Arg1468GlyfsTer16	4402	42	49	1468	0.8197		False	False	False	HC				0	1552220	0.0	0	AC0	False	False
+KIF1A	2-240723448-G-A	stop_gained	c.4429C>T	p.Gln1477Ter	4429	42	49	1477	0.8247		False	False	False	HC				0	1551946	0.0	0	AC0	False	False
+KIF1A	2-240723444-C-T	stop_gained	c.4433G>A	p.Trp1478Ter	4433	42	49	1478	0.8252		False	False	False	HC				0	1551898	0.0	0	AC0	False	False
+KIF1A	2-240723442-C-A	stop_gained	c.4435G>T	p.Glu1479Ter	4435	42	49	1479	0.8258		False	False	False	HC				0	1551934	0.0	0	AC0	False	False
+KIF1A	2-240723436-C-A	stop_gained	c.4441G>T	p.Glu1481Ter	4441	42	49	1481	0.8269		False	False	False	HC				0	1551604	0.0	0	AC0	False	False
+KIF1A	2-240723425-GCT-G	frameshift_variant	c.4450_4451del	p.Ser1484ProfsTer9	4450	42	49	1484	0.8286		False	False	False	HC				0	1549278	0.0	0	AC0	False	False
+KIF1A	2-240723418-G-A	stop_gained	c.4459C>T	p.Gln1487Ter	4459	42	49	1487	0.8303		False	False	False	HC				0	1547530	0.0	0	AC0	False	False
+KIF1A	2-240723415-C-A	stop_gained	c.4462G>T	p.Glu1488Ter	4462	42	49	1488	0.8308		False	False	False	HC				0	1546924	0.0	0	AC0	False	False
+KIF1A	2-240723411-A-G	splice_donor_variant	c.4464+2T>C		4464	42	49				False	False	False	HC				0	1544874	0.0	0	AC0	False	False
+KIF1A	2-240723412-C-T	splice_donor_variant	c.4464+1G>A		4464	42	49				False	False	False	HC				0	1546042	0.0	0	AC0	False	False
+KIF1A	2-240723412-C-A	splice_donor_variant	c.4464+1G>T		4464	42	49				False	False	False	HC				0	1546038	0.0	0	AC0	False	False
+KIF1A	2-240722657-C-T	splice_acceptor_variant	c.4465-1G>A		4465	43	49				False	False	False	HC				0	1522496	0.0	0	AC0	False	False
+KIF1A	2-240722657-C-A	splice_acceptor_variant	c.4465-1G>T		4465	43	49				False	False	False	HC				0	1522496	0.0	0	AC0	False	False
+KIF1A	2-240722657-CT-C	splice_acceptor_variant	c.4465-2del		4465	43	49				False	False	False	HC				0	1522494	0.0	0	AC0	False	False
+KIF1A	2-240722658-T-C	splice_acceptor_variant	c.4465-2A>G		4465	43	49				False	False	False	HC				0	1520372	0.0	0	AC0	False	False
+KIF1A	2-240722653-C-A	stop_gained	c.4468G>T	p.Glu1490Ter	4468	43	49	1490	0.8319		False	False	False	HC				0	1530888	0.0	0	AC0	False	False
+KIF1A	2-240722636-G-C	stop_gained	c.4485C>G	p.Tyr1495Ter	4485	43	49	1495	0.8347		False	False	False	HC				1	1552040	6.443132908945646e-07	0		True	True
+KIF1A	2-240722636-G-T	stop_gained	c.4485C>A	p.Tyr1495Ter	4485	43	49	1495	0.8347		False	False	False	HC				0	1552040	0.0	0	AC0	False	False
+KIF1A	2-240722623-C-A	stop_gained	c.4498G>T	p.Glu1500Ter	4498	43	49	1500	0.8375		False	False	False	HC				0	1561008	0.0	0	AC0	False	False
+KIF1A	2-240722613-TC-T	frameshift_variant	c.4507del	p.Glu1503ArgfsTer96	4507	43	49	1503	0.8392		False	False	False	HC				0	1563254	0.0	0	AC0	False	False
+KIF1A	2-240722614-C-A	stop_gained	c.4507G>T	p.Glu1503Ter	4507	43	49	1503	0.8392		False	False	False	HC				0	1563282	0.0	0	AC0	False	False
+KIF1A	2-240722605-G-A	stop_gained	c.4516C>T	p.Gln1506Ter	4516	43	49	1506	0.8409		False	False	False	HC				0	1564910	0.0	0	AC0	False	False
+KIF1A	2-240722590-C-A	stop_gained	c.4531G>T	p.Glu1511Ter	4531	43	49	1511	0.8437		False	False	False	HC				0	1563012	0.0	0	AC0	False	False
+KIF1A	2-240722576-CG-C	frameshift_variant	c.4544del	p.Pro1515ArgfsTer84	4544	43	49	1515	0.8459		False	False	False	HC				0	1559482	0.0	0	AC0	False	False
+KIF1A	2-240722566-C-A	stop_gained	c.4555G>T	p.Glu1519Ter	4555	43	49	1519	0.8481		False	False	False	HC				0	1554688	0.0	0	AC0	False	False
+KIF1A	2-240722557-C-A	stop_gained	c.4564G>T	p.Glu1522Ter	4564	43	49	1522	0.8498		False	False	False	HC				0	1552478	0.0	0	AC0	False	False
+KIF1A	2-240722525-CG-C	frameshift_variant	c.4595del	p.Pro1532ArgfsTer67	4595	43	49	1532	0.8554		False	False	False	HC				0	1548340	0.0	0	AC0	False	False
+KIF1A	2-240722515-C-A	stop_gained	c.4606G>T	p.Glu1536Ter	4606	43	49	1536	0.8576		False	False	False	HC				1	1548286	6.458755036214239e-07	0		True	True
+KIF1A	2-240722502-G-T	stop_gained	c.4619C>A	p.Ser1540Ter	4619	43	49	1540	0.8599		False	False	False	HC				0	1547926	0.0	0	AC0	False	False
+KIF1A	2-240722482-C-A	stop_gained	c.4639G>T	p.Glu1547Ter	4639	43	49	1547	0.8638		False	False	False	HC				1	1547284	6.462937637822145e-07	0		True	True
+KIF1A	2-240722476-G-A	stop_gained	c.4645C>T	p.Gln1549Ter	4645	43	49	1549	0.8649		False	False	False	HC				0	1546962	0.0	0	AC0	False	False
+KIF1A	2-240722455-C-A	splice_donor_variant	c.4665+1G>T		4665	43	49				False	False	False	HC				0	1546142	0.0	0	AC0	False	False
+KIF1A	2-240722455-C-T	splice_donor_variant	c.4665+1G>A		4665	43	49				False	False	False	HC				0	1546142	0.0	0	AC0	False	False
+KIF1A	2-240721885-C-A	splice_acceptor_variant	c.4666-1G>T		4666	44	49				False	False	False	HC				0	1603896	0.0	0	AC0	False	False
+KIF1A	2-240721885-C-T	splice_acceptor_variant	c.4666-1G>A		4666	44	49				False	False	False	HC				0	1603896	0.0	0	AC0	False	False
+KIF1A	2-240721886-T-A	splice_acceptor_variant	c.4666-2A>T		4666	44	49				False	False	False	HC				0	1603640	0.0	0	AC0	False	False
+KIF1A	2-240721886-T-C	splice_acceptor_variant	c.4666-2A>G		4666	44	49				False	False	False	HC				2	1603640	1.2471627048464742e-06	0		True	True
+KIF1A	2-240721882-G-T	stop_gained	c.4668C>A	p.Cys1556Ter	4668	44	49	1556	0.8688		False	False	False	HC				0	1604546	0.0	0	AC0	False	False
+KIF1A	2-240721845-T-TGTACTCTCTGTTGAATGTGTGC	frameshift_variant	c.4683_4704dup	p.Thr1569AlafsTer53	4683	44	49	1569	0.876		False	False	False	HC				1	1607568	6.220576672339832e-07	0		True	True
+KIF1A	2-240721854-T-A	stop_gained	c.4696A>T	p.Arg1566Ter	4696	44	49	1566	0.8744		False	False	False	HC				0	1607498	0.0	0	AC0	False	False
+KIF1A	2-240721851-C-A	stop_gained	c.4699G>T	p.Glu1567Ter	4699	44	49	1567	0.8749		False	False	False	HC				0	1607692	0.0	0	AC0	False	False
+KIF1A	2-240721846-G-T	stop_gained	c.4704C>A	p.Tyr1568Ter	4704	44	49	1568	0.8755		False	False	False	HC				0	1607546	0.0	0	AC0	False	False
+KIF1A	2-240721838-CTG-C	frameshift_variant	c.4710_4711del	p.His1570GlnfsTer44	4710	44	49	1570	0.8766		False	False	False	HC				0	1607430	0.0	0	AC0	False	False
+KIF1A	2-240721828-G-T	stop_gained	c.4722C>A	p.Cys1574Ter	4722	44	49	1574	0.8788		False	False	False	HC				0	1606636	0.0	0	AC0	False	False
+KIF1A	2-240721815-C-A	stop_gained	c.4735G>T	p.Glu1579Ter	4735	44	49	1579	0.8816		False	False	False	HC				0	1604712	0.0	0	AC0	False	False
+KIF1A	2-240720988-TA-T	frameshift_variant	c.4793del	p.Leu1598GlnfsTer25	4793	45	49	1598	0.8922		False	False	False	HC				0	1609764	0.0	0	AC0	False	False
+KIF1A	2-240720946-CAG-C	frameshift_variant	c.4834_4835del	p.Leu1612GlyfsTer2	4834	45	49	1612	0.9001		False	False	False	HC				0	1593900	0.0	0	AC0	False	False
+KIF1A	2-240720942-C-A	stop_gained	c.4840G>T	p.Glu1614Ter	4840	45	49	1614	0.9012		False	False	False	HC				0	1591378	0.0	0	AC0	False	False
+KIF1A	2-240720931-G-T	stop_gained	c.4851C>A	p.Tyr1617Ter	4851	45	49	1617	0.9028		False	False	False	HC				0	1581504	0.0	0	AC0	False	False
+KIF1A	2-240720913-C-A	splice_donor_variant	c.4868+1G>T		4868	45	49				False	False	False	HC				0	1566226	0.0	0	AC0	False	False
+KIF1A	2-240719928-T-C	splice_acceptor_variant	c.4869-2A>G		4869	46	49				False	False	False	HC				0	1605672	0.0	0	AC0	False	False
+KIF1A	2-240719920-CG-C	frameshift_variant	c.4874del	p.Pro1625ArgfsTer264	4874	46	49	1625	0.9073		False	False	False	HC				0	1608110	0.0	0	AC0	False	False
+KIF1A	2-240719893-TG-T	frameshift_variant	c.4901del	p.Pro1634GlnfsTer255	4901	46	49	1634	0.9123		False	False	False	HC				0	1611382	0.0	0	AC0	False	False
+KIF1A	2-240719886-C-A	stop_gained	c.4909G>T	p.Glu1637Ter	4909	46	49	1637	0.914		False	False	False	HC				0	1611690	0.0	0	AC0	False	False
+KIF1A	2-240719861-TTGG-T	stop_gained	c.4931_4933del	p.Ser1644_Lys1645delinsTer	4931	46	49	1644	0.9179		False	False	False	HC				1	1612074	6.203189183623084e-07	0		True	True
+KIF1A	2-240719845-AG-A	frameshift_variant	c.4949del	p.Pro1650LeufsTer239	4949	46	49	1650	0.9213		False	False	False	HC				0	1611792	0.0	0	AC0	False	False
+KIF1A	2-240719790-G-A	stop_gained	c.5005C>T	p.Gln1669Ter	5005	46	49	1669	0.9319		False	False	False	HC				0	1595354	0.0	0	AC0	False	False
+KIF1A	2-240719781-G-A	stop_gained	c.5014C>T	p.Arg1672Ter	5014	46	49	1672	0.9336		False	False	False	HC				1	1584072	6.312844365660147e-07	0	AC0	False	False
+KIF1A	2-240719773-C-A	splice_donor_variant	c.5021+1G>T		5021	46	49				False	False	False	HC				0	1574782	0.0	0	AC0	False	False
+KIF1A	2-240719103-T-TA	frameshift_variant	c.5116dup	p.Tyr1706LeufsTer26	5116	47	49	1706	0.9525		False	False	False	HC				1	1612616	6.201104292652435e-07	0		True	True
+KIF1A	2-240718169-C-A	splice_acceptor_variant	c.5215-1G>T		5215	48	49				False	False	False	HC				1	1595032	6.269466694085135e-07	0		True	True
+KIF1A	2-240718170-T-A	splice_acceptor_variant	c.5215-2A>T		5215	48	49				False	False	False	HC				0	1593548	0.0	0	AC0	False	False
+KIF1A	2-240718153-C-CGA	frameshift_variant	c.5228_5229dup	p.Ala1744SerfsTer146	5228	48	49	1744	0.9738		False	False	True	HC				1	1605544	6.228418529794263e-07	0		True	True
+KIF1A	2-240718120-G-A	stop_gained	c.5263C>T	p.Gln1755Ter	5263	48	49	1755	0.9799		False	False	True	HC				0	1611190	0.0	0	AC0	False	False
+KIF1A	2-240717986-TGGCCAGGAGCCGGTTGAGGGCAGGACCCCCATGGCAGCAACCTCGCCCTGCAGGCGGCCCTACCGTATGGTCCC-T	splice_donor_variant	c.5323_5333+63del		5323	48	49				False	True	False	HC				1	1060008	9.433891064973095e-07	0		True	False
+KIF1A	2-240717978-AATGGTCCTGGCCAGGAGCCGGTTGAGGGCAGGACCCCCATGGCAGCAACCTCGCCCTGCAGGCGGCCCTACCGT-A	splice_donor_variant	c.5331_5333+71del		5331	48	49				False	True	False	HC				0	959502	0.0	0	AC0	False	False
+KIF1A	2-240718049-C-T	splice_donor_variant	c.5333+1G>A		5333	48	49				False	True	False	HC				0	1599726	0.0	0	AC0	False	False
+KIF13B	8-29263027-TC-T	frameshift_variant	c.7del	p.Asp3ThrfsTer4	7	1	40	3	0.0016		False	False	False	HC				0	1591302	0.0	0	AC0	False	False
+KIF13B	8-29263013-CT-C	frameshift_variant	c.21del	p.Val8TrpfsTer8	21	1	40	8	0.0044		False	False	False	HC				0	1599850	0.0	0	AC0	False	False
+KIF13B	8-29263008-CG-C	frameshift_variant	c.26del	p.Ala9GlyfsTer7	26	1	40	9	0.0049		False	False	False	HC				0	1599700	0.0	0	AC0	False	False
+KIF13B	8-29262998-G-A	stop_gained	c.37C>T	p.Arg13Ter	37	1	40	13	0.0071		False	False	False	HC				0	1597554	0.0	0	AC0	False	False
+KIF13B	8-29262983-G-A	stop_gained	c.52C>T	p.Arg18Ter	52	1	40	18	0.0099		False	False	False	HC				5	1591122	3.1424365950568216e-06	0		True	True
+KIF13B	8-29262981-T-TC	frameshift_variant	c.53dup	p.Glu19ArgfsTer3	53	1	40	19	0.0104		False	False	False	HC				1	1587172	6.300514373993493e-07	0		True	True
+KIF13B	8-29262978-A-G	splice_donor_variant	c.55+2T>C		55	1	40				False	False	False	HC				0	1589234	0.0	0	AC0	False	False
+KIF13B	8-29262979-C-T	splice_donor_variant	c.55+1G>A		55	1	40				False	False	False	HC				0	1591446	0.0	0	AC0	False	False
+KIF13B	8-29262979-C-A	splice_donor_variant	c.55+1G>T		55	1	40				False	False	False	HC				0	1591446	0.0	0	AC0	False	False
+KIF13B	8-29262980-C-A	stop_gained	c.55G>T	p.Glu19Ter	55	1	40	19	0.0104		False	False	False	HC				0	1591624	0.0	0	AC0	False	False
+KIF13B	8-29245440-C-A	splice_acceptor_variant	c.56-1G>T		56	2	40				False	False	False	HC				1	1570288	6.36825856148681e-07	0		True	True
+KIF13B	8-29245433-TC-T	frameshift_variant	c.61del	p.Asp21ThrfsTer20	61	2	40	21	0.0115		False	False	False	HC				1	1590382	6.287797522859288e-07	0		True	True
+KIF13B	8-29245412-AC-A	frameshift_variant	c.82del	p.Val28TrpfsTer13	82	2	40	28	0.0153		False	False	False	HC				0	1601576	0.0	0	AC0	False	False
+KIF13B	8-29245345-C-T	splice_donor_variant	c.149+1G>A		149	2	40				False	False	False	HC				0	1583422	0.0	0	AC0	False	False
+KIF13B	8-29196200-C-T	splice_acceptor_variant	c.150-1G>A		150	3	40				False	False	False	HC				0	1563288	0.0	0	AC0	False	False
+KIF13B	8-29196200-C-CA	splice_acceptor_variant	c.150-2_150-1insT		150	3	40				False	False	False	HC				0	1563288	0.0	0	AC0	False	False
+KIF13B	8-29196200-C-CT	splice_acceptor_variant	c.150-2dup		150	3	40				False	False	False	HC				0	1563288	0.0	0	AC0	False	False
+KIF13B	8-29196200-C-G	splice_acceptor_variant	c.150-1G>C		150	3	40				False	False	False	HC				1	1563288	6.396773978946937e-07	0		True	True
+KIF13B	8-29196200-C-A	splice_acceptor_variant	c.150-1G>T		150	3	40				False	False	False	HC				0	1563288	0.0	0	AC0	False	False
+KIF13B	8-29196201-T-A	splice_acceptor_variant	c.150-2A>T		150	3	40				False	False	False	HC				0	1561822	0.0	0	AC0	False	False
+KIF13B	8-29196201-T-G	splice_acceptor_variant	c.150-2A>C		150	3	40				False	False	False	HC				1	1561820	6.402786492681615e-07	0		True	True
+KIF13B	8-29196201-T-C	splice_acceptor_variant	c.150-2A>G		150	3	40				False	False	False	HC				1	1561824	6.402770094453664e-07	0		True	True
+KIF13B	8-29196196-GC-G	frameshift_variant	c.152del	p.Gly51AlafsTer63	152	3	40	51	0.0279		False	False	False	HC				0	1563802	0.0	0	AC0	False	False
+KIF13B	8-29196195-G-A	stop_gained	c.154C>T	p.Gln52Ter	154	3	40	52	0.0285		False	False	False	HC				0	1564242	0.0	0	AC0	False	False
+KIF13B	8-29196189-T-A	stop_gained	c.160A>T	p.Lys54Ter	160	3	40	54	0.0296		False	False	False	HC				0	1566976	0.0	0	AC0	False	False
+KIF13B	8-29196187-CT-C	frameshift_variant	c.161del	p.Lys54ArgfsTer60	161	3	40	54	0.0296		False	False	False	HC				0	1566512	0.0	0	AC0	False	False
+KIF13B	8-29196185-A-G	splice_donor_variant	c.162+2T>C		162	3	40				False	False	False	HC				0	1567260	0.0	0	AC0	False	False
+KIF13B	8-29196186-C-A	splice_donor_variant	c.162+1G>T		162	3	40				False	False	False	HC				0	1566914	0.0	0	AC0	False	False
+KIF13B	8-29196186-C-T	splice_donor_variant	c.162+1G>A		162	3	40				False	False	False	HC				0	1566914	0.0	0	AC0	False	False
+KIF13B	8-29191036-AACAATGATCATAAGCAAACACCTGTTGAAAATG-A	splice_acceptor_variant	c.163-12_183del		163	4	40				False	False	False	HC				0	1612034	0.0	0	AC0	False	False
+KIF13B	8-29191004-CT-C	frameshift_variant	c.215del	p.Lys72SerfsTer42	215	4	40	72	0.0394		False	False	False	HC				0	1612474	0.0	0	AC0	False	False
+KIF13B	8-29190996-C-T	splice_donor_variant	c.223+1G>A		223	4	40				False	False	False	HC				0	1610602	0.0	0	AC0	False	False
+KIF13B	8-29188609-T-A	splice_acceptor_variant	c.224-2A>T		224	5	40				False	False	False	HC				2	1584922	1.2618917524016955e-06	0		True	True
+KIF13B	8-29188597-AATATCTT-A	frameshift_variant	c.227_233del	p.Gln76LeufsTer36	227	5	40	76	0.0416		False	False	False	HC				1	1606910	6.223123883727154e-07	0		True	True
+KIF13B	8-29188597-AAT-A	frameshift_variant	c.232_233del	p.Ile78CysfsTer15	232	5	40	78	0.0427		False	False	False	HC				1	1606910	6.223123883727154e-07	0		True	True
+KIF13B	8-29188557-AAGCATTCTGC-A	frameshift_variant	c.264_273del	p.Gln89LeufsTer22	264	5	40	89	0.0487		False	False	False	HC				1	1612618	6.201096601923085e-07	0		True	True
+KIF13B	8-29188546-G-T	stop_gained	c.285C>A	p.Tyr95Ter	285	5	40	95	0.052		False	False	False	HC				0	1611042	0.0	0	AC0	False	False
+KIF13B	8-29188530-CAA-C	frameshift_variant	c.299_300del	p.Phe100CysfsTer18	299	5	40	100	0.0548		False	False	False	HC				1	1605316	6.229303140316299e-07	0		True	True
+KIF13B	8-29188524-C-A	stop_gained	c.307G>T	p.Gly103Ter	307	5	40	103	0.0564		False	False	False	HC				1	1597944	6.258041583434714e-07	0		True	True
+KIF13B	8-29188521-G-A	stop_gained	c.310C>T	p.Gln104Ter	310	5	40	104	0.057		False	False	False	HC				1	1589710	6.290455491882167e-07	0		True	True
+KIF13B	8-29188513-AC-A	splice_donor_variant	c.316+1del		316	5	40				False	False	False	HC				0	1557446	0.0	0	AC0	False	False
+KIF13B	8-29188514-C-T	splice_donor_variant	c.316+1G>A		316	5	40				False	False	False	HC				0	1561298	0.0	0	AC0	False	False
+KIF13B	8-29186470-AGCCT-A	splice_acceptor_variant	c.317-2_318del		317	6	40				False	False	False	HC				0	1598202	0.0	0	AC0	False	False
+KIF13B	8-29186395-CAA-C	frameshift_variant	c.392_393del	p.Phe131Ter	392	6	40	131	0.0717		False	False	False	HC				1	1613810	6.196516318525725e-07	0		True	True
+KIF13B	8-29186392-G-A	stop_gained	c.397C>T	p.Arg133Ter	397	6	40	133	0.0728		False	False	False	HC				4	1613420	2.4792056625057332e-06	0		True	True
+KIF13B	8-29186378-CTCTT-C	frameshift_variant	c.407_410del	p.Lys136ArgfsTer10	407	6	40	136	0.0745		False	False	False	HC				2	1613812	1.2393017278344689e-06	0		True	True
+KIF13B	8-29186360-ACT-A	frameshift_variant	c.427_428del	p.Ser143PhefsTer2	427	6	40	143	0.0783		False	False	False	HC				1	1613042	6.199466597893918e-07	0		True	True
+KIF13B	8-29186314-G-A	stop_gained	c.475C>T	p.Arg159Ter	475	6	40	159	0.0871		False	False	False	HC				4	1612710	2.480297139597324e-06	0		True	True
+KIF13B	8-29186290-AC-A	splice_donor_variant	c.497+1del		497	6	40				False	False	False	HC				1	1607946	6.219114323490963e-07	0		True	True
+KIF13B	8-29182008-T-C	splice_acceptor_variant	c.498-2A>G		498	7	40				False	False	False	HC		NAGNAG_SITE	lof_flag	1	1611630	6.204898146596924e-07	0		True	True
+KIF13B	8-29181999-G-A	stop_gained	c.505C>T	p.Gln169Ter	505	7	40	169	0.0926		False	False	False	HC				1	1612406	6.201911925408365e-07	0		True	True
+KIF13B	8-29181978-GCTCT-G	frameshift_variant	c.522_525del	p.Arg174SerfsTer26	522	7	40	174	0.0953		False	False	False	HC				1	1613454	6.197883546726464e-07	0		True	True
+KIF13B	8-29180162-CGG-C	frameshift_variant	c.660_661del	p.Ser220ArgfsTer38	660	8	40	220	0.1205		False	False	False	HC				0	1613998	0.0	0	AC0	False	False
+KIF13B	8-29180163-G-A	stop_gained	c.661C>T	p.Arg221Ter	661	8	40	221	0.121		False	False	False	HC				3	1613782	1.8589871494414983e-06	0		True	True
+KIF13B	8-29180161-TC-T	frameshift_variant	c.662del	p.Arg221HisfsTer17	662	8	40	221	0.121		False	False	False	HC				1	1614020	6.195710090333453e-07	0		True	True
+KIF13B	8-29180158-G-GCGACCACCGA	frameshift_variant	c.665_666insTCGGTGGTCG	p.His223ArgfsTer39	665	8	40	223	0.1221		False	False	False	HC				0	1613906	0.0	0	AC0	False	False
+KIF13B	8-29180156-T-TAC	frameshift_variant	c.667_668insGT	p.His223ArgfsTer16	667	8	40	223	0.1221		False	False	False	HC				0	1614028	0.0	0	AC0	False	False
+KIF13B	8-29180153-GC-G	frameshift_variant	c.670del	p.Ala224GlnfsTer14	670	8	40	224	0.1227		False	False	False	HC				0	1613984	0.0	0	AC0	False	False
+KIF13B	8-29180131-TGTGAGGGTGA-T	frameshift_variant	c.683_692del	p.Ile228AsnfsTer7	683	8	40	228	0.1249		False	False	False	HC				0	1613924	0.0	0	AC0	False	False
+KIF13B	8-29180120-TAG-T	frameshift_variant	c.702_703del	p.Tyr235ArgfsTer23	702	8	40	235	0.1287		False	False	False	HC				2	1613950	1.2391957619504941e-06	0		True	True
+KIF13B	8-29180103-C-T	splice_donor_variant	c.720+1G>A		720	8	40				False	False	False	HC				1	1613904	6.196155409491519e-07	0		True	True
+KIF13B	8-29177524-G-A	stop_gained	c.775C>T	p.Arg259Ter	775	9	40	259	0.1418		False	False	False	HC				3	1613712	1.8590677890478598e-06	0		True	True
+KIF13B	8-29177464-A-G	splice_donor_variant	c.833+2T>C		833	9	40				False	False	False	HC				1	1574586	6.350875722253341e-07	0		True	True
+KIF13B	8-29177464-A-T	splice_donor_variant	c.833+2T>A		833	9	40				False	False	False	HC				0	1574586	0.0	0	AC0	False	False
+KIF13B	8-29176180-C-G	splice_acceptor_variant	c.834-1G>C		834	10	40				False	False	False	HC				1	1580610	6.326671348403465e-07	0		True	True
+KIF13B	8-29176180-C-T	splice_acceptor_variant	c.834-1G>A		834	10	40				False	False	False	HC				1	1580610	6.326671348403465e-07	0		True	True
+KIF13B	8-29176181-T-C	splice_acceptor_variant	c.834-2A>G		834	10	40				False	False	False	HC				1	1575424	6.347497562560936e-07	0		True	True
+KIF13B	8-29176171-GT-G	frameshift_variant	c.841del	p.Thr281GlnfsTer50	841	10	40	281	0.1539		False	False	False	HC				1	1605110	6.230102609789983e-07	0		True	True
+KIF13B	8-29176066-A-C	splice_donor_variant	c.945+2T>G		945	10	40				False	False	False	HC				1	1593778	6.274399571333021e-07	0		True	True
+KIF13B	8-29176066-A-T	splice_donor_variant	c.945+2T>A		945	10	40				False	False	False	HC				0	1593776	0.0	0	AC0	False	False
+KIF13B	8-29176067-C-G	splice_donor_variant	c.945+1G>C		945	10	40				False	False	False	HC				1	1597384	6.260235485018004e-07	0		True	True
+KIF13B	8-29167584-T-TC	frameshift_variant	c.946dup	p.Asp316GlyfsTer6	946	11	40	316	0.1731		False	False	False	HC				1	1613306	6.19845212253596e-07	0		True	True
+KIF13B	8-29167576-C-CT	frameshift_variant	c.954_955insA	p.Gly319ArgfsTer3	954	11	40	319	0.1747		False	False	False	HC				1	1613772	6.19666222985651e-07	0		True	True
+KIF13B	8-29167505-TG-T	frameshift_variant	c.1025del	p.Ser342Ter	1025	11	40	342	0.1873		False	False	False	HC				1	1613994	6.195809897682395e-07	0		True	True
+KIF13B	8-29167486-G-A	stop_gained	c.1045C>T	p.Arg349Ter	1045	11	40	349	0.1911		False	False	False	HC				1	1613912	6.196124695770277e-07	0		True	True
+KIF13B	8-29167435-G-A	stop_gained	c.1096C>T	p.Arg366Ter	1096	11	40	366	0.2004		False	False	False	HC				6	1613772	3.717997337913906e-06	0		True	True
+KIF13B	8-29167384-T-TC	frameshift_variant	c.1146dup	p.Thr383AspfsTer19	1146	11	40	383	0.2097		False	False	False	HC				1	1612232	6.20258126621975e-07	0		True	True
+KIF13B	8-29167372-C-T	splice_donor_variant	c.1158+1G>A		1158	11	40				False	False	False	HC				0	1611596	0.0	0	AC0	False	False
+KIF13B	8-29167372-C-A	splice_donor_variant	c.1158+1G>T		1158	11	40				False	False	False	HC				18	1611596	1.1169052293502839e-05	0		True	True
+KIF13B	8-29165774-T-C	splice_acceptor_variant	c.1159-2A>G		1159	12	40				False	False	False	HC				0	1599418	0.0	0	AC0	False	False
+KIF13B	8-29165699-C-T	stop_gained	c.1232G>A	p.Trp411Ter	1232	12	40	411	0.2251		False	False	False	HC				1	1613774	6.19665455014147e-07	0		True	True
+KIF13B	8-29165667-CA-C	frameshift_variant	c.1263del	p.Ile421MetfsTer31	1263	12	40	421	0.2306		False	False	False	HC				1	1601236	6.245175601847572e-07	0		True	True
+KIF13B	8-29165660-A-C	splice_donor_variant	c.1269+2T>G		1269	12	40				False	False	False	HC				3	1589026	1.8879489699979736e-06	0		True	True
+KIF13B	8-29165660-A-G	splice_donor_variant	c.1269+2T>C		1269	12	40				False	False	False	HC				1	1588908	6.293630594093554e-07	0		True	True
+KIF13B	8-29165661-C-T	splice_donor_variant	c.1269+1G>A		1269	12	40				False	False	False	HC				1	1591146	6.284778392429105e-07	0		True	True
+KIF13B	8-29160864-G-A	stop_gained	c.1273C>T	p.Arg425Ter	1273	13	40	425	0.2327		False	False	False	HC				13	1612740	8.060815754554361e-06	0		True	True
+KIF13B	8-29160861-G-A	stop_gained	c.1276C>T	p.Gln426Ter	1276	13	40	426	0.2333		False	False	False	HC				1	1613142	6.199082287858105e-07	0		True	True
+KIF13B	8-29160858-T-A	stop_gained	c.1279A>T	p.Lys427Ter	1279	13	40	427	0.2338		False	False	False	HC				1	1613302	6.19846749089755e-07	0		True	True
+KIF13B	8-29160849-C-A	stop_gained	c.1288G>T	p.Glu430Ter	1288	13	40	430	0.2355		False	False	False	HC				1	1613448	6.19790659506845e-07	0		True	True
+KIF13B	8-29160763-A-AGCTGGGTCAGCATTCAGATTCACAAGGAAGCATTT	stop_gained	c.1339_1373dup	p.Leu459AsnfsTer5	1339	13	40	459	0.2514		False	False	False	HC				1	1613598	6.197330437940553e-07	0		True	True
+KIF13B	8-29160798-T-A	stop_gained	c.1339A>T	p.Lys447Ter	1339	13	40	447	0.2448		False	False	False	HC				1	1613548	6.197522478414029e-07	0		True	True
+KIF13B	8-29160793-G-T	stop_gained	c.1344C>A	p.Cys448Ter	1344	13	40	448	0.2453		False	False	False	HC				1	1613444	6.197921960725008e-07	0		True	True
+KIF13B	8-29160731-A-G	splice_donor_variant	c.1404+2T>C		1404	13	40				False	False	False	HC				1	1609952	6.211365307785573e-07	0		True	True
+KIF13B	8-29160732-C-T	splice_donor_variant	c.1404+1G>A		1404	13	40				False	False	False	HC				1	1612614	6.201111983400863e-07	0		True	True
+KIF13B	8-29155856-C-A	stop_gained	c.1405G>T	p.Glu469Ter	1405	14	40	469	0.2568		False	False	False	HC				0	1568764	0.0	0	AC0	False	False
+KIF13B	8-29155857-C-CT	splice_acceptor_variant	c.1405-2dup		1405	14	40				False	False	False	HC				1	1568050	6.377347661107745e-07	0		True	True
+KIF13B	8-29155857-C-A	splice_acceptor_variant	c.1405-1G>T		1405	14	40				False	False	False	HC				0	1568046	0.0	0	AC0	False	False
+KIF13B	8-29155857-C-T	splice_acceptor_variant	c.1405-1G>A		1405	14	40				False	False	False	HC				1	1567930	6.377835745218217e-07	0	AC0	False	False
+KIF13B	8-29155826-G-A	stop_gained	c.1435C>T	p.Gln479Ter	1435	14	40	479	0.2623		False	False	False	HC				0	1584870	0.0	0	AC0	False	False
+KIF13B	8-29155802-C-A	stop_gained	c.1459G>T	p.Gly487Ter	1459	14	40	487	0.2667		False	False	False	HC				0	1594192	0.0	0	AC0	False	False
+KIF13B	8-29155765-G-T	stop_gained	c.1496C>A	p.Ser499Ter	1496	14	40	499	0.2733		False	False	False	HC				0	1603928	0.0	0	AC0	False	False
+KIF13B	8-29155736-T-A	stop_gained	c.1525A>T	p.Lys509Ter	1525	14	40	509	0.2788		False	False	False	HC				1	1605494	6.228612501821869e-07	0		True	True
+KIF13B	8-29155725-C-A	splice_donor_variant	c.1535+1G>T		1535	14	40				False	False	False	HC				0	1603226	0.0	0	AC0	False	False
+KIF13B	8-29155725-C-T	splice_donor_variant	c.1535+1G>A		1535	14	40				False	False	False	HC				0	1603228	0.0	0	AC0	False	False
+KIF13B	8-29155725-C-G	splice_donor_variant	c.1535+1G>C		1535	14	40				False	False	False	HC				0	1603228	0.0	0	AC0	False	False
+KIF13B	8-29150384-C-G	splice_acceptor_variant	c.1536-1G>C		1536	15	40				False	False	False	HC				0	1523106	0.0	0	AC0	False	False
+KIF13B	8-29150384-C-A	splice_acceptor_variant	c.1536-1G>T		1536	15	40				False	False	False	HC				0	1523104	0.0	0	AC0	False	False
+KIF13B	8-29150385-T-A	splice_acceptor_variant	c.1536-2A>T		1536	15	40				False	False	False	HC				0	1517840	0.0	0	AC0	False	False
+KIF13B	8-29150385-T-C	splice_acceptor_variant	c.1536-2A>G		1536	15	40				False	False	False	HC				1	1517840	6.588309703262531e-07	0		True	True
+KIF13B	8-29150367-AC-A	frameshift_variant	c.1551del	p.Ser518HisfsTer45	1551	15	40	518	0.2837		False	False	False	HC				1	1573746	6.354265554924365e-07	0		True	True
+KIF13B	8-29150366-G-T	stop_gained	c.1553C>A	p.Ser518Ter	1553	15	40	518	0.2837		False	False	False	HC				1	1576482	6.343237664622875e-07	0		True	True
+KIF13B	8-29150355-TG-T	frameshift_variant	c.1563del	p.Ser522ValfsTer41	1563	15	40	522	0.2859		False	False	False	HC				1	1588058	6.296999227987895e-07	0		True	True
+KIF13B	8-29150344-CTGTATTG-C	frameshift_variant	c.1568_1574del	p.Pro523ArgfsTer38	1568	15	40	523	0.2864		False	False	False	HC				1	1594688	6.270819119476662e-07	0		True	True
+KIF13B	8-29150346-G-A	stop_gained	c.1573C>T	p.Gln525Ter	1573	15	40	525	0.2875		False	False	False	HC				1	1594442	6.271786618766941e-07	0		True	True
+KIF13B	8-29150333-C-CAAAA	frameshift_variant	c.1585_1586insTTTT	p.Gly529ValfsTer19	1585	15	40	529	0.2897		False	False	False	HC				1	1595122	6.269112958131102e-07	0		True	True
+KIF13B	8-29150317-C-T	stop_gained	c.1602G>A	p.Trp534Ter	1602	15	40	534	0.2924		False	False	False	HC				0	1581426	0.0	0	AC0	False	False
+KIF13B	8-29150302-GA-G	frameshift_variant	c.1616del	p.Phe539SerfsTer24	1616	15	40	539	0.2952		False	False	False	HC				0	1550568	0.0	0	AC0	False	False
+KIF13B	8-29150297-CT-C	frameshift_variant	c.1621del	p.Arg541AspfsTer22	1621	15	40	541	0.2963		False	False	False	HC				1	1536432	6.508586126818499e-07	0		True	True
+KIF13B	8-29150295-AC-A	splice_donor_variant	c.1622+1del		1622	15	40				False	False	False	HC				0	1524790	0.0	0	AC0	False	False
+KIF13B	8-29150296-C-A	splice_donor_variant	c.1622+1G>T		1622	15	40				False	False	False	HC				1	1529474	6.538195484199143e-07	0		True	True
+KIF13B	8-29150296-C-T	splice_donor_variant	c.1622+1G>A		1622	15	40				False	False	False	HC				1	1529474	6.538195484199143e-07	0		True	True
+KIF13B	8-29148765-AGTCTTGGTGGG-A	splice_acceptor_variant	c.1623-9_1624del		1623	16	40				False	False	False	HC				0	1586290	0.0	0	AC0	False	False
+KIF13B	8-29148765-AGTCTTGGTGG-A	splice_acceptor_variant	c.1623-8_1624del		1623	16	40				False	False	False	HC				0	1586288	0.0	0	AC0	False	False
+KIF13B	8-29148738-GCTTT-G	frameshift_variant	c.1648_1651del	p.Lys550GlnfsTer12	1648	16	40	550	0.3012		False	False	False	HC				1	1596574	6.26341152993848e-07	0		True	True
+KIF13B	8-29148733-G-A	stop_gained	c.1657C>T	p.Arg553Ter	1657	16	40	553	0.3028		False	False	False	HC				4	1599136	2.5013507293938726e-06	0		True	True
+KIF13B	8-29148594-T-TA	frameshift_variant	c.1795_1796insT	p.Lys599IlefsTer7	1795	16	40	599	0.328		False	False	False	HC				2	1607812	1.2439265287235075e-06	0		True	True
+KIF13B	8-29148588-A-AGGGC	frameshift_variant	c.1798_1801dup	p.Leu601ArgfsTer6	1798	16	40	601	0.3291		False	False	False	HC				1	1604918	6.230847931171561e-07	0		True	True
+KIF13B	8-29147603-C-A	splice_acceptor_variant	c.1814-1G>T		1814	17	40				False	False	False	HC				1	1604892	6.230948873818301e-07	0		True	True
+KIF13B	8-29147604-T-C	splice_acceptor_variant	c.1814-2A>G		1814	17	40				False	False	False	HC				1	1602852	6.238879197829869e-07	0		True	True
+KIF13B	8-29147604-T-A	splice_acceptor_variant	c.1814-2A>T		1814	17	40				False	False	False	HC				0	1602852	0.0	0	AC0	False	False
+KIF13B	8-29147594-G-A	stop_gained	c.1822C>T	p.Gln608Ter	1822	17	40	608	0.333		False	False	False	HC				0	1609090	0.0	0	AC0	False	False
+KIF13B	8-29147576-AGC-A	frameshift_variant	c.1838_1839del	p.Ser613IlefsTer6	1838	17	40	613	0.3357		False	False	False	HC				0	1612770	0.0	0	AC0	False	False
+KIF13B	8-29147575-A-C	stop_gained	c.1841T>G	p.Leu614Ter	1841	17	40	614	0.3363		False	False	False	HC				1	1613258	6.198636547904923e-07	0		True	True
+KIF13B	8-29147573-C-A	stop_gained	c.1843G>T	p.Glu615Ter	1843	17	40	615	0.3368		False	False	False	HC				0	1613188	0.0	0	AC0	False	False
+KIF13B	8-29147549-GT-G	frameshift_variant	c.1866del	p.Lys622AsnfsTer47	1866	17	40	622	0.3406		False	False	False	HC				0	1613460	0.0	0	AC0	False	False
+KIF13B	8-29147549-G-A	stop_gained	c.1867C>T	p.Arg623Ter	1867	17	40	623	0.3412		False	False	False	HC				6	1613344	3.7189836761409844e-06	0		True	True
+KIF13B	8-29147531-G-A	stop_gained	c.1885C>T	p.Gln629Ter	1885	17	40	629	0.3445		False	False	False	HC				1	1613728	6.196831188403498e-07	0		True	True
+KIF13B	8-29147510-C-A	stop_gained	c.1906G>T	p.Glu636Ter	1906	17	40	636	0.3483		False	False	False	HC				1	1613738	6.196792787924681e-07	0		True	True
+KIF13B	8-29147504-C-A	stop_gained	c.1912G>T	p.Glu638Ter	1912	17	40	638	0.3494		False	False	False	HC				0	1613748	0.0	0	AC0	False	False
+KIF13B	8-29147471-GCT-G	frameshift_variant	c.1943_1944del	p.Lys648ThrfsTer25	1943	17	40	648	0.3549		False	False	False	HC				1	1613176	6.198951633299776e-07	0		True	True
+KIF13B	8-29147471-G-A	stop_gained	c.1945C>T	p.Gln649Ter	1945	17	40	649	0.3554		False	False	False	HC				1	1613176	6.198951633299776e-07	0		True	True
+KIF13B	8-29147434-G-T	stop_gained	c.1982C>A	p.Ser661Ter	1982	17	40	661	0.362		False	False	False	HC				33	1610996	2.0484222183047008e-05	0		True	True
+KIF13B	8-29147416-C-CGTTGCTGA	frameshift_variant	c.1992_1999dup	p.Arg667LeufsTer5	1992	17	40	667	0.3653		False	False	False	HC				1	1608062	6.218665698213129e-07	0		True	True
+KIF13B	8-29147404-C-T	stop_gained	c.2012G>A	p.Trp671Ter	2012	17	40	671	0.3675		False	False	False	HC				2	1605058	1.2460608900114513e-06	0		True	True
+KIF13B	8-29147403-C-T	stop_gained	c.2013G>A	p.Trp671Ter	2013	17	40	671	0.3675		False	False	False	HC				1	1604844	6.231135238066753e-07	0		True	True
+KIF13B	8-29147401-GC-G	frameshift_variant	c.2014del	p.Ala672LeufsTer8	2014	17	40	672	0.368		False	False	False	HC				1	1603748	6.235393590514221e-07	0		True	True
+KIF13B	8-29147399-C-A	stop_gained	c.2017G>T	p.Glu673Ter	2017	17	40	673	0.3686		False	False	False	HC				0	1602960	0.0	0	AC0	False	False
+KIF13B	8-29147396-C-A	stop_gained	c.2020G>T	p.Glu674Ter	2020	17	40	674	0.3691		False	False	False	HC				0	1601718	0.0	0	AC0	False	False
+KIF13B	8-29147390-A-G	splice_donor_variant	c.2024+2T>C		2024	17	40				False	False	False	HC				65	1598164	4.067167074217665e-05	0		True	True
+KIF13B	8-29147391-C-T	splice_donor_variant	c.2024+1G>A		2024	17	40				False	False	False	HC				1	1599008	6.253877403990474e-07	0		True	True
+KIF13B	8-29146535-GCTTCTCT-G	splice_acceptor_variant	c.2025-2_2029del		2025	18	40				False	False	False	HC				0	1612028	0.0	0	AC0	False	False
+KIF13B	8-29146542-T-C	splice_acceptor_variant	c.2025-2A>G		2025	18	40				False	False	False	HC			lcr	1	1572220	6.360433018279885e-07	0		True	True
+KIF13B	8-29146542-T-A	splice_acceptor_variant	c.2025-2A>T		2025	18	40				False	False	False	HC			lcr	0	1572218	0.0	0	AC0	False	False
+KIF13B	8-29146521-T-TC	frameshift_variant	c.2043_2044insG	p.Ser682GlufsTer11	2043	18	40	682	0.3735		False	False	False	HC				1	1613770	6.196669909590586e-07	0		True	True
+KIF13B	8-29146519-G-GC	frameshift_variant	c.2045dup	p.Ser682ArgfsTer11	2045	18	40	682	0.3735		False	False	False	HC				1	1613630	6.197207538283249e-07	0		True	True
+KIF13B	8-29146449-C-A	stop_gained	c.2116G>T	p.Glu706Ter	2116	18	40	706	0.3866		False	False	False	HC				1	1613724	6.196846548728283e-07	0		True	True
+KIF13B	8-29146431-C-A	stop_gained	c.2134G>T	p.Glu712Ter	2134	18	40	712	0.3899		False	False	False	HC				1	1613876	6.196262909913772e-07	0		True	True
+KIF13B	8-29146401-A-AG	frameshift_variant	c.2163dup	p.Ser722LeufsTer14	2163	18	40	722	0.3954		False	False	False	HC				1	1613888	6.196216837847483e-07	0		True	True
+KIF13B	8-29146382-C-CT	frameshift_variant	c.2182dup	p.Arg728LysfsTer8	2182	18	40	728	0.3987		False	False	False	HC				1	1613892	6.196201480644306e-07	0		True	True
+KIF13B	8-29146380-T-A	stop_gained	c.2185A>T	p.Lys729Ter	2185	18	40	729	0.3992		False	False	False	HC				15	1613918	9.29415249101875e-06	0		True	True
+KIF13B	8-29146376-A-AC	splice_donor_variant	c.2187+1dup		2187	18	40				False	False	False	HC				1	1613788	6.196600792669173e-07	0		True	True
+KIF13B	8-29142303-G-A	stop_gained	c.2188C>T	p.Arg730Ter	2188	19	40	730	0.3998		False	False	False	HC				3	1609460	1.8639792228449294e-06	0		True	True
+KIF13B	8-29142304-C-T	splice_acceptor_variant	c.2188-1G>A		2188	19	40				False	False	False	HC				1	1610112	6.210748072183799e-07	0		True	True
+KIF13B	8-29142305-T-G	splice_acceptor_variant	c.2188-2A>C		2188	19	40				False	False	False	HC				1	1610018	6.211110683234597e-07	0		True	True
+KIF13B	8-29142288-TAAGAA-T	frameshift_variant	c.2198_2202del	p.Leu733GlnfsTer2	2198	19	40	733	0.4014		False	False	False	HC				1	1613104	6.19922832005872e-07	0		True	True
+KIF13B	8-29142282-GCTCA-G	frameshift_variant	c.2205_2208del	p.Glu736LeufsTer5	2205	19	40	736	0.4031		False	False	False	HC				1	1612946	6.199835580360409e-07	0		True	True
+KIF13B	8-29142234-A-AAGACC	frameshift_variant	c.2252_2256dup	p.Leu753GlyfsTer13	2252	19	40	753	0.4124		False	False	False	HC				1	1613814	6.196500959837999e-07	0		True	True
+KIF13B	8-29142190-A-T	stop_gained	c.2301T>A	p.Tyr767Ter	2301	19	40	767	0.42		False	False	False	HC				1	1613614	6.197268987502587e-07	0		True	True
+KIF13B	8-29142186-C-A	stop_gained	c.2305G>T	p.Glu769Ter	2305	19	40	769	0.4211		False	False	False	HC				5	1613604	3.0986536969417527e-06	0		True	True
+KIF13B	8-29142169-T-TG	frameshift_variant	c.2321_2322insC	p.Glu774AspfsTer4	2321	19	40	774	0.4239		False	False	False	HC				1	1613148	6.199059230771139e-07	0		True	True
+KIF13B	8-29142167-T-TA	frameshift_variant	c.2323_2324insT	p.Glu775ValfsTer3	2323	19	40	775	0.4244		False	False	False	HC				1	1612974	6.199727955937293e-07	0		True	True
+KIF13B	8-29142166-T-TACACG	frameshift_variant	c.2324_2325insCGTGT	p.Glu775AspfsTer3	2324	19	40	775	0.4244		False	False	False	HC				0	1612856	0.0	0		False	False
+KIF13B	8-29142160-GTT-G	frameshift_variant	c.2329_2330del	p.Asn777ProfsTer11	2329	19	40	777	0.4255		False	False	False	HC				0	1611542	0.0	0		False	False
+KIF13B	8-29142159-G-GCGACCACCGA	frameshift_variant	c.2331_2332insTCGGTGGTCG	p.Pro778SerfsTer14	2331	19	40	778	0.4261		False	False	False	HC				0	1610870	0.0	0		False	False
+KIF13B	8-29142155-A-G	splice_donor_variant	c.2334+2T>C		2334	19	40				False	False	False	HC				2	1610974	1.2414849649963314e-06	0		True	True
+KIF13B	8-29142156-CT-C	frameshift_variant	c.2334del	p.Val779Ter	2334	19	40	779	0.4266		False	False	False	HC				0	1610578	0.0	0		False	False
+KIF13B	8-29140619-T-G	splice_acceptor_variant	c.2335-2A>C		2335	20	40				False	False	False	HC				1	1606480	6.224789602111449e-07	0		True	True
+KIF13B	8-29140619-T-C	splice_acceptor_variant	c.2335-2A>G		2335	20	40				False	False	False	HC				4	1606362	2.4900987448657276e-06	0		True	True
+KIF13B	8-29140611-G-A	stop_gained	c.2341C>T	p.Arg781Ter	2341	20	40	781	0.4277		False	False	False	HC				3	1611842	1.8612246113452808e-06	0		True	True
+KIF13B	8-29140607-G-T	stop_gained	c.2345C>A	p.Ser782Ter	2345	20	40	782	0.4283		False	False	False	HC				1	1612920	6.199935520670585e-07	0		True	True
+KIF13B	8-29140559-CTG-C	frameshift_variant	c.2391_2392del	p.His797GlnfsTer16	2391	20	40	797	0.4365		False	False	False	HC				3	1613764	1.8590078846721083e-06	0		True	True
+KIF13B	8-29140547-AC-A	frameshift_variant	c.2404del	p.Val802TrpfsTer13	2404	20	40	802	0.4392		False	False	False	HC				0	1613160	0.0	0	AC0	False	False
+KIF13B	8-29140505-A-C	stop_gained	c.2447T>G	p.Leu816Ter	2447	20	40	816	0.4469		False	False	False	HC				1	1613972	6.195894352566215e-07	0		True	True
+KIF13B	8-29140503-G-A	stop_gained	c.2449C>T	p.Gln817Ter	2449	20	40	817	0.4474		False	False	False	HC				1	1613920	6.196093982353524e-07	0		True	True
+KIF13B	8-29140161-G-A	stop_gained	c.2515C>T	p.Arg839Ter	2515	21	40	839	0.4595		False	False	False	HC				2	1613548	1.2395044956828058e-06	0		True	True
+KIF13B	8-29140122-C-CG	frameshift_variant	c.2553dup	p.Asp852ArgfsTer2	2553	21	40	852	0.4666		False	False	False	HC				1	1612732	6.200658261881081e-07	0		True	True
+KIF13B	8-29134211-C-T	splice_acceptor_variant	c.2614-1G>A		2614	22	40				False	False	False	HC				1	1612372	6.202042704785248e-07	0		True	True
+KIF13B	8-29134190-AG-A	frameshift_variant	c.2633del	p.Thr878MetfsTer24	2633	22	40	878	0.4808		False	False	False	HC				1	1613930	6.196055591010762e-07	0		True	True
+KIF13B	8-29134180-G-A	stop_gained	c.2644C>T	p.Gln882Ter	2644	22	40	882	0.483		False	False	False	HC				1	1614018	6.195717767707671e-07	0		True	True
+KIF13B	8-29134036-TCA-T	splice_donor_variant	c.2784+2_2784+3del		2784	22	40				False	False	False	HC				2	1609988	1.24224528381578e-06	0		True	True
+KIF13B	8-29132465-C-A	stop_gained	c.2785G>T	p.Glu929Ter	2785	23	40	929	0.5088		False	False	False	HC				1	1494836	6.689697063758164e-07	0		True	True
+KIF13B	8-29132466-C-A	splice_acceptor_variant	c.2785-1G>T		2785	23	40				False	False	False	HC		NAGNAG_SITE	lof_flag	0	1494152	0.0	0	AC0	False	False
+KIF13B	8-29132467-T-C	splice_acceptor_variant	c.2785-2A>G		2785	23	40				False	False	False	HC		NAGNAG_SITE	lof_flag	1	1493386	6.696192411071216e-07	0		True	True
+KIF13B	8-29132447-TG-T	frameshift_variant	c.2802del	p.Thr935ProfsTer22	2802	23	40	935	0.512		False	False	False	HC				0	1539898	0.0	0	AC0	False	False
+KIF13B	8-29132444-C-A	stop_gained	c.2806G>T	p.Glu936Ter	2806	23	40	936	0.5126		False	False	False	HC				0	1543632	0.0	0	AC0	False	False
+KIF13B	8-29132435-TA-T	frameshift_variant	c.2814del	p.Phe938LeufsTer19	2814	23	40	938	0.5137		False	False	False	HC				1	1564800	6.390593047034764e-07	0		True	True
+KIF13B	8-29132432-C-A	stop_gained	c.2818G>T	p.Glu940Ter	2818	23	40	940	0.5148		False	False	False	HC				1	1565138	6.389212963968672e-07	0		True	True
+KIF13B	8-29132420-C-A	stop_gained	c.2830G>T	p.Glu944Ter	2830	23	40	944	0.517		False	False	False	HC				3	1579778	1.8990009988745255e-06	0		True	True
+KIF13B	8-29132398-ACTTCAATT-A	frameshift_variant	c.2844_2851del	p.Glu950TrpfsTer3	2844	23	40	950	0.5203		False	False	False	HC				1	1595124	6.269105097785501e-07	0		True	True
+KIF13B	8-29132402-C-A	stop_gained	c.2848G>T	p.Glu950Ter	2848	23	40	950	0.5203		False	False	False	HC				0	1593556	0.0	0	AC0	False	False
+KIF13B	8-29132396-AT-A	frameshift_variant	c.2853del	p.Tyr952MetfsTer5	2853	23	40	952	0.5214		False	False	False	HC				1	1596022	6.265577792787318e-07	0		True	True
+KIF13B	8-29132393-C-A	stop_gained	c.2857G>T	p.Gly953Ter	2857	23	40	953	0.5219		False	False	False	HC				0	1595178	0.0	0	AC0	False	False
+KIF13B	8-29132379-GTTTAT-G	frameshift_variant	c.2866_2870del	p.Ile956ArgfsTer20	2866	23	40	956	0.5235		False	False	False	HC				1	1592990	6.277503311382997e-07	0		True	True
+KIF13B	8-29132371-CG-C	frameshift_variant	c.2878del	p.Arg960GlyfsTer26	2878	23	40	960	0.5257		False	False	False	HC				8	1592360	5.0239895501017355e-06	0		True	True
+KIF13B	8-29132369-TC-T	frameshift_variant	c.2880del	p.Asn962ThrfsTer24	2880	23	40	962	0.5268		False	False	False	HC				1	1594070	6.273250233678571e-07	0		True	True
+KIF13B	8-29132364-GT-G	frameshift_variant	c.2885del	p.Asn962ThrfsTer24	2885	23	40	962	0.5268		False	False	False	HC				1	1592744	6.278472874485793e-07	0		True	True
+KIF13B	8-29132360-CG-C	frameshift_variant	c.2889del	p.Ala964ProfsTer22	2889	23	40	964	0.5279		False	False	False	HC				0	1591238	0.0	0	AC0	False	False
+KIF13B	8-29132346-CA-C	frameshift_variant	c.2903del	p.Leu968TrpfsTer18	2903	23	40	968	0.5301		False	False	False	HC				0	1579872	0.0	0	AC0	False	False
+KIF13B	8-29132345-C-A	stop_gained	c.2905G>T	p.Gly969Ter	2905	23	40	969	0.5307		False	False	False	HC				1	1579382	6.331590457533389e-07	0		True	True
+KIF13B	8-29132336-G-A	stop_gained	c.2914C>T	p.Gln972Ter	2914	23	40	972	0.5323		False	False	False	HC				0	1572582	0.0	0	AC0	False	False
+KIF13B	8-29132328-CTT-C	frameshift_variant	c.2920_2921del	p.Lys974AspfsTer3	2920	23	40	974	0.5334		False	False	False	HC				1	1564698	6.391009638920738e-07	0		True	True
+KIF13B	8-29132306-A-G	splice_donor_variant	c.2942+2T>C		2942	23	40				False	False	False	HC				0	1491208	0.0	0	AC0	False	False
+KIF13B	8-29132307-C-A	splice_donor_variant	c.2942+1G>T		2942	23	40				False	False	False	HC				1	1489444	6.71391472254076e-07	0		True	True
+KIF13B	8-29132307-C-T	splice_donor_variant	c.2942+1G>A		2942	23	40				False	False	False	HC				0	1489444	0.0	0	AC0	False	False
+KIF13B	8-29130666-C-T	splice_acceptor_variant	c.2943-1G>A		2943	24	40				False	False	False	HC				4	1613652	2.4788492190385534e-06	0		True	True
+KIF13B	8-29130662-C-T	stop_gained	c.2946G>A	p.Trp982Ter	2946	24	40	982	0.5378		False	False	False	HC				2	1613788	1.2393201585338347e-06	0		True	True
+KIF13B	8-29130642-A-T	stop_gained	c.2966T>A	p.Leu989Ter	2966	24	40	989	0.5416		False	False	False	HC				1	1613862	6.196316661523724e-07	0		True	True
+KIF13B	8-29130640-C-A	stop_gained	c.2968G>T	p.Glu990Ter	2968	24	40	990	0.5422		False	False	False	HC				1	1613842	6.196393451155689e-07	0		True	True
+KIF13B	8-29130593-G-T	stop_gained	c.3015C>A	p.Cys1005Ter	3015	24	40	1005	0.5504		False	False	False	HC				2	1613124	1.239830292029627e-06	0		True	True
+KIF13B	8-29130586-C-A	stop_gained	c.3022G>T	p.Glu1008Ter	3022	24	40	1008	0.552		False	False	False	HC				1	1613810	6.196516318525725e-07	0		True	True
+KIF13B	8-29130532-C-T	splice_donor_variant	c.3075+1G>A		3075	24	40				False	False	False	HC				1	1613728	6.196831188403498e-07	0		True	True
+KIF13B	8-29127270-T-C	splice_acceptor_variant	c.3076-2A>G		3076	25	40				False	False	False	HC				2	1613230	1.2397488268876726e-06	0		True	True
+KIF13B	8-29127265-GC-G	frameshift_variant	c.3078del	p.Gln1027SerfsTer9	3078	25	40	1027	0.5624		False	False	False	HC				2	1612360	1.2404177727058473e-06	0		True	True
+KIF13B	8-29127258-CG-C	frameshift_variant	c.3085del	p.Arg1029GlyfsTer7	3085	25	40	1029	0.5635		False	False	False	HC				6	1613454	3.7187301280358783e-06	0		True	True
+KIF13B	8-29127241-CT-C	frameshift_variant	c.3102del	p.Val1035Ter	3102	25	40	1035	0.5668		False	False	False	HC				1	1613940	6.196017200143747e-07	0		True	True
+KIF13B	8-29127218-CCCAGATTCCTGCA-C	frameshift_variant	c.3113_3125del	p.Val1038GlyfsTer5	3113	25	40	1038	0.5685		False	False	False	HC				1	1613906	6.196147731032662e-07	0		True	True
+KIF13B	8-29127173-TC-T	frameshift_variant	c.3170del	p.Gly1057AspfsTer32	3170	25	40	1057	0.5789		False	False	False	HC				1	1613968	6.195909708247003e-07	0		True	True
+KIF13B	8-29127137-TG-T	frameshift_variant	c.3206del	p.Thr1069AsnfsTer20	3206	25	40	1069	0.5854		False	False	False	HC				1	1613850	6.196362735074511e-07	0		True	True
+KIF13B	8-29127133-CAT-C	frameshift_variant	c.3209_3210del	p.His1070ArgfsTer5	3209	25	40	1070	0.586		False	False	False	HC				5	1613794	3.098288877019e-06	0		True	True
+KIF13B	8-29127120-A-T	splice_donor_variant	c.3222+2T>A		3222	25	40				False	False	False	HC				1	1613516	6.197645390563217e-07	0		True	True
+KIF13B	8-29127120-A-G	splice_donor_variant	c.3222+2T>C		3222	25	40				False	False	False	HC				1	1613516	6.197645390563217e-07	0		True	True
+KIF13B	8-29126510-TC-T	frameshift_variant	c.3223del	p.Glu1075ArgfsTer14	3223	26	40	1075	0.5887		False	False	False	HC				0	1529890	0.0	0	AC0	False	False
+KIF13B	8-29126511-C-A	stop_gained	c.3223G>T	p.Glu1075Ter	3223	26	40	1075	0.5887		False	False	False	HC				1	1529696	6.537246616321151e-07	0		True	True
+KIF13B	8-29126512-C-A	splice_acceptor_variant	c.3223-1G>T		3223	26	40				False	False	False	HC		NAGNAG_SITE	lof_flag	0	1527706	0.0	0	AC0	False	False
+KIF13B	8-29126512-C-T	splice_acceptor_variant	c.3223-1G>A		3223	26	40				False	False	False	HC		NAGNAG_SITE	lof_flag	0	1527706	0.0	0	AC0	False	False
+KIF13B	8-29126512-CT-C	splice_acceptor_variant	c.3223-2del		3223	26	40				False	False	False	HC		NAGNAG_SITE	lof_flag	0	1527702	0.0	0	AC0	False	False
+KIF13B	8-29126512-C-G	splice_acceptor_variant	c.3223-1G>C		3223	26	40				False	False	False	HC		NAGNAG_SITE	lof_flag	1	1527708	6.545753507869304e-07	0		True	True
+KIF13B	8-29126513-T-C	splice_acceptor_variant	c.3223-2A>G		3223	26	40				False	False	False	HC		NAGNAG_SITE	lof_flag	0	1507152	0.0	0	AC0	False	False
+KIF13B	8-29126513-T-A	splice_acceptor_variant	c.3223-2A>T		3223	26	40				False	False	False	HC		NAGNAG_SITE	lof_flag	0	1507154	0.0	0	AC0	False	False
+KIF13B	8-29126509-CT-C	frameshift_variant	c.3224del	p.Glu1075GlyfsTer14	3224	26	40	1075	0.5887		False	False	False	HC				0	1530906	0.0	0	AC0	False	False
+KIF13B	8-29126507-TC-T	frameshift_variant	c.3226del	p.Glu1076LysfsTer13	3226	26	40	1076	0.5893		False	False	False	HC				0	1534174	0.0	0	AC0	False	False
+KIF13B	8-29126508-C-A	stop_gained	c.3226G>T	p.Glu1076Ter	3226	26	40	1076	0.5893		False	False	False	HC				0	1532784	0.0	0	AC0	False	False
+KIF13B	8-29126505-CT-C	frameshift_variant	c.3228del	p.Glu1077ArgfsTer12	3228	26	40	1077	0.5898		False	False	False	HC				0	1535706	0.0	0	AC0	False	False
+KIF13B	8-29126505-C-A	stop_gained	c.3229G>T	p.Glu1077Ter	3229	26	40	1077	0.5898		False	False	False	HC				0	1535714	0.0	0	AC0	False	False
+KIF13B	8-29126501-TCC-T	frameshift_variant	c.3231_3232del	p.Glu1078ArgfsTer15	3231	26	40	1078	0.5904		False	False	False	HC				0	1533660	0.0	0	AC0	False	False
+KIF13B	8-29126501-TC-T	frameshift_variant	c.3232del	p.Glu1078LysfsTer11	3232	26	40	1078	0.5904		False	False	False	HC				0	1533660	0.0	0	AC0	False	False
+KIF13B	8-29126502-C-A	stop_gained	c.3232G>T	p.Glu1078Ter	3232	26	40	1078	0.5904		False	False	False	HC				0	1533894	0.0	0	AC0	False	False
+KIF13B	8-29126492-TC-T	frameshift_variant	c.3241del	p.Asp1081ThrfsTer8	3241	26	40	1081	0.592		False	False	False	HC				0	1540136	0.0	0	AC0	False	False
+KIF13B	8-29126486-TA-T	frameshift_variant	c.3247del	p.Tyr1083ThrfsTer6	3247	26	40	1083	0.5931		False	False	False	HC				0	1539384	0.0	0	AC0	False	False
+KIF13B	8-29126485-G-T	stop_gained	c.3249C>A	p.Tyr1083Ter	3249	26	40	1083	0.5931		False	False	False	HC				0	1538570	0.0	0	AC0	False	False
+KIF13B	8-29126484-G-A	stop_gained	c.3250C>T	p.Gln1084Ter	3250	26	40	1084	0.5936		False	False	False	HC				0	1536374	0.0	0	AC0	False	False
+KIF13B	8-29126480-A-G	splice_donor_variant	c.3252+2T>C		3252	26	40				False	False	False	HC				2	1533618	1.304105716025764e-06	0		True	True
+KIF13B	8-29126481-C-A	splice_donor_variant	c.3252+1G>T		3252	26	40				False	False	False	HC				0	1535090	0.0	0	AC0	False	False
+KIF13B	8-29126481-C-T	splice_donor_variant	c.3252+1G>A		3252	26	40				False	False	False	HC				1	1535090	6.514276035932747e-07	0		True	True
+KIF13B	8-29124125-T-C	splice_acceptor_variant	c.3253-2A>G		3253	27	40				False	False	False	HC				7	1576194	4.441077684599738e-06	0		True	True
+KIF13B	8-29124120-G-A	stop_gained	c.3256C>T	p.Arg1086Ter	3256	27	40	1086	0.5947		False	False	False	HC				3	1589766	1.887070172591438e-06	0		True	True
+KIF13B	8-29124112-TA-T	frameshift_variant	c.3263del	p.Leu1088Ter	3263	27	40	1088	0.5958		False	False	False	HC				0	1606006	0.0	0	AC0	False	False
+KIF13B	8-29124113-A-C	stop_gained	c.3263T>G	p.Leu1088Ter	3263	27	40	1088	0.5958		False	False	False	HC				2	1606544	1.2449083249509506e-06	0		True	True
+KIF13B	8-29124096-TTC-T	frameshift_variant	c.3278_3279del	p.Arg1093LysfsTer23	3278	27	40	1093	0.5986		False	False	False	HC				1	1612218	6.202635127507571e-07	0		True	True
+KIF13B	8-29124072-GT-G	frameshift_variant	c.3303del	p.Lys1101AsnfsTer35	3303	27	40	1101	0.603		False	False	False	HC				0	1613238	0.0	0	AC0	False	False
+KIF13B	8-29124045-G-A	stop_gained	c.3331C>T	p.Gln1111Ter	3331	27	40	1111	0.6084		False	False	False	HC				1	1610070	6.210910084654704e-07	0		True	True
+KIF13B	8-29124039-GC-G	frameshift_variant	c.3336del	p.Lys1112AsnfsTer24	3336	27	40	1112	0.609		False	False	False	HC				1	1606674	6.224037981569379e-07	0		True	True
+KIF13B	8-29124022-A-G	splice_donor_variant	c.3352+2T>C		3352	27	40				False	False	False	HC				2	1577750	1.2676279511963238e-06	0		True	True
+KIF13B	8-29123493-C-G	splice_acceptor_variant	c.3353-1G>C		3353	28	40				False	False	False	HC				1	1613804	6.19653935670007e-07	0		True	True
+KIF13B	8-29123494-T-C	splice_acceptor_variant	c.3353-2A>G		3353	28	40				False	False	False	HC				1	1613886	6.19622451647762e-07	0		True	True
+KIF13B	8-29123484-C-CT	frameshift_variant	c.3360dup	p.Glu1121ArgfsTer3	3360	28	40	1121	0.6139		False	False	False	HC				7	1613998	4.3370561797474345e-06	0		True	True
+KIF13B	8-29123481-CCT-C	frameshift_variant	c.3362_3363del	p.Glu1121GlyfsTer2	3362	28	40	1121	0.6139		False	False	False	HC				4	1614012	2.4782963199777944e-06	0		True	True
+KIF13B	8-29123474-G-GCATCATC	stop_gained	c.3364_3370dup	p.Ala1124GlyfsTer2	3364	28	40	1124	0.6156		False	False	False	HC				2	1614006	1.2391527664705087e-06	0		True	True
+KIF13B	8-29123451-C-A	stop_gained	c.3394G>T	p.Glu1132Ter	3394	28	40	1132	0.6199		False	False	False	HC				1	1614030	6.195671703747762e-07	0		True	True
+KIF13B	8-29123378-GCC-G	frameshift_variant	c.3465_3466del	p.Ala1156ProfsTer24	3465	28	40	1156	0.6331		False	False	False	HC				1	1613856	6.196339698213471e-07	0		True	True
+KIF13B	8-29123365-C-T	splice_donor_variant	c.3479+1G>A		3479	28	40				False	False	False	HC				2	1613770	1.2393339819181173e-06	0		True	True
+KIF13B	8-29123365-C-G	splice_donor_variant	c.3479+1G>C		3479	28	40				False	False	False	HC				1	1613770	6.196669909590586e-07	0		True	True
+KIF13B	8-29122647-C-A	splice_acceptor_variant	c.3480-1G>T		3480	29	40				False	False	False	HC				0	1605620	0.0	0	AC0	False	False
+KIF13B	8-29122648-T-C	splice_acceptor_variant	c.3480-2A>G		3480	29	40				False	False	False	HC				0	1605496	0.0	0	AC0	False	False
+KIF13B	8-29122640-TG-T	frameshift_variant	c.3485del	p.Pro1162GlnfsTer16	3485	29	40	1162	0.6364		False	False	False	HC				0	1608020	0.0	0	AC0	False	False
+KIF13B	8-29122630-TC-T	frameshift_variant	c.3495del	p.Met1166TrpfsTer12	3495	29	40	1166	0.6386		False	False	False	HC				0	1609320	0.0	0	AC0	False	False
+KIF13B	8-29122617-ATG-A	frameshift_variant	c.3507_3508del	p.Ile1170SerfsTer10	3507	29	40	1170	0.6407		False	False	False	HC				1	1610472	6.209359740498438e-07	0		True	True
+KIF13B	8-29122592-A-AAC	frameshift_variant	c.3533_3534insGT	p.Asn1178LysfsTer24	3533	29	40	1178	0.6451		False	False	False	HC				1	1608972	6.215148554480749e-07	0		True	True
+KIF13B	8-29122591-C-CT	frameshift_variant	c.3534_3535insA	p.Ala1179SerfsTer2	3534	29	40	1179	0.6457		False	False	False	HC				1	1608310	6.217706785383415e-07	0		True	True
+KIF13B	8-29122589-A-C	splice_donor_variant	c.3535+2T>G		3535	29	40				False	False	False	HC				1	1608020	6.218828124028308e-07	0		True	True
+KIF13B	8-29122589-A-AAT	splice_donor_variant	c.3535+1_3535+2insAT		3535	29	40				False	False	False	HC				1	1608020	6.218828124028308e-07	0		True	True
+KIF13B	8-29122590-C-T	splice_donor_variant	c.3535+1G>A		3535	29	40				False	False	False	HC				1	1608140	6.218364072779733e-07	0		True	True
+KIF13B	8-29122590-C-A	splice_donor_variant	c.3535+1G>T		3535	29	40				False	False	False	HC				1	1608140	6.218364072779733e-07	0		True	True
+KIF13B	8-29118967-AT-A	frameshift_variant	c.3560del	p.Asn1187IlefsTer14	3560	30	40	1187	0.6501		False	False	False	HC				1	1613820	6.196477921949164e-07	0		True	True
+KIF13B	8-29118945-C-A	stop_gained	c.3583G>T	p.Gly1195Ter	3583	30	40	1195	0.6544		False	False	False	HC				1	1613926	6.196070947490777e-07	0		True	True
+KIF13B	8-29118940-C-T	stop_gained	c.3588G>A	p.Trp1196Ter	3588	30	40	1196	0.655		False	False	False	HC				1	1613824	6.196462563451776e-07	0		True	True
+KIF13B	8-29118912-C-A	stop_gained	c.3616G>T	p.Glu1206Ter	3616	30	40	1206	0.6605		False	False	False	HC				1	1613710	6.196900310464706e-07	0		True	True
+KIF13B	8-29118888-CA-C	frameshift_variant	c.3639del	p.Ile1213MetfsTer2	3639	30	40	1213	0.6643		False	False	False	HC				2	1613960	1.2391880839673845e-06	0		True	True
+KIF13B	8-29118869-T-TC	frameshift_variant	c.3658dup	p.Glu1220GlyfsTer43	3658	30	40	1220	0.6681		False	False	False	HC				3	1613690	1.8590931343690548e-06	0		True	True
+KIF13B	8-29118867-C-G	splice_donor_variant	c.3660+1G>C		3660	30	40				False	False	False	HC				1	1613626	6.19722290047384e-07	0		True	True
+KIF13B	8-29117008-C-T	splice_acceptor_variant	c.3661-1G>A		3661	31	40				False	False	False	HC				1	1562122	6.401548662652469e-07	0		True	True
+KIF13B	8-29117008-C-A	splice_acceptor_variant	c.3661-1G>T		3661	31	40				False	False	False	HC				0	1562122	0.0	0	AC0	False	False
+KIF13B	8-29117009-T-C	splice_acceptor_variant	c.3661-2A>G		3661	31	40				False	False	False	HC				0	1558326	0.0	0	AC0	False	False
+KIF13B	8-29116998-C-A	stop_gained	c.3670G>T	p.Glu1224Ter	3670	31	40	1224	0.6703		False	False	False	HC				1	1576082	6.34484753965847e-07	0		True	True
+KIF13B	8-29116962-G-A	stop_gained	c.3706C>T	p.Gln1236Ter	3706	31	40	1236	0.6769		False	False	False	HC				1	1610248	6.210223518364873e-07	0		True	True
+KIF13B	8-29116886-GCAGGGTGGCTGAGCTGGACCGTCACGCGCACGATCAGGAACAACCGCTCGTCCACGGGCGTGCCCCTGCTGAGC-G	frameshift_variant	c.3708_3781del	p.Gln1236HisfsTer2	3708	31	40	1236	0.6769		False	False	False	HC				1	1613482	6.197775990063726e-07	0		True	True
+KIF13B	8-29116861-CTTGCGTAACACCAG-C	frameshift_variant	c.3793_3806del	p.Leu1265GlufsTer34	3793	31	40	1265	0.6928		False	False	False	HC				1	1584776	6.310040030893956e-07	0		True	True
+KIF13B	8-29116833-G-A	stop_gained	c.3835C>T	p.Gln1279Ter	3835	31	40	1279	0.7004		False	False	False	HC				0	1599596	0.0	0	AC0	False	False
+KIF13B	8-29116830-C-T	splice_donor_variant	c.3837+1G>A		3837	31	40				False	False	False	HC				0	1165010	0.0	0	AC0	False	False
+KIF13B	8-29116830-C-G	splice_donor_variant	c.3837+1G>C		3837	31	40				False	False	False	HC				1	1165012	8.583602572334019e-07	0		True	True
+KIF13B	8-29116830-C-A	splice_donor_variant	c.3837+1G>T		3837	31	40				False	False	False	HC				225	1162686	0.00019351742430888478	0		True	True
+KIF13B	8-29113556-C-A	splice_acceptor_variant	c.3838-1G>T		3838	32	40				False	False	False	HC				0	1562546	0.0	0	AC0	False	False
+KIF13B	8-29113553-AC-A	frameshift_variant	c.3839del	p.Gly1280ValfsTer7	3839	32	40	1280	0.701		False	False	False	HC				1	1567334	6.38026100371714e-07	0		True	True
+KIF13B	8-29113546-G-A	stop_gained	c.3847C>T	p.Gln1283Ter	3847	32	40	1283	0.7026		False	False	False	HC				0	1577576	0.0	0	AC0	False	False
+KIF13B	8-29113541-ACT-A	frameshift_variant	c.3850_3851del	p.Leu1285ProfsTer18	3850	32	40	1285	0.7037		False	False	False	HC				4	1581404	2.5293979274113383e-06	0		True	True
+KIF13B	8-29113529-C-CT	frameshift_variant	c.3863dup	p.Met1289AspfsTer15	3863	32	40	1289	0.7059		False	False	False	HC				1	1588884	6.293725659016014e-07	0		True	True
+KIF13B	8-29113529-CT-C	frameshift_variant	c.3863del	p.Lys1288ArgfsTer13	3863	32	40	1288	0.7054		False	False	False	HC				1	1588874	6.293765270247987e-07	0		True	True
+KIF13B	8-29113519-G-A	stop_gained	c.3874C>T	p.Arg1292Ter	3874	32	40	1292	0.7076		False	False	False	HC				1	1593062	6.277219593462151e-07	0		True	True
+KIF13B	8-29113498-C-A	stop_gained	c.3895G>T	p.Gly1299Ter	3895	32	40	1299	0.7114		False	False	False	HC				0	1593264	0.0	0	AC0	False	False
+KIF13B	8-29113486-CAA-C	frameshift_variant	c.3905_3906del	p.Phe1302Ter	3905	32	40	1302	0.713		False	False	False	HC				1	1586512	6.30313543168914e-07	0		True	True
+KIF13B	8-29113486-C-A	stop_gained	c.3907G>T	p.Glu1303Ter	3907	32	40	1303	0.7136		False	False	False	HC				0	1586512	0.0	0	AC0	False	False
+KIF13B	8-29113466-TG-T	frameshift_variant	c.3926del	p.Pro1309GlnfsTer13	3926	32	40	1309	0.7169		False	False	False	HC				0	1556718	0.0	0	AC0	False	False
+KIF13B	8-29113465-C-A	stop_gained	c.3928G>T	p.Glu1310Ter	3928	32	40	1310	0.7174		False	False	False	HC				0	1556114	0.0	0	AC0	False	False
+KIF13B	8-29113461-A-G	splice_donor_variant	c.3930+2T>C		3930	32	40				False	False	False	HC				0	1535486	0.0	0	AC0	False	False
+KIF13B	8-29110072-T-C	splice_acceptor_variant	c.3931-2A>G		3931	33	40				False	False	False	HC				1	1554718	6.432034619783137e-07	0		True	True
+KIF13B	8-29110064-G-A	stop_gained	c.3937C>T	p.Gln1313Ter	3937	33	40	1313	0.7191		False	False	False	HC				0	1558052	0.0	0	AC0	False	False
+KIF13B	8-29110053-T-TCAGAGCATACACGTGGTCTAGGCAACGCCAGTCTTTGCCAACCCAGTCAACCGAACG	stop_gained	c.3947_3948insCGTTCGGTTGACTGGGTTGGCAAAGACTGGCGTTGCCTAGACCACGTGTATGCTCTG	p.Glu1316delinsAspValArgLeuThrGlyLeuAlaLysThrGlyValAlaTer	3947	33	40	1316	0.7207		False	False	False	HC				0	1563134	0.0	0	AC0	False	False
+KIF13B	8-29110052-C-A	stop_gained	c.3949G>T	p.Glu1317Ter	3949	33	40	1317	0.7212		False	False	False	HC				2	1563012	1.2795807069939323e-06	0		True	True
+KIF13B	8-29109917-C-T	splice_donor_variant	c.4083+1G>A		4083	33	40				False	False	False	HC				1	1613206	6.198836354439544e-07	0		True	True
+KIF13B	8-29109513-T-C	splice_acceptor_variant	c.4084-2A>G		4084	34	40				False	False	False	HC				1	1612538	6.20140424597746e-07	0		True	True
+KIF13B	8-29109432-A-AC	splice_donor_variant	c.4161+1dup		4161	34	40				False	False	False	HC				1	1610828	6.207987444966192e-07	0		True	True
+KIF13B	8-29108193-CT-C	splice_acceptor_variant	c.4162-2del		4162	35	40				False	False	False	HC				9	1611700	5.584165787677607e-06	0		True	True
+KIF13B	8-29108194-T-A	splice_acceptor_variant	c.4162-2A>T		4162	35	40				False	False	False	HC				1	1611624	6.204921247139531e-07	0		True	True
+KIF13B	8-29108191-A-T	stop_gained	c.4163T>A	p.Leu1388Ter	4163	35	40	1388	0.7601		False	False	False	HC				1	1612082	6.20315840013101e-07	0		True	True
+KIF13B	8-29108180-G-A	stop_gained	c.4174C>T	p.Arg1392Ter	4174	35	40	1392	0.7623		False	False	False	HC				5	1612146	3.101456071596493e-06	0		True	True
+KIF13B	8-29108170-AG-A	frameshift_variant	c.4183del	p.Leu1395SerfsTer7	4183	35	40	1395	0.764		False	False	False	HC				1	1612530	6.201435012061791e-07	0		True	True
+KIF13B	8-29108167-A-AT	frameshift_variant	c.4186dup	p.Ile1396AsnfsTer41	4186	35	40	1396	0.7645		False	False	False	HC				3	1612460	1.8605112684965828e-06	0		True	True
+KIF13B	8-29108157-G-GT	stop_gained	c.4196dup	p.Tyr1399Ter	4196	35	40	1399	0.7662		False	False	False	HC				1	1612072	6.203196879543842e-07	0		True	True
+KIF13B	8-29108156-TG-T	frameshift_variant	c.4197del	p.Tyr1399Ter	4197	35	40	1399	0.7662		False	False	False	HC				2	1612204	1.2405377979461657e-06	0		True	True
+KIF13B	8-29108157-G-C	stop_gained	c.4197C>G	p.Tyr1399Ter	4197	35	40	1399	0.7662		False	False	False	HC				3	1612072	1.8609590638631525e-06	0		True	True
+KIF13B	8-29099243-T-C	splice_acceptor_variant	c.4216-2A>G		4216	36	40				False	False	False	HC				5	1590556	3.1435548323982308e-06	0		True	True
+KIF13B	8-29099182-AGGAGCTATTCCTCT-A	frameshift_variant	c.4261_4274del	p.Arg1421CysfsTer11	4261	36	40	1421	0.7782		False	False	False	HC				0	1613736	0.0	0	AC0	False	False
+KIF13B	8-29099192-CCT-C	frameshift_variant	c.4263_4264del	p.Gly1422AsnfsTer14	4263	36	40	1422	0.7788		False	False	False	HC				1	1613576	6.197414934282612e-07	0		True	True
+KIF13B	8-29099175-C-CG	frameshift_variant	c.4281dup	p.Ala1428ArgfsTer9	4281	36	40	1428	0.782		False	False	False	HC				3	1613342	1.8594941432132803e-06	0		True	True
+KIF13B	8-29092880-T-A	splice_acceptor_variant	c.4325-2A>T		4325	37	40				False	False	False	HC				0	1605790	0.0	0	AC0	False	False
+KIF13B	8-29092821-AT-A	frameshift_variant	c.4381del	p.Met1461CysfsTer42	4381	37	40	1461	0.8001		False	False	False	HC				1	1613098	6.199251378403544e-07	0		True	True
+KIF13B	8-29092744-C-A	splice_donor_variant	c.4458+1G>T		4458	37	40				False	False	False	HC				1	1607046	6.222597237415731e-07	0		True	True
+KIF13B	8-29092744-C-T	splice_donor_variant	c.4458+1G>A		4458	37	40				False	False	False	HC				1	1607046	6.222597237415731e-07	0		True	True
+KIF13B	8-29075344-C-A	splice_acceptor_variant	c.4459-1G>T		4459	38	40				False	False	False	HC				0	1557426	0.0	0	AC0	False	False
+KIF13B	8-29075345-T-C	splice_acceptor_variant	c.4459-2A>G		4459	38	40				False	False	False	HC				0	1557180	0.0	0	AC0	False	False
+KIF13B	8-29075345-T-A	splice_acceptor_variant	c.4459-2A>T		4459	38	40				False	False	False	HC				0	1557180	0.0	0	AC0	False	False
+KIF13B	8-29075333-CG-C	frameshift_variant	c.4468del	p.Arg1490AlafsTer13	4468	38	40	1490	0.816		False	False	False	HC				0	1558792	0.0	0	AC0	False	False
+KIF13B	8-29075322-GCA-G	frameshift_variant	c.4478_4479del	p.Val1493AlafsTer22	4478	38	40	1493	0.8176		False	False	False	HC				0	1559684	0.0	0	AC0	False	False
+KIF13B	8-29075322-G-A	stop_gained	c.4480C>T	p.Gln1494Ter	4480	38	40	1494	0.8182		False	False	False	HC				3	1559684	1.923466548352102e-06	0		True	True
+KIF13B	8-29075310-GGCTGGCTGACT-G	frameshift_variant	c.4481_4491del	p.Gln1494ProfsTer18	4481	38	40	1494	0.8182		False	False	False	HC				0	1559146	0.0	0	AC0	False	False
+KIF13B	8-29075318-G-T	stop_gained	c.4484C>A	p.Ser1495Ter	4484	38	40	1495	0.8187		False	False	False	HC				0	1559790	0.0	0	AC0	False	False
+KIF13B	8-29075318-G-C	stop_gained	c.4484C>G	p.Ser1495Ter	4484	38	40	1495	0.8187		False	False	False	HC				0	1559792	0.0	0	AC0	False	False
+KIF13B	8-29075313-TG-T	frameshift_variant	c.4488del	p.Ser1497AlafsTer6	4488	38	40	1497	0.8198		False	False	False	HC				0	1559462	0.0	0	AC0	False	False
+KIF13B	8-29075308-C-CG	frameshift_variant	c.4493dup	p.Asp1499GlyfsTer17	4493	38	40	1499	0.8209		False	False	False	HC				1	1558882	6.414853722090575e-07	0		True	True
+KIF13B	8-29075308-CG-C	frameshift_variant	c.4493del	p.Pro1498ArgfsTer5	4493	38	40	1498	0.8204		False	False	False	HC				1	1558882	6.414853722090575e-07	0		True	True
+KIF13B	8-29075306-TC-T	frameshift_variant	c.4495del	p.Asp1499ThrfsTer4	4495	38	40	1499	0.8209		False	False	False	HC				1	1558670	6.415726228130393e-07	0		True	True
+KIF13B	8-29075286-C-A	stop_gained	c.4516G>T	p.Glu1506Ter	4516	38	40	1506	0.8248		False	False	False	HC				0	1555818	0.0	0	AC0	False	False
+KIF13B	8-29075283-C-A	stop_gained	c.4519G>T	p.Glu1507Ter	4519	38	40	1507	0.8253		False	False	False	HC				0	1555394	0.0	0	AC0	False	False
+KIF13B	8-29075279-ACCT-A	splice_donor_variant	c.4520_4521+1del		4520	38	40				False	False	False	HC				1	1554464	6.433085616649855e-07	0		True	True
+KIF13B	8-29075279-A-G	splice_donor_variant	c.4521+2T>C		4521	38	40				False	False	False	HC				0	1554464	0.0	0	AC0	False	False
+KIF13B	8-29075280-C-T	splice_donor_variant	c.4521+1G>A		4521	38	40				False	False	False	HC				0	1554868	0.0	0	AC0	False	False
+KIF13B	8-29075280-C-A	splice_donor_variant	c.4521+1G>T		4521	38	40				False	False	False	HC				2	1554868	1.2862828227219287e-06	0		True	True
+KIF13B	8-29072317-C-A	splice_acceptor_variant	c.4522-1G>T		4522	39	40				False	False	False	HC				0	1408000	0.0	0	AC0	False	False
+KIF13B	8-29072318-T-C	splice_acceptor_variant	c.4522-2A>G		4522	39	40				False	False	False	HC				0	1406400	0.0	0	AC0	False	False
+KIF13B	8-29072318-T-G	splice_acceptor_variant	c.4522-2A>C		4522	39	40				False	False	False	HC				0	1406402	0.0	0	AC0	False	False
+KIF13B	8-29072313-G-A	stop_gained	c.4525C>T	p.Gln1509Ter	4525	39	40	1509	0.8264		False	False	False	HC				4	1412890	2.8310767292570547e-06	0		True	True
+KIF13B	8-29072307-C-A	stop_gained	c.4531G>T	p.Glu1511Ter	4531	39	40	1511	0.8275		False	False	False	HC				0	1417084	0.0	0	AC0	False	False
+KIF13B	8-29072305-CT-C	frameshift_variant	c.4532del	p.Glu1511GlyfsTer16	4532	39	40	1511	0.8275		False	False	False	HC				0	1420020	0.0	0	AC0	False	False
+KIF13B	8-29072299-GC-G	frameshift_variant	c.4538del	p.Gly1513AlafsTer14	4538	39	40	1513	0.8286		False	False	False	HC				0	1428746	0.0	0	AC0	False	False
+KIF13B	8-29072277-T-TCGTCTGCACCAGCA	frameshift_variant	c.4547_4560dup	p.Met1521CysfsTer11	4547	39	40	1521	0.833		False	False	False	HC				1	1470572	6.800075072828804e-07	0		True	True
+KIF13B	8-29072285-AC-A	frameshift_variant	c.4552del	p.Val1518CysfsTer9	4552	39	40	1518	0.8313		False	False	False	HC				0	1463652	0.0	0	AC0	False	False
+KIF13B	8-29072283-G-A	stop_gained	c.4555C>T	p.Gln1519Ter	4555	39	40	1519	0.8319		False	False	False	HC				0	1464164	0.0	0	AC0	False	False
+KIF13B	8-29072277-TC-T	frameshift_variant	c.4560del	p.Met1521TrpfsTer6	4560	39	40	1521	0.833		False	False	False	HC				1	1470572	6.800075072828804e-07	0		True	True
+KIF13B	8-29072270-GC-G	frameshift_variant	c.4567del	p.Ala1523ProfsTer4	4567	39	40	1523	0.8341		False	False	False	HC				3	1471458	2.0387941755727993e-06	0		True	True
+KIF13B	8-29072270-G-GC	frameshift_variant	c.4567dup	p.Ala1523GlyfsTer41	4567	39	40	1523	0.8341		False	False	False	HC				1	1471596	6.79534328715218e-07	0		True	True
+KIF13B	8-29072266-CG-C	frameshift_variant	c.4571del	p.Pro1524ArgfsTer3	4571	39	40	1524	0.8346		False	False	False	HC				12	1472372	8.150114237434562e-06	0		True	True
+KIF13B	8-29072260-C-CT	frameshift_variant	c.4577_4578insA	p.Lys1527GlufsTer37	4577	39	40	1527	0.8363		False	False	False	HC				0	1471222	0.0	0	AC0	False	False
+KIF13B	8-29072261-A-T	stop_gained	c.4577T>A	p.Leu1526Ter	4577	39	40	1526	0.8357		False	False	False	HC				0	1468236	0.0	0	AC0	False	False
+KIF13B	8-29072259-TC-T	frameshift_variant	c.4578del	p.Lys1527ArgfsTer16	4578	39	40	1527	0.8363		False	False	False	HC				0	1471016	0.0	0	AC0	False	False
+KIF13B	8-29072259-T-A	stop_gained	c.4579A>T	p.Lys1527Ter	4579	39	40	1527	0.8363		False	False	False	HC				0	1471018	0.0	0	AC0	False	False
+KIF13B	8-29072254-GAT-G	frameshift_variant	c.4582_4583del	p.Ile1528LeufsTer35	4582	39	40	1528	0.8368		False	False	False	HC				0	1470448	0.0	0	AC0	False	False
+KIF13B	8-29072251-G-T	stop_gained	c.4587C>A	p.Cys1529Ter	4587	39	40	1529	0.8373		False	False	False	HC				1	1470282	6.801416326935921e-07	0		True	True
+KIF13B	8-29072239-GGCAGGTTTGTC-G	frameshift_variant	c.4588_4598del	p.Asp1530GlnfsTer30	4588	39	40	1530	0.8379		False	False	False	HC				1	1471672	6.794992362428584e-07	0		True	True
+KIF13B	8-29072236-T-TCGGGCTCGGCCTCAGGGGCGG	stop_gained	c.4601_4602insCCGCCCCTGAGGCCGAGCCCG	p.Lys1534delinsAsnArgProTer	4601	39	40	1534	0.8401		False	False	False	HC				0	1470426	0.0	0	AC0	False	False
+KIF13B	8-29072233-CA-C	frameshift_variant	c.4604del	p.Val1535GlyfsTer8	4604	39	40	1535	0.8406		False	False	False	HC				0	1471872	0.0	0	AC0	False	False
+KIF13B	8-29072228-GA-G	frameshift_variant	c.4609del	p.Ser1537ProfsTer6	4609	39	40	1537	0.8417		False	False	False	HC				2	1472962	1.3578082801864543e-06	0		True	True
+KIF13B	8-29072224-TG-T	frameshift_variant	c.4613del	p.Pro1538HisfsTer5	4613	39	40	1538	0.8423		False	False	False	HC				2	1464298	1.3658421987874053e-06	0		True	True
+KIF13B	8-29072216-AC-A	frameshift_variant	c.4621del	p.Val1541SerfsTer2	4621	39	40	1541	0.8439		False	False	False	HC				0	1468564	0.0	0	AC0	False	False
+KIF13B	8-29072191-CG-C	frameshift_variant	c.4646del	p.Pro1549ArgfsTer13	4646	39	40	1549	0.8483		False	False	False	HC				1	1444010	6.92515979806234e-07	0		True	True
+KIF13B	8-29072191-C-CG	frameshift_variant	c.4646dup	p.Ala1550GlyfsTer14	4646	39	40	1550	0.8488		False	False	False	HC				1	1443890	6.925735339949719e-07	0		True	True
+KIF13B	8-29072187-GA-G	frameshift_variant	c.4650del	p.Pro1551ArgfsTer11	4650	39	40	1551	0.8494		False	False	False	HC				0	1444454	0.0	0	AC0	False	False
+KIF13B	8-29072184-C-A	stop_gained	c.4654G>T	p.Glu1552Ter	4654	39	40	1552	0.8499		False	False	False	HC				0	1437172	0.0	0	AC0	False	False
+KIF13B	8-29072178-G-A	stop_gained	c.4660C>T	p.Gln1554Ter	4660	39	40	1554	0.851		False	False	False	HC				3	1436402	2.0885518120971707e-06	0		True	True
+KIF13B	8-29072163-TG-T	frameshift_variant	c.4674del	p.Ser1559AlafsTer3	4674	39	40	1559	0.8538		False	False	False	HC				26	1422056	1.828338687084053e-05	0		True	True
+KIF13B	8-29072163-T-TG	frameshift_variant	c.4674dup	p.Ser1559GlnfsTer5	4674	39	40	1559	0.8538		False	False	False	HC				3	1422220	2.1093782959035874e-06	0		True	True
+KIF13B	8-29072155-CAG-C	frameshift_variant	c.4681_4682del	p.Leu1561GlufsTer2	4681	39	40	1561	0.8549		False	False	False	HC				4	1416220	2.8244199347558995e-06	0		True	True
+KIF13B	8-29072156-A-AG	frameshift_variant	c.4681dup	p.Leu1561ProfsTer3	4681	39	40	1561	0.8549		False	False	False	HC				1	1416350	7.060401736858827e-07	0		True	True
+KIF13B	8-29072156-AG-A	frameshift_variant	c.4681del	p.Leu1561Ter	4681	39	40	1561	0.8549		False	False	False	HC				1	1416330	7.060501436812042e-07	0		True	True
+KIF13B	8-29072151-C-A	stop_gained	c.4687G>T	p.Glu1563Ter	4687	39	40	1563	0.856		False	False	False	HC				0	1413054	0.0	0	AC0	False	False
+KIF13B	8-29072134-G-T	stop_gained	c.4704C>A	p.Tyr1568Ter	4704	39	40	1568	0.8587		False	False	False	HC				0	1392986	0.0	0	AC0	False	False
+KIF13B	8-29072134-G-C	stop_gained	c.4704C>G	p.Tyr1568Ter	4704	39	40	1568	0.8587		False	False	False	HC				1	1392986	7.178823046319202e-07	0		True	True
+KIF13B	8-29072131-GA-G	frameshift_variant	c.4706del	p.Phe1569SerfsTer60	4706	39	40	1569	0.8593		False	False	False	HC				0	1389716	0.0	0	AC0	False	False
+KIF13B	8-29072114-GT-G	frameshift_variant	c.4723del	p.Thr1575ProfsTer54	4723	39	40	1575	0.8625		False	False	False	HC				0	1370108	0.0	0	AC0	False	False
+KIF13B	8-29072102-G-T	stop_gained	c.4736C>A	p.Ser1579Ter	4736	39	40	1579	0.8647		False	False	False	HC				0	1354910	0.0	0	AC0	False	False
+KIF13B	8-29072093-AGG-A	frameshift_variant	c.4743_4744del	p.Leu1582GlyfsTer18	4743	39	40	1582	0.8664		False	False	False	HC				0	1344002	0.0	0	AC0	False	False
+KIF13B	8-29072093-AG-A	frameshift_variant	c.4744del	p.Leu1582TrpfsTer47	4744	39	40	1582	0.8664		False	False	False	HC				0	1344000	0.0	0	AC0	False	False
+KIF13B	8-29072089-G-GCC	frameshift_variant	c.4747_4748dup	p.Pro1584AlafsTer46	4747	39	40	1584	0.8675		False	False	False	HC				0	1348158	0.0	0	AC0	False	False
+KIF13B	8-29072090-C-CCCCCATCGTCTGCA	frameshift_variant	c.4747_4748insTGCAGACGATGGGG	p.Gly1583ValfsTer51	4747	39	40	1583	0.8669		False	False	False	HC				0	1346698	0.0	0	AC0	False	False
+KIF13B	8-29072085-CG-C	frameshift_variant	c.4752del	p.Gly1585AlafsTer44	4752	39	40	1585	0.868		False	False	False	HC				0	1342038	0.0	0	AC0	False	False
+KIF13B	8-29072067-GGGCCGCAGCGTCCA-G	frameshift_variant	c.4757_4770del	p.Leu1586ProfsTer10	4757	39	40	1586	0.8686		False	False	False	HC				1	1315960	7.599015167634274e-07	0		True	True
+KIF13B	8-29072058-AC-A	frameshift_variant	c.4779del	p.Ser1594ProfsTer35	4779	39	40	1594	0.8729		False	False	False	HC				0	1301328	0.0	0	AC0	False	False
+KIF13B	8-29072033-TC-T	frameshift_variant	c.4804del	p.Glu1602SerfsTer27	4804	39	40	1602	0.8773		False	False	False	HC				1	1297078	7.709636583150743e-07	0		True	True
+KIF13B	8-29072034-C-A	stop_gained	c.4804G>T	p.Glu1602Ter	4804	39	40	1602	0.8773		False	False	False	HC				0	1297602	0.0	0	AC0	False	False
+KIF13B	8-29072028-C-A	stop_gained	c.4810G>T	p.Glu1604Ter	4810	39	40	1604	0.8784		False	False	False	HC				1	1294296	7.726207915345485e-07	0		True	True
+KIF13B	8-29072026-CT-C	frameshift_variant	c.4811del	p.Glu1604GlyfsTer25	4811	39	40	1604	0.8784		False	False	False	HC				1	1295290	7.720278856472295e-07	0		True	True
+KIF13B	8-29072024-GC-G	frameshift_variant	c.4813del	p.Ala1605ArgfsTer24	4813	39	40	1605	0.879		False	False	False	HC				0	1293896	0.0	0	AC0	False	False
+KIF13B	8-29072019-TG-T	frameshift_variant	c.4818del	p.Ile1607SerfsTer22	4818	39	40	1607	0.8801		False	False	False	HC				1	1292338	7.737913765593831e-07	0		True	True
+KIF13B	8-29072012-TG-T	frameshift_variant	c.4825del	p.His1609ThrfsTer20	4825	39	40	1609	0.8812		False	False	False	HC				1	1283862	7.788999129189897e-07	0		True	True
+KIF13B	8-29072002-CGGTGGGG-C	frameshift_variant	c.4829_4835del	p.Pro1610ArgfsTer17	4829	39	40	1610	0.8817		False	False	False	HC				1	1291238	7.744505660459187e-07	0		True	True
+KIF13B	8-29072005-T-TG	frameshift_variant	c.4832dup	p.Pro1612ThrfsTer79	4832	39	40	1612	0.8828		False	False	False	HC				1	1284736	7.783700308857228e-07	0		True	True
+KIF13B	8-29072005-TG-T	frameshift_variant	c.4832del	p.Pro1611HisfsTer18	4832	39	40	1611	0.8823		False	False	False	HC				6	1284600	4.670714619336759e-06	0		True	True
+KIF13B	8-29072002-CGG-C	frameshift_variant	c.4834_4835del	p.Pro1612AlafsTer78	4834	39	40	1612	0.8828		False	False	False	HC				1	1291238	7.744505660459187e-07	0		True	True
+KIF13B	8-29071986-CG-C	frameshift_variant	c.4851del	p.Ala1618ProfsTer11	4851	39	40	1618	0.8861		False	False	False	HC				1	1304774	7.664162529296261e-07	0		True	True
+KIF13B	8-29071986-C-CG	frameshift_variant	c.4851dup	p.Ala1618ArgfsTer73	4851	39	40	1618	0.8861		False	False	False	HC				1	1304776	7.664150781436814e-07	0		True	True
+KIF13B	8-29071983-C-A	stop_gained	c.4855G>T	p.Glu1619Ter	4855	39	40	1619	0.8866		False	False	False	HC				1	1307180	7.650055845407671e-07	0		True	True
+KIF13B	8-29071972-AG-A	frameshift_variant	c.4865del	p.Pro1622LeufsTer7	4865	39	40	1622	0.8883		False	False	False	HC				1	1322422	7.561882666803789e-07	0		True	True
+KIF13B	8-29071972-A-AG	frameshift_variant	c.4865dup	p.Gly1623TrpfsTer68	4865	39	40	1623	0.8888		False	False	False	HC				1	1322434	7.561814048943086e-07	0		True	True
+KIF13B	8-29071968-G-GGCCA	frameshift_variant	c.4866_4869dup	p.Pro1624TrpfsTer68	4866	39	40	1624	0.8894		False	False	False	HC				2	1326424	1.5078134895026026e-06	0		True	True
+KIF13B	8-29071964-T-TG	frameshift_variant	c.4873dup	p.Gln1625ProfsTer66	4873	39	40	1625	0.8899		False	False	False	HC				0	1342638	0.0	0	AC0	False	False
+KIF13B	8-29071964-TG-T	frameshift_variant	c.4873del	p.Gln1625SerfsTer4	4873	39	40	1625	0.8899		False	False	False	HC				1	1342632	7.448057248747237e-07	0		True	True
+KIF13B	8-29071965-G-A	stop_gained	c.4873C>T	p.Gln1625Ter	4873	39	40	1625	0.8899		False	False	False	HC				0	1324332	0.0	0	AC0	False	False
+KIF13B	8-29071962-G-A	stop_gained	c.4876C>T	p.Gln1626Ter	4876	39	40	1626	0.8905		False	False	False	HC				0	1344480	0.0	0	AC0	False	False
+KIF13B	8-29071942-CCGACCGGGGCTCA-C	frameshift_variant	c.4883_4895del	p.Val1628GlyfsTer86	4883	39	40	1628	0.8916		False	False	False	HC				2	1382432	1.4467257702368e-06	0		True	True
+KIF13B	8-29071947-CG-C	frameshift_variant	c.4890del	p.Gly1631ValfsTer87	4890	39	40	1631	0.8932		False	False	False	HC				0	1368906	0.0	0	AC0	False	False
+KIF13B	8-29071941-C-CCCGA	frameshift_variant	c.4893_4896dup	p.Glu1633SerfsTer59	4893	39	40	1633	0.8943		False	False	False	HC				0	1392786	0.0	0	AC0	False	False
+KIF13B	8-29071943-C-CT	frameshift_variant	c.4894_4895insA	p.Arg1632GlnfsTer59	4894	39	40	1632	0.8938		False	False	False	HC				0	1382054	0.0	0	AC0	False	False
+KIF13B	8-29071941-C-A	stop_gained	c.4897G>T	p.Glu1633Ter	4897	39	40	1633	0.8943		False	False	False	HC				0	1392786	0.0	0	AC0	False	False
+KIF13B	8-29071935-GGC-G	frameshift_variant	c.4901_4902del	p.Arg1634ProfsTer56	4901	39	40	1634	0.8949		False	False	False	HC				0	1407900	0.0	0	AC0	False	False
+KIF13B	8-29071932-CG-C	frameshift_variant	c.4905del	p.Asp1636ThrfsTer82	4905	39	40	1636	0.8959		False	False	False	HC				0	1409872	0.0	0	AC0	False	False
+KIF13B	8-29071917-CCGGGGCCTCGAGGT-C	frameshift_variant	c.4907_4920del	p.Asp1636GlyfsTer50	4907	39	40	1636	0.8959		False	False	False	HC				1	1442148	6.93410107700458e-07	0		True	True
+KIF13B	8-29071926-C-A	stop_gained	c.4912G>T	p.Glu1638Ter	4912	39	40	1638	0.897		False	False	False	HC				0	1431710	0.0	0	AC0	False	False
+KIF13B	8-29071918-C-CT	frameshift_variant	c.4919_4920insA	p.Ala1641GlyfsTer50	4919	39	40	1641	0.8987		False	False	False	HC				0	1440882	0.0	0	AC0	False	False
+KIF13B	8-29071918-CG-C	frameshift_variant	c.4919del	p.Pro1640ArgfsTer78	4919	39	40	1640	0.8981		False	False	False	HC				1	1440872	6.940241742500375e-07	0		True	True
+KIF13B	8-29071903-CG-C	frameshift_variant	c.4934del	p.Pro1645ArgfsTer73	4934	39	40	1645	0.9009		False	False	False	HC				0	1460744	0.0	0	AC0	False	False
+KIF13B	8-29071903-C-CG	frameshift_variant	c.4934dup	p.Phe1646ValfsTer45	4934	39	40	1646	0.9014		False	False	False	HC				1	1460746	6.845817137270956e-07	0		True	True
+KIF13B	8-29071893-G-GGACGC	frameshift_variant	c.4940_4944dup	p.Arg1649AlafsTer71	4940	39	40	1649	0.9031		False	False	False	HC				3	1486030	2.0188017738538253e-06	0		True	True
+KIF13B	8-29071876-C-CGA	frameshift_variant	c.4960_4961dup	p.Glu1655ArgfsTer64	4960	39	40	1655	0.9064		False	False	False	HC				1	1534110	6.518437400186428e-07	0		True	True
+KIF13B	8-29071875-C-A	stop_gained	c.4963G>T	p.Glu1655Ter	4963	39	40	1655	0.9064		False	False	False	HC				0	1534252	0.0	0	AC0	False	False
+KIF13B	8-29071786-TCCCCCGGCGCCCGGGGCCGGCGCATTCCCCTCGGCCCCCGGGGAGCAGCCGGGGTC-T	frameshift_variant	c.4996_5051del	p.Asp1666ThrfsTer6	4996	39	40	1666	0.9124		False	False	False	HC				1	1547702	6.461192141639669e-07	0		True	True
+KIF13B	8-29071841-TC-T	frameshift_variant	c.4996del	p.Asp1666ThrfsTer52	4996	39	40	1666	0.9124		False	False	False	HC				0	1539440	0.0	0	AC0	False	False
+KIF13B	8-29071836-CG-C	frameshift_variant	c.5001del	p.Gly1668AlafsTer50	5001	39	40	1668	0.9135		False	False	False	HC				12	1540768	7.788323745041433e-06	0		True	True
+KIF13B	8-29071825-CG-C	frameshift_variant	c.5012del	p.Pro1671ArgfsTer47	5012	39	40	1671	0.9151		False	False	False	HC				0	1542206	0.0	0	AC0	False	False
+KIF13B	8-29071820-GC-G	frameshift_variant	c.5017del	p.Ala1673ProfsTer45	5017	39	40	1673	0.9162		False	False	False	HC				0	1543102	0.0	0	AC0	False	False
+KIF13B	8-29071806-G-GCGCATTCC	frameshift_variant	c.5024_5031dup	p.Pro1678GlyfsTer43	5024	39	40	1678	0.9189		False	False	False	HC				1	1545430	6.470691005092434e-07	0		True	True
+KIF13B	8-29071812-TC-T	frameshift_variant	c.5025del	p.Asn1676MetfsTer42	5025	39	40	1676	0.9179		False	False	False	HC				1	1543956	6.476868511796968e-07	0		True	True
+KIF13B	8-29071793-GCGCCCGGGGCCGGCGC-G	frameshift_variant	c.5029_5044del	p.Ala1677ProfsTer36	5029	39	40	1677	0.9184		False	False	False	HC				2	1547098	1.292742929019364e-06	0		True	True
+KIF13B	8-29071802-GC-G	frameshift_variant	c.5035del	p.Ala1679ProfsTer39	5035	39	40	1679	0.9195		False	False	False	HC				1	1545788	6.469192411896069e-07	0		True	True
+KIF13B	8-29071794-CGCCCGGG-C	frameshift_variant	c.5037_5043del	p.Ala1682AspfsTer34	5037	39	40	1682	0.9211		False	False	False	HC				2	1546676	1.2930956451124863e-06	0		True	True
+KIF13B	8-29071798-C-CG	frameshift_variant	c.5039dup	p.Ala1682ArgfsTer9	5039	39	40	1682	0.9211		False	False	False	HC				1	1546018	6.468229994734861e-07	0		True	True
+KIF13B	8-29071798-CG-C	frameshift_variant	c.5039del	p.Pro1680ArgfsTer38	5039	39	40	1680	0.92		False	False	False	HC				0	1546014	0.0	0	AC0	False	False
+KIF13B	8-29071795-GC-G	frameshift_variant	c.5042del	p.Gly1681AlafsTer37	5042	39	40	1681	0.9206		False	False	False	HC				0	1546564	0.0	0	AC0	False	False
+KIF13B	8-29071788-C-A	stop_gained	c.5050G>T	p.Gly1684Ter	5050	39	40	1684	0.9222		False	False	False	HC				1	1547546	6.4618434605498e-07	0		True	True
+KIF13B	8-29071786-TC-T	frameshift_variant	c.5051del	p.Gly1684AspfsTer34	5051	39	40	1684	0.9222		False	False	False	HC				2	1547702	1.2922384283279338e-06	0		True	True
+KIF13B	8-29071785-GT-G	frameshift_variant	c.5052del	p.Gln1685ArgfsTer33	5052	39	40	1685	0.9228		False	False	False	HC				1	1547900	6.460365656696169e-07	0		True	True
+KIF13B	8-29071782-CCT-C	frameshift_variant	c.5054_5055del	p.Gln1685ArgfsTer5	5054	39	40	1685	0.9228		False	False	False	HC				1	1548314	6.458638234880005e-07	0		True	True
+KIF13B	8-29071778-AG-A	frameshift_variant	c.5059del	p.Leu1687TrpfsTer31	5059	39	40	1687	0.9239		False	False	False	HC				3	1548768	1.9370234922209137e-06	0		True	True
+KIF13B	8-29071743-C-A	stop_gained	c.5095G>T	p.Glu1699Ter	5095	39	40	1699	0.9304		False	False	False	HC				0	1549894	0.0	0	AC0	False	False
+KIF13B	8-29071738-C-T	stop_gained	c.5100G>A	p.Trp1700Ter	5100	39	40	1700	0.931		False	False	False	HC				0	1549976	0.0	0	AC0	False	False
+KIF13B	8-29071734-G-A	stop_gained	c.5104C>T	p.Arg1702Ter	5104	39	40	1702	0.9321		False	False	False	HC				1	1549952	6.451812701296557e-07	0		True	True
+KIF13B	8-29071718-ACGAACTCGCCCTCT-A	frameshift_variant	c.5106_5119del	p.Glu1703HisfsTer34	5106	39	40	1703	0.9326		False	False	False	HC				1	1550198	6.450788866970542e-07	0		True	True
+KIF13B	8-29071725-C-A	stop_gained	c.5113G>T	p.Glu1705Ter	5113	39	40	1705	0.9337		False	False	False	HC				0	1550104	0.0	0	AC0	False	False
+KIF13B	8-29071713-CG-C	frameshift_variant	c.5124del	p.Val1709TrpfsTer9	5124	39	40	1709	0.9359		False	False	False	HC				0	1550498	0.0	0	AC0	False	False
+KIF13B	8-29071708-GC-G	frameshift_variant	c.5129del	p.Gly1710AlafsTer8	5129	39	40	1710	0.9365		False	False	False	HC				0	1550836	0.0	0	AC0	False	False
+KIF13B	8-29071681-G-C	stop_gained	c.5157C>G	p.Tyr1719Ter	5157	39	40	1719	0.9414		False	False	False	HC				1	1554334	6.433623661323757e-07	0		True	True
+KIF13B	8-29071681-G-T	stop_gained	c.5157C>A	p.Tyr1719Ter	5157	39	40	1719	0.9414		False	False	False	HC				3	1554334	1.930087098397127e-06	0		True	True
+KIF13B	8-29071674-GC-G	frameshift_variant	c.5163del	p.Pro1722LeufsTer83	5163	39	40	1722	0.943		False	False	False	HC				0	1554814	0.0	0	AC0	False	False
+KIF13B	8-29071672-AG-A	frameshift_variant	c.5165del	p.Pro1722LeufsTer83	5165	39	40	1722	0.943		False	False	False	HC				0	1555006	0.0	0	AC0	False	False
+KIF13B	8-29071661-TG-T	frameshift_variant	c.5176del	p.Gln1726LysfsTer79	5176	39	40	1726	0.9452		False	True	False	HC				1	1555514	6.428743167853198e-07	0		True	False
+KIF13B	8-29071662-G-A	stop_gained	c.5176C>T	p.Gln1726Ter	5176	39	40	1726	0.9452		False	True	False	HC				0	1555478	0.0	0	AC0	False	False
+KIF13B	8-29071659-C-A	stop_gained	c.5179G>T	p.Glu1727Ter	5179	39	40	1727	0.9458		False	True	False	HC				0	1555506	0.0	0	AC0	False	False
+KIF13B	8-29071650-A-ACGTGC	frameshift_variant	c.5183_5187dup	p.Trp1730AlafsTer77	5183	39	40	1730	0.9474		False	True	False	HC				1	1554996	6.430884709671279e-07	0		True	False
+KIF13B	8-29071654-GC-G	frameshift_variant	c.5183del	p.Gly1728AlafsTer77	5183	39	40	1728	0.9463		False	True	False	HC				0	1555248	0.0	0	AC0	False	False
+KIF13B	8-29071649-C-T	stop_gained	c.5189G>A	p.Trp1730Ter	5189	39	40	1730	0.9474		False	True	False	HC				0	1554974	0.0	0	AC0	False	False
+KIF13B	8-29071646-AC-A	frameshift_variant	c.5191del	p.Val1731SerfsTer74	5191	39	40	1731	0.948		False	True	False	HC				0	1554646	0.0	0	AC0	False	False
+KIF13B	8-29071638-C-A	stop_gained	c.5200G>T	p.Glu1734Ter	5200	39	40	1734	0.9496		False	True	False	HC				0	1553548	0.0	0	AC0	False	False
+KIF13B	8-29071622-G-C	stop_gained	c.5216C>G	p.Ser1739Ter	5216	39	40	1739	0.9524		False	True	False	HC				2	1550878	1.2895920891262885e-06	0		True	False
+KIF13B	8-29071622-G-T	stop_gained	c.5216C>A	p.Ser1739Ter	5216	39	40	1739	0.9524		False	True	False	HC				0	1550996	0.0	0	AC0	False	False
+KIF13B	8-29071618-A-G	splice_donor_variant	c.5218+2T>C		5218	39	40				False	True	False	HC				1	1549456	6.453878006216375e-07	0		True	False
+KIF13B	8-29071619-C-A	splice_donor_variant	c.5218+1G>T		5218	39	40				False	True	False	HC				0	1550572	0.0	0	AC0	False	False
+KIF13B	8-29071619-C-T	splice_donor_variant	c.5218+1G>A		5218	39	40				False	True	False	HC				0	1550572	0.0	0	AC0	False	False
+KIF13B	8-29070767-C-A	splice_acceptor_variant	c.5219-1G>T		5219	40	40				True	True	False	HC				0	1587300	0.0	0	AC0	False	False
+KIF13B	8-29070767-C-T	splice_acceptor_variant	c.5219-1G>A		5219	40	40				True	True	False	HC				0	1587300	0.0	0	AC0	False	False
+KIF13B	8-29070768-T-C	splice_acceptor_variant	c.5219-2A>G		5219	40	40				True	True	False	HC				0	1587022	0.0	0	AC0	False	False
+KIF13B	8-29070768-T-A	splice_acceptor_variant	c.5219-2A>T		5219	40	40				True	True	False	HC				0	1587022	0.0	0	AC0	False	False
+KIF13B	8-29070737-G-A	stop_gained	c.5248C>T	p.Gln1750Ter	5248	40	40	1750	0.9584		True	True	False	HC				2	1564788	1.278128411005197e-06	0		True	False
+KIF13B	8-29070720-GT-G	frameshift_variant	c.5264del	p.Asn1755ThrfsTer50	5264	40	40	1755	0.9611		True	True	False	HC				1	1563842	6.394507885067673e-07	0		True	False
+KIF13B	8-29070712-TA-T	frameshift_variant	c.5272del	p.Tyr1758ThrfsTer47	5272	40	40	1758	0.9628		True	True	False	HC				1	1562054	6.401827337595244e-07	0		True	False
+KIF13B	8-29070705-CAGCCCGT-C	frameshift_variant	c.5273_5279del	p.Tyr1758CysfsTer45	5273	40	40	1758	0.9628		True	True	False	HC				1	1561432	6.404377520122554e-07	0		True	False
+KIF13B	8-29070650-TGCTGCGCCGCCGCACA-T	frameshift_variant	c.5319_5334del	p.Val1774GlnfsTer26	5319	40	40	1774	0.9715		True	True	False	HC				1	1564794	6.390617550936417e-07	0		True	False
+KIF13B	8-29070641-G-GGA	frameshift_variant	c.5342_5343dup	p.Arg1782SerfsTer24	5342	40	40	1782	0.9759		True	True	True	HC				1	1568036	6.377404600404583e-07	0		True	False
+KIF13B	8-29070626-CG-C	frameshift_variant	c.5358del	p.Glu1787ArgfsTer18	5358	40	40	1787	0.9786		True	True	True	HC				4	1575026	2.5396406154565066e-06	0		True	False
+KIF13B	8-29070626-C-A	stop_gained	c.5359G>T	p.Glu1787Ter	5359	40	40	1787	0.9786		True	True	True	HC				0	1575034	0.0	0	AC0	False	False
+KIF13B	8-29070610-GC-G	frameshift_variant	c.5374del	p.Ala1792ProfsTer13	5374	40	40	1792	0.9814		True	True	True	HC				1	1587152	6.300593767956692e-07	0		True	False
+KIF13B	8-29070600-CGA-C	frameshift_variant	c.5383_5384del	p.Ser1795GlyfsTer24	5383	40	40	1795	0.983		True	True	True	HC				12	1593938	7.528523694146197e-06	0		True	False
+KIF13B	8-29070601-G-T	stop_gained	c.5384C>A	p.Ser1795Ter	5384	40	40	1795	0.983		True	True	True	HC				0	1594012	0.0	0	AC0	False	False
+KIF13B	8-29070590-TGGCG-T	frameshift_variant	c.5391_5394del	p.Ala1798ProfsTer6	5391	40	40	1798	0.9847		True	True	True	HC				2	1598676	1.2510352316541938e-06	0		True	False
+KIF13B	8-29070564-GGCAGCTGTCA-G	frameshift_variant	c.5411_5420del	p.Leu1804ProfsTer25	5411	40	40	1804	0.988		True	True	True	HC				4	1607500	2.488335925349922e-06	0		True	False
+KIF13B	8-29070568-GCT-G	frameshift_variant	c.5415_5416del	p.Ala1806CysfsTer13	5415	40	40	1806	0.989		True	True	True	HC				1	1606334	6.225355374411548e-07	0		True	False
+KIF13B	8-29070551-C-CG	frameshift_variant	c.5433dup	p.Asp1812ArgfsTer8	5433	40	40	1812	0.9923		True	True	True	HC				8	1608740	4.972835883983739e-06	0		True	False
+KIF13B	8-29070530-C-A	stop_gained	c.5455G>T	p.Glu1819Ter	5455	40	40	1819	0.9962		True	True	True	HC				0	1610818	0.0	0	AC0	False	False
+KIF13B	8-29070513-C-T	stop_gained	c.5472G>A	p.Trp1824Ter	5472	40	40	1824	0.9989		True	True	True	HC				5	1610544	3.1045410743202295e-06	0		True	False

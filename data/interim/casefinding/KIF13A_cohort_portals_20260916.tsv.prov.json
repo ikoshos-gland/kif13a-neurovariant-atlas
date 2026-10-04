@@ -1,0 +1,13 @@
+{
+  "file": "data/interim/casefinding/KIF13A_cohort_portals_20260916.tsv",
+  "sha256": "422e1781aaae3033d07b462277e332616fa7cc128c2321536cb684e0c0ded50b",
+  "bytes": 6540,
+  "retrieved_utc": "2026-09-16T07:19:25+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "note": "Large public cohort and association resources: access terms and live KIF13A gene-level results.",
+  "source": "live web/API queries by Claude research session",
+  "tool": "curl + NCBI E-utilities + Ensembl GRCh37 REST + gnomAD GraphQL + Genebass/AZ PheWAS/All of Us/Open Targets/GWAS Catalog REST + live site reads",
+  "accessed": "2026-09-16",
+  "gene": "KIF13A (HGNC:14566, ENSG00000137177, MANE NM_022113.6 / ENST00000259711.11)",
+  "n_records": 6
+}

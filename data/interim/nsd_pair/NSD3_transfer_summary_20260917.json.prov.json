@@ -1,0 +1,10 @@
+{
+  "file": "data/interim/nsd_pair/NSD3_transfer_summary_20260917.json",
+  "sha256": "308ea0e8df4a8c39ffa821b3937c1c618d7a4e36e50de372dfb61524eafb362e",
+  "bytes": 1196,
+  "retrieved_utc": "2026-09-17T19:01:54+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "tool": "scripts/nsd_pair_calibration.py",
+  "source": "derived: transfer summary",
+  "urls": []
+}

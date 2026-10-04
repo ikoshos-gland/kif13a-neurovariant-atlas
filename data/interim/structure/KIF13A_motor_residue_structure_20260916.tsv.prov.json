@@ -1,0 +1,23 @@
+{
+  "file": "data/interim/structure/KIF13A_motor_residue_structure_20260916.tsv",
+  "sha256": "be95dda14214bcac3b296fdf446f2098ad4bc0dfd8dc17d9218b3dde0313d1a2",
+  "bytes": 38281,
+  "retrieved_utc": "2026-09-16T07:08:54+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: RCSB 8UTN + AlphaFold AF-Q9H1H9-F1_v6 + paralog map",
+  "urls": [
+    "https://files.rcsb.org/download/8UTN.cif"
+  ],
+  "tool": "scripts/structure_axis.py",
+  "params": {
+    "pdb_id": "8UTN",
+    "kif1a_chain": "K",
+    "trim_A": 3.0,
+    "atp_cutoff_A": 5.0,
+    "mt_cutoff_A": 5.0,
+    "buried_rel_sasa": 0.15,
+    "trimmed_rmsd_A": 1.034,
+    "n_pairs": 311
+  },
+  "n_records": 380
+}

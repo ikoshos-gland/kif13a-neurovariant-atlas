@@ -1,0 +1,18 @@
+{
+ "tiers": {
+  "positive_circular": 18,
+  "positive_silver": 42,
+  "positive_splice": 26,
+  "positive_gold": 68,
+  "lof_reference": 33,
+  "negative_other": 83,
+  "exclude": 22,
+  "inframe_reference": 5,
+  "conflict_P_vs_VUS": 28,
+  "conflict_B_vs_VUS": 183,
+  "negative_circular": 2,
+  "negative_frequency": 5,
+  "negative_noncoding_reference": 5
+ },
+ "n_candidates": 520
+}

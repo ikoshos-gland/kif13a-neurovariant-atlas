@@ -1,0 +1,976 @@
+set	label	source	id	hgvsc	variant_key	domain	in_shared_module	protein_change	protein_pos	cv_group	student_pos	student_aa	residue_identical_in_student	classification	stars	review_status	tier	gnomad_af_max	text_in_silico	text_functional	text_de_novo
+heldout_pp3_dependent_positive	1	ClinVar	VCV004890693	c.4904G>C	5-177257089-G-C	PHD2	True	C1635S	1635	res1635	794	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+reference_lof		ClinVar	VCV004887904	c.5300dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+missense_positive_core	1	ClinVar	VCV004887881	c.6361T>G	5-177292056-T-G	PHD5	True	C2121G	2121	res2121	1324	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+missense_positive_core	1	ClinVar	VCV004884601	c.5854C>G	5-177280796-C-G	SET	True	R1952G	1952	res1952	1155	R	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+reference_lof		ClinVar	VCV004880866	c.3223G>T	5-177211622-G-T	ara_bolge	False	G1075*	1075	res1075			False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV004880810	c.1372G>T	5-177209771-G-T	ara_bolge	False	E458*	458	res458			False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV004875636	c.2576_2577del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+missense_positive_core	1	ClinVar	VCV004871700	c.6022G>C	5-177283799-G-C	SET	True	D2008H	2008	res2008	1211	D	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		True	True	False
+reference_lof		ClinVar	VCV004861211	c.6736C>T	5-177294104-C-T	C_ucu	False	Q2246*	2246	res2246			False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV004861198	c.7918del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV004856246	c.4967-2A>G	5-177259987-A-G		False						False	Likely pathogenic	1	criteria provided, single submitter	positive_splice		True	False	False
+splice_positive	1	ClinVar	VCV004856219	c.6009+1G>A	5-177282582-G-A		False						False	Likely pathogenic	1	criteria provided, single submitter	positive_splice		True	False	False
+missense_positive_core	1	ClinVar	VCV004855692	c.6457C>T	5-177292152-C-T	PHD5	True	P2153S	2153	res2153	1356	P	True	Pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+splice_positive	1	ClinVar	VCV004855069	c.4302+1G>T	5-177239866-G-T		False						False	Likely pathogenic	1	criteria provided, single submitter	positive_splice		True	False	False
+reference_lof		ClinVar	VCV004855011	c.2867del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV004854818	c.3273del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV004854788	c.4883_4886dup			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV004854052	c.6411del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV004852598	c.5147-1G>C	5-177267561-G-C		False						False	Pathogenic	1	criteria provided, single submitter	positive_splice		False	False	False
+reference_lof		ClinVar	VCV004851425	c.3102_3103dup			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV004851301	c.1587del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV004849626	c.6362G>A	5-177292057-G-A	PHD5	True	C2121Y	2121	res2121	1324	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+reference_lof		ClinVar	VCV004846876	c.1011G>A	5-177191967-G-A	PWWP1	False	W337*	337	res337	284	W	True	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV004820652	c.7377dup			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV004811101	c.43C>T	5-177135146-C-T	N_ucu	False	P15S	15	res15	24	D	False	Likely benign	1	criteria provided, single submitter	negative_other	2.628e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV004808499	c.4205G>C	5-177239768-G-C	ara_bolge	False	S1402T	1402	res1402			False	Likely benign	1	criteria provided, single submitter	negative_other	6.893e-07	False	False	False
+missense_positive_core	1	ClinVar	VCV004804962	c.5146G>A	5-177260168-G-A	PHD4	True	G1716R	1716	res1716	920	G	True	Pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV004804410	c.7093A>G	5-177294461-A-G	C_ucu	False	I2365V	2365	res2365			False	Likely benign	1	criteria provided, single submitter	negative_other	6.572e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV004801583	c.7034T>C	5-177294402-T-C	C_ucu	False	V2345A	2345	res2345			False	Likely benign	1	criteria provided, single submitter	negative_other	6.84e-07	False	False	False
+missense_positive_core	1	ClinVar	VCV004799106	c.5075A>G	5-177260097-A-G	PHD3	True	H1692R	1692	res1692	850	H	True	Pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+missense_positive_core	1	ClinVar	VCV004795472	c.5917G>C	5-177282489-G-C	SET	True	G1973R	1973	res1973	1176	G	True	Pathogenic	1	criteria provided, single submitter	positive_silver		True	False	False
+splice_positive	1	ClinVar	VCV004795183	c.4497+1G>T	5-177246797-G-T		False						False	Likely pathogenic	1	criteria provided, single submitter	positive_splice		True	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV004777209	c.2267A>G	5-177210666-A-G	ara_bolge	False	N756S	756	res756			False	Benign	1	criteria provided, single submitter	negative_other	3.284e-05	False	False	False
+reference_lof		ClinVar	VCV004759306	c.6454dup			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV004752730	c.7735C>G	5-177295103-C-G	C_ucu	False	Q2579E	2579	res2579			False	Benign	1	criteria provided, single submitter	negative_other	9.183e-05	False	False	False
+missense_positive_core	1	ClinVar	VCV004747480	c.5950C>G	5-177282522-C-G	SET	True	R1984G	1984	res1984	1187	R	True	Pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+missense_positive_core	1	ClinVar	VCV004746253	c.6101T>G	5-177283878-T-G	SET	True	V2034G	2034	res2034	1237	V	True	Pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV004742949	c.2218C>T	5-177210617-C-T	ara_bolge	False	H740Y	740	res740			False	Likely benign	1	criteria provided, single submitter	negative_other	2.052e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV004741595	c.4558G>A	5-177248241-G-A	ara_bolge	False	E1520K	1520	res1520	681	S	False	Likely benign	1	criteria provided, single submitter	negative_other	6.57e-06	False	False	False
+reference_lof		ClinVar	VCV004736321	c.3899dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV004732930	c.3517C>T	5-177211916-C-T	ara_bolge	False	R1173C	1173	res1173	558	S	False	Likely benign	1	criteria provided, single submitter	negative_other	7.562e-06	False	False	False
+reference_lof		ClinVar	VCV004724747	c.6196G>T	5-177288863-G-T	PostSET	True	G2066*	2066	res2066	1269	G	True	Pathogenic	1	criteria provided, single submitter	lof_reference		True	False	False
+reference_lof		ClinVar	VCV004721149	c.3427_3442del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV004719428	c.2858_2859insG			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV004710975	c.1957G>T	5-177210356-G-T	ara_bolge	False	E653*	653	res653	401	E	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV004707526	c.3446A>G	5-177211845-A-G	ara_bolge	False	N1149S	1149	res1149			False	Benign	1	criteria provided, single submitter	negative_other	9.578e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV004706581	c.3123C>A	5-177211522-C-A	ara_bolge	False	N1041K	1041	res1041	531	N	True	Benign	1	criteria provided, single submitter	negative_other	1.314e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV004699518	c.2096A>G	5-177210495-A-G	ara_bolge	False	K699R	699	res699	419	T	False	Likely benign	1	criteria provided, single submitter	negative_other	4.104e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV004695307	c.73C>T	5-177135176-C-T	N_ucu	False	P25S	25	res25	35	D	False	Likely benign	1	criteria provided, single submitter	negative_other	6.575e-06	False	False	False
+reference_lof		ClinVar	VCV004689824	c.2192_2193del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV004687852	c.1072C>T	5-177204128-C-T	PWWP1	False	R358W	358	res358	302	T	False	Likely benign	1	criteria provided, single submitter	negative_frequency	1.368e-06	False	False	False
+reference_lof		ClinVar	VCV004685518	c.3356del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV004683077	c.3910C>T	5-177235934-C-T	ara_bolge	False	Q1304*	1304	res1304	603	Q	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+heldout_pp3_dependent_positive	1	ClinVar	VCV004626502	c.4979G>A	5-177260001-G-A	PHD3	True	R1660H	1660	res1660	818	R	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular	6.841e-07	True	False	False
+reference_lof		ClinVar	VCV004626500	c.6976A>T	5-177294344-A-T	C_ucu	False	R2326*	2326	res2326			False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV004537389	c.4722_4723del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV004536618	c.5559del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV004535294	c.1337C>G	5-177209736-C-G	ara_bolge	False	S446*	446	res446			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV004533249	c.3922-2A>G	5-177238235-A-G		False						False	Pathogenic	1	criteria provided, single submitter	positive_splice		False	False	True
+missense_positive_core	1	ClinVar	VCV004531987	c.6424T>C	5-177292119-T-C	PHD5	True	Y2142H	2142	res2142	1345	Y	True	Pathogenic	1	criteria provided, single submitter	positive_gold		True	True	True
+reference_lof		ClinVar	VCV004531986	c.6405dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV004531983	c.1534A>T	5-177209933-A-T	ara_bolge	False	K512*	512	res512			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV004314458	c.6116G>A	5-177283893-G-A	SET	True	R2039H	2039	res2039	1242	R	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver	2.052e-06	False	False	False
+missense_positive_core	1	ClinVar	VCV004314447	c.4765G>C	5-177251853-G-C	PHD1	True	G1589R	1589	res1589	748	G	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		True	True	True
+splice_positive	1	ClinVar	VCV004294519	c.6463+1G>C	5-177292159-G-C		False						False	Likely pathogenic	1	criteria provided, single submitter	positive_splice		False	False	False
+reference_lof		ClinVar	VCV004294497	c.2609_2610del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV004293795	c.3551_3554del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+heldout_pp3_dependent_positive	1	ClinVar	VCV004292886	c.5177C>T	5-177267592-C-T	PHD4	True	P1726L	1726	res1726	930	P	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+reference_lof		ClinVar	VCV004292709	c.2385dup			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV004281214	c.3055C>T	5-177211454-C-T	ara_bolge	False	R1019C	1019	res1019			False	Likely benign	1	criteria provided, single submitter	negative_frequency	6.573e-06	False	False	False
+reference_lof		ClinVar	VCV004280620	c.3593del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV004279852	c.2903del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV004277437	c.2054del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV004082024	c.1310C>A	5-177209709-C-A	ara_bolge	False	S437*	437	res437			False	Pathogenic	0	no assertion criteria provided	lof_reference		False	False	True
+reference_lof		ClinVar	VCV004081867	c.4672del			False						False	Pathogenic	0	no assertion criteria provided	lof_reference		False	False	True
+reference_lof		ClinVar	VCV004056681	c.4882dup			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV004056680	c.3151G>T	5-177211550-G-T	ara_bolge	False	E1051*	1051	res1051	534	E	True	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003910726	c.6287C>A	5-177291982-C-A	SET_sonrasi	True	S2096*	2096	res2096	1299	K	False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003910499	c.6674C>G	5-177294042-C-G	C_ucu	False	P2225R	2225	res2225			False	Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	1.315e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003910497	c.822A>G	5-177135925-A-G	N_ucu	False	I274M	274	res274	257	V	False	Likely benign	1	criteria provided, single submitter	negative_other	6.16e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003910496	c.469A>T	5-177135572-A-T	N_ucu	False	T157S	157	res157	172	L	False	Likely benign	1	criteria provided, single submitter	negative_other		False	False	False
+reference_lof		ClinVar	VCV003906533	c.1243C>T	5-177209642-C-T	ara_bolge	False	Q415*	415	res415	362	Q	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003906027	c.6778C>T	5-177294146-C-T	C_ucu	False	Q2260*	2260	res2260			False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV003901479	c.4786T>C	5-177256971-T-C	PHD2	True	C1596R	1596	res1596	755	C	True	Pathogenic	1	criteria provided, single submitter	positive_silver		True	False	False
+missense_positive_core	1	ClinVar	VCV003897788	c.4903T>G	5-177257088-T-G	PHD2	True	C1635G	1635	res1635	794	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+reference_lof		ClinVar	VCV003897767	c.5896G>T	5-177282468-G-T	SET	True	E1966*	1966	res1966	1169	E	True	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+splice_positive	1	ClinVar	VCV003778460	c.5146+1G>C	5-177260169-G-C		False						False	Likely pathogenic	1	criteria provided, single submitter	positive_splice		False	False	True
+reference_lof		ClinVar	VCV003777146	c.5026del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003776023	c.6332_6341del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003775543	c.3141del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV003768593	c.5918G>A	5-177282490-G-A	SET	True	G1973D	1973	res1973	1176	G	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+reference_lof		ClinVar	VCV003766576	c.3345_3348del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV003766054	c.6499T>C	5-177293867-T-C	CysHis	True	C2167R	2167	res2167	1370	C	True	Pathogenic	1	criteria provided, single submitter	positive_gold		True	True	False
+reference_lof		ClinVar	VCV003765495	c.5823T>A	5-177280765-T-A	AWS	True	Y1941*	1941	res1941	1144	Y	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV003764571	c.2362del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003764156	c.2894C>G	5-177211293-C-G	ara_bolge	False	S965*	965	res965			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003730508	c.603T>G	5-177135706-T-G	N_ucu	False	N201K	201	res201	190	H	False	Likely benign	1	criteria provided, single submitter	negative_other	2.052e-06	False	False	False
+reference_lof		ClinVar	VCV003729543	c.2135T>G	5-177210534-T-G	ara_bolge	False	L712*	712	res712			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003729211	c.3165del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003727108	c.5858del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003726833	c.1483G>T	5-177209882-G-T	ara_bolge	False	A495S	495	res495			False	Likely benign	1	criteria provided, single submitter	negative_other	2.736e-06	False	False	False
+reference_lof		ClinVar	VCV003723108	c.6314del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003721033	c.2186A>C	5-177210585-A-C	ara_bolge	False	N729T	729	res729	434	N	True	Benign	1	criteria provided, single submitter	negative_other	6.572e-06	False	False	False
+missense_positive_core	1	ClinVar	VCV003720671	c.5711C>G	5-177280653-C-G	AWS	True	P1904R	1904	res1904	1107	P	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+reference_lof		ClinVar	VCV003720669	c.4843del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003720668	c.3777G>C	5-177212176-G-C	ara_bolge	False	Q1259H	1259	res1259	584	R	False	Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	1.976e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003720667	c.3134G>A	5-177211533-G-A	ara_bolge	False	R1045H	1045	res1045			False	Likely benign	1	criteria provided, single submitter	negative_other	1.3e-05	False	False	False
+reference_lof		ClinVar	VCV003720666	c.3071C>G	5-177211470-C-G	ara_bolge	False	S1024*	1024	res1024			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003720665	c.2411del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV003720664	c.1456dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+missense_positive_core	1	ClinVar	VCV003719717	c.6524G>C	5-177293892-G-C	CysHis	True	C2175S	2175	res2175	1378	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+missense_positive_core	1	ClinVar	VCV003719716	c.6455G>C	5-177292150-G-C	PHD5	True	R2152P	2152	res2152	1355	P	False	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+missense_positive_core	1	ClinVar	VCV003719715	c.6436T>A	5-177292131-T-A	PHD5	True	C2146S	2146	res2146	1349	C	True	Pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+missense_positive_core	1	ClinVar	VCV003719712	c.4848T>G	5-177257033-T-G	PHD2	True	H1616Q	1616	res1616	775	H	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003718068	c.2717A>G	5-177211116-A-G	ara_bolge	False	K906R	906	res906			False	Likely benign	1	criteria provided, single submitter	negative_other	6.84e-07	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003717361	c.1546A>T	5-177209945-A-T	ara_bolge	False	I516L	516	res516			False	Benign	1	criteria provided, single submitter	negative_other	6.565e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003716921	c.4952T>C	5-177257137-T-C	PHD3	True	V1651A	1651	res1651			False	Benign	1	criteria provided, single submitter	negative_other	6.571e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003715534	c.364A>G	5-177135467-A-G	N_ucu	False	T122A	122	res122	137	P	False	Likely benign	1	criteria provided, single submitter	negative_other	4.446e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003715379	c.2522A>G	5-177210921-A-G	ara_bolge	False	N841S	841	res841			False	Likely benign	1	criteria provided, single submitter	negative_other	5.472e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003712985	c.2078A>G	5-177210477-A-G	ara_bolge	False	N693S	693	res693	413	K	False	Benign	1	criteria provided, single submitter	negative_other	2.627e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003712789	c.3932G>A	5-177238247-G-A	ara_bolge	False	R1311H	1311	res1311			False	Benign	1	criteria provided, single submitter	negative_other	6.84e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003710960	c.7324G>A	5-177294692-G-A	C_ucu	False	V2442M	2442	res2442			False	Benign	1	criteria provided, single submitter	negative_other	6.569e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003710375	c.4401G>C	5-177246700-G-C	ara_bolge	False	K1467N	1467	res1467	628	K	True	Likely benign	1	criteria provided, single submitter	negative_other	2.737e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003710261	c.3068G>T	5-177211467-G-T	ara_bolge	False	R1023L	1023	res1023			False	Likely benign	1	criteria provided, single submitter	negative_other	1.368e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003707368	c.11C>G	5-177135114-C-G	N_ucu	False	T4S	4	res4	15	T	True	Likely benign	1	criteria provided, single submitter	negative_other	1.314e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003706456	c.2376C>G	5-177210775-C-G	ara_bolge	False	C792W	792	res792			False	Benign	1	criteria provided, single submitter	negative_other	1.314e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003705689	c.691C>T	5-177135794-C-T	N_ucu	False	P231S	231	res231	221	P	True	Likely benign	1	criteria provided, single submitter	negative_other	3.426e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003705513	c.7534C>T	5-177294902-C-T	C_ucu	False	P2512S	2512	res2512			False	Likely benign	1	criteria provided, single submitter	negative_other	6.842e-07	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003704028	c.3409C>A	5-177211808-C-A	ara_bolge	False	L1137M	1137	res1137			False	Likely benign	1	criteria provided, single submitter	negative_other	1.971e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003703328	c.3292A>G	5-177211691-A-G	ara_bolge	False	T1098A	1098	res1098			False	Likely benign	1	criteria provided, single submitter	negative_other	3.942e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003702927	c.3539A>G	5-177211938-A-G	ara_bolge	False	K1180R	1180	res1180			False	Likely benign	1	criteria provided, single submitter	negative_other	1.314e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003697329	c.7882G>C	5-177295250-G-C	C_ucu	False	G2628R	2628	res2628			False	Likely benign	1	criteria provided, single submitter	negative_other	1.971e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003696686	c.1612A>G	5-177210011-A-G	ara_bolge	False	I538V	538	res538			False	Likely benign	1	criteria provided, single submitter	negative_other	2.736e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003695676	c.7484A>G	5-177294852-A-G	C_ucu	False	K2495R	2495	res2495			False	Likely benign	1	criteria provided, single submitter	negative_other	6.846e-07	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003695223	c.7036A>T	5-177294404-A-T	C_ucu	False	R2346W	2346	res2346			False	Benign	1	criteria provided, single submitter	negative_other	2.628e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003694292	c.6802G>A	5-177294170-G-A	C_ucu	False	A2268T	2268	res2268			False	Likely benign	1	criteria provided, single submitter	negative_other	2.736e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003693816	c.2080A>T	5-177210479-A-T	ara_bolge	False	T694S	694	res694	414	T	True	Benign	1	criteria provided, single submitter	negative_other	1.368e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003693775	c.4579G>A	5-177248262-G-A	ara_bolge	False	A1527T	1527	res1527	688	S	False	Likely benign	1	criteria provided, single submitter	negative_other	2.052e-06	False	False	False
+reference_lof		ClinVar	VCV003693729	c.4918del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003691861	c.1368_1423dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV003691749	c.4966+1G>C	5-177257152-G-C		False						False	Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_splice		False	False	True
+reference_lof		ClinVar	VCV003690980	c.5907_5908insAC			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003690363	c.1129del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003690212	c.6923C>G	5-177294291-C-G	C_ucu	False	S2308C	2308	res2308			False	Benign	1	criteria provided, single submitter	negative_other		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003690133	c.2081C>T	5-177210480-C-T	ara_bolge	False	T694I	694	res694	414	T	True	Likely benign	1	criteria provided, single submitter	negative_other	1.368e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003688254	c.8046C>G	5-177295414-C-G	C_ucu	False	N2682K	2682	res2682			False	Likely benign	1	criteria provided, single submitter	negative_other	6.841e-07	False	False	False
+reference_lof		ClinVar	VCV003686586	c.3119_3122dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003684826	c.3512G>T	5-177211911-G-T	ara_bolge	False	R1171L	1171	res1171	556	T	False	Likely benign	1	criteria provided, single submitter	negative_other	6.569e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003682283	c.1432T>C	5-177209831-T-C	ara_bolge	False	S478P	478	res478	378	A	False	Likely benign	1	criteria provided, single submitter	negative_other	3.42e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003681455	c.7382T>C	5-177294750-T-C	C_ucu	False	L2461P	2461	res2461			False	Likely benign	1	criteria provided, single submitter	negative_other	6.569e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003676688	c.2822G>A	5-177211221-G-A	ara_bolge	False	R941H	941	res941			False	Likely benign	1	criteria provided, single submitter	negative_other	1.313e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003672985	c.2926G>A	5-177211325-G-A	ara_bolge	False	A976T	976	res976			False	Benign	1	criteria provided, single submitter	negative_other	1.315e-05	False	False	False
+reference_lof		ClinVar	VCV003672886	c.4676_4677dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003671625	c.3167_3168del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003670621	c.3119A>C	5-177211518-A-C	ara_bolge	False	K1040T	1040	res1040	530	G	False	Benign	1	criteria provided, single submitter	negative_other	6.841e-07	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003670127	c.671C>T	5-177135774-C-T	N_ucu	False	S224L	224	res224	213	S	True	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	2.191e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003670011	c.7768C>T	5-177295136-C-T	C_ucu	False	P2590S	2590	res2590			False	Likely benign	1	criteria provided, single submitter	negative_other	6.842e-07	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003669762	c.2138T>G	5-177210537-T-G	ara_bolge	False	M713R	713	res713			False	Likely benign	1	criteria provided, single submitter	negative_other	6.571e-06	False	False	False
+reference_lof		ClinVar	VCV003669612	c.6599dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003669040	c.3864T>G	5-177235888-T-G	ara_bolge	False	Y1288*	1288	res1288			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003668966	c.6338del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003668933	c.4490G>T	5-177246789-G-T	ara_bolge	False	G1497V	1497	res1497	658	L	False	Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	6.862e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003668096	c.2400G>A	5-177210799-G-A	ara_bolge	False	M800I	800	res800			False	Likely benign	1	criteria provided, single submitter	negative_other	1.026e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003666931	c.607G>A	5-177135710-G-A	N_ucu	False	V203I	203	res203	192	S	False	Likely benign	1	criteria provided, single submitter	negative_other	1.314e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003666829	c.2160G>T	5-177210559-G-T	ara_bolge	False	E720D	720	res720	425	V	False	Benign	1	criteria provided, single submitter	negative_other	1.315e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003665746	c.7793A>G	5-177295161-A-G	C_ucu	False	Q2598R	2598	res2598			False	Likely benign	1	criteria provided, single submitter	negative_other	1.314e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003663200	c.2950G>A	5-177211349-G-A	ara_bolge	False	D984N	984	res984			False	Likely benign	1	criteria provided, single submitter	negative_other	1.368e-06	False	False	False
+missense_positive_core	1	ClinVar	VCV003661561	c.4832G>A	5-177257017-G-A	PHD2	True	C1611Y	1611	res1611	770	C	True	Pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003657060	c.7381C>G	5-177294749-C-G	C_ucu	False	L2461V	2461	res2461			False	Likely benign	1	criteria provided, single submitter	negative_other		False	False	False
+reference_lof		ClinVar	VCV003656637	c.1132del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003656614	c.7940_7943del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003655921	c.3267del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV003653861	c.4498-2A>G	5-177248179-A-G		False						False	Likely pathogenic	1	criteria provided, single submitter	positive_splice		True	False	False
+reference_lof		ClinVar	VCV003653638	c.4455dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003652921	c.3035G>A	5-177211434-G-A	ara_bolge	False	R1012H	1012	res1012			False	Benign	1	criteria provided, single submitter	negative_other	1.971e-05	False	False	False
+reference_lof		ClinVar	VCV003651829	c.5087_5088del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV003651090	c.5759G>C	5-177280701-G-C	AWS	True	C1920S	1920	res1920	1123	C	True	Pathogenic	1	criteria provided, single submitter	positive_gold		False	True	True
+missense_positive_core	1	ClinVar	VCV003638746	c.4787G>A	5-177256972-G-A	PHD2	True	C1596Y	1596	res1596	755	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003635577	c.3363A>C	5-177211762-A-C	ara_bolge	False	K1121N	1121	res1121			False	Benign	1	criteria provided, single submitter	negative_other		False	False	False
+reference_lof		ClinVar	VCV003633275	c.3569T>A	5-177211968-T-A	ara_bolge	False	L1190*	1190	res1190			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003632289	c.2435T>A	5-177210834-T-A	ara_bolge	False	L812*	812	res812			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003632119	c.4845C>A	5-177257030-C-A	PHD2	True	Y1615*	1615	res1615	774	Y	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV003631773	c.6007A>G	5-177282579-A-G	SET	True	K2003E	2003	res2003	1206	K	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+reference_lof		ClinVar	VCV003631553	c.3492_3493insGTTAA			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003631418	c.581A>G	5-177135684-A-G	N_ucu	False	N194S	194	res194			False	Likely benign	1	criteria provided, single submitter	negative_other	1.026e-05	False	False	False
+reference_lof		ClinVar	VCV003630114	c.4330_4354dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003630079	c.1070A>G	5-177204126-A-G	PWWP1	False	N357S	357	res357	301	N	True	Likely benign	1	criteria provided, single submitter	negative_other	6.571e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003627620	c.3721A>G	5-177212120-A-G	ara_bolge	False	S1241G	1241	res1241	566	S	True	Likely benign	1	criteria provided, single submitter	negative_other	4.788e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003619552	c.2363G>T	5-177210762-G-T	ara_bolge	False	R788L	788	res788			False	Likely benign	1	criteria provided, single submitter	negative_other	6.841e-07	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003618599	c.7987T>A	5-177295355-T-A	C_ucu	False	W2663R	2663	res2663			False	Likely benign	1	criteria provided, single submitter	negative_other	6.564e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003606157	c.7009A>C	5-177294377-A-C	C_ucu	False	T2337P	2337	res2337			False	Likely benign	1	criteria provided, single submitter	negative_other	6.572e-06	False	False	False
+splice_positive	1	ClinVar	VCV003603864	c.3921+1G>A	5-177235946-G-A		False						False	Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_splice	6.577e-06	True	True	False
+heldout_pp3_dependent_positive	1	ClinVar	VCV003602586	c.6058A>C	5-177283835-A-C	SET	True	N2020H	2020	res2020	1223	N	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+reference_lof		ClinVar	VCV003602185	c.5126G>A	5-177260148-G-A	PHD4	True	W1709*	1709	res1709	864	F	False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+missense_positive_core	1	ClinVar	VCV003601979	c.6014G>C	5-177283791-G-C	SET	True	R2005P	2005	res2005	1208	R	True	Pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+reference_lof		ClinVar	VCV003600343	c.4358dup			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV003592054	c.5732_5733delinsAA			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003592039	c.4418G>A	5-177246717-G-A	ara_bolge	False	R1473Q	1473	res1473	634	S	False	Likely benign	1	criteria provided, single submitter	negative_other	1.314e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003592015	c.2777G>A	5-177211176-G-A	ara_bolge	False	R926Q	926	res926	494	K	False	Likely benign	1	criteria provided, single submitter	negative_other	1.971e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003591974	c.1319G>A	5-177209718-G-A	ara_bolge	False	R440Q	440	res440			False	Likely benign	1	criteria provided, single submitter	negative_other	3.285e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003407964	c.3743A>G	5-177212142-A-G	ara_bolge	False	E1248G	1248	res1248	573	E	True	Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	2.941e-05	True	False	False
+reference_lof		ClinVar	VCV003407960	c.6045T>G	5-177283822-T-G	SET	True	Y2015*	2015	res2015	1218	Y	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003407954	c.1302del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003392477	c.6316A>T	5-177292011-A-T	SET_sonrasi	True	K2106*	2106	res2106	1309	R	False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV003383195	c.7126del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+heldout_pp3_dependent_positive	1	ClinVar	VCV003382923	c.6362G>T	5-177292057-G-T	PHD5	True	C2121F	2121	res2121	1324	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+missense_positive_core	1	ClinVar	VCV003382676	c.5713T>G	5-177280655-T-G	AWS	True	C1905G	1905	res1905	1108	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+reference_lof		ClinVar	VCV003377747	c.5293G>T	5-177267708-G-T	PWWP2	True	G1765*	1765	res1765	969	G	True	Likely pathogenic	1	criteria provided, single submitter	lof_reference		True	False	False
+reference_lof		ClinVar	VCV003377127	c.1253dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	True	False
+reference_lof		ClinVar	VCV003376770	c.5258dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	True	True
+splice_positive	1	ClinVar	VCV003376769	c.1236+2T>C	5-177204294-T-C		False						False	Pathogenic	1	criteria provided, single submitter	positive_splice		True	True	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003375359	c.6750G>T	5-177294118-G-T	C_ucu	False	M2250I	2250	res2250			False	Likely benign	1	criteria provided, single submitter	negative_other	2.052e-06	True	False	False
+reference_lof		ClinVar	VCV003362556	c.1893del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003362553	c.7959del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003350123	c.569A>G	5-177135672-A-G	N_ucu	False	N190S	190	res190	183	S	False	Likely benign	1	criteria provided, single submitter	negative_frequency	1.368e-06	False	False	False
+reference_lof		ClinVar	VCV003347666	c.3584dup			False						False	Likely pathogenic	0	no assertion criteria provided	lof_reference		False	False	False
+heldout_pp3_dependent_positive	1	ClinVar	VCV003343841	c.5045T>C	5-177260067-T-C	PHD3	True	L1682P	1682	res1682	840	V	False	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+splice_positive	1	ClinVar	VCV003341159	c.3796+1G>A	5-177212196-G-A		False						False	Pathogenic	1	criteria provided, single submitter	positive_splice		False	False	True
+heldout_pp3_dependent_positive	1	ClinVar	VCV003341084	c.70G>T	5-177135173-G-T	N_ucu	False	A24S	24	res24	33	A	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+reference_lof		ClinVar	VCV003340400	c.6088C>T	5-177283865-C-T	SET	True	Q2030*	2030	res2030	1233	Q	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003301123	c.1611dup			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+missense_positive_core	1	ClinVar	VCV003256583	c.5711C>T	5-177280653-C-T	AWS	True	P1904L	1904	res1904	1107	P	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+reference_lof		ClinVar	VCV003253738	c.4591dup			False						False	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003253469	c.2603_2604del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+reference_lof		ClinVar	VCV003242553	c.1633_1634dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003242036	c.1583del			False						False	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+reference_lof		ClinVar	VCV003237461	c.4096_4097dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003234810	c.3892_3896del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+heldout_pp3_dependent_positive	1	ClinVar	VCV003202274	c.5780C>A	5-177280722-C-A	AWS	True	A1927D	1927	res1927	1130	A	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+reference_lof		ClinVar	VCV003202261	c.1084dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV003065271	c.3815A>T	5-177235839-A-T	ara_bolge	False	K1272I	1272	res1272	590	S	False	Likely benign	1	criteria provided, single submitter	negative_other		False	False	False
+reference_lof		ClinVar	VCV003065221	c.2466_2467del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003064159	c.2323C>T	5-177210722-C-T	ara_bolge	False	Q775*	775	res775	446	E	False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003062273	c.4139_4140dup			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003042021	c.6501C>A	5-177293869-C-A	CysHis	True	C2167*	2167	res2167	1370	C	True	Pathogenic	0	no assertion criteria provided	lof_reference		False	False	False
+reference_lof		ClinVar	VCV003028900	c.4014del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+missense_positive_core	1	ClinVar	VCV003027455	c.5510C>A	5-177273672-C-A	PWWP2	True	A1837D	1837	res1837	1040	A	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+reference_lof		ClinVar	VCV003024295	c.4196del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV002692474	c.6566_6567dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+missense_positive_core	1	ClinVar	VCV002691013	c.5616T>A	5-177273778-T-A	AWS_onu	True	H1872Q	1872	res1872	1075	H	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+reference_lof		ClinVar	VCV002663942	c.3940G>T	5-177238255-G-T	ara_bolge	False	E1314*	1314	res1314			False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV002637907	c.4823dup			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV002637360	c.5510-1G>A	5-177273671-G-A		False						False	Likely pathogenic	1	criteria provided, single submitter	positive_splice		False	False	False
+reference_lof		ClinVar	VCV002632854	c.4072C>T	5-177238387-C-T	ara_bolge	False	Q1358*	1358	res1358			False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+splice_positive	1	ClinVar	VCV002629706	c.6151+1G>T	5-177283929-G-T		False						False	Likely pathogenic	1	criteria provided, single submitter	positive_splice		False	False	False
+reference_lof		ClinVar	VCV002585165	c.5972_5973dup			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV002585109	c.6257dup			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV002584922	c.5268C>A	5-177267683-C-A	PWWP2	True	Y1756*	1756	res1756	960	Y	True	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV002582645	c.5710C>T	5-177280652-C-T	AWS	True	P1904S	1904	res1904	1107	P	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+reference_lof		ClinVar	VCV002582330	c.5907_5908insA			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV002578525	c.7551del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+heldout_pp3_dependent_positive	1	ClinVar	VCV002578222	c.5725T>C	5-177280667-T-C	AWS	True	S1909P	1909	res1909	1112	S	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+reference_lof		ClinVar	VCV002574207	c.3818_3819del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV002574133	c.6030del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV002574131	c.2493dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+missense_positive_core	1	ClinVar	VCV002574130	c.4928G>C	5-177257113-G-C	PHD3	True	C1643S	1643	res1643	802	C	True	Pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+heldout_pp3_dependent_positive	1	ClinVar	VCV002571813	c.6547T>A	5-177293915-T-A	CysHis	True	C2183S	2183	res2183	1386	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+reference_lof		ClinVar	VCV002503421	c.3774delinsCAGCTCACC			False						False	Likely pathogenic	0	no assertion criteria provided	lof_reference		False	False	False
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV002501551	c.4913A>G	5-177257098-A-G	PHD2	True	H1638R	1638	res1638	797	H	True	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS		True	False	True
+reference_lof		ClinVar	VCV002500905	c.3904C>T	5-177235928-C-T	ara_bolge	False	Q1302*	1302	res1302			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+missense_positive_core	1	ClinVar	VCV002500698	c.4919G>A	5-177257104-G-A	PHD3	True	C1640Y	1640	res1640	799	C	True	Pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+heldout_pp3_dependent_positive	1	ClinVar	VCV002446217	c.5201T>C	5-177267616-T-C	PHD4	True	L1734P	1734	res1734	938	L	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV002446024	c.5629C>T	5-177280571-C-T	AWS_onu	True	R1877C	1877	res1877	1080	K	False	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS		True	False	True
+reference_lof		ClinVar	VCV002445623	c.7241dup			False						False	Likely pathogenic	0	no assertion criteria provided	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV002441643	c.6029G>T	5-177283806-G-T	SET	True	G2010V	2010	res2010	1213	G	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+reference_lof		ClinVar	VCV002431940	c.7540C>T	5-177294908-C-T	C_ucu	False	Q2514*	2514	res2514			False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV002431842	c.1726_1727del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV002429385	c.3383del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV002418744	c.1467G>C	5-177209866-G-C	ara_bolge	False	E489D	489	res489			False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	1.314e-05	True	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV002418044	c.2401G>A	5-177210800-G-A	ara_bolge	False	A801T	801	res801			False	Likely benign	1	criteria provided, single submitter	negative_other	1.314e-05	False	False	False
+splice_positive	1	ClinVar	VCV002308598	c.5622+1G>A	5-177273785-G-A		False						False	Pathogenic	1	criteria provided, single submitter	positive_splice		True	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV002199402	c.2417T>C	5-177210816-T-C	ara_bolge	False	I806T	806	res806			False	Likely benign	1	criteria provided, single submitter	negative_other	1.313e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV002196243	c.3155G>A	5-177211554-G-A	ara_bolge	False	R1052H	1052	res1052	535	I	False	Likely benign	1	criteria provided, single submitter	negative_other	4.104e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV002195434	c.3133C>T	5-177211532-C-T	ara_bolge	False	R1045C	1045	res1045			False	Benign	1	criteria provided, single submitter	negative_other	5.26e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV002194448	c.757C>G	5-177135860-C-G	N_ucu	False	L253V	253	res253	240	E	False	Likely benign	1	criteria provided, single submitter	negative_other	4.334e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV002189224	c.487G>A	5-177135590-G-A	N_ucu	False	D163N	163	res163			False	Likely benign	1	criteria provided, single submitter	negative_other	1.3e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV002167529	c.7810G>A	5-177295178-G-A	C_ucu	False	G2604R	2604	res2604			False	Likely benign	1	criteria provided, single submitter	negative_other	1.971e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV002165986	c.3309C>G	5-177211708-C-G	ara_bolge	False	D1103E	1103	res1103			False	Benign	1	criteria provided, single submitter	negative_other	6.579e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV002157548	c.2181G>C	5-177210580-G-C	ara_bolge	False	Q727H	727	res727	432	Q	True	Benign	1	criteria provided, single submitter	negative_other	6.569e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV002150939	c.1874G>A	5-177210273-G-A	ara_bolge	False	G625E	625	res625			False	Likely benign	1	criteria provided, single submitter	negative_other	6.868e-07	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV002145793	c.3226G>A	5-177211625-G-A	ara_bolge	False	G1076S	1076	res1076			False	Likely benign	1	criteria provided, single submitter	negative_other	1.71e-05	False	False	False
+missense_positive_core	1	ClinVar	VCV002136355	c.6614A>G	5-177293982-A-G	CysHis	True	H2205R	2205	res2205	1408	H	True	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	True	False
+reference_lof		ClinVar	VCV002123838	c.1981del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV002122221	c.5738A>T	5-177280680-A-T	AWS	True	N1913I	1913	res1913	1116	N	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV002105993	c.6542C>A	5-177293910-C-A	CysHis	True	S2181Y	2181	res2181	1384	S	True	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS		True	False	False
+reference_lof		ClinVar	VCV002105435	c.6850G>T	5-177294218-G-T	C_ucu	False	E2284*	2284	res2284			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV002082004	c.1299del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV002080948	c.1895G>A	5-177210294-G-A	ara_bolge	False	R632Q	632	res632			False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	3.223e-05	True	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV002080335	c.2669T>A	5-177211068-T-A	ara_bolge	False	F890Y	890	res890	470	W	False	Likely benign	1	criteria provided, single submitter	negative_other	1.313e-05	False	False	False
+missense_positive_core	1	ClinVar	VCV002077350	c.6605G>T	5-177293973-G-T	CysHis	True	C2202F	2202	res2202	1405	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+missense_positive_core	1	ClinVar	VCV002076910	c.6634C>T	5-177294002-C-T	C_ucu	False	P2212S	2212	res2212	1413	P	True	Pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV002073444	c.6787T>A	5-177294155-T-A	C_ucu	False	S2263T	2263	res2263			False	Benign	1	criteria provided, single submitter	negative_other	6.572e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV002070024	c.2914A>G	5-177211313-A-G	ara_bolge	False	T972A	972	res972			False	Benign	1	criteria provided, single submitter	negative_other	3.283e-05	False	False	False
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV002068910	c.6355G>A	5-177292050-G-A	PHD5	True	D2119N	2119	res2119	1322	D	True	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS	6.157e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV002064771	c.2194G>A	5-177210593-G-A	ara_bolge	False	D732N	732	res732	437	E	False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	3.288e-05	False	False	False
+reference_lof		ClinVar	VCV002034010	c.3063_3064del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV002030763	c.5143G>T	5-177260165-G-T	PHD4	True	E1715*	1715	res1715	919	K	False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV002028009	c.5115_5116insTTTTTTTTTTTTTTTTTTTTNNNNNNNNNNCTGACCTCGTGATCCGCCCGCCTCGGCCTCCCAAAGTGCTGGGATTACAGGCGTGAGCCACCGCGCCCGGCCATGAGCATGTT			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		True	False	False
+reference_lof		ClinVar	VCV002024105	c.2520_2524del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV002019806	c.8045del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV002011224	c.2425dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV002004373	c.6412T>A	5-177292107-T-A	PHD5	True	C2138S	2138	res2138	1341	C	True	Pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001995023	c.2387A>C	5-177210786-A-C	ara_bolge	False	E796A	796	res796	461	E	True	Benign	1	criteria provided, single submitter	negative_other	5.255e-05	False	False	False
+missense_positive_core	1	ClinVar	VCV001992312	c.6179T>A	5-177288846-T-A	SET	True	L2060Q	2060	res2060	1263	L	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001964083	c.1925C>T	5-177210324-C-T	ara_bolge	False	S642F	642	res642			False	Likely benign	1	criteria provided, single submitter	negative_other	6.841e-07	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001952083	c.1783G>A	5-177210182-G-A	ara_bolge	False	E595K	595	res595			False	Likely benign	1	criteria provided, single submitter	negative_other	1.171e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001941331	c.2970G>T	5-177211369-G-T	ara_bolge	False	E990D	990	res990			False	Likely benign	1	criteria provided, single submitter	negative_frequency	0.0001116	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001939734	c.151T>C	5-177135254-T-C	N_ucu	False	S51P	51	res51			False	Likely benign	1	criteria provided, single submitter	negative_other	1.314e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001915690	c.4259C>G	5-177239822-C-G	ara_bolge	False	P1420R	1420	res1420			False	Likely benign	1	criteria provided, single submitter	negative_other	4.107e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001913455	c.290T>A	5-177135393-T-A	N_ucu	False	F97Y	97	res97	103	V	False	Likely benign	1	criteria provided, single submitter	negative_other	1.314e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001902395	c.560C>G	5-177135663-C-G	N_ucu	False	T187S	187	res187	180	V	False	Likely benign	1	criteria provided, single submitter	negative_other	6.57e-06	False	False	False
+reference_lof		ClinVar	VCV001878524	c.2431_2432insCACTC			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001810249	c.4242del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001809719	c.3541_3544del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001806614	c.6471G>A	5-177293839-G-A	PHD5	True	W2157*	2157	res2157	1360	W	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001801820	c.2889_2890del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001801316	c.4776del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001798706	c.3001G>A	5-177211400-G-A	ara_bolge	False	D1001N	1001	res1001			False	Benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.0001006	True	False	False
+reference_lof		ClinVar	VCV001793294	c.2575_2576del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001746389	c.5257A>T	5-177267672-A-T	PWWP2	True	K1753*	1753	res1753	957	K	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001742186	c.4651A>T	5-177251739-A-T	PHD1	True	K1551*	1551	res1551	709	S	False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001711618	c.3446A>C	5-177211845-A-C	ara_bolge	False	N1149T	1149	res1149			False	Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	2.942e-05	True	False	False
+reference_lof		ClinVar	VCV001710207	c.1014del			False						False	Pathogenic	0	no assertion criteria provided	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV001709926	c.4642-2A>G	5-177251728-A-G		False						False	Likely pathogenic	1	criteria provided, single submitter	positive_splice		False	False	False
+reference_lof		ClinVar	VCV001709691	c.4365del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001709180	c.1207A>T	5-177204263-A-T	PWWP1	False	K403*	403	res403	345	K	True	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV001708478	c.5149G>A	5-177267564-G-A	PHD4	True	G1717S	1717	res1717	921	G	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+heldout_pp3_dependent_positive	1	ClinVar	VCV001708152	c.5858G>T	5-177280800-G-T	SET	True	G1953V	1953	res1953	1156	G	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+reference_lof		ClinVar	VCV001708139	c.7988G>A	5-177295356-G-A	C_ucu	False	W2663*	2663	res2663			False	Pathogenic	1	criteria provided, single submitter	lof_reference		True	False	True
+reference_lof		ClinVar	VCV001701494	c.3231_3237delinsTC			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV001700226	c.5758T>C	5-177280700-T-C	AWS	True	C1920R	1920	res1920	1123	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+reference_lof		ClinVar	VCV001699475	c.2948dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	True	True
+reference_lof		ClinVar	VCV001699430	c.7405del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV001699374	c.5738A>G	5-177280680-A-G	AWS	True	N1913S	1913	res1913	1116	N	True	Pathogenic	1	criteria provided, single submitter	positive_gold		True	True	True
+splice_positive	1	ClinVar	VCV001699361	c.1064-2A>G	5-177204118-A-G		False						False	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_splice		True	True	True
+missense_positive_core	1	ClinVar	VCV001698888	c.6208T>C	5-177288875-T-C	PostSET	True	C2070R	2070	res2070	1273	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+splice_positive	1	ClinVar	VCV001691630	c.4192+1G>A	5-177238508-G-A		False						False	Pathogenic	1	criteria provided, single submitter	positive_splice		False	True	False
+reference_lof		ClinVar	VCV001690927	c.7638del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV001690807	c.5623-2A>C	5-177280563-A-C		False						False	Likely pathogenic	1	criteria provided, single submitter	positive_splice		False	False	False
+splice_positive	1	ClinVar	VCV001685990	c.5303+1G>A	5-177267719-G-A		False						False	Pathogenic	1	criteria provided, single submitter	positive_splice		False	False	False
+reference_lof		ClinVar	VCV001685989	c.2993T>A	5-177211392-T-A	ara_bolge	False	L998*	998	res998			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001685987	c.6341C>G	5-177292036-C-G	SET_sonrasi	True	T2114R	2114	res2114	1317	K	False	Benign	1	criteria provided, single submitter	negative_other	6.841e-07	False	False	False
+missense_positive_core	1	ClinVar	VCV001685385	c.6486T>G	5-177293854-T-G	CysHis	True	H2162Q	2162	res2162	1365	H	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+reference_lof		ClinVar	VCV001678178	c.1331del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV001678052	c.7523G>A	5-177294891-G-A	C_ucu	False	C2508Y	2508	res2508			False	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS	6.842e-07	False	False	True
+reference_lof		ClinVar	VCV001675999	c.1034_1037dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001544951	c.3092G>A	5-177211491-G-A	ara_bolge	False	R1031Q	1031	res1031	519	I	False	Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	3.944e-05	False	False	False
+missense_positive_core	1	ClinVar	VCV001527924	c.4831T>C	5-177257016-T-C	PHD2	True	C1611R	1611	res1611	770	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+reference_lof		ClinVar	VCV001526087	c.3004_3007del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV001501677	c.6532T>C	5-177293900-T-C	CysHis	True	C2178R	2178	res2178	1381	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV001467953	c.6475T>C	5-177293843-T-C	PHD5	True	C2159R	2159	res2159	1362	C	True	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS		True	False	False
+reference_lof		ClinVar	VCV001459166	c.4883del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV001456428	c.5858G>C	5-177280800-G-C	SET	True	G1953A	1953	res1953	1156	G	True	Pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+reference_lof		ClinVar	VCV001456301	c.3687del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV001456066	c.6125T>G	5-177283902-T-G	SET	True	L2042R	2042	res2042	1245	L	True	Pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+reference_lof		ClinVar	VCV001454889	c.6455dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001454241	c.2605dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001453706	c.3985C>T	5-177238300-C-T	ara_bolge	False	Q1329*	1329	res1329			False	Pathogenic	1	criteria provided, single submitter	lof_reference		True	False	False
+missense_positive_core	1	ClinVar	VCV001452878	c.1163G>T	5-177204219-G-T	PWWP1	False	G388V	388	res388	332	G	True	Pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+reference_lof		ClinVar	VCV001452419	c.5580_5587del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001451585	c.3031del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001451582	c.2053_2057del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001449604	c.3639A>G	5-177212038-A-G	ara_bolge	False	I1213M	1213	res1213			False	Likely benign	1	criteria provided, single submitter	negative_frequency	4.788e-06	False	False	False
+missense_positive_core	1	ClinVar	VCV001427244	c.6128T>C	5-177283905-T-C	SET	True	F2043S	2043	res2043	1246	F	True	Pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	True	True
+reference_lof		ClinVar	VCV001425282	c.5127G>A	5-177260149-G-A	PHD4	True	W1709*	1709	res1709	864	F	False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV001410174	c.4994C>T	5-177260016-C-T	PHD3	True	P1665L	1665	res1665	823	P	True	Pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+reference_lof		ClinVar	VCV001408452	c.7603del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001395431	c.6391dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001389227	c.4569del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001366561	c.2163_2181del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001365499	c.3701T>G	5-177212100-T-G	ara_bolge	False	L1234*	1234	res1234			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001362153	c.113A>G	5-177135216-A-G	N_ucu	False	N38S	38	res38	48	P	False	Likely benign	1	criteria provided, single submitter	negative_other	5.261e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001343877	c.7251A>T	5-177294619-A-T	C_ucu	False	R2417S	2417	res2417			False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	1.71e-05	False	False	False
+reference_lof		ClinVar	VCV001339482	c.3017del			False						False	Pathogenic	0	no assertion criteria provided	lof_reference		False	False	True
+reference_lof		ClinVar	VCV001338666	c.1768_1769del			False						False	Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	True	True
+reference_lof		ClinVar	VCV001338653	c.2808C>A	5-177211207-C-A	ara_bolge	False	Y936*	936	res936			False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001338369	c.6488del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001335609	c.3368del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001333585	c.5726_5727del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV001333377	c.6115C>T	5-177283892-C-T	SET	True	R2039C	2039	res2039	1242	R	True	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS		True	False	True
+reference_lof		ClinVar	VCV001331627	c.911C>A	5-177136014-C-A	N_ucu	False	S304*	304	res304			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV001324822	c.7227dup			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV001323377	c.6258+1G>T	5-177288926-G-T		False						False	Pathogenic	1	criteria provided, single submitter	positive_splice		False	False	False
+reference_lof		ClinVar	VCV001321321	c.4361C>G	5-177244253-C-G	ara_bolge	False	S1454*	1454	res1454			False	Pathogenic	1	criteria provided, single submitter	lof_reference		True	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001320464	c.7631C>T	5-177294999-C-T	C_ucu	False	A2544V	2544	res2544			False	Likely benign	1	criteria provided, single submitter	negative_other	1.314e-05	False	False	False
+reference_lof		ClinVar	VCV001320149	c.1727dup			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+heldout_pp3_dependent_positive	1	ClinVar	VCV001309760	c.6614A>C	5-177293982-A-C	CysHis	True	H2205P	2205	res2205	1408	H	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV001306845	c.5741G>A	5-177280683-G-A	AWS	True	R1914H	1914	res1914	1117	R	True	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS	6.84e-07	True	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001302749	c.4949A>G	5-177257134-A-G	PHD3	True	N1650S	1650	res1650	809	H	False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.000329	True	False	False
+reference_lof		ClinVar	VCV001299651	c.5824_5828del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		True	False	False
+missense_positive_core	1	ClinVar	VCV001299646	c.6542C>T	5-177293910-C-T	CysHis	True	S2181F	2181	res2181	1384	S	True	Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	False	True
+reference_lof		ClinVar	VCV001283908	c.4220_4221del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001277981	c.7852G>A	5-177295220-G-A	C_ucu	False	V2618I	2618	res2618			False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	8.551e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001223065	c.2861A>C	5-177211260-A-C	ara_bolge	False	K954T	954	res954	505	Q	False	Benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.0001266	False	False	False
+reference_lof		ClinVar	VCV001215538	c.6291_6294del			False						False	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+reference_lof		ClinVar	VCV001214278	c.1216_1219del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV001211364	c.6655C>T	5-177294023-C-T	C_ucu	False	R2219C	2219	res2219	1436	K	False	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS		True	True	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001210693	c.1763A>G	5-177210162-A-G	ara_bolge	False	D588G	588	res588			False	Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	1.973e-05	False	False	False
+missense_positive_core	1	ClinVar	VCV001210027	c.5741G>T	5-177280683-G-T	AWS	True	R1914L	1914	res1914	1117	R	True	Pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	False	True
+heldout_pp3_dependent_positive	1	ClinVar	VCV001204515	c.6524G>T	5-177293892-G-T	CysHis	True	C2175F	2175	res2175	1378	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+reference_lof		ClinVar	VCV001202491	c.1318C>T	5-177209717-C-T	ara_bolge	False	R440*	440	res440			False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+heldout_pp3_dependent_positive	1	ClinVar	VCV001197416	c.5552A>C	5-177273714-A-C	AWS_onu	True	Q1851P	1851	res1851	1054	Q	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+missense_positive_core	1	ClinVar	VCV001191918	c.5855G>A	5-177280797-G-A	SET	True	R1952Q	1952	res1952	1155	R	True	Pathogenic	1	criteria provided, single submitter	positive_silver	2.052e-06	True	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001181820	c.91C>G	5-177135194-C-G	N_ucu	False	P31A	31	res31	41	A	False	Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	2.052e-06	False	False	False
+reference_lof		ClinVar	VCV001176497	c.858del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001172670	c.3109C>T	5-177211508-C-T	ara_bolge	False	Q1037*	1037	res1037	527	K	False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV001076793	c.1828C>T	5-177210227-C-T	ara_bolge	False	Q610*	610	res610	389	Q	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001076373	c.3254del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001074998	c.3145_3146dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV001074877	c.5190T>G	5-177267605-T-G	PHD4	True	H1730Q	1730	res1730	934	H	True	Pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+reference_lof		ClinVar	VCV001073800	c.2674del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001073231	c.4672dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		True	False	False
+reference_lof		ClinVar	VCV001071923	c.4514dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001071686	c.2645C>G	5-177211044-C-G	ara_bolge	False	S882*	882	res882			False	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001069920	c.6294del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001069132	c.5753_5754del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV001068588	c.4655T>A	5-177251743-T-A	PHD1	True	L1552*	1552	res1552	710	S	False	Pathogenic	1	criteria provided, single submitter	lof_reference		True	False	False
+reference_lof		ClinVar	VCV001065474	c.3364dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV001064783	c.6655del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001063130	c.6829T>A	5-177294197-T-A	C_ucu	False	L2277M	2277	res2277			False	Likely benign	1	criteria provided, single submitter	negative_other	6.499e-05	False	False	False
+missense_positive_core	1	ClinVar	VCV001038714	c.6475T>A	5-177293843-T-A	PHD5	True	C2159S	2159	res2159	1362	C	True	Pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+splice_positive	1	ClinVar	VCV001028263	c.4378+1G>T	5-177244271-G-T		False						False	Pathogenic	1	criteria provided, single submitter	positive_splice		False	False	True
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV001021690	c.5066G>T	5-177260088-G-T	PHD3	True	C1689F	1689	res1689	847	C	True	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS		True	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV001012754	c.2425G>A	5-177210824-G-A	ara_bolge	False	E809K	809	res809			False	Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	4.173e-05	False	False	False
+reference_lof		ClinVar	VCV001012200	c.197dup			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000987447	c.3496del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV000986948	c.4303-1G>C	5-177244194-G-C		False						False	Likely pathogenic	1	criteria provided, single submitter	positive_splice		False	False	False
+reference_lof		ClinVar	VCV000986253	c.2555_2556del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000986135	c.2209dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000986092	c.3788del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000985967	c.3891del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000983483	c.3418_3419del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000983482	c.5066G>C	5-177260088-G-C	PHD3	True	C1689S	1689	res1689	847	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+reference_lof		ClinVar	VCV000983008	c.6206_6209del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000981651	c.3686C>G	5-177212085-C-G	ara_bolge	False	S1229*	1229	res1229			False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000976318	c.5843G>A	5-177280785-G-A	SET	True	R1948H	1948	res1948	1151	K	False	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS	0	False	False	False
+reference_lof		ClinVar	VCV000975313	c.3271dup			False						False	Pathogenic	0	no assertion criteria provided	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000970929	c.1609_1610delinsC			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000964023	c.4124del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000957134	c.3698G>A	5-177212097-G-A	ara_bolge	False	R1233Q	1233	res1233			False	Likely benign	1	criteria provided, single submitter	negative_other	2.631e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000954262	c.3770C>T	5-177212169-C-T	ara_bolge	False	T1257I	1257	res1257	582	R	False	Benign	1	criteria provided, single submitter	negative_other	1.318e-05	False	False	False
+reference_lof		ClinVar	VCV000953970	c.4226_4229del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV000953706	c.4766-1G>A	5-177256950-G-A		False						False	Likely pathogenic	1	criteria provided, single submitter	positive_splice		True	False	False
+reference_lof		ClinVar	VCV000953666	c.1253T>A	5-177209652-T-A	ara_bolge	False	L418*	418	res418	365	R	False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000952592	c.2776C>T	5-177211175-C-T	ara_bolge	False	R926W	926	res926	494	K	False	Likely benign	1	criteria provided, single submitter	negative_other	6.572e-06	False	False	False
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000950795	c.6208T>G	5-177288875-T-G	PostSET	True	C2070G	2070	res2070	1273	C	True	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS		True	True	True
+missense_positive_core	1	ClinVar	VCV000947720	c.6436T>C	5-177292131-T-C	PHD5	True	C2146R	2146	res2146	1349	C	True	Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	False	False
+reference_lof		ClinVar	VCV000947143	c.2097dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000945158	c.1894C>T	5-177210293-C-T	ara_bolge	False	R632*	632	res632			False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000944894	c.3781dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000944845	c.5243_5244del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000942395	c.6488_6498del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000939144	c.5684G>A	5-177280626-G-A	AWS	True	C1895Y	1895	res1895	1098	C	True	Pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+reference_lof		ClinVar	VCV000930994	c.3172C>T	5-177211571-C-T	ara_bolge	False	Q1058*	1058	res1058			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000930415	c.4055dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		True	False	False
+reference_lof		ClinVar	VCV000916349	c.1052C>G	5-177192008-C-G	PWWP1	False	S351*	351	res351	298	T	False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000871930	c.5768_5769del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000871928	c.985G>A	5-177191941-G-A	PWWP1	False	A329T	329	res329	276	S	False	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+reference_lof		ClinVar	VCV000864119	c.4702del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000863997	c.6533G>T	5-177293901-G-T	CysHis	True	C2178F	2178	res2178	1381	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+missense_positive_core	1	ClinVar	VCV000861442	c.5198G>T	5-177267613-G-T	PHD4	True	C1733F	1733	res1733	937	C	True	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	False	True
+reference_lof		ClinVar	VCV000859995	c.4216del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000859553	c.6543del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000858719	c.5685C>G	5-177280627-C-G	AWS	True	C1895W	1895	res1895	1098	C	True	Pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+missense_positive_core	1	ClinVar	VCV000856735	c.6490T>C	5-177293858-T-C	CysHis	True	C2164R	2164	res2164	1367	C	True	Pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+missense_positive_core	1	ClinVar	VCV000840198	c.4847A>G	5-177257032-A-G	PHD2	True	H1616R	1616	res1616	775	H	True	Pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	True	True
+reference_lof		ClinVar	VCV000817710	c.5721dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000817335	c.2047_2048del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000817196	c.1327_1328del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000817177	c.3580_3581insT			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000817122	c.2998del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000816979	c.2615T>G	5-177211014-T-G	ara_bolge	False	L872*	872	res872			False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000816943	c.5296C>T	5-177267711-C-T	PWWP2	True	R1766*	1766	res1766	970	N	False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+splice_positive	1	ClinVar	VCV000807641	c.4766-2A>G	5-177256949-A-G		False						False	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_splice		True	False	False
+reference_lof		ClinVar	VCV000807640	c.2289_2317dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000802187	c.6553C>T	5-177293921-C-T	CysHis	True	Q2185*	2185	res2185	1388	D	False	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		True	False	True
+reference_lof		ClinVar	VCV000802186	c.6088_6089del			False						False	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000802185	c.5812A>T	5-177280754-A-T	AWS	True	K1938*	1938	res1938	1141	K	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV000802183	c.4193-1G>A	5-177239755-G-A		False						False	Likely pathogenic	1	criteria provided, single submitter	positive_splice		False	False	False
+reference_lof		ClinVar	VCV000802182	c.4108C>T	5-177238423-C-T	ara_bolge	False	Q1370*	1370	res1370	609	Q	True	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV000802181	c.3922-1G>C	5-177238236-G-C		False						False	Pathogenic	1	criteria provided, single submitter	positive_splice		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000800650	c.7024T>C	5-177294392-T-C	C_ucu	False	S2342P	2342	res2342			False	Likely benign	1	criteria provided, single submitter	negative_other	2.736e-06	True	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000781739	c.736G>T	5-177135839-G-T	N_ucu	False	G246C	246	res246	233	T	False	Likely benign	1	criteria provided, single submitter	negative_other		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000713308	c.530A>G	5-177135633-A-G	N_ucu	False	D177G	177	res177			False	Likely benign	1	criteria provided, single submitter	negative_other	5.472e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000713151	c.1499G>C	5-177209898-G-C	ara_bolge	False	R500T	500	res500			False	Likely benign	1	criteria provided, single submitter	negative_other	6.841e-07	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000711672	c.1813G>C	5-177210212-G-C	ara_bolge	False	E605Q	605	res605	384	E	True	Likely benign	1	criteria provided, single submitter	negative_other	1.385e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000710430	c.4162G>A	5-177238477-G-A	ara_bolge	False	E1388K	1388	res1388			False	Benign	1	criteria provided, single submitter	negative_other		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000708683	c.3090G>T	5-177211489-G-T	ara_bolge	False	L1030F	1030	res1030	518	F	False	Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.0001245	True	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000701983	c.2748T>G	5-177211147-T-G	ara_bolge	False	D916E	916	res916	484	T	False	Likely benign	1	criteria provided, single submitter	negative_other	6.84e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000699290	c.454C>T	5-177135557-C-T	N_ucu	False	H152Y	152	res152	167	L	False	Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	7.73e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000698213	c.7160C>T	5-177294528-C-T	C_ucu	False	P2387L	2387	res2387			False	Likely benign	1	criteria provided, single submitter	negative_other	4.036e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000698121	c.4509G>A	5-177248192-G-A	ara_bolge	False	M1503I	1503	res1503	664	G	False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.0001774	False	False	False
+reference_lof		ClinVar	VCV000666325	c.6256A>T	5-177288923-A-T	SET_sonrasi	True	K2086*	2086	res2086	1289	K	True	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000666299	c.4538_4539insTCCT			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000665380	c.2256_2257del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000664693	c.1046_1048delinsT			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000663102	c.1760del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		True	False	False
+reference_lof		ClinVar	VCV000659145	c.5849T>G	5-177280791-T-G	SET	True	L1950*	1950	res1950	1153	E	False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000657642	c.5020del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000646362	c.1492C>T	5-177209891-C-T	ara_bolge	False	R498*	498	res498			False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference	6.841e-07	False	False	True
+reference_lof		ClinVar	VCV000643318	c.4213C>T	5-177239776-C-T	ara_bolge	False	Q1405*	1405	res1405			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV000641263	c.4379-2A>G	5-177246676-A-G		False						False	Likely pathogenic	1	criteria provided, single submitter	positive_splice	0	True	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000640640	c.1906A>G	5-177210305-A-G	ara_bolge	False	I636V	636	res636			False	Likely benign	1	criteria provided, single submitter	negative_other	7.531e-06	False	False	False
+reference_lof		ClinVar	VCV000638012	c.2613del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000637041	c.2137dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000637037	c.6358G>T	5-177292053-G-T	PHD5	True	E2120*	2120	res2120	1323	Y	False	Pathogenic	1	criteria provided, single submitter	lof_reference		True	False	True
+missense_positive_core	1	ClinVar	VCV000635855	c.6096G>C	5-177283873-G-C	SET	True	W2032C	2032	res2032	1235	W	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+missense_positive_core	1	ClinVar	VCV000623190	c.6366T>G	5-177292061-T-G	PHD5	True	F2122L	2122	res2122	1325	F	True	Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	False	True
+reference_lof		ClinVar	VCV000620571	c.2494A>T	5-177210893-A-T	ara_bolge	False	K832*	832	res832			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000620385	c.3274C>T	5-177211673-C-T	ara_bolge	False	Q1092*	1092	res1092	544	I	False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000620138	c.3290T>A	5-177211689-T-A	ara_bolge	False	L1097*	1097	res1097			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000620071	c.1854del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000588715	c.3221G>A	5-177211620-G-A	ara_bolge	False	R1074H	1074	res1074			False	Benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.0001446	True	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000588555	c.2968G>A	5-177211367-G-A	ara_bolge	False	E990K	990	res990			False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.0002037	True	False	False
+reference_lof		ClinVar	VCV000579858	c.7690G>T	5-177295058-G-T	C_ucu	False	E2564*	2564	res2564			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000578917	c.7379A>G	5-177294747-A-G	C_ucu	False	D2460G	2460	res2460			False	Benign	1	criteria provided, single submitter	negative_other	6.571e-06	True	False	False
+missense_positive_core	1	ClinVar	VCV000578350	c.5736C>G	5-177280678-C-G	AWS	True	I1912M	1912	res1912	1115	L	False	Likely pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+reference_lof		ClinVar	VCV000578218	c.3570dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000575812	c.6424T>G	5-177292119-T-G	PHD5	True	Y2142D	2142	res2142	1345	Y	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+reference_lof		ClinVar	VCV000575024	c.207C>A	5-177135310-C-A	N_ucu	False	Y69*	69	res69			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000573144	c.5149G>C	5-177267564-G-C	PHD4	True	G1717R	1717	res1717	921	G	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+reference_lof		ClinVar	VCV000572874	c.3513dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000567446	c.4932dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000566324	c.6317del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000565855	c.1509delinsGA			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000561070	c.5724del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+splice_positive	1	ClinVar	VCV000561069	c.4302+1G>A	5-177239866-G-A		False						False	Pathogenic	1	criteria provided, single submitter	positive_splice	7.076e-07	False	False	True
+missense_positive_core	1	ClinVar	VCV000547728	c.6613C>T	5-177293981-C-T	CysHis	True	H2205Y	2205	res2205	1408	H	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+reference_lof		ClinVar	VCV000547727	c.6437dup			False						False	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000547726	c.6328C>T	5-177292023-C-T	SET_sonrasi	True	Q2110*	2110	res2110	1313	K	False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000547724	c.5758T>A	5-177280700-T-A	AWS	True	C1920S	1920	res1920	1123	C	True	Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		False	False	True
+reference_lof		ClinVar	VCV000547720	c.3036_3054dup			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000547719	c.2314del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000547168	c.1873G>T	5-177210272-G-T	ara_bolge	False	G625*	625	res625			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000546061	c.3548_3549insG			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000524733	c.7145C>T	5-177294513-C-T	C_ucu	False	T2382I	2382	res2382			False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	7.22e-05	False	False	False
+reference_lof		ClinVar	VCV000524715	c.2334dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000524707	c.6437G>A	5-177292132-G-A	PHD5	True	C2146Y	2146	res2146	1349	C	True	Pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+reference_lof		ClinVar	VCV000524705	c.3868del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000524699	c.6547T>G	5-177293915-T-G	CysHis	True	C2183G	2183	res2183	1386	C	True	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000524693	c.7049T>C	5-177294417-T-C	C_ucu	False	L2350P	2350	res2350			False	Likely benign	1	criteria provided, single submitter	negative_other	3.283e-05	False	False	False
+reference_lof		ClinVar	VCV000524691	c.983G>A	5-177191939-G-A	PWWP1	False	W328*	328	res328	275	W	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV000524688	c.5892+1G>A	5-177280835-G-A		False						False	Pathogenic	1	criteria provided, single submitter	positive_splice		True	False	True
+missense_positive_core	1	ClinVar	VCV000524687	c.7180A>G	5-177294548-A-G	C_ucu	False	I2394V	2394	res2394			False	Likely pathogenic	1	criteria provided, single submitter	positive_gold		False	False	True
+missense_positive_core	1	ClinVar	VCV000521656	c.4756T>C	5-177251844-T-C	PHD1	True	C1586R	1586	res1586	745	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+reference_lof		ClinVar	VCV000521328	c.4949_4950del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000521100	c.3451_3452del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000520637	c.1702_1703insAG			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000516289	c.1574G>A	5-177209973-G-A	ara_bolge	False	R525Q	525	res525			False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.000775	True	False	False
+reference_lof		ClinVar	VCV000504283	c.5851C>T	5-177280793-C-T	SET	True	Q1951*	1951	res1951	1154	R	False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000503779	c.6643_6644delinsGAT			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000500852	c.4058_4061del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000497291	c.2915del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000489233	c.5862G>A	5-177280804-G-A	SET	True	W1954*	1954	res1954	1157	W	True	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000488836	c.5229G>A	5-177267644-G-A	PHD4	True	W1743*	1743	res1743	947	W	True	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000488749	c.3457C>T	5-177211856-C-T	ara_bolge	False	Q1153*	1153	res1153			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000488708	c.3481C>T	5-177211880-C-T	ara_bolge	False	Q1161*	1161	res1161			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000488565	c.3038C>G	5-177211437-C-G	ara_bolge	False	S1013*	1013	res1013			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+missense_positive_core	1	ClinVar	VCV000488392	c.4771C>T	5-177256956-C-T	PHD2	True	H1591Y	1591	res1591	750	H	True	Pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000454059	c.7414C>T	5-177294782-C-T	C_ucu	False	P2472S	2472	res2472			False	Benign	1	criteria provided, single submitter	negative_other	5.907e-05	False	False	False
+missense_positive_core	1	ClinVar	VCV000454058	c.6089A>C	5-177283866-A-C	SET	True	Q2030P	2030	res2030	1233	Q	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+reference_lof		ClinVar	VCV000454057	c.6020_6021dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000454055	c.5177C>G	5-177267592-C-G	PHD4	True	P1726R	1726	res1726	930	P	True	Pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+reference_lof		ClinVar	VCV000454050	c.3968_3969dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000454049	c.3422del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000454048	c.3386_3387del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000454046	c.3286C>T	5-177211685-C-T	ara_bolge	False	H1096Y	1096	res1096			False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.0001224	False	False	False
+reference_lof		ClinVar	VCV000454044	c.1816A>T	5-177210215-A-T	ara_bolge	False	K606*	606	res606	385	E	False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000454043	c.1483G>A	5-177209882-G-A	ara_bolge	False	A495T	495	res495			False	Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	7.525e-06	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000454042	c.1477C>G	5-177209876-C-G	ara_bolge	False	P493A	493	res493			False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	8.546e-05	True	False	False
+reference_lof		ClinVar	VCV000452786	c.2892_2914dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV000452541	c.6009+1G>T	5-177282582-G-T		False						False	Likely pathogenic	1	criteria provided, single submitter	positive_splice		False	True	False
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000452389	c.5714G>C	5-177280656-G-C	AWS	True	C1905S	1905	res1905	1108	C	True	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS		True	False	True
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000451457	c.6463G>A	5-177292158-G-A	PHD5	True	G2155R	2155	res2155	1358	G	True	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS		True	False	False
+heldout_pp3_dependent_positive	1	ClinVar	VCV000451223	c.5683T>C	5-177280625-T-C	AWS	True	C1895R	1895	res1895	1098	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+reference_lof		ClinVar	VCV000451046	c.6492dup			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		True	False	False
+reference_lof		ClinVar	VCV000450647	c.5898_5899insG			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000450499	c.2636_2637del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+missense_positive_core	1	ClinVar	VCV000449076	c.6170A>G	5-177288837-A-G	SET	True	N2057S	2057	res2057	1260	N	True	Pathogenic	1	criteria provided, single submitter	positive_silver		True	False	False
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000449075	c.4786T>A	5-177256971-T-A	PHD2	True	C1596S	1596	res1596	755	C	True	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS		True	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000445934	c.3307G>A	5-177211706-G-A	ara_bolge	False	D1103N	1103	res1103			False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	2.631e-05	False	False	False
+missense_positive_core	1	ClinVar	VCV000436065	c.6020T>C	5-177283797-T-C	SET	True	I2007T	2007	res2007	1210	I	True	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		False	False	True
+missense_positive_core	1	ClinVar	VCV000436064	c.5927T>C	5-177282499-T-C	SET	True	I1976T	1976	res1976	1179	I	True	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		False	False	True
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000436063	c.5069C>G	5-177260091-C-G	PHD3	True	P1690R	1690	res1690	848	S	False	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS		False	False	False
+reference_lof		ClinVar	VCV000436061	c.3004_3005del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000432997	c.2054dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000432790	c.4636_4639del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+heldout_pp3_dependent_positive	1	ClinVar	VCV000431827	c.5910G>C	5-177282482-G-C	SET	True	E1970D	1970	res1970	1173	E	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+reference_lof		ClinVar	VCV000431037	c.1549C>T	5-177209948-C-T	ara_bolge	False	Q517*	517	res517			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000430048	c.2672_2676del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+heldout_pp3_dependent_positive	1	ClinVar	VCV000429327	c.6158A>C	5-177288825-A-C	SET	True	E2053A	2053	res2053	1256	E	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+heldout_pp3_dependent_positive	1	ClinVar	VCV000427023	c.5996T>C	5-177282568-T-C	SET	True	L1999P	1999	res1999	1202	L	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+missense_positive_core	1	ClinVar	VCV000426653	c.5951G>C	5-177282523-G-C	SET	True	R1984P	1984	res1984	1187	R	True	Pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+reference_lof		ClinVar	VCV000424367	c.2276C>A	5-177210675-C-A	ara_bolge	False	S759*	759	res759	440	S	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+heldout_pp3_dependent_positive	1	ClinVar	VCV000423903	c.5815C>T	5-177280757-C-T	AWS	True	R1939C	1939	res1939	1142	R	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+missense_positive_core	1	ClinVar	VCV000423674	c.4912C>T	5-177257097-C-T	PHD2	True	H1638Y	1638	res1638	797	H	True	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	False	True
+reference_lof		ClinVar	VCV000423091	c.1739_1740del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000423035	c.5036C>G	5-177260058-C-G	PHD3	True	S1679*	1679	res1679	837	S	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000423028	c.4819_4820dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000423009	c.2152_2153del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000422944	c.3575del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000422904	c.3423_3424insCC			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000422784	c.5110dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000422366	c.6412T>C	5-177292107-T-C	PHD5	True	C2138R	2138	res2138	1341	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+heldout_pp3_dependent_positive	1	ClinVar	VCV000422343	c.5521G>C	5-177273683-G-C	PWWP2	True	A1841P	1841	res1841	1044	A	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+heldout_pp3_dependent_positive	1	ClinVar	VCV000422150	c.6029G>A	5-177283806-G-A	SET	True	G2010D	2010	res2010	1213	G	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+missense_positive_core	1	ClinVar	VCV000421325	c.5903T>C	5-177282475-T-C	SET	True	V1968A	1968	res1968	1171	V	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+reference_lof		ClinVar	VCV000419698	c.2760_2763del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000419672	c.8034del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000419395	c.3230C>G	5-177211629-C-G	ara_bolge	False	S1077*	1077	res1077	536	S	True	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000419189	c.5699del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000419060	c.2996_2997insTTAA			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000418638	c.4801del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000407367	c.1654del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000407364	c.6487C>T	5-177293855-C-T	CysHis	True	Q2163*	2163	res2163	1366	Q	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000407363	c.6426C>G	5-177292121-C-G	PHD5	True	Y2142*	2142	res2142	1345	Y	True	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000407362	c.880_881del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000407360	c.2619_2623del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000407359	c.7780G>A	5-177295148-G-A	C_ucu	False	A2594T	2594	res2594			False	Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	5.336e-05	False	False	False
+reference_lof		ClinVar	VCV000407358	c.2316_2329dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000407356	c.7897C>T	5-177295265-C-T	C_ucu	False	R2633W	2633	res2633			False	Benign	1	criteria provided, single submitter	negative_other	1.314e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000392799	c.8050G>A	5-177295418-G-A	C_ucu	False	A2684T	2684	res2684			False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	4.446e-05	True	False	False
+missense_positive_core	1	ClinVar	VCV000381679	c.5609A>G	5-177273771-A-G	AWS_onu	True	Y1870C	1870	res1870	1073	Y	True	Likely pathogenic	1	criteria provided, single submitter	positive_gold		True	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000380346	c.6991G>A	5-177294359-G-A	C_ucu	False	D2331N	2331	res2331			False	Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	7.886e-05	True	False	False
+missense_positive_core	1	ClinVar	VCV000379717	c.5182G>C	5-177267597-G-C	PHD4	True	A1728P	1728	res1728	932	S	False	Pathogenic	1	criteria provided, single submitter	positive_silver		True	False	False
+splice_positive	1	ClinVar	VCV000379620	c.4765+1G>A	5-177251854-G-A		False						False	Pathogenic	1	criteria provided, single submitter	positive_splice		False	False	False
+splice_positive	1	ClinVar	VCV000379496	c.6010-1G>A	5-177283786-G-A		False						False	Pathogenic	1	criteria provided, single submitter	positive_splice		False	False	False
+reference_lof		ClinVar	VCV000379349	c.1397C>G	5-177209796-C-G	ara_bolge	False	S466*	466	res466			False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000378304	c.2362C>T	5-177210761-C-T	ara_bolge	False	R788*	788	res788			False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+heldout_pp3_dependent_positive	1	ClinVar	VCV000373211	c.6289A>G	5-177291984-A-G	SET_sonrasi	True	K2097E	2097	res2097	1300	A	False	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+reference_lof		ClinVar	VCV000373063	c.4825delinsGA			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+heldout_pp3_dependent_positive	1	ClinVar	VCV000373004	c.5129G>T	5-177260151-G-T	PHD4	True	C1710F	1710	res1710	865	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+heldout_pp3_dependent_positive	1	ClinVar	VCV000372890	c.6058A>T	5-177283835-A-T	SET	True	N2020Y	2020	res2020	1223	N	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+heldout_pp3_dependent_positive	1	ClinVar	VCV000372889	c.6425A>C	5-177292120-A-C	PHD5	True	Y2142S	2142	res2142	1345	Y	True	Likely pathogenic	1	criteria provided, single submitter	positive_circular		True	False	False
+reference_lof		ClinVar	VCV000372814	c.6965dup			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000369685	c.6019A>T	5-177283796-A-T	SET	True	I2007F	2007	res2007	1210	I	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000352874	c.2170G>A	5-177210569-G-A	ara_bolge	False	E724K	724	res724	429	Q	False	Likely benign	1	criteria provided, single submitter	negative_other	2.121e-05	False	False	False
+splice_positive	1	ClinVar	VCV000289994	c.6152-1G>A	5-177288818-G-A		False						False	Pathogenic	1	criteria provided, single submitter	positive_splice		False	False	False
+reference_lof		ClinVar	VCV000288002	c.3382dup			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000283860	c.6440dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000283556	c.4858G>A	5-177257043-G-A	PHD2	True	V1620I	1620	res1620	779	V	True	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	2.631e-05	False	False	False
+reference_lof		ClinVar	VCV000280938	c.1288C>T	5-177209687-C-T	ara_bolge	False	Q430*	430	res430			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000280933	c.3631_3632delinsA			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000280665	c.2163_2169del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000280548	c.5943del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000280401	c.4658del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000280321	c.2108del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000280276	c.3581_3582delinsG			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000279858	c.5854C>T	5-177280796-C-T	SET	True	R1952W	1952	res1952	1155	R	True	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	True	True
+reference_lof		ClinVar	VCV000279857	c.5581C>T	5-177273743-C-T	AWS_onu	True	R1861*	1861	res1861	1064	E	False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000279856	c.1212_1213del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000265670	c.3387_3389delinsGG			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV000265497	c.5892+1G>T	5-177280835-G-T		False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_splice		True	False	True
+reference_lof		ClinVar	VCV000265496	c.3548_3549del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000261597	c.7955C>T	5-177295323-C-T	C_ucu	False	A2652V	2652	res2652			False	Likely benign	1	criteria provided, single submitter	negative_other		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000261596	c.7421A>C	5-177294789-A-C	C_ucu	False	Q2474P	2474	res2474			False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	5.907e-05	False	False	False
+reference_lof		ClinVar	VCV000243070	c.6537dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000241436	c.5994del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000241434	c.3548_3549insGA			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000241432	c.2339C>T	5-177210738-C-T	ara_bolge	False	S780L	780	res780	451	S	True	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.000656	True	False	False
+missense_positive_core	1	ClinVar	VCV000235776	c.4918T>A	5-177257103-T-A	PHD3	True	C1640S	1640	res1640	799	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000235296	c.708G>C	5-177135811-G-C	N_ucu	False	Q236H	236	res236	223	E	False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	8.792e-05	False	False	False
+reference_lof		ClinVar	VCV000216977	c.2350C>T	5-177210749-C-T	ara_bolge	False	Q784*	784	res784	455	H	False	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000211747	c.7783A>T	5-177295151-A-T	C_ucu	False	K2595*	2595	res2595			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211744	c.6344dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211743	c.6307_6308insTGTGC			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211742	c.6290dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211741	c.6218dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211740	c.6112dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211739	c.6094_6095dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000211738	c.5990A>G	5-177282562-A-G	SET	True	Y1997C	1997	res1997	1200	Y	True	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	True	True
+reference_lof		ClinVar	VCV000211737	c.5790dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211734	c.4882_4883insAA			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211733	c.4732dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211732	c.4479_4488dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211731	c.4301dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211730	c.4282dup			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000211729	c.4020del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211728	c.3939dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211727	c.3578dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211726	c.3549dup			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000211725	c.3316dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211724	c.3260_3266del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211723	c.3146dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211722	c.2859dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211721	c.2190_2191delinsG			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211720	c.2167dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211718	c.1802dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000211717	c.1264dup			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000209176	c.7966C>T	5-177295334-C-T	C_ucu	False	Q2656*	2656	res2656			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000209175	c.5950C>T	5-177282522-C-T	SET	True	R1984*	1984	res1984	1187	R	True	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000202207	c.1743del			False						False	Pathogenic	0	no assertion criteria provided	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000198903	c.4217_4220del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		True	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000197854	c.3154C>T	5-177211553-C-T	ara_bolge	False	R1052C	1052	res1052	535	I	False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	2.63e-05	False	False	False
+reference_lof		ClinVar	VCV000191328	c.1824del			False						False	Likely pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000191203	c.2058T>A	5-177210457-T-A	ara_bolge	False	Y686*	686	res686			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159447	c.8043del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159446	c.8036del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159445	c.7939_7940del			False						False	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000159442	c.767C>T	5-177135870-C-T	N_ucu	False	A256V	256	res256	248	A	True	Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	4.744e-05	False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000159441	c.760C>T	5-177135863-C-T	N_ucu	False	L254F	254	res254	241	E	False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.001405	True	False	False
+missense_positive_core	1	ClinVar	VCV000159436	c.6656G>A	5-177294024-G-A	C_ucu	False	R2219H	2219	res2219	1436	K	False	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	False	False
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000159435	c.6640G>A	5-177294008-G-A	C_ucu	False	E2214K	2214	res2214	1415	S	False	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS		True	False	False
+missense_positive_core	1	ClinVar	VCV000159432	c.6604T>A	5-177293972-T-A	CysHis	True	C2202S	2202	res2202	1405	C	True	Pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+reference_lof		ClinVar	VCV000159431	c.6559C>T	5-177293927-C-T	CysHis	True	R2187*	2187	res2187	1390	E	False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000159430	c.6557A>G	5-177293925-A-G	CysHis	True	H2186R	2186	res2186	1389	H	True	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		False	False	False
+reference_lof		ClinVar	VCV000159429	c.6539_6557del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000159427	c.6500G>A	5-177293868-G-A	CysHis	True	C2167Y	2167	res2167	1370	C	True	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS		False	False	False
+missense_positive_core	1	ClinVar	VCV000159426	c.6485A>C	5-177293853-A-C	CysHis	True	H2162P	2162	res2162	1365	H	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+missense_positive_core	1	ClinVar	VCV000159424	c.6476G>A	5-177293844-G-A	PHD5	True	C2159Y	2159	res2159	1362	C	True	Pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+reference_lof		ClinVar	VCV000159423	c.6472G>T	5-177293840-G-T	PHD5	True	E2158*	2158	res2158	1361	E	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000159422	c.6455G>A	5-177292150-G-A	PHD5	True	R2152Q	2152	res2152	1355	P	False	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	False	True
+reference_lof		ClinVar	VCV000159421	c.6454C>T	5-177292149-C-T	PHD5	True	R2152*	2152	res2152	1355	P	False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference	6.841e-07	False	False	True
+reference_lof		ClinVar	VCV000159420	c.6431del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159419	c.6421del			False						False	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000159418	c.6418A>G	5-177292113-A-G	PHD5	True	K2140E	2140	res2140	1343	K	True	Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	True	False
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000159417	c.6413G>A	5-177292108-G-A	PHD5	True	C2138Y	2138	res2138	1341	C	True	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS		True	False	False
+missense_positive_core	1	ClinVar	VCV000159415	c.6377A>T	5-177292072-A-T	PHD5	True	D2126V	2126	res2126	1329	D	True	Pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+reference_lof		ClinVar	VCV000159414	c.6366del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000159413	c.6356A>G	5-177292051-A-G	PHD5	True	D2119G	2119	res2119	1322	D	True	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	False	True
+reference_lof		ClinVar	VCV000159412	c.6349C>T	5-177292044-C-T	SET_sonrasi	True	R2117*	2117	res2117	1320	H	False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		True	False	True
+reference_lof		ClinVar	VCV000159411	c.6311_6312del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159410	c.6310C>T	5-177292005-C-T	SET_sonrasi	True	Q2104*	2104	res2104	1307	Q	True	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159409	c.6307C>T	5-177292002-C-T	SET_sonrasi	True	Q2103*	2103	res2103	1306	K	False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159408	c.6291del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV000159406	c.6258+1G>A	5-177288926-G-A		False						False	Pathogenic	1	criteria provided, single submitter	positive_splice		False	False	False
+reference_lof		ClinVar	VCV000159405	c.6165del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159404	c.6157G>T	5-177288824-G-T	SET	True	E2053*	2053	res2053	1256	E	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000159402	c.6086C>T	5-177283863-C-T	SET	True	T2029I	2029	res2029	1232	T	True	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS		True	False	True
+missense_positive_core	1	ClinVar	VCV000159401	c.6080G>C	5-177283857-G-C	SET	True	C2027S	2027	res2027	1230	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+reference_lof		ClinVar	VCV000159400	c.6070C>T	5-177283847-C-T	SET	True	Q2024*	2024	res2024	1227	N	False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000159399	c.6059A>G	5-177283836-A-G	SET	True	N2020S	2020	res2020	1223	N	True	Pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	False	False
+missense_positive_core	1	ClinVar	VCV000159398	c.6050G>A	5-177283827-G-A	SET	True	R2017Q	2017	res2017	1220	R	True	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	True	True
+missense_positive_core	1	ClinVar	VCV000159397	c.6049C>T	5-177283826-C-T	SET	True	R2017W	2017	res2017	1220	R	True	Pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	True	True
+missense_positive_core	1	ClinVar	VCV000159395	c.6014G>A	5-177283791-G-A	SET	True	R2005Q	2005	res2005	1208	R	True	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	True	True
+reference_lof		ClinVar	VCV000159394	c.6013C>T	5-177283790-C-T	SET	True	R2005*	2005	res2005	1208	R	True	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		True	False	True
+missense_positive_core	1	ClinVar	VCV000159392	c.5989T>C	5-177282561-T-C	SET	True	Y1997H	1997	res1997	1200	Y	True	Pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	False	False
+reference_lof		ClinVar	VCV000159391	c.5965C>T	5-177282537-C-T	SET	True	Q1989*	1989	res1989	1192	H	False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+missense_positive_core	1	ClinVar	VCV000159390	c.5951G>A	5-177282523-G-A	SET	True	R1984Q	1984	res1984	1187	R	True	Pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	True	True
+reference_lof		ClinVar	VCV000159389	c.5938G>T	5-177282510-G-T	SET	True	E1980*	1980	res1980	1183	E	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000159388	c.5927T>A	5-177282499-T-A	SET	True	I1976K	1976	res1976	1179	I	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+missense_positive_core	1	ClinVar	VCV000159387	c.5918G>T	5-177282490-G-T	SET	True	G1973V	1973	res1973	1176	G	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+reference_lof		ClinVar	VCV000159386	c.5911del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159385	c.5903del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV000159384	c.5893-2A>G	5-177282463-A-G		False						False	Pathogenic	1	criteria provided, single submitter	positive_splice		False	False	False
+missense_positive_core	1	ClinVar	VCV000159383	c.5885T>C	5-177280827-T-C	SET	True	I1962T	1962	res1962	1165	I	True	Pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000159382	c.5869C>T	5-177280811-C-T	SET	True	R1957W	1957	res1957	1160	R	True	Benign	1	criteria provided, single submitter	negative_other	2.052e-06	False	False	False
+missense_positive_core	1	ClinVar	VCV000159381	c.5862G>C	5-177280804-G-C	SET	True	W1954C	1954	res1954	1157	W	True	Pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+reference_lof		ClinVar	VCV000159379	c.5805C>A	5-177280747-C-A	AWS	True	C1935*	1935	res1935	1138	C	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159378	c.5800C>T	5-177280742-C-T	AWS	True	Q1934*	1934	res1934	1137	Q	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_positive_core	1	ClinVar	VCV000159377	c.5798A>G	5-177280740-A-G	AWS	True	N1933S	1933	res1933	1136	N	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+missense_positive_core	1	ClinVar	VCV000159376	c.5741G>C	5-177280683-G-C	AWS	True	R1914P	1914	res1914	1117	R	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+missense_positive_core	1	ClinVar	VCV000159375	c.5740C>T	5-177280682-C-T	AWS	True	R1914C	1914	res1914	1117	R	True	Pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold	1.368e-06	True	True	False
+reference_lof		ClinVar	VCV000159374	c.5712del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159373	c.5618_5619del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159372	c.5566C>T	5-177273728-C-T	AWS_onu	True	Q1856*	1856	res1856	1059	E	False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV000159362	c.5303+1G>C	5-177267719-G-C		False						False	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_splice		True	False	False
+missense_positive_core	1	ClinVar	VCV000159361	c.5198G>A	5-177267613-G-A	PHD4	True	C1733Y	1733	res1733	937	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+splice_positive	1	ClinVar	VCV000159360	c.5146+1G>A	5-177260169-G-A		False						False	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_splice		True	False	False
+reference_lof		ClinVar	VCV000159359	c.5141C>G	5-177260163-C-G	PHD4	True	S1714*	1714	res1714	869	A	False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159358	c.5098C>T	5-177260120-C-T	PHD3	True	R1700*	1700	res1700	855	S	False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+missense_positive_core	1	ClinVar	VCV000159356	c.5021G>A	5-177260043-G-A	PHD3	True	C1674Y	1674	res1674	832	C	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000159355	c.4987C>T	5-177260009-C-T	PHD3	True	R1663C	1663	res1663	821	R	True	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS	1.368e-06	True	False	False
+splice_positive	1	ClinVar	VCV000159354	c.4967-2A>T	5-177259987-A-T		False						False	Pathogenic	1	criteria provided, single submitter	positive_splice		False	False	False
+missense_positive_core	1	ClinVar	VCV000159353	c.4966G>T	5-177257151-G-T	PHD3	True	G1656C	1656	res1656	814	G	True	Pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+splice_positive	1	ClinVar	VCV000159352	c.4966+1G>A	5-177257152-G-A		False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_splice		False	False	False
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000159350	c.4907C>T	5-177257092-C-T	PHD2	True	S1636F	1636	res1636	795	P	False	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS		True	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000159349	c.4883T>C	5-177257068-T-C	PHD2	True	M1628T	1628	res1628	787	F	False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	5.951e-05	True	False	False
+missense_positive_core	1	ClinVar	VCV000159348	c.4855T>G	5-177257040-T-G	PHD2	True	C1619G	1619	res1619	778	C	True	Pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+missense_positive_core	1	ClinVar	VCV000159347	c.4855T>A	5-177257040-T-A	PHD2	True	C1619S	1619	res1619	778	C	True	Pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+missense_positive_core	1	ClinVar	VCV000159346	c.4844A>C	5-177257029-A-C	PHD2	True	Y1615S	1615	res1615	774	Y	True	Likely pathogenic	1	criteria provided, single submitter	positive_silver		False	False	False
+missense_positive_core	1	ClinVar	VCV000159345	c.4817G>A	5-177257002-G-A	PHD2	True	C1606Y	1606	res1606	765	C	True	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		False	False	True
+reference_lof		ClinVar	VCV000159344	c.4753G>T	5-177251841-G-T	PHD1	True	E1585*	1585	res1585	744	E	True	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159343	c.4745del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159342	c.4731_4732del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159341	c.4705del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159340	c.4681C>T	5-177251769-C-T	PHD1	True	Q1561*	1561	res1561	720	E	False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000159337	c.4564G>A	5-177248247-G-A	ara_bolge	False	D1522N	1522	res1522	683	V	False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.0003845	True	False	False
+reference_lof		ClinVar	VCV000159336	c.4529del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000159335	c.4520C>T	5-177248203-C-T	ara_bolge	False	T1507M	1507	res1507	668	Q	False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.001937	True	False	False
+reference_lof		ClinVar	VCV000159333	c.4493C>G	5-177246792-C-G	ara_bolge	False	S1498*	1498	res1498	659	S	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159332	c.4444C>T	5-177246743-C-T	ara_bolge	False	Q1482*	1482	res1482	643	T	False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159331	c.4417C>T	5-177246716-C-T	ara_bolge	False	R1473*	1473	res1473	634	S	False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000159330	c.4411C>T	5-177246710-C-T	ara_bolge	False	R1471*	1471	res1471	632	K	False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV000159328	c.4378+1G>A	5-177244271-G-A		False						False	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_splice		False	False	True
+reference_lof		ClinVar	VCV000159327	c.4376del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159324	c.4301del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV000159323	c.4192+2T>G	5-177238509-T-G		False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_splice		False	False	False
+reference_lof		ClinVar	VCV000159322	c.4076C>G	5-177238391-C-G	ara_bolge	False	S1359*	1359	res1359			False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159320	c.4057G>T	5-177238372-G-T	ara_bolge	False	E1353*	1353	res1353			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159318	c.3964C>T	5-177238279-C-T	ara_bolge	False	R1322*	1322	res1322			False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000159317	c.395G>C	5-177135498-G-C	N_ucu	False	C132S	132	res132	147	K	False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	9.44e-05	False	False	False
+reference_lof		ClinVar	VCV000159315	c.3839G>A	5-177235863-G-A	ara_bolge	False	W1280*	1280	res1280			False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000159313	c.3722G>C	5-177212121-G-C	ara_bolge	False	S1241T	1241	res1241	566	S	True	Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.0007607	True	False	False
+reference_lof		ClinVar	VCV000159312	c.3659_3660del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159311	c.3578_3582del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000159310	c.3564G>C	5-177211963-G-C	ara_bolge	False	R1188S	1188	res1188			False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.000401	True	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000159309	c.352C>G	5-177135455-C-G	N_ucu	False	P118A	118	res118	133	P	True	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_other	5.472e-06	False	False	False
+reference_lof		ClinVar	VCV000159307	c.3383_3384del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000159306	c.3295del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159305	c.3293del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000159304	c.3271C>A	5-177211670-C-A	ara_bolge	False	L1091I	1091	res1091	543	L	True	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.0001984	True	False	False
+reference_lof		ClinVar	VCV000159303	c.3214C>T	5-177211613-C-T	ara_bolge	False	R1072*	1072	res1072			False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159302	c.3185_3186del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000159301	c.3106G>C	5-177211505-G-C	ara_bolge	False	A1036P	1036	res1036	526	T	False	Benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.02627	True	False	False
+reference_lof		ClinVar	VCV000159300	c.3091C>T	5-177211490-C-T	ara_bolge	False	R1031*	1031	res1031	519	I	False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		True	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000159299	c.3089T>C	5-177211488-T-C	ara_bolge	False	L1030S	1030	res1030	518	F	False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.0001245	True	False	False
+reference_lof		ClinVar	VCV000159298	c.3067C>T	5-177211466-C-T	ara_bolge	False	R1023*	1023	res1023			False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159297	c.3046_3047del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000159295	c.2956del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159294	c.2954_2955del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000159293	c.2944G>C	5-177211343-G-C	ara_bolge	False	G982R	982	res982			False	Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.0001067	True	False	False
+reference_lof		ClinVar	VCV000159291	c.2827del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159289	c.2654C>A	5-177211053-C-A	ara_bolge	False	S885*	885	res885			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159288	c.2639del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159287	c.2386_2389del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159286	c.2339C>A	5-177210738-C-A	ara_bolge	False	S780*	780	res780	451	S	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159285	c.2295del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159283	c.2276C>G	5-177210675-C-G	ara_bolge	False	S759*	759	res759	440	S	True	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000159282	c.2242A>G	5-177210641-A-G	ara_bolge	False	N748D	748	res748			False	Benign	1	criteria provided, single submitter	negative_other	1.368e-06	False	False	False
+reference_lof		ClinVar	VCV000159280	c.2124_2127del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000159279	c.2071G>A	5-177210470-G-A	ara_bolge	False	A691T	691	res691	411	A	True	Benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.02531	True	False	False
+reference_lof		ClinVar	VCV000159278	c.2064del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159277	c.2049_2053del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000159276	c.2048del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159275	c.2014_2018del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159273	c.1831C>T	5-177210230-C-T	ara_bolge	False	R611*	611	res611	390	Y	False	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference	0	False	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000159272	c.1811G>T	5-177210210-G-T	ara_bolge	False	R604L	604	res604	383	R	True	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.005301	True	False	False
+reference_lof		ClinVar	VCV000159271	c.1810C>T	5-177210209-C-T	ara_bolge	False	R604*	604	res604	383	R	True	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	True	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000159270	c.1690G>T	5-177210089-G-T	ara_bolge	False	A564S	564	res564			False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.00423	True	False	False
+reference_lof		ClinVar	VCV000159266	c.1456del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159263	c.1262G>A	5-177209661-G-A	ara_bolge	False	W421*	421	res421	368	W	True	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000159258	c.1077del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000096082	c.7850T>C	5-177295218-T-C	C_ucu	False	L2617S	2617	res2617			False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.002965	True	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000096079	c.7636G>A	5-177295004-G-A	C_ucu	False	A2546T	2546	res2546			False	Benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.02558	True	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000096071	c.6782T>C	5-177294150-T-C	C_ucu	False	M2261T	2261	res2261			False	Benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.05184	True	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000096070	c.6750G>A	5-177294118-G-A	C_ucu	False	M2250I	2250	res2250			False	Benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.05186	True	False	False
+reference_lof		ClinVar	VCV000096069	c.6538_6539insC			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV000096067	c.6463+1G>A	5-177292159-G-A		False						False	Pathogenic	1	criteria provided, single submitter	positive_splice		False	False	False
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000096065	c.6173A>G	5-177288840-A-G	SET	True	Y2058C	2058	res2058	1261	Y	True	Conflicting classifications of pathogenicity	1	criteria provided, conflicting classifications	conflict_P_vs_VUS		True	False	True
+reference_lof		ClinVar	VCV000096062	c.5279_5282del			False						False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000096053	c.3187A>G	5-177211586-A-G	ara_bolge	False	T1063A	1063	res1063			False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.0003681	True	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000096047	c.2450C>T	5-177210849-C-T	ara_bolge	False	S817F	817	res817			False	Benign/Likely benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.0007944	True	False	False
+reference_lof		ClinVar	VCV000096044	c.2349del			False						False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000096043	c.2176T>C	5-177210575-T-C	ara_bolge	False	S726P	726	res726	431	E	False	Benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.1648	True	False	False
+missense_negative_clinvar_outside_module	0	ClinVar	VCV000096042	c.1840G>T	5-177210239-G-T	ara_bolge	False	V614L	614	res614	393	I	False	Benign	2	criteria provided, multiple submitters, no conflicts	negative_frequency	0.138	True	False	False
+missense_positive_core	1	ClinVar	VCV000004146	c.6605G>A	5-177293973-G-A	CysHis	True	C2202Y	2202	res2202	1405	C	True	Pathogenic/Likely pathogenic	2	criteria provided, multiple submitters, no conflicts	positive_gold		True	False	True
+reference_lof		ClinVar	VCV000004145	c.7968_7971del			False						False	Pathogenic	0	no assertion criteria provided	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000004144	c.4977dup			False						False	Pathogenic	0	no assertion criteria provided	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000004143	c.3958C>T	5-177238273-C-T	ara_bolge	False	R1320*	1320	res1320			False	Pathogenic	2	criteria provided, multiple submitters, no conflicts	lof_reference		False	False	True
+reference_lof		ClinVar	VCV000004142	c.896del			False						False	Pathogenic	0	no assertion criteria provided	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000004141	c.6450dup			False						False	Pathogenic	0	no assertion criteria provided	lof_reference		False	False	False
+splice_positive	1	ClinVar	VCV000004138	c.6151+1G>A	5-177283929-G-A		False						False	Pathogenic	1	criteria provided, single submitter	positive_splice		False	False	False
+reference_lof		ClinVar	VCV000004137	c.5997_5998insT			False						False	Pathogenic	0	no assertion criteria provided	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000004136	c.3536del			False						False	Pathogenic	0	no assertion criteria provided	lof_reference		False	False	False
+reference_lof		ClinVar	VCV000004135	c.1310C>G	5-177209709-C-G	ara_bolge	False	S437*	437	res437			False	Pathogenic	1	criteria provided, single submitter	lof_reference		False	False	False
+missense_negative_module_population	0	gnomAD v4.1	5-177251793-G-C	c.4705G>C	5-177251793-G-C	PHD1	True	E1569Q	1569	res1569	728	E	True	population AC=3 hom=0				1.8586876921418402e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177251812-A-T	c.4724A>T	5-177251812-A-T	PHD1	True	E1575V	1575	res1575	734	S	False	population AC=2 hom=0				1.2391128447676602e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177251816-G-A	c.4728G>A	5-177251816-G-A	PHD1	True	M1576I	1576	res1576	735	L	False	population AC=2 hom=0				1.2390191924072904e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177251839-A-G	c.4751A>G	5-177251839-A-G	PHD1	True	N1584S	1584	res1584	743	M	False	population AC=5 hom=0				3.0976439320253016e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177251847-C-T	c.4759C>T	5-177251847-C-T	PHD1	True	R1587C	1587	res1587	746	K	False	population AC=5 hom=0				3.0977206971110655e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177251848-G-A	c.4760G>A	5-177251848-G-A	PHD1	True	R1587H	1587	res1587	746	K	False	population AC=28 hom=0				1.734704245316918e-05			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177251851-C-T	c.4763C>T	5-177251851-C-T	PHD1	True	T1588I	1588	res1588	747	T	True	population AC=2 hom=0				1.2391266635275459e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177256953-A-G	c.4768A>G	5-177256953-A-G	PHD2	True	I1590V	1590	res1590	749	Q	False	population AC=2 hom=0				1.2397780301414834e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177256955-C-G	c.4770C>G	5-177256955-C-G	PHD2	True	I1590M	1590	res1590	749	Q	False	population AC=2 hom=0				1.2399548160465034e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177256968-G-A	c.4783G>A	5-177256968-G-A	PHD2	True	V1595I	1595	res1595	754	S	False	population AC=4 hom=0				2.4783700256015622e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177256975-A-G	c.4790A>G	5-177256975-A-G	PHD2	True	K1597R	1597	res1597	756	K	True	population AC=3 hom=0				1.8585978737640325e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177257043-G-A	c.4858G>A	5-177257043-G-A	PHD2	True	V1620I	1620	res1620	779	V	True	population AC=38 hom=0				2.3546616103406822e-05			
+missense_negative_module_population	0	gnomAD v4.1	5-177257061-A-G	c.4876A>G	5-177257061-A-G	PHD2	True	T1626A	1626	res1626	785	A	False	population AC=27 hom=0				1.6730676997549885e-05			
+missense_negative_module_population	0	gnomAD v4.1	5-177257067-A-T	c.4882A>T	5-177257067-A-T	PHD2	True	M1628L	1628	res1628	787	F	False	population AC=3 hom=0				1.8586162973389572e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177257068-T-C	c.4883T>C	5-177257068-T-C	PHD2	True	M1628T	1628	res1628	787	F	False	population AC=89 hom=4				5.513737880618282e-05			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177257068-T-G	c.4883T>G	5-177257068-T-G	PHD2	True	M1628R	1628	res1628	787	F	False	population AC=2 hom=0				1.239042220363659e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177257107-T-C	c.4922T>C	5-177257107-T-C	PHD3	True	I1641T	1641	res1641	800	S	False	population AC=2 hom=0				1.2390406851399373e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177257110-C-A	c.4925C>A	5-177257110-C-A	PHD3	True	T1642N	1642	res1642	801	A	False	population AC=3 hom=0				1.8586278122587656e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177257127-C-T	c.4942C>T	5-177257127-C-T	PHD3	True	P1648S	1648	res1648	807	D	False	population AC=2 hom=0				1.2391220572400042e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177257133-A-C	c.4948A>C	5-177257133-A-C	PHD3	True	N1650H	1650	res1650	809	H	False	population AC=4 hom=0				2.478354669901746e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177257134-A-G	c.4949A>G	5-177257134-A-G	PHD3	True	N1650S	1650	res1650	809	H	False	population AC=89 hom=0				5.5152344408419844e-05			
+missense_negative_module_population	0	gnomAD v4.1	5-177257142-G-T	c.4957G>T	5-177257142-G-T	PHD3	True	A1653S	1653	res1653	811	A	True	population AC=4 hom=0				2.4793900700427694e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177257143-C-T	c.4958C>T	5-177257143-C-T	PHD3	True	A1653V	1653	res1653	811	A	True	population AC=3 hom=0				1.859406551804926e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177257146-C-G	c.4961C>G	5-177257146-C-G	PHD3	True	S1654C	1654	res1654	812	S	True	population AC=5 hom=0				3.1004867764238986e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177259992-G-A	c.4970G>A	5-177259992-G-A	PHD3	True	R1657Q	1657	res1657	815	R	True	population AC=2 hom=0				1.2392111182021525e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177260030-G-A	c.5008G>A	5-177260030-G-A	PHD3	True	A1670T	1670	res1670	828	S	False	population AC=6 hom=0				3.717246412547441e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177260034-A-G	c.5012A>G	5-177260034-A-G	PHD3	True	N1671S	1671	res1671	829	G	False	population AC=2 hom=0				1.239051431785882e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177260039-T-G	c.5017T>G	5-177260039-T-G	PHD3	True	F1673V	1673	res1673	831	A	False	population AC=2 hom=0				1.2390069111805505e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177260081-A-G	c.5059A>G	5-177260081-A-G	PHD3	True	I1687V	1687	res1687	845	L	False	population AC=2 hom=0				1.2390406851399373e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177260084-A-G	c.5062A>G	5-177260084-A-G	PHD3	True	I1688V	1688	res1688	846	I	True	population AC=3 hom=0				1.8585633305454884e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177260103-C-T	c.5081C>T	5-177260103-C-T	PHD3	True	T1694I	1694	res1694			False	population AC=4 hom=0				2.4781704163450208e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177260106-C-T	c.5084C>T	5-177260106-C-T	PHD3	True	P1695L	1695	res1695			False	population AC=2 hom=0				1.239042220363659e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177260128-T-G	c.5106T>G	5-177260128-T-G	PHD3	True	H1702Q	1702	res1702	857	S	False	population AC=2 hom=0				1.2391727282865958e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177260135-G-A	c.5113G>A	5-177260135-G-A	PHD3	True	V1705I	1705	res1705	860	V	True	population AC=2 hom=0				1.2390990263159852e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177267607-G-A	c.5192G>A	5-177267607-G-A	PHD4	True	R1731H	1731	res1731	935	P	False	population AC=2 hom=0				1.2391942263462607e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177267619-A-G	c.5204A>G	5-177267619-A-G	PHD4	True	N1735S	1735	res1735	939	S	False	population AC=3 hom=0				1.8586485394739777e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177267670-A-G	c.5255A>G	5-177267670-A-G	PWWP2	True	K1752R	1752	res1752	956	K	True	population AC=4 hom=0				2.4781090045807843e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177267682-A-G	c.5267A>G	5-177267682-A-G	PWWP2	True	Y1756C	1756	res1756	960	Y	True	population AC=5 hom=0				3.0977667579888307e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177267706-T-C	c.5291T>C	5-177267706-T-C	PWWP2	True	V1764A	1764	res1764	968	L	False	population AC=3 hom=0				1.8588535334946819e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177269631-G-A	c.5333G>A	5-177269631-G-A	PWWP2	True	R1778Q	1778	res1778	982	R	True	population AC=3 hom=0				1.858851229939897e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177269636-G-A	c.5338G>A	5-177269636-G-A	PWWP2	True	V1780I	1780	res1780	984	V	True	population AC=4 hom=0				2.47825025618912e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177269642-T-A	c.5344T>A	5-177269642-T-A	PWWP2	True	S1782T	1782	res1782	986	L	False	population AC=2 hom=0				1.2390437555911849e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177269655-A-G	c.5357A>G	5-177269655-A-G	PWWP2	True	K1786R	1786	res1786	990	G	False	population AC=22 hom=0				1.3630241292444262e-05			
+missense_negative_module_population	0	gnomAD v4.1	5-177269658-T-G	c.5360T>G	5-177269658-T-G	PWWP2	True	M1787R	1787	res1787	991	L	False	population AC=7 hom=0				4.3375667985286975e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177269718-C-T	c.5420C>T	5-177269718-C-T	PWWP2	True	T1807I	1807	res1807	1011	V	False	population AC=4 hom=0				2.4784775208285056e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177269732-G-A	c.5434G>A	5-177269732-G-A	PWWP2	True	V1812I	1812	res1812	1016	V	True	population AC=5 hom=0				3.097728373828904e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177269744-A-C	c.5446A>C	5-177269744-A-C	PWWP2	True	M1816L	1816	res1816	1020	V	False	population AC=2 hom=1				1.2391328052975407e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177269751-G-T	c.5453G>T	5-177269751-G-T	PWWP2	True	G1818V	1818	res1818	1022	G	True	population AC=2 hom=0				1.2390928848808365e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177269756-G-A	c.5458G>A	5-177269756-G-A	PWWP2	True	V1820M	1820	res1820	1024	K	False	population AC=16 hom=0				9.912693948052528e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177269763-G-A	c.5465G>A	5-177269763-G-A	PWWP2	True	S1822N	1822	res1822	1026	F	False	population AC=5 hom=0				3.097693828898262e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177269772-A-G	c.5474A>G	5-177269772-A-G	PWWP2	True	K1825R	1825	res1825	1029	G	False	population AC=13 hom=0				8.05375447448013e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177269776-G-T	c.5478G>T	5-177269776-G-T	PWWP2	True	M1826I	1826	res1826	1030	Q	False	population AC=2 hom=0				1.2392356889964546e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177269776-G-A	c.5478G>A	5-177269776-G-A	PWWP2	True	M1826I	1826	res1826	1030	Q	False	population AC=2 hom=0				1.2391450890201832e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177273682-A-T	c.5520A>T	5-177273682-A-T	PWWP2	True	E1840D	1840	res1840	1043	E	True	population AC=4 hom=0				2.4803125193774417e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177273742-C-G	c.5580C>G	5-177273742-C-G	AWS_onu	True	D1860E	1860	res1860	1063	I	False	population AC=2 hom=0				1.239415392547643e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177273744-G-A	c.5582G>A	5-177273744-G-A	AWS_onu	True	R1861Q	1861	res1861	1064	E	False	population AC=14 hom=0				8.675703444626084e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177273765-C-T	c.5603C>T	5-177273765-C-T	AWS_onu	True	P1868L	1868	res1868	1071	P	True	population AC=2 hom=0				1.2401824060282785e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177273777-A-G	c.5615A>G	5-177273777-A-G	AWS_onu	True	H1872R	1872	res1872	1075	H	True	population AC=2 hom=0				1.245001319701399e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177280565-G-A	c.5623G>A	5-177280565-G-A	AWS_onu	True	V1875I	1875	res1875	1078	A	False	population AC=3 hom=0				1.858630115259849e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177280587-T-G	c.5645T>G	5-177280587-T-G	AWS_onu	True	V1882G	1882	res1882	1085	V	True	population AC=4 hom=0				2.4780414551555033e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177280598-A-G	c.5656A>G	5-177280598-A-G	AWS_onu	True	T1886A	1886	res1886	1089	V	False	population AC=3 hom=0				1.8585057613678602e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177280598-A-T	c.5656A>T	5-177280598-A-T	AWS_onu	True	T1886S	1886	res1886	1089	V	False	population AC=2 hom=0				1.2390038409119069e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177280610-T-C	c.5668T>C	5-177280610-T-C	AWS	True	S1890P	1890	res1890	1093	S	True	population AC=2 hom=0				1.2389777442427803e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177280616-A-G	c.5674A>G	5-177280616-A-G	AWS	True	I1892V	1892	res1892	1095	I	True	population AC=10 hom=0				6.194896396552664e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177280618-A-G	c.5676A>G	5-177280618-A-G	AWS	True	I1892M	1892	res1892	1095	I	True	population AC=2 hom=0				1.2391389471284194e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177280623-G-A	c.5681G>A	5-177280623-G-A	AWS	True	R1894H	1894	res1894	1097	R	True	population AC=9 hom=0				5.575613999003824e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177280629-A-G	c.5687A>G	5-177280629-A-G	AWS	True	N1896S	1896	res1896	1099	N	True	population AC=2 hom=0				1.238983884536614e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177280662-T-C	c.5720T>C	5-177280662-T-C	AWS	True	I1907T	1907	res1907	1110	L	False	population AC=2 hom=0				1.2390207275777517e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177280666-C-G	c.5724C>G	5-177280666-C-G	AWS	True	D1908E	1908	res1908	1111	E	False	population AC=2 hom=0				1.2389961653068685e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177280706-C-T	c.5764C>T	5-177280706-C-T	AWS	True	P1922S	1922	res1922	1125	P	True	population AC=2 hom=0				1.2389808143820893e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177280718-C-T	c.5776C>T	5-177280718-C-T	AWS	True	P1926S	1926	res1926	1129	P	True	population AC=2 hom=0				1.2389762091788314e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177280718-C-G	c.5776C>G	5-177280718-C-G	AWS	True	P1926A	1926	res1926	1129	P	True	population AC=5 hom=0				3.0974405229470786e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177280724-G-A	c.5782G>A	5-177280724-G-A	AWS	True	G1928R	1928	res1928	1131	G	True	population AC=3 hom=0				1.858471221573134e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177280730-C-T	c.5788C>T	5-177280730-C-T	AWS	True	R1930C	1930	res1930	1133	R	True	population AC=4 hom=0				2.4781550631186096e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177280731-G-A	c.5789G>A	5-177280731-G-A	AWS	True	R1930H	1930	res1930	1133	R	True	population AC=15 hom=0				9.292425186684823e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177280758-G-T	c.5816G>T	5-177280758-G-T	AWS	True	R1939L	1939	res1939	1142	R	True	population AC=2 hom=0				1.2389961653068685e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177280761-A-G	c.5819A>G	5-177280761-A-G	AWS	True	Q1940R	1940	res1940	1143	L	False	population AC=2 hom=0				1.238966998875018e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177280790-T-G	c.5848T>G	5-177280790-T-G	SET	True	L1950V	1950	res1950	1153	E	False	population AC=2 hom=0				1.2389808143820893e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177280811-C-T	c.5869C>T	5-177280811-C-T	SET	True	R1957W	1957	res1957	1160	R	True	population AC=3 hom=0				1.8586070855058386e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177280812-G-A	c.5870G>A	5-177280812-G-A	SET	True	R1957Q	1957	res1957	1160	R	True	population AC=3 hom=0				1.8588120703820602e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177280821-C-G	c.5879C>G	5-177280821-C-G	SET	True	T1960R	1960	res1960	1163	R	False	population AC=3 hom=0				1.8585057613678602e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177282470-A-T	c.5898A>T	5-177282470-A-T	SET	True	E1966D	1966	res1966	1169	E	True	population AC=4 hom=0				2.483851858107479e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177282528-C-T	c.5956C>T	5-177282528-C-T	SET	True	R1986C	1986	res1986	1189	K	False	population AC=8 hom=1				4.957446518447278e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177282529-G-A	c.5957G>A	5-177282529-G-A	SET	True	R1986H	1986	res1986	1189	K	False	population AC=12 hom=0				7.435377277239195e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177282529-G-T	c.5957G>T	5-177282529-G-T	SET	True	R1986L	1986	res1986	1189	K	False	population AC=5 hom=0				3.0980738655163314e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177282532-A-G	c.5960A>G	5-177282532-A-G	SET	True	Y1987C	1987	res1987	1190	R	False	population AC=4 hom=0				2.478456021037135e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177282547-A-G	c.5975A>G	5-177282547-A-G	SET	True	D1992G	1992	res1992	1195	S	False	population AC=4 hom=0				2.480361735955572e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177282551-C-G	c.5979C>G	5-177282551-C-G	SET	True	I1993M	1993	res1993	1196	V	False	population AC=2 hom=0				1.2409765492661486e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177282552-A-C	c.5980A>C	5-177282552-A-C	SET	True	T1994P	1994	res1994	1197	T	True	population AC=3 hom=0				1.861499475057148e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177283793-A-G	c.6016A>G	5-177283793-A-G	SET	True	I2006V	2006	res2006	1209	I	True	population AC=3 hom=0				1.8585333941280257e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177283821-A-G	c.6044A>G	5-177283821-A-G	SET	True	Y2015C	2015	res2015	1218	Y	True	population AC=4 hom=0				2.4781704163450208e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177283890-C-T	c.6113C>T	5-177283890-C-T	SET	True	T2038I	2038	res2038	1241	V	False	population AC=2 hom=0				1.2390452908225155e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177283901-C-G	c.6124C>G	5-177283901-C-G	SET	True	L2042V	2042	res2042	1245	L	True	population AC=3 hom=0				1.85855872488003e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177283919-A-G	c.6142A>G	5-177283919-A-G	SET	True	I2048V	2048	res2048	1251	I	True	population AC=2 hom=0				1.238993095091481e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177288869-A-T	c.6202A>T	5-177288869-A-T	PostSET	True	T2068S	2068	res2068	1271	T	True	population AC=33 hom=0				2.0445488610004163e-05			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177288879-A-G	c.6212A>G	5-177288879-A-G	PostSET	True	K2071R	2071	res2071	1274	H	False	population AC=2 hom=0				1.2389900248913096e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177288891-C-T	c.6224C>T	5-177288891-C-T	PostSET	True	P2075L	2075	res2075	1278	D	False	population AC=2 hom=0				1.2391420180666906e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177291960-C-T	c.6265C>T	5-177291960-C-T	SET_sonrasi	True	P2089S	2089	res2089	1292	C	False	population AC=4 hom=0				2.4789844096670477e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177291963-A-G	c.6268A>G	5-177291963-A-G	SET_sonrasi	True	I2090V	2090	res2090	1293	A	False	population AC=3 hom=1				1.8591461313647869e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177291970-C-T	c.6275C>T	5-177291970-C-T	SET_sonrasi	True	T2092M	2092	res2092	1295	T	True	population AC=4 hom=0				2.478904522513411e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177291972-G-A	c.6277G>A	5-177291972-G-A	SET_sonrasi	True	E2093K	2093	res2093	1296	N	False	population AC=2 hom=0				1.2392879051696895e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177291975-G-C	c.6280G>C	5-177291975-G-C	SET_sonrasi	True	E2094Q	2094	res2094	1297	E	True	population AC=2 hom=0				1.239303263705145e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177291994-A-G	c.6299A>G	5-177291994-A-G	SET_sonrasi	True	K2100R	2100	res2100	1303	A	False	population AC=4 hom=0				2.478284036133381e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177291998-G-T	c.6303G>T	5-177291998-G-T	SET_sonrasi	True	K2101N	2101	res2101	1304	K	True	population AC=2 hom=0				1.2391389471284194e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177291999-A-C	c.6304A>C	5-177291999-A-C	SET_sonrasi	True	K2102Q	2102	res2102	1305	L	False	population AC=2 hom=0				1.2390806021931727e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177292009-G-A	c.6314G>A	5-177292009-G-A	SET_sonrasi	True	G2105E	2105	res2105	1308	K	False	population AC=2 hom=0				1.2390974909514907e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177292015-G-A	c.6320G>A	5-177292015-G-A	SET_sonrasi	True	R2107H	2107	res2107	1310	R	True	population AC=5 hom=0				3.098008600071874e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177292024-A-G	c.6329A>G	5-177292024-A-G	SET_sonrasi	True	Q2110R	2110	res2110	1313	K	False	population AC=11 hom=0				6.8151122015290634e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177292045-G-A	c.6350G>A	5-177292045-G-A	SET_sonrasi	True	R2117Q	2117	res2117	1320	H	False	population AC=3 hom=0				1.8585748448090004e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177292126-C-G	c.6431C>G	5-177292126-C-G	PHD5	True	A2144G	2144	res2144	1347	L	False	population AC=2 hom=0				1.239131269849334e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177292138-A-G	c.6443A>G	5-177292138-A-G	PHD5	True	N2148S	2148	res2148	1351	N	True	population AC=3 hom=0				1.8586278122587656e-06			
+missense_negative_module_population_ac2	0	gnomAD v4.1	5-177292147-A-G	c.6452A>G	5-177292147-A-G	PHD5	True	K2151R	2151	res2151	1354	Q	False	population AC=2 hom=0				1.2392003687860298e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177293847-C-T	c.6479C>T	5-177293847-C-T	PHD5	True	P2160L	2160	res2160	1363	P	True	population AC=4 hom=0				2.4783270301215866e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177293870-G-A	c.6502G>A	5-177293870-G-A	CysHis	True	G2168R	2168	res2168	1371	S	False	population AC=5 hom=0				3.098085383233162e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177293889-T-C	c.6521T>C	5-177293889-T-C	CysHis	True	F2174S	2174	res2174	1377	F	True	population AC=3 hom=0				1.8586070855058386e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177293893-T-G	c.6525T>G	5-177293893-T-G	CysHis	True	C2175W	2175	res2175	1378	C	True	population AC=4 hom=0				2.479921932057579e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177293906-A-G	c.6538A>G	5-177293906-A-G	CysHis	True	S2180G	2180	res2180	1383	H	False	population AC=14 hom=0				8.674101610904585e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177293928-G-A	c.6560G>A	5-177293928-G-A	CysHis	True	R2187Q	2187	res2187	1390	E	False	population AC=3 hom=0				1.8587521824848542e-06			
+missense_negative_module_population	0	gnomAD v4.1	5-177293964-G-A	c.6596G>A	5-177293964-G-A	CysHis	True	R2199H	2199	res2199	1402	R	True	population AC=3 hom=0				1.8586462364272359e-06			

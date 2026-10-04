@@ -1,0 +1,12 @@
+{
+  "file": "data/interim/imaging_gwas/scan_RANDOM08.tsv.gz",
+  "sha256": "1e20010670f9a9db0a5bf139916f3f3489aacf679052a57eebdac66881a56588",
+  "bytes": 233833,
+  "retrieved_utc": "2026-09-17T19:40:20+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "https://open.win.ox.ac.uk/ukbiobank/big40/pheweb33k/api/region/<IDP>/lz-results/?filter=chr21:19351089-20079529",
+  "note": "BIG40 33k, RANDOM08 +-250kb, 683 IDP, p<0.05 satirlari",
+  "n_idp": 683,
+  "window": "21:19351089-20079529",
+  "build": "GRCh37"
+}

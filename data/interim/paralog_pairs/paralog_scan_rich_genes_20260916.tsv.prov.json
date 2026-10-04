@@ -1,0 +1,19 @@
+{
+  "file": "data/interim/paralog_pairs/paralog_scan_rich_genes_20260916.tsv",
+  "sha256": "0caea9bfe199f3aafe2495f017afc097d324acbcf5f6875d8cd5ff9c602bac20",
+  "bytes": 36282,
+  "retrieved_utc": "2026-09-16T11:57:21+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "NCBI E-utilities ClinVar esearch + ClinVar gene_specific_summary + HGNC",
+  "urls": [
+    "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi",
+    "https://ftp.ncbi.nlm.nih.gov/pub/clinvar/tab_delimited/gene_specific_summary.txt",
+    "https://storage.googleapis.com/public-download-files/hgnc/tsv/tsv/hgnc_complete_set.txt"
+  ],
+  "tool": "scripts/paralog_pairs_scan.py::rich",
+  "params": {
+    "min_rich": 30,
+    "term_template": "<GENE>[gene] AND single_gene[prop] AND (\"clinsig pathogenic\"[Properties] OR \"clinsig likely pathogenic\"[Properties]) AND \"missense variant\"[molecular consequence]"
+  },
+  "n_records": 445
+}

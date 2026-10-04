@@ -1,0 +1,35 @@
+{
+  "file": "data/interim/lof/constraint_panel_20260916.tsv",
+  "sha256": "2fbe20b8d206b0eb4daecba6c5359b960cc34c0db84e07165eba40febd2e526c",
+  "bytes": 3421,
+  "retrieved_utc": "2026-09-16T11:22:48+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "gnomAD v4.1 constraint + ClinGen dosage curation list (16 Sep,2026)",
+  "urls": [
+    "https://gnomad.broadinstitute.org/api",
+    "https://ftp.clinicalgenome.org/ClinGen_gene_curation_list_GRCh38.tsv"
+  ],
+  "tool": "scripts/lof_axis.py",
+  "params": {
+    "panel": [
+      "ARID1B",
+      "SYNGAP1",
+      "ANKRD11",
+      "CHD8",
+      "DYRK1A",
+      "STXBP1",
+      "SCN1A",
+      "TCF4",
+      "ADNP",
+      "SETD5",
+      "NSD1",
+      "POGZ"
+    ],
+    "targets": [
+      "KIF13A",
+      "KIF1A",
+      "KIF13B"
+    ]
+  },
+  "n_records": 15
+}

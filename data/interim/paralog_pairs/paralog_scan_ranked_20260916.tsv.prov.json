@@ -1,0 +1,14 @@
+{
+  "file": "data/interim/paralog_pairs/paralog_scan_ranked_20260916.tsv",
+  "sha256": "ccd95307cb041a2ca6de47ed382a2f02160f114693ad678caa7a9a1c711cf9dc",
+  "bytes": 1347120,
+  "retrieved_utc": "2026-09-16T11:58:25+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: paralog_scan_metrics ranked by the feasibility score in this script",
+  "urls": [],
+  "tool": "scripts/paralog_pairs_scan.py::rank",
+  "params": {
+    "weights": "0.30 transfer + 0.25 min(lift/0.30,1) + 0.15 coverage + 0.20 sibling_constraint + 0.10 min(residues/100,1)"
+  },
+  "n_records": 3198
+}

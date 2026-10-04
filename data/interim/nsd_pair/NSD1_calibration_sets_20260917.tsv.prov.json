@@ -1,0 +1,15 @@
+{
+  "file": "data/interim/nsd_pair/NSD1_calibration_sets_20260917.tsv",
+  "sha256": "4149747a5d5c4446e86a73050ac52f5d68f4101d158789b26498cdd4ec4d3032",
+  "bytes": 185102,
+  "retrieved_utc": "2026-09-17T18:45:08+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "tool": "scripts/nsd_pair_calibration.py",
+  "source": "derived: curated ClinVar + gnomAD module controls + paralog map",
+  "urls": [],
+  "params": {
+    "population_min_ac": 3,
+    "shared_module": "(1539, 2210)"
+  },
+  "n_records": 975
+}

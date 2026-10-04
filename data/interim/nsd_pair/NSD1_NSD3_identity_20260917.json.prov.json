@@ -1,0 +1,14 @@
+{
+  "file": "data/interim/nsd_pair/NSD1_NSD3_identity_20260917.json",
+  "sha256": "d2d768b9de2781c0867015a31bfd33b2333e230429871e973b63a178df0bd1d5",
+  "bytes": 2488,
+  "retrieved_utc": "2026-09-17T18:33:21+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "tool": "scripts/nsd_pair_calibration.py",
+  "source": "derived: gnomAD gene query + Ensembl REST lookup/sequence + UniProt REST",
+  "urls": [
+    "https://gnomad.broadinstitute.org/api",
+    "https://rest.ensembl.org",
+    "https://rest.uniprot.org/uniprotkb"
+  ]
+}

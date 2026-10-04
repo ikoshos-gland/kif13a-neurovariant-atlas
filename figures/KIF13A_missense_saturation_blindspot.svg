@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="600" viewBox="0 0 1160 600" font-family="Arial, Helvetica, sans-serif">
+<rect width="1160" height="600" fill="#ffffff"/>
+<defs><pattern id="none" width="6" height="6" patternTransform="rotate(45)" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#ffffff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#d8d7d0" stroke-width="3"/></pattern></defs>
+<text x="40" y="34" font-size="15" fill="#0b0b0b">KIF13A missense: butun degisim uzayi ve gnomAD kor noktasi</text>
+<text x="40" y="56" font-size="11" fill="#52514e">Dolu kisim gnomAD v4.1&#8217;de guvenilir tasiyicisi olan degisimler; tarali kisim gnomAD&#8217;in hic gormedigi ya da AC0 ile eledigi degisimler.</text>
+<text x="40" y="72" font-size="11" fill="#52514e">Genislik log10 olcekli. Eski aday listesi yalnizca dolu dilimlerden secilebiliyordu.</text>
+<text x="286" y="125" font-size="12" fill="#0b0b0b" text-anchor="end">Butun olasi degisimler</text>
+<text x="286" y="140" font-size="10" fill="#52514e" text-anchor="end">1805 aa x 19</text>
+<rect x="300" y="110" width="560.0" height="26" fill="url(#none)" stroke="#7d7c75" stroke-width="0.8"/>
+<rect x="300" y="110" width="33.4" height="26" fill="#7d7c75"/>
+<text x="872.0" y="128" font-size="12" fill="#0b0b0b">34295</text>
+<text x="872.0" y="142" font-size="10" fill="#d1495b">32250 tanesi gnomAD&#8217;de guvenilir degil (%94)</text>
+<text x="286" y="191" font-size="12" fill="#0b0b0b" text-anchor="end">Tek nukleotidle erisilebilir</text>
+<text x="286" y="206" font-size="10" fill="#52514e" text-anchor="end">MANE CDS ENST00000259711</text>
+<rect x="300" y="176" width="497.2" height="26" fill="url(#none)" stroke="#7d7c75" stroke-width="0.8"/>
+<rect x="300" y="176" width="95.7" height="26" fill="#7d7c75"/>
+<text x="809.1720463591857" y="194" font-size="12" fill="#0b0b0b">10627</text>
+<text x="809.1720463591857" y="208" font-size="10" fill="#d1495b">8582 tanesi gnomAD&#8217;de guvenilir degil (%81)</text>
+<text x="286" y="257" font-size="12" fill="#0b0b0b" text-anchor="end">AlphaMissense >= 0.968</text>
+<text x="286" y="272" font-size="10" fill="#52514e" text-anchor="end">gen-kalibre esik, erisilebilir olanlar</text>
+<rect x="300" y="242" width="392.1" height="26" fill="url(#none)" stroke="#7d7c75" stroke-width="0.8"/>
+<rect x="300" y="242" width="46.0" height="26" fill="#7d7c75"/>
+<text x="704.1407729842058" y="260" font-size="12" fill="#0b0b0b">1499</text>
+<text x="704.1407729842058" y="274" font-size="10" fill="#d1495b">1323 tanesi gnomAD&#8217;de guvenilir degil (%88)</text>
+<text x="286" y="323" font-size="12" fill="#0b0b0b" text-anchor="end">Katman A</text>
+<text x="286" y="338" font-size="10" fill="#52514e" text-anchor="end">model + ozdes paralog kalinti + KIF1A patojenik</text>
+<rect x="300" y="308" width="292.5" height="26" fill="url(#none)" stroke="#7d7c75" stroke-width="0.8"/>
+<rect x="300" y="308" width="32.5" height="26" fill="#7d7c75"/>
+<text x="604.5453932895678" y="326" font-size="12" fill="#0b0b0b">234</text>
+<text x="604.5453932895678" y="340" font-size="10" fill="#d1495b">208 tanesi gnomAD&#8217;de guvenilir degil (%89)</text>
+<text x="286" y="389" font-size="12" fill="#0b0b0b" text-anchor="end">Katman A + birebir paralog esi</text>
+<text x="286" y="404" font-size="10" fill="#52514e" text-anchor="end">ayni kalinti, ayni yerine gecen aminoasit</text>
+<rect x="300" y="374" width="211.9" height="26" fill="url(#none)" stroke="#7d7c75" stroke-width="0.8"/>
+<rect x="300" y="374" width="48.9" height="26" fill="#7d7c75"/>
+<text x="523.8881956153272" y="392" font-size="12" fill="#0b0b0b">52</text>
+<text x="523.8881956153272" y="406" font-size="10" fill="#d1495b">40 tanesi gnomAD&#8217;de guvenilir degil (%77)</text>
+<line x1="40" y1="436" x2="1120" y2="436" stroke="#d8d7d0" stroke-width="1"/>
+<text x="286" y="473" font-size="12" fill="#d1495b" text-anchor="end">Referans: KIF1A patojenik missense</text>
+<text x="286" y="488" font-size="10" fill="#52514e" text-anchor="end">kurate cekirdek set, klinik olarak kanitlanmis</text>
+<rect x="300" y="458" width="252.6" height="26" fill="url(#none)" stroke="#d1495b" stroke-width="0.8"/>
+<rect x="300" y="458" width="27.3" height="26" fill="#d1495b"/>
+<text x="564.5518362380901" y="476" font-size="12" fill="#0b0b0b">111</text>
+<text x="564.5518362380901" y="490" font-size="10" fill="#d1495b">99 tanesi gnomAD&#8217;de yok (%89)</text>
+<text x="40" y="556" font-size="11" fill="#0b0b0b">Okunusu: bir hastalik varyantinin gnomAD&#8217;de bulunmamasi beklenen seydir. KIF1A&#8217;da kurate patojenik missense&#8217;lerin %89&#8217;u gnomAD&#8217;de yok.</text>
+<text x="40" y="574" font-size="11" fill="#52514e">Tek fenotipli KIF13A hasta varyanti p.Lys1122Glu (VCV002570672, AlphaMissense 0,8044) de gnomAD&#8217;de yok, bu yuzden eski aday listesine hic giremedi.</text>
+</svg>

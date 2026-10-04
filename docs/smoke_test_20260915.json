@@ -1,0 +1,247 @@
+[
+ {
+  "server": "kif13a-atlas",
+  "n_tools": 16,
+  "sample_tools": [
+   "atlas_targets",
+   "data_inventory",
+   "gnomad_constraint",
+   "gnomad_variants",
+   "clinvar_variants",
+   "vep_annotate",
+   "alphamissense",
+   "cadd_region"
+  ],
+  "call": "gnomad_constraint",
+  "is_error": false,
+  "result_head": "{\n  \"gene\": \"KIF13A\",\n  \"dataset\": \"gnomAD v4.1 constraint\",\n  \"mane_select_transcript\": {\n    \"ensembl_id\": \"ENST00000259711\",\n    \"ensembl_version\": \"11\",\n    \"refseq_id\": \"NM_022113\",\n    \"refseq_version\": \"6\"\n  },\n  \"pLI\": 0.999750572233937,\n  \"LOEUF (oe_lof_upper)\": 0.4489627711545366,\n  \"oe_lof\": 0.37233590809106626,\n  \"missense_z\": 2.79488363965389,\n  \"oe_mis\": 0.860569442734971,\n  \"oe_mis_upper\": 0.8937514940371827,\n  \"obs_mis/exp_mis\": [\n    1901,\n    2209.002441404894\n  ],\n  \"synonymous_z\": 0.41173227945745017,\n  \"flags\": [],\n  \"interpretation_hint\": \"LOEUF < 0.6 is the usual loss-of-function intolerance cutoff.\"\n}",
+  "status": "OK",
+  "seconds": 1.6
+ },
+ {
+  "server": "gnomad",
+  "n_tools": 7,
+  "sample_tools": [
+   "gnomad_get_variant",
+   "gnomad_get_gene_constraint",
+   "gnomad_list_gene_variants",
+   "gnomad_get_coverage",
+   "gnomad_search_clinvar",
+   "gnomad_dataframe_query",
+   "gnomad_dataframe_describe"
+  ],
+  "call": "gnomad_get_gene_constraint",
+  "is_error": false,
+  "result_head": "## KIF13A (ENSG00000137177)\n**Dataset:** gnomad_r4 (GRCh38)\n**pLI:** 0.9998 | **LOEUF (oe_lof_upper):** 0.4490 [0.3105–0.4490] | **oe_lof (point estimate):** 0.3723\n**oe_mis:** 0.8606 | **oe_syn:** 0.9757\n**Z-scores:** LoF 7.7560 | mis 2.7949 | syn 0.4117\n**LoF obs/exp:** 79.0 / 212.2\n**Missense obs/exp:** 1901.0 / 2209.0\n**Synonymous obs/exp:** 789.0 / 808.6\n**Constraint flags:** none",
+  "status": "OK",
+  "seconds": 1.1
+ },
+ {
+  "server": "biomcp",
+  "n_tools": 3,
+  "sample_tools": [
+   "biomcp",
+   "get",
+   "search"
+  ],
+  "call": "get",
+  "is_error": false,
+  "result_head": "# KIF13A (kinesin family member 13A)\r\n\r\nEntrez ID: 63971\r\nChromosome (GRCh38): 6:17758198-17988274 (strand: -1)\r\nUniProt: Q9H1H9\r\nType: protein-coding\r\nSource: NCBI Gene / MyGene.info\r\n\r\n## Summary (NCBI Gene)\r\n\r\nThis gene encodes a member of the kinesin family of microtubule-based motor proteins that function in the positioning of endosomes. This family member can direct mannose-6-phosphate receptor-containing vesicles from the trans-Golgi network to the plasma membrane, and it is necessary for the steady-state distribution of late endosomes/lysosomes.\r\nDiseases: glomerulonephritis, breast adenosis, lagophthalmos, liver disorder, multinodular goiter\r\n## Aliases (NCBI Gene / MyGene.info)\r\n\r\n",
+  "status": "OK",
+  "seconds": 2.2
+ },
+ {
+  "server": "opentargets",
+  "n_tools": 5,
+  "sample_tools": [
+   "get_open_targets_graphql_schema",
+   "get_type_dependencies",
+   "search_entities",
+   "query_open_targets_graphql",
+   "batch_query_open_targets_graphql"
+  ],
+  "call": "search_entities",
+  "is_error": false,
+  "result_head": "{\"KIF13A\":[{\"id\":\"ENSG00000137177\",\"type\":\"target\"},{\"id\":\"fusion_txrev_muscle_naive_ensg00000137177_grp_2_downstream_enst00000502704\",\"type\":\"study\"},{\"id\":\"fusion_tx_muscle_naive_enst00000502704\",\"type\":\"study\"}]}",
+  "status": "OK",
+  "seconds": 1.2
+ },
+ {
+  "server": "ensembl",
+  "n_tools": 7,
+  "sample_tools": [
+   "ensembl_list_species",
+   "ensembl_lookup_gene",
+   "ensembl_get_sequence",
+   "ensembl_query_region",
+   "ensembl_predict_variant",
+   "ensembl_get_homology",
+   "ensembl_get_xrefs"
+  ],
+  "call": "ensembl_get_homology",
+  "is_error": false,
+  "result_head": "## Homologs of ENSG00000137177 (homo_sapiens)\n**Type:** orthologues | **Found:** 1\n\n### ENSMUSG00000021375\n**Species:** mus_musculus\n**Homology type:** ortholog_one2one\n**Percent identity:** 92.4%\n**Percent positives:** 95.4%\n**Last common ancestor:** Euarchontoglires\n",
+  "status": "OK",
+  "seconds": 4.5
+ },
+ {
+  "server": "uniprot",
+  "n_tools": 6,
+  "sample_tools": [
+   "uniprot_search_proteins",
+   "uniprot_get_entry",
+   "uniprot_map_ids",
+   "uniprot_get_proteome",
+   "uniprot_get_taxonomy",
+   "uniprot_get_sequence"
+  ],
+  "call": "uniprot_get_entry",
+  "is_error": false,
+  "result_head": "**Result kind:** full\n# Kinesin-like protein KIF13A (Q9H1H9)\n**Entry:** KI13A_HUMAN\nReviewed (Swiss-Prot) · Score 5/5 · 1805 aa · 1: Evidence at protein level\n**Organism:** Homo sapiens (Human) [taxon 9606]\n**Genes:** KIF13A, RBKIN",
+  "status": "OK",
+  "seconds": 1.0
+ },
+ {
+  "server": "interpro",
+  "n_tools": 13,
+  "sample_tools": [
+   "searchDomainArchitectures",
+   "getEntryStructures",
+   "getDomainArchitectures",
+   "browseEntries",
+   "getSequenceAnalysis",
+   "analyzeSequence",
+   "matchSequences",
+   "getEntryProteins"
+  ],
+  "call": "getProteinEntries",
+  "is_error": false,
+  "result_head": "{\"accession\":\"Q9H1H9\",\"name\":\"Kinesin-like protein KIF13A\",\"length\":1805,\"source_organism\":{\"taxId\":\"9606\",\"scientificName\":\"Homo sapiens\",\"fullName\":\"Homo sapiens (Human)\"},\"md5\":\"3921418e338a8f9b1333ae30bfbe3e51\",\"matches\":{\"md5\":\"3921418E338A8F9B1333AE30BFBE3E51\",\"matches\":[{\"signature\":{\"accession\":\"G3DSA:3.40.850.10:FF:000010\",\"name\":null,\"description\":\"Kinesin family member 13A\",\"type\":\"Region\",\"signatureLibraryRelease\":{\"library\":\"CATH-FunFam\",\"version\":\"4.3.0\"},\"entry\":null},\"model-ac\":\"3.40.850.10-FF-000010\",\"source\":\"CATH-FunFam\",\"locations\":[{\"start\":4,\"end\":376,\"location-fragments\":[{\"start\":4,\"end\":376,\"dc-status\":\"CONTINUOUS\"}],\"hmmStart\":2,\"hmmEnd\":372,\"hmmLength\":372,\"hmmBoun",
+  "status": "OK",
+  "seconds": 1.1
+ },
+ {
+  "server": "protein",
+  "n_tools": 7,
+  "sample_tools": [
+   "protein_search_structures",
+   "protein_get_structure",
+   "protein_find_similar",
+   "protein_track_ligands",
+   "protein_compare_structures",
+   "protein_analyze_collection",
+   "protein_get_annotations"
+  ],
+  "call": "protein_get_annotations",
+  "is_error": false,
+  "result_head": "## Q9H1H9 — Kinesin-like protein KIF13A\n**Genes:** KIF13A | **Organism:** Homo sapiens | **Length:** 1805 aa\n\n**Function:** Plus end-directed microtubule-dependent motor protein involved in intracellular transport and regulating various processes such as mannose-6-phosphate receptor (M6PR) transport to the plasma membrane, endosomal sorting during melanosome biogenesis and cytokinesis. Mediates the transport of M6PR-containing vesicles from trans-Golgi network to the plasma membrane via direct interaction with the AP-1 complex. During melanosome maturation, required for delivering melanogenic enzymes from recycling endosomes to nascent melanosomes by creating peripheral recycling endosomal s",
+  "status": "OK",
+  "seconds": 1.9
+ },
+ {
+  "server": "pdbe",
+  "n_tools": 33,
+  "sample_tools": [
+   "get_similar_ligands_api_compound_similarity__hetcode__get",
+   "get_compound_interaction_api_compound_interaction__hetcode__",
+   "get_compound_intx_proteins_api_compound_uniprot__hetcode__ge",
+   "get_entry_chain_sequence_api_pdb_sequence__pdb_id___chain_id",
+   "get_bound_molecules_api_pdb_bound_molecules__pdb_id__get",
+   "get_bound_molecule_interactions_api_pdb_bound_molecule_inter",
+   "get_sequence_conservation_pdb_entity_api_pdb_sequence_conser",
+   "get_uniprot_mapping_api_pdb_entry_uniprot_mapping__pdb_id___"
+  ],
+  "call": "get_best_structures_observed_api_uniprot_best_structures__un",
+  "is_error": false,
+  "result_head": "{\n  \"Q12756\": [\n    {\n      \"experimental_method\": \"X-ray diffraction\",\n      \"tax_id\": 9606,\n      \"resolution\": 1.89,\n      \"pdb_id\": \"4ejq\",\n      \"chain_id\": \"B\",\n      \"entity_id\": 1,\n      \"preferred_assembly_id\": 1,\n      \"observed_regions\": [\n        {\n          \"unp_start\": 458,\n          \"unp_end\": 520\n        },\n        {\n          \"unp_start\": 527,\n          \"unp_end\": 603\n        }\n      ],\n      \"start\": 5,\n      \"end\": 154,\n      \"unp_start\": 458,\n      \"unp_end\": 607,\n      \"coverage\": 0.08\n    },\n    {\n      \"experimental_method\": \"X-ray diffraction\",\n      \"tax_id\": 9606,\n      \"resolution\": 1.89,\n      \"pdb_id\": \"4ejq\",\n      \"chain_id\": \"G\",\n      \"entity_id\": 1,\n      \"p",
+  "status": "OK",
+  "seconds": 2.0
+ },
+ {
+  "server": "string",
+  "n_tools": 17,
+  "sample_tools": [
+   "string_resolve_proteins",
+   "string_interactions_query_set",
+   "string_all_interaction_partners",
+   "string_visual_network",
+   "string_network_clustering",
+   "string_network_link",
+   "string_homology",
+   "string_interaction_evidence"
+  ],
+  "call": "string_resolve_proteins",
+  "is_error": false,
+  "result_head": "{\"mapped_proteins\":[{\"queryIndex\":0,\"queryItem\":\"KIF13A\",\"stringId\":\"9606.ENSP00000259711\",\"ncbiTaxonId\":9606,\"taxonName\":\"Homo sapiens\",\"preferredName\":\"KIF13A\",\"annotation\":\"Kinesin-like protein KIF13A; Plus end-directed microtubule-dependent motor protein involved in intracellular transport and regulating various processes such as mannose-6-phosphate receptor (M6PR) transport to the plasma membrane, endosomal sorting during melanosome biogenesis and cytokinesis. Mediates the transport of M6PR-containing vesicles from trans-Golgi network to the plasma membrane via direct interaction with the AP-1 complex. During melanosome maturation, required for delivering melanogenic enzymes from recycl",
+  "status": "OK",
+  "seconds": 1.4
+ },
+ {
+  "server": "tooluniverse",
+  "n_tools": 5,
+  "sample_tools": [
+   "list_tools",
+   "grep_tools",
+   "get_tool_info",
+   "execute_tool",
+   "find_tools"
+  ],
+  "call": "execute_tool",
+  "is_error": false,
+  "result_head": "{\"status\": \"success\", \"data\": {\"gene\": {\"symbol\": \"KIF13A\", \"gene_id\": \"ENSG00000137177\", \"exac_constraint\": null, \"gnomad_constraint\": {\"exp_lof\": 212.17400278427647, \"obs_lof\": 79, \"oe_lof\": 0.37233590809106626, \"pLI\": 0.999750572233937, \"exp_mis\": 2209.002441404894, \"obs_mis\": 1901, \"oe_mis\": 0.860569442734971, \"exp_syn\": 808.622506556002, \"obs_syn\": 789, \"oe_syn\": 0.9757334152872197}}}, \"url\": \"https://gnomad.broadinstitute.org/api\", \"gene_symbol\": \"KIF13A\"}",
+  "status": "OK",
+  "seconds": 5.1
+ },
+ {
+  "server": "pubmed",
+  "n_tools": 7,
+  "sample_tools": [
+   "search_articles",
+   "get_article_metadata",
+   "find_related_articles",
+   "lookup_article_by_citation",
+   "convert_article_ids",
+   "get_full_text_article",
+   "get_copyright_status"
+  ],
+  "call": "search_articles",
+  "is_error": false,
+  "result_head": "{\n  \"pmids\": [\n    \"32461107\",\n    \"23438369\"\n  ],\n  \"total_count\": 2,\n  \"returned_count\": 2,\n  \"query\": \"KIF13A serotonin 1A receptor anxiety\",\n  \"query_translation\": \"\\\"KIF13A\\\"[All Fields] AND (\\\"receptor serotonin 5 ht1a\\\"[Supplementary Concept] OR \\\"receptor serotonin 5 ht1a\\\"[All Fields] OR \\\"serotonin 1a receptor\\\"[All Fields] OR \\\"receptor, serotonin, 5 ht1a\\\"[MeSH Terms] OR (\\\"receptor\\\"[All Fields] AND \\\"serotonin\\\"[All Fields] AND \\\"5 ht1a\\\"[All Fields]) OR \\\"5-ht1a serotonin receptor\\\"[All Fields] OR (\\\"serotonin\\\"[All Fields] AND \\\"1a\\\"[All Fields] AND \\\"receptor\\\"[All Fields])) AND (\\\"anxiety\\\"[MeSH Terms] OR \\\"anxiety\\\"[All Fields] OR \\\"anxieties\\\"[All Fields] OR \\\"anxiety s\\\"",
+  "status": "OK",
+  "seconds": 7.0
+ },
+ {
+  "server": "biorxiv",
+  "n_tools": 7,
+  "sample_tools": [
+   "search_preprints",
+   "get_preprint",
+   "get_categories",
+   "search_published_preprints",
+   "search_by_funder",
+   "get_content_statistics",
+   "get_usage_statistics"
+  ],
+  "call": "get_categories",
+  "is_error": false,
+  "result_head": "{\"success\":true,\"categories\":[{\"name\":\"animal behavior and cognition\",\"api_format\":\"animal_behavior_and_cognition\",\"description\":null},{\"name\":\"biochemistry\",\"api_format\":\"biochemistry\",\"description\":null},{\"name\":\"bioengineering\",\"api_format\":\"bioengineering\",\"description\":null},{\"name\":\"bioinformatics\",\"api_format\":\"bioinformatics\",\"description\":null},{\"name\":\"biophysics\",\"api_format\":\"biophysics\",\"description\":null},{\"name\":\"cancer biology\",\"api_format\":\"cancer_biology\",\"description\":null},{\"name\":\"cell biology\",\"api_format\":\"cell_biology\",\"description\":null},{\"name\":\"clinical trials\",\"api_format\":\"clinical_trials\",\"description\":null},{\"name\":\"developmental biology\",\"api_format\":\"developm",
+  "status": "OK",
+  "seconds": 1.0
+ },
+ {
+  "server": "zotero",
+  "n_tools": 41,
+  "sample_tools": [
+   "zotero_get_annotations",
+   "zotero_get_notes",
+   "zotero_manage_note",
+   "zotero_create_annotation",
+   "zotero_get_page_layout",
+   "zotero_update_annotation",
+   "zotero_delete_annotation",
+   "zotero_get_item_metadata"
+  ],
+  "status": "OK",
+  "seconds": 2.7
+ }
+]

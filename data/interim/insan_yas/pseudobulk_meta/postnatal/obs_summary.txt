@@ -1,0 +1,26 @@
+file raw/postnatal.h5ad
+n_obs 101924 n_var 35451
+count matrix raw/X encoding csr_matrix shape (np.int64(101924), np.int64(35451))
+count sample integer=True min=1.0 max=1047.0 dtype=float32
+main X sample (integer, min, max, dtype) = (False, 0.2236848622560501, 6.934047698974609, 'float32')
+var columns ['feature_name', 'feature_reference', 'feature_biotype', 'feature_length', 'feature_type']
+
+tissue_ontology_term_id	category	4	['UBERON:0009835', 'UBERON:0009834', 'UBERON:0001873', 'UBERON:0002421']
+tissue_type	category	1	['tissue']
+assay_ontology_term_id	category	1	['EFO:0030059']
+disease_ontology_term_id	category	1	['PATO:0000461']
+development_stage_ontology_term_id	category	8	['HsapDv:0000261', 'HsapDv:0000098', 'HsapDv:0000108', 'HsapDv:0000133', 'HsapDv:0000156', 'HsapDv:0000114', 'HsapDv:0000155', 'HsapDv:0000100']
+sex_ontology_term_id	category	2	['PATO:0000383', 'PATO:0000384']
+donor_id	category	10	['postnatB_3', 'postnatB_10', 'postnatB_1', 'postnatB_5', 'postnatB_2', 'postnatB_7', 'postnatB_8', 'postnatB_4']
+suspension_type	category	1	['nucleus']
+self_reported_ethnicity_ontology_term_id	category	1	['unknown']
+cell_type_ontology_term_id	category	11	['CL:0000127', 'CL:0000617', 'CL:0000129', 'CL:4033054', 'CL:0000679', 'CL:4023051', 'CL:0000669', 'CL:0000115']
+is_primary_data	bool	1	['True']
+cell_type	category	11	['astrocyte', 'GABAergic neuron', 'microglial cell', 'perivascular cell', 'glutamatergic neuron', 'vascular leptomeningeal cell', 'pericyte', 'endothelial cell']
+assay	category	1	['10x multiome']
+disease	category	1	['normal']
+sex	category	2	['female', 'male']
+tissue	category	4	['anterior cingulate cortex', 'dorsolateral prefrontal cortex', 'caudate nucleus', 'hippocampal formation']
+self_reported_ethnicity	category	1	['unknown']
+development_stage	category	8	['infant stage', '4-year-old stage', '14-year-old stage', '39-year-old stage', '62-year-old stage', '20-year-old stage', '61-year-old stage', '6-year-old stage']
+observation_joinid	object	101924	['+JNn_x$+ro', 'c@ouCX2_EI', 'k|%PC(@G+U', 'jpq**sAdW_', 'X#t*$UV9ie', '+i)Uw(6QP`', '^<<lK4X#)W', '1R!k3a2yv!']

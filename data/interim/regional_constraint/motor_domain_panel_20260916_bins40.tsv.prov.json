@@ -1,0 +1,31 @@
+{
+  "file": "data/interim/regional_constraint/motor_domain_panel_20260916_bins40.tsv",
+  "sha256": "0bffc591470705ad4e60d41b160d23337d4500bf3b0dff8b5b550e9fb6f5e38d",
+  "bytes": 4145,
+  "retrieved_utc": "2026-09-16T14:17:05+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: regional missense constraint, kinesin motor domains",
+  "urls": [
+    "https://gnomad.broadinstitute.org/api",
+    "https://rest.ensembl.org",
+    "https://raw.githubusercontent.com/jeremymcrae/denovonear/master/src/denovonear/data/rates.txt"
+  ],
+  "tool": "scripts/regional_constraint.py",
+  "params": {
+    "panel": [
+      "KIF13A",
+      "KIF1A",
+      "KIF13B",
+      "KIF1B",
+      "KIF1C",
+      "KIF5A",
+      "KIF5C",
+      "KIF3A",
+      "KIF21A",
+      "KIF16B",
+      "KIF14"
+    ],
+    "max_af": 0.001
+  },
+  "n_records": 11
+}

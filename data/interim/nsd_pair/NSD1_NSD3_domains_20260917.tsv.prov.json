@@ -1,0 +1,14 @@
+{
+  "file": "data/interim/nsd_pair/NSD1_NSD3_domains_20260917.tsv",
+  "sha256": "e4ce890ed06630180d0adf002db16cd97f9d3554ba0909017ed3c6bc25698ec2",
+  "bytes": 14596,
+  "retrieved_utc": "2026-09-17T18:34:33+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "tool": "scripts/nsd_pair_calibration.py",
+  "source": "UniProt features + InterPro domain entries",
+  "urls": [
+    "https://rest.uniprot.org/uniprotkb",
+    "https://www.ebi.ac.uk/interpro/api"
+  ],
+  "n_records": 183
+}

@@ -1,0 +1,206 @@
+{
+ "shared_module": [
+  1539,
+  2210
+ ],
+ "sets": {
+  "reference_lof": {
+   "n": 452,
+   "n_residues": 134,
+   "n_in_module": 51,
+   "n_identical_residue_in_student": 43,
+   "by_domain": {
+    "null": 315,
+    "ara_bolge": 71,
+    "SET": 12,
+    "C_ucu": 9,
+    "SET_sonrasi": 7,
+    "PHD4": 5,
+    "PHD5": 5,
+    "PWWP1": 4,
+    "AWS": 4,
+    "PWWP2": 4,
+    "CysHis": 4,
+    "PHD1": 4,
+    "N_ucu": 2,
+    "PHD3": 2,
+    "AWS_onu": 2,
+    "PostSET": 1,
+    "PHD2": 1
+   }
+  },
+  "missense_negative_clinvar_outside_module": {
+   "n": 184,
+   "n_residues": 172,
+   "n_in_module": 6,
+   "n_identical_residue_in_student": 23,
+   "by_domain": {
+    "ara_bolge": 108,
+    "C_ucu": 41,
+    "N_ucu": 27,
+    "PWWP1": 2,
+    "PHD3": 2,
+    "PHD2": 2,
+    "SET_sonrasi": 1,
+    "SET": 1
+   }
+  },
+  "missense_positive_core": {
+   "n": 125,
+   "n_residues": 87,
+   "n_in_module": 120,
+   "n_identical_residue_in_student": 118,
+   "by_domain": {
+    "SET": 36,
+    "PHD5": 18,
+    "AWS": 16,
+    "CysHis": 15,
+    "PHD2": 13,
+    "PHD4": 8,
+    "PHD3": 8,
+    "C_ucu": 3,
+    "PHD1": 2,
+    "AWS_onu": 2,
+    "PWWP1": 2,
+    "PWWP2": 1,
+    "PostSET": 1
+   }
+  },
+  "missense_negative_module_population": {
+   "n": 72,
+   "n_residues": 64,
+   "n_in_module": 72,
+   "n_identical_residue_in_student": 35,
+   "by_domain": {
+    "PWWP2": 13,
+    "SET": 13,
+    "PHD3": 9,
+    "SET_sonrasi": 7,
+    "PHD2": 6,
+    "AWS": 6,
+    "CysHis": 6,
+    "PHD1": 4,
+    "AWS_onu": 4,
+    "PHD5": 2,
+    "PHD4": 1,
+    "PostSET": 1
+   }
+  },
+  "missense_negative_module_population_ac2": {
+   "n": 47,
+   "n_residues": 45,
+   "n_in_module": 47,
+   "n_identical_residue_in_student": 15,
+   "by_domain": {
+    "PHD3": 9,
+    "AWS": 9,
+    "PWWP2": 5,
+    "SET_sonrasi": 5,
+    "AWS_onu": 4,
+    "SET": 4,
+    "PHD1": 3,
+    "PHD2": 3,
+    "PostSET": 2,
+    "PHD5": 2,
+    "PHD4": 1
+   }
+  },
+  "splice_positive": {
+   "n": 46,
+   "n_residues": 0,
+   "n_in_module": 0,
+   "n_identical_residue_in_student": 0,
+   "by_domain": {
+    "null": 46
+   }
+  },
+  "heldout_pp3_dependent_positive": {
+   "n": 26,
+   "n_residues": 25,
+   "n_in_module": 25,
+   "n_identical_residue_in_student": 24,
+   "by_domain": {
+    "SET": 7,
+    "AWS": 4,
+    "PHD4": 3,
+    "CysHis": 3,
+    "PHD3": 2,
+    "PHD5": 2,
+    "PHD2": 1,
+    "N_ucu": 1,
+    "AWS_onu": 1,
+    "PWWP2": 1,
+    "SET_sonrasi": 1
+   }
+  },
+  "sensitivity_conflict_P_vs_VUS": {
+   "n": 23,
+   "n_residues": 23,
+   "n_in_module": 20,
+   "n_identical_residue_in_student": 16,
+   "by_domain": {
+    "PHD5": 4,
+    "SET": 4,
+    "PHD2": 3,
+    "C_ucu": 3,
+    "PHD3": 3,
+    "CysHis": 2,
+    "AWS": 2,
+    "AWS_onu": 1,
+    "PostSET": 1
+   }
+  }
+ },
+ "gnomad_control_allele_count_bins": {
+  "AC1": 210,
+  "AC2": 47,
+  "AC3-4": 43,
+  "AC>=5": 29
+ },
+ "tiers": {
+  "lof_reference": 452,
+  "conflict_B_vs_VUS": 157,
+  "negative_other": 147,
+  "positive_gold": 80,
+  "negative_circular": 55,
+  "exclude": 47,
+  "positive_splice": 46,
+  "positive_silver": 45,
+  "negative_frequency": 37,
+  "positive_circular": 26,
+  "conflict_P_vs_VUS": 23,
+  "inframe_reference": 5,
+  "negative_noncoding_reference": 1
+ },
+ "exclusions": {
+  "consequence other": 15,
+  "not an SNV": 14,
+  "no assertion criteria": 12,
+  "consequence intron": 5,
+  "conflict spans P and B": 1
+ },
+ "positives_by_domain": {
+  "SET": 36,
+  "PHD5": 18,
+  "AWS": 16,
+  "CysHis": 15,
+  "PHD2": 13,
+  "PHD4": 8,
+  "PHD3": 8,
+  "C_ucu": 3,
+  "PHD1": 2,
+  "AWS_onu": 2,
+  "PWWP1": 2,
+  "PWWP2": 1,
+  "PostSET": 1
+ },
+ "n_gnomad_module_controls": 329,
+ "evidence_flags_missense_P_LP": {
+  "text_in_silico": 84,
+  "text_functional": 18,
+  "text_de_novo": 73,
+  "text_frequency": 102,
+  "text_same_residue": 12
+ },
+ "n_missense_P_LP_candidates": 158
+}

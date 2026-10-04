@@ -1,0 +1,422 @@
+{
+ "PRIMARY motor: core positives vs gnomAD AC>=3": {
+  "n_pos": 110,
+  "n_neg": 61,
+  "models": {
+   "AlphaMissense": {
+    "auroc": 0.925,
+    "ci95": [
+     0.878,
+     0.964
+    ],
+    "sens_at_90_spec": 0.791,
+    "threshold": 0.9681,
+    "n_pos": 110,
+    "n_neg": 61,
+    "label_trained": false
+   },
+   "CADD v1.7": {
+    "auroc": 0.781,
+    "ci95": [
+     0.696,
+     0.858
+    ],
+    "sens_at_90_spec": 0.555,
+    "threshold": 31.0,
+    "n_pos": 110,
+    "n_neg": 61,
+    "label_trained": false
+   },
+   "REVEL": {
+    "auroc": 0.92,
+    "ci95": [
+     0.868,
+     0.959
+    ],
+    "sens_at_90_spec": 0.709,
+    "threshold": 0.855,
+    "n_pos": 110,
+    "n_neg": 61,
+    "label_trained": true
+   },
+   "ESM1b (dbNSFP)": {
+    "auroc": 0.851,
+    "ci95": [
+     0.774,
+     0.917
+    ],
+    "sens_at_90_spec": 0.445,
+    "threshold": -14.4054,
+    "n_pos": 110,
+    "n_neg": 61,
+    "label_trained": false
+   },
+   "PrimateAI": {
+    "auroc": 0.801,
+    "ci95": [
+     0.72,
+     0.875
+    ],
+    "sens_at_90_spec": 0.373,
+    "threshold": 0.8826,
+    "n_pos": 110,
+    "n_neg": 61,
+    "label_trained": false
+   },
+   "MetaRNN": {
+    "auroc": 0.949,
+    "ci95": [
+     0.913,
+     0.977
+    ],
+    "sens_at_90_spec": 0.845,
+    "threshold": 0.928,
+    "n_pos": 110,
+    "n_neg": 61,
+    "label_trained": true
+   },
+   "baseline: paralog residue identical in KIF13A": {
+    "auroc": 0.744
+   },
+   "baseline: is motor domain": {
+    "auroc": 0.5
+   }
+  }
+ },
+ "motor: core positives vs gnomAD AC>=2 (incl. AC2)": {
+  "n_pos": 110,
+  "n_neg": 93,
+  "models": {
+   "AlphaMissense": {
+    "auroc": 0.915,
+    "ci95": [
+     0.868,
+     0.952
+    ],
+    "sens_at_90_spec": 0.736,
+    "threshold": 0.978,
+    "n_pos": 110,
+    "n_neg": 93,
+    "label_trained": false
+   },
+   "CADD v1.7": {
+    "auroc": 0.795,
+    "ci95": [
+     0.723,
+     0.865
+    ],
+    "sens_at_90_spec": 0.555,
+    "threshold": 31.0,
+    "n_pos": 110,
+    "n_neg": 93,
+    "label_trained": false
+   },
+   "REVEL": {
+    "auroc": 0.92,
+    "ci95": [
+     0.875,
+     0.956
+    ],
+    "sens_at_90_spec": 0.709,
+    "threshold": 0.8542,
+    "n_pos": 110,
+    "n_neg": 93,
+    "label_trained": true
+   },
+   "ESM1b (dbNSFP)": {
+    "auroc": 0.85,
+    "ci95": [
+     0.785,
+     0.912
+    ],
+    "sens_at_90_spec": 0.445,
+    "threshold": -14.4009,
+    "n_pos": 110,
+    "n_neg": 93,
+    "label_trained": false
+   },
+   "PrimateAI": {
+    "auroc": 0.772,
+    "ci95": [
+     0.687,
+     0.849
+    ],
+    "sens_at_90_spec": 0.373,
+    "threshold": 0.8827,
+    "n_pos": 110,
+    "n_neg": 93,
+    "label_trained": false
+   },
+   "MetaRNN": {
+    "auroc": 0.941,
+    "ci95": [
+     0.901,
+     0.972
+    ],
+    "sens_at_90_spec": 0.845,
+    "threshold": 0.9378,
+    "n_pos": 110,
+    "n_neg": 93,
+    "label_trained": true
+   },
+   "baseline: paralog residue identical in KIF13A": {
+    "auroc": 0.742
+   },
+   "baseline: is motor domain": {
+    "auroc": 0.5
+   }
+  }
+ },
+ "motor: functional-literature positives vs gnomAD AC>=3": {
+  "n_pos": 14,
+  "n_neg": 61,
+  "models": {
+   "AlphaMissense": {
+    "auroc": 0.966,
+    "ci95": [
+     0.915,
+     0.994
+    ],
+    "sens_at_90_spec": 0.929,
+    "threshold": 0.9681,
+    "n_pos": 14,
+    "n_neg": 61,
+    "label_trained": false
+   },
+   "CADD v1.7": {
+    "auroc": 0.842,
+    "ci95": [
+     0.71,
+     0.94
+    ],
+    "sens_at_90_spec": 0.643,
+    "threshold": 31.0,
+    "n_pos": 14,
+    "n_neg": 61,
+    "label_trained": false
+   },
+   "REVEL": {
+    "auroc": 0.943,
+    "ci95": [
+     0.876,
+     0.989
+    ],
+    "sens_at_90_spec": 0.714,
+    "threshold": 0.855,
+    "n_pos": 14,
+    "n_neg": 61,
+    "label_trained": true
+   },
+   "ESM1b (dbNSFP)": {
+    "auroc": 0.806,
+    "ci95": [
+     0.699,
+     0.901
+    ],
+    "sens_at_90_spec": 0.286,
+    "threshold": -14.4054,
+    "n_pos": 14,
+    "n_neg": 61,
+    "label_trained": false
+   },
+   "PrimateAI": {
+    "auroc": 0.849,
+    "ci95": [
+     0.75,
+     0.93
+    ],
+    "sens_at_90_spec": 0.286,
+    "threshold": 0.8826,
+    "n_pos": 14,
+    "n_neg": 61,
+    "label_trained": false
+   },
+   "MetaRNN": {
+    "auroc": 0.96,
+    "ci95": [
+     0.91,
+     0.992
+    ],
+    "sens_at_90_spec": 0.857,
+    "threshold": 0.928,
+    "n_pos": 14,
+    "n_neg": 61,
+    "label_trained": true
+   },
+   "baseline: paralog residue identical in KIF13A": {
+    "auroc": 0.732
+   },
+   "baseline: is motor domain": {
+    "auroc": 0.5
+   }
+  }
+ },
+ "motor: held-out PP3-dependent positives vs gnomAD AC>=3": {
+  "n_pos": 17,
+  "n_neg": 61,
+  "models": {
+   "AlphaMissense": {
+    "auroc": 0.961,
+    "ci95": [
+     0.914,
+     0.993
+    ],
+    "sens_at_90_spec": 0.824,
+    "threshold": 0.9681,
+    "n_pos": 17,
+    "n_neg": 61,
+    "label_trained": false
+   },
+   "CADD v1.7": {
+    "auroc": 0.814,
+    "ci95": [
+     0.708,
+     0.909
+    ],
+    "sens_at_90_spec": 0.529,
+    "threshold": 31.0,
+    "n_pos": 17,
+    "n_neg": 61,
+    "label_trained": false
+   },
+   "REVEL": {
+    "auroc": 0.891,
+    "ci95": [
+     0.798,
+     0.958
+    ],
+    "sens_at_90_spec": 0.588,
+    "threshold": 0.855,
+    "n_pos": 17,
+    "n_neg": 61,
+    "label_trained": true
+   },
+   "ESM1b (dbNSFP)": {
+    "auroc": 0.871,
+    "ci95": [
+     0.768,
+     0.954
+    ],
+    "sens_at_90_spec": 0.706,
+    "threshold": -14.4054,
+    "n_pos": 17,
+    "n_neg": 61,
+    "label_trained": false
+   },
+   "PrimateAI": {
+    "auroc": 0.813,
+    "ci95": [
+     0.706,
+     0.902
+    ],
+    "sens_at_90_spec": 0.235,
+    "threshold": 0.8826,
+    "n_pos": 17,
+    "n_neg": 61,
+    "label_trained": false
+   },
+   "MetaRNN": {
+    "auroc": 0.917,
+    "ci95": [
+     0.83,
+     0.972
+    ],
+    "sens_at_90_spec": 0.647,
+    "threshold": 0.928,
+    "n_pos": 17,
+    "n_neg": 61,
+    "label_trained": true
+   },
+   "baseline: paralog residue identical in KIF13A": {
+    "auroc": 0.715
+   },
+   "baseline: is motor domain": {
+    "auroc": 0.5
+   }
+  }
+ },
+ "WHOLE PROTEIN (confounded): core positives vs ClinVar B/LB": {
+  "n_pos": 111,
+  "n_neg": 88,
+  "models": {
+   "AlphaMissense": {
+    "auroc": 0.959,
+    "ci95": [
+     0.93,
+     0.981
+    ],
+    "sens_at_90_spec": 0.892,
+    "threshold": 0.9043,
+    "n_pos": 111,
+    "n_neg": 82,
+    "label_trained": false
+   },
+   "CADD v1.7": {
+    "auroc": 0.886,
+    "ci95": [
+     0.827,
+     0.938
+    ],
+    "sens_at_90_spec": 0.676,
+    "threshold": 28.92,
+    "n_pos": 111,
+    "n_neg": 88,
+    "label_trained": false
+   },
+   "REVEL": {
+    "auroc": 0.993,
+    "ci95": [
+     0.984,
+     0.998
+    ],
+    "sens_at_90_spec": 0.973,
+    "threshold": 0.6388,
+    "n_pos": 111,
+    "n_neg": 83,
+    "label_trained": true
+   },
+   "ESM1b (dbNSFP)": {
+    "auroc": 0.945,
+    "ci95": [
+     0.911,
+     0.973
+    ],
+    "sens_at_90_spec": 0.82,
+    "threshold": -12.3728,
+    "n_pos": 111,
+    "n_neg": 83,
+    "label_trained": false
+   },
+   "PrimateAI": {
+    "auroc": 0.897,
+    "ci95": [
+     0.843,
+     0.946
+    ],
+    "sens_at_90_spec": 0.631,
+    "threshold": 0.8495,
+    "n_pos": 111,
+    "n_neg": 83,
+    "label_trained": false
+   },
+   "MetaRNN": {
+    "auroc": 0.986,
+    "ci95": [
+     0.969,
+     0.996
+    ],
+    "sens_at_90_spec": 0.964,
+    "threshold": 0.8438,
+    "n_pos": 111,
+    "n_neg": 83,
+    "label_trained": true
+   },
+   "baseline: paralog residue identical in KIF13A": {
+    "auroc": 0.845
+   },
+   "baseline: is motor domain": {
+    "auroc": 0.995
+   }
+  }
+ }
+}

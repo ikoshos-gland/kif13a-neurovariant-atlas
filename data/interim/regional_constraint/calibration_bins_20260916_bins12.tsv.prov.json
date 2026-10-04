@@ -1,0 +1,31 @@
+{
+  "file": "data/interim/regional_constraint/calibration_bins_20260916_bins12.tsv",
+  "sha256": "34d5ff7a4faa07d6dbc499ac9b47623cafeef807c85b6c85027e9fd8a483af24",
+  "bytes": 947,
+  "retrieved_utc": "2026-09-16T14:16:56+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: proportion of possible synonymous SNVs observed in gnomAD v4.1, binned by Samocha 2014 trinucleotide mutation rate",
+  "urls": [
+    "https://gnomad.broadinstitute.org/api",
+    "https://raw.githubusercontent.com/jeremymcrae/denovonear/master/src/denovonear/data/rates.txt"
+  ],
+  "tool": "scripts/regional_constraint.py",
+  "params": {
+    "genes": [
+      "KIF13A",
+      "KIF1A",
+      "KIF13B",
+      "KIF1B",
+      "KIF1C",
+      "KIF5A",
+      "KIF5C",
+      "KIF3A",
+      "KIF21A",
+      "KIF16B",
+      "KIF14"
+    ],
+    "n_bins": 12,
+    "max_af": 0.001
+  },
+  "n_records": 12
+}

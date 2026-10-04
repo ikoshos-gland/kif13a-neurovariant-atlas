@@ -1,0 +1,12 @@
+{
+  "file": "data/interim/clinvar_curation/KIF1A_calibration_metrics_20260915.json",
+  "sha256": "e5641293c509348b89120723f7309bc618087ea6bfdad0204ed5108714f7e8c2",
+  "bytes": 7362,
+  "retrieved_utc": "2026-09-15T18:07:20+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: Ensembl VEP scores on curated KIF1A calibration sets",
+  "urls": [
+    "https://rest.ensembl.org/vep/human/region"
+  ],
+  "tool": "scripts/evaluate_calibration_sets.py"
+}

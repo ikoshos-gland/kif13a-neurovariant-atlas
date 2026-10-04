@@ -1,0 +1,17 @@
+{
+  "file": "data/interim/lof/lof_axis_summary_20260916.json",
+  "sha256": "b59e0a6d733637e6e484b347f1744b84611b0286046fa9f4f88dc50890e44ddf",
+  "bytes": 8836,
+  "retrieved_utc": "2026-09-16T11:22:48+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived",
+  "urls": [],
+  "tool": "scripts/lof_axis.py",
+  "params": {
+    "genes": [
+      "KIF13A",
+      "KIF1A",
+      "KIF13B"
+    ]
+  }
+}

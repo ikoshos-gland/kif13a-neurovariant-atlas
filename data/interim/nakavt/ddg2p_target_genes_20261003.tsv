@@ -1,0 +1,3 @@
+g2p id	gene	disease name	allelic requirement	confidence	variant consequence	molecular mechanism	panel
+G2P00959	KIF1A	KIF1A-related NESCAV syndrome	monoallelic_autosomal	definitive	altered gene product structure	undetermined	DD
+G2P00963	KIF1A	KIF1A-related neuropathy, hereditary sensory	biallelic_autosomal	definitive	absent gene product	loss of function	DD

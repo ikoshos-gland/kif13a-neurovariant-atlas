@@ -1,0 +1,16 @@
+{
+  "file": "data/interim/lof/KIF13A_exon_lof_20260916.tsv",
+  "sha256": "9b120bcd4dbde1e8ef284017c740f4a58d17f45b5d7806f86aef35590cf92e46",
+  "bytes": 2828,
+  "retrieved_utc": "2026-09-16T11:22:48+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: Ensembl MANE exon structure + gnomAD LoF",
+  "urls": [
+    "https://rest.ensembl.org/lookup/id"
+  ],
+  "tool": "scripts/lof_axis.py",
+  "params": {
+    "gene": "KIF13A"
+  },
+  "n_records": 39
+}

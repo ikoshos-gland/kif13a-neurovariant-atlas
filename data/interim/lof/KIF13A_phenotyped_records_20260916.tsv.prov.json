@@ -1,0 +1,19 @@
+{
+  "file": "data/interim/lof/KIF13A_phenotyped_records_20260916.tsv",
+  "sha256": "4ae33fef1af1dde432e46f61c9bb130c15b5e3c71a26d29b6029947c5d0dacb4",
+  "bytes": 682,
+  "retrieved_utc": "2026-09-16T11:22:48+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "ClinVar VCV XML (efetch)",
+  "urls": [
+    "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
+  ],
+  "tool": "scripts/lof_axis.py",
+  "params": {
+    "ids": [
+      "442594",
+      "2570672"
+    ]
+  },
+  "n_records": 2
+}

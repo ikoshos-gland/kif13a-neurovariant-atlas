@@ -1,0 +1,11 @@
+{
+  "name": "kif13a-atlas-node-mcp",
+  "private": true,
+  "description": "Pinned Node-based MCP servers for the KIF13A NeuroVariant Atlas",
+  "dependencies": {
+    "@cyanheads/gnomad-genetics-mcp-server": "0.2.1",
+    "@cyanheads/protein-mcp-server": "0.8.0",
+    "@cyanheads/uniprot-mcp-server": "0.2.3",
+    "@cyanheads/ensembl-mcp-server": "0.4.3"
+  }
+}

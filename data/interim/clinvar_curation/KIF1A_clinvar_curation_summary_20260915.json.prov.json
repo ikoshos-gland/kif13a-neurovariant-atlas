@@ -1,0 +1,13 @@
+{
+  "file": "data/interim/clinvar_curation/KIF1A_clinvar_curation_summary_20260915.json",
+  "sha256": "2c6c64ab71783a6a1102c049b6067e92feeaaa1082cfa328f579d096212eac59",
+  "bytes": 374,
+  "retrieved_utc": "2026-09-15T17:35:24+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: ClinVar VCV XML + Ensembl VEP",
+  "urls": [
+    "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+    "https://rest.ensembl.org/vep/human/region"
+  ],
+  "tool": "scripts/kif1a_clinvar_curation.py"
+}

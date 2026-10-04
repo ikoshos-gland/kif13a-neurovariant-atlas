@@ -1,0 +1,169 @@
+gen	sample_id	study	PMID	fenotip	sekans_tipi	num_probands	build	pozisyon	transkript	transkript_MANE_mi	FunctionClass	sinif	cDnaVariant	ProteinVariant	protein_pos	protein_pos_kaynak_transkriptte	n_transkript_satiri
+KIF13A	AU3729301	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr6:17759547A>G	NM_001105568.2	hayir	3-prime-UTR	diger (3-prime-UTR)	c.*1541T>C	NA			1
+KIF13A	Proband-499	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr6:17783041T>C	NM_022113.5	evet	intron	diger (intron)	c.3544+836A>G	NA			4
+KIF13A	DDD4K.03538	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr6:17788092G>A	NM_022113.5	evet	synonymous	sinonim	c.3276C>T	p.(N1092=)	1092	1092	4
+KIF13A	Proband-58	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr6:17807157C>T	NM_022113.5	evet	intron	diger (intron)	c.2164-1311G>A	NA			4
+KIF13A	AU3790302	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr6:17811955A>C	NM_022113.5	evet	intron	diger (intron)	c.2001-2794T>G	NA			4
+KIF13A	Proband-528	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr6:17825375C>T	NM_022113.5	evet	intron	diger (intron)	c.1786+624G>A	NA			4
+KIF13A	2-1093-009	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr6:17831756T>C	NM_022113.5	evet	intron	diger (intron)	c.1267-290A>G	NA			4
+KIF13A	Proband-1076	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr6:17834505G>C	NM_022113.5	evet	intron	diger (intron)	c.1156-203C>G	NA			4
+KIF13A	Proband-445	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr6:17839126A>G	NM_022113.5	evet	intron	diger (intron)	c.831-1312T>C	NA			4
+KIF13A	1-0736-003	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr6:17846232T>G	NM_022113.5	evet	intron	diger (intron)	c.830+3376A>C	NA			4
+KIF13A	Chesi50	Chesi2015	23708140	amyotrophic_lateral_sclerosis	exome	47	GRCh37 (denovo-db v1.6.1)	chr6:17850560C>G	NM_022113.5	evet	missense	missense	c.711G>C	p.(Q237H)	237	237	4
+KIF13A	AU1894304	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr6:17852250C>T	NM_022113.5	evet	missense	missense	c.518G>A	p.(R173Q)	173	173	4
+KIF13A	Proband-1449	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr6:17883281C>T	NM_022113.5	evet	intron	diger (intron)	c.160-9613G>A	NA			4
+KIF13A	Proband-732	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr6:17884911C>T	NM_022113.5	evet	intron	diger (intron)	c.160-11243G>A	NA			4
+KIF13A	Proband-1407	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr6:17895405A>G	NM_022113.5	evet	intron	diger (intron)	c.159+2994T>C	NA			4
+KIF13A	1-0408-003	Yuen2016	27525107	autism	genome	200	GRCh37 (denovo-db v1.6.1)	chr6:17908797C>T	NM_022113.5	evet	intron	diger (intron)	c.147-10386G>A	NA			4
+KIF13A	Proband-488	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr6:17909567G>C	NM_022113.5	evet	intron	diger (intron)	c.147-11156C>G	NA			4
+KIF13A	2-1427-003	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr6:17927262T>G	NM_022113.5	evet	intron	diger (intron)	c.147-28851A>C	NA			4
+KIF13A	1-0524-003	Yuen2016	27525107	autism	genome	200	GRCh37 (denovo-db v1.6.1)	chr6:17938956T>C	NM_022113.5	evet	intron	diger (intron)	c.147-40545A>G	NA			4
+KIF13A	Proband-177	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr6:17942101A>G	NM_022113.5	evet	intron	diger (intron)	c.147-43690T>C	NA			4
+KIF13A	Proband-1109	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr6:17943275A>G	NM_022113.5	evet	intron	diger (intron)	c.146+44010T>C	NA			4
+KIF13A	Proband-680	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr6:17952829C>T	NM_022113.5	evet	intron	diger (intron)	c.146+34456G>A	NA			5
+KIF13A	Proband-812	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr6:17975570T>C	NM_022113.5	evet	intron	diger (intron)	c.146+11715A>G	NA			5
+KIF13A	2-1170-003	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr6:17977201C>T	NM_022113.5	evet	intron	diger (intron)	c.146+10084G>A	NA			5
+KIF13A	5-0129-003	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr6:17979253C>T	NM_022113.5	evet	intron	diger (intron)	c.146+8032G>A	NA			5
+KIF1A	3391-1	Fromer2014	24463507	schizophrenia	exome	623	GRCh37 (denovo-db v1.6.1)	chr2:241658510G>T	NM_001244008.1	evet	missense	missense	c.5127C>A	p.(N1709K)	1709	1709	2
+KIF1A	2-1093-003	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr2:241679858G>A	NM_001244008.1	evet	intron	diger (intron)	c.3750-77C>T	NA			2
+KIF1A	AU2793302	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr2:241688815A>C	NM_001244008.1	evet	intron	diger (intron)	c.2977+1031T>G	NA			2
+KIF1A	AU4483301	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr2:241692021G>A	NM_001244008.1	evet	intron	diger (intron)	c.2859-2057C>T	NA			2
+KIF1A	AU3727302	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr2:241704584C>T	NM_001244008.1	evet	intron	diger (intron)	c.1768+543G>A	NA			2
+KIF1A	DDD4K.03692	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr2:241709072G>A	NM_001244008.1	evet	missense	missense	c.1393C>T	p.(R465W)	465	465	2
+KIF1A	Lelieveld_688	Lelieveld2016	27479843	intellectualDisability	exome	820	GRCh37 (denovo-db v1.6.1)	chr2:241712573G>A	NM_001244008.1	evet	missense	missense	c.1138C>T	p.(R380W)	380	380	2
+KIF1A	DDD4K.01186	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr2:241715306C>G	NM_001244008.1	evet	missense	missense	c.920G>C	p.(R307P)	307	307	2
+KIF1A	DDD4K.02613	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr2:241715306C>T	NM_001244008.1	evet	missense	missense	c.920G>A	p.(R307Q)	307	307	2
+KIF1A	DDD4K.03999	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr2:241715306C>T	NM_001244008.1	evet	missense	missense	c.920G>A	p.(R307Q)	307	307	2
+KIF1A	Proband-815	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr2:241719266AGTT>A	NM_001244008.1	evet	intron	diger (intron)	c.882+2738_882+2740del3	NA			2
+KIF1A	1-04248	Homsy2015	26785492	congenital_heart_disease	exome	1213	GRCh37 (denovo-db v1.6.1)	chr2:241723201C>G	NM_001244008.1	evet	synonymous	sinonim	c.753G>C	p.(G251=)	251	251	2
+KIF1A	Lelieveld_349	Lelieveld2016	27479843	intellectualDisability	exome	820	GRCh37 (denovo-db v1.6.1)	chr2:241723208A>T	NM_001244008.1	evet	missense	missense	c.746T>A	p.(L249Q)	249	249	2
+KIF1A	DDD4K.02873	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr2:241724479C>T	NM_001244008.1	evet	missense	missense	c.647G>A	p.(R216H)	216	216	2
+KIF1A	DDD4K.00638	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr2:241724480G>A	NM_001244008.1	evet	missense	missense	c.646C>T	p.(R216C)	216	216	2
+KIF1A	DDD4K.01845	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr2:241727535G>A	NM_001244008.1	evet	missense	missense	c.296C>T	p.(T99M)	99	99	2
+KIF1A	DDD4K.00574	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr2:241737138C>T	NM_001244008.1	evet	missense	missense	c.32G>A	p.(R11Q)	11	11	2
+KIF1A	1-0433-003	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr2:241738625G>A	NM_001244008.1	evet	intron	diger (intron)	c.-1456C>T	NA			1
+KIF1A	Proband-1286	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr2:241748720C>A	NM_001244008.1	evet	intron	diger (intron)	c.-11551G>T	NA			1
+KIF1A	1-0225-003	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr2:241757088C>T	NM_001244008.1	evet	intron	diger (intron)	c.-19919G>A	NA			1
+KIF1A	1-0389-004	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr2:241757985TCC>T	NM_001244008.1	evet	intron	diger (intron)	c.-20818_-20817del2	NA			1
+KIF13B	gonl-53c	GONL	24974849	control	genome	0	GRCh37 (denovo-db v1.6.1)	chr8:28925277C>T	NM_015254.3	evet	3-prime-UTR	diger (3-prime-UTR)	c.*2744G>A	NA			1
+KIF13B	AU2381302	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr8:28925466C>T	NM_015254.3	evet	3-prime-UTR	diger (3-prime-UTR)	c.*2555G>A	NA			1
+KIF13B	DDD4K.01471	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr8:28929698C>T	NM_015254.3	evet	missense	missense	c.4657G>A	p.(A1553T)	1553	1553	1
+KIF13B	AU056005	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr8:28929757G>A	NM_015254.3	evet	missense	missense	c.4598C>T	p.(A1533V)	1533	1533	1
+KIF13B	Lelieveld_535	Lelieveld2016	27479843	intellectualDisability	exome	820	GRCh37 (denovo-db v1.6.1)	chr8:28932825C>T	NM_015254.3	evet	synonymous	sinonim	c.4494G>A	p.(P1498=)	1498	1498	1
+KIF13B	2-0116-004	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr8:28939612T>C	NM_015254.3	evet	intron	diger (intron)	c.4459-6752A>G	NA			1
+KIF13B	AU2089302	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr8:28943853G>A	NM_015254.3	evet	intron	diger (intron)	c.4458+6409C>T	NA			1
+KIF13B	DEASD_0310_001	DeRubeis2014	25363760	autism	exome	1445	GRCh37 (denovo-db v1.6.1)	chr8:28976449G>C	NM_015254.3	evet	missense	missense	c.3596C>G	p.(T1199S)	1199	1199	1
+KIF13B	Proband-743	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr8:28983152G>A	NM_015254.3	evet	intron	diger (intron)	c.3252+847C>T	NA			1
+KIF13B	DDD4K.02948	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr8:28997665T>A	NM_015254.3	evet	missense	missense	c.2528A>T	p.(D843V)	843	843	1
+KIF13B	2-1721-003	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr8:29004893C>A	NM_015254.3	evet	intron	diger (intron)	c.2024+16G>T	NA			1
+KIF13B	2-0296-003	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr8:29015609CT>C	NM_015254.3	evet	intron	diger (intron)	c.1405-2237del1	NA			1
+KIF13B	3088-1	Fromer2014	24463507	schizophrenia	exome	623	GRCh37 (denovo-db v1.6.1)	chr8:29025041T>C	NM_015254.3	evet	missense	missense	c.1007A>G	p.(N336S)	336	336	1
+KIF13B	Proband-1182	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr8:29028477G>A	NM_015254.3	evet	intron	diger (intron)	c.946-3375C>T	NA			1
+KIF13B	DDD4K.03474	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr8:29033669G>C	NM_015254.3	evet	missense	missense	c.861C>G	p.(I287M)	287	287	1
+KIF13B	2-0028-003	Yuen2016	27525107	autism	genome	200	GRCh37 (denovo-db v1.6.1)	chr8:29033775T>C	NM_015254.3	evet	intron	diger (intron)	c.834-79A>G	NA			1
+KIF13B	2-1370-003	Yuen2016	27525107	autism	genome	200	GRCh37 (denovo-db v1.6.1)	chr8:29034332A>C	NM_015254.3	evet	intron	diger (intron)	c.834-636T>G	NA			1
+KIF13B	Proband-39	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr8:29037679C>T	NM_015254.3	evet	missense	missense	c.662G>A	p.(R221Q)	221	221	1
+KIF13B	gonl-149c	GONL	24974849	control	genome	0	GRCh37 (denovo-db v1.6.1)	chr8:29043283G>A	NM_015254.3	evet	intron	diger (intron)	c.497+526C>T	NA			1
+KIF13B	7-0255-003	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr8:29076024C>A	NM_015254.3	evet	intron	diger (intron)	c.150-22308G>T	NA			1
+KIF13B	Proband-723	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr8:29083641C>A	NM_015254.3	evet	intron	diger (intron)	c.149+19222G>T	NA			1
+KIF13B	gonl-126c	GONL	24974849	control	genome	0	GRCh37 (denovo-db v1.6.1)	chr8:29095739C>T	NM_015254.3	evet	intron	diger (intron)	c.149+7124G>A	NA			1
+KIF13B	Proband-914	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr8:29100478T>C	NM_015254.3	evet	intron	diger (intron)	c.149+2385A>G	NA			1
+KIF13B	Proband-1047	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr8:29101810G>A	NM_015254.3	evet	intron	diger (intron)	c.149+1053C>T	NA			1
+KIF13B	Proband-166	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr8:29104145C>CA	NM_015254.3	evet	intron	diger (intron)	c.56-1190_56-1189insT	NA			1
+KIF13B	Proband-608	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr8:29115538G>A	NM_015254.3	evet	intron	diger (intron)	c.55+4959C>T	NA			1
+KIF13B	2-1277-003	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr8:29115931G>A	NM_015254.3	evet	intron	diger (intron)	c.55+4566C>T	NA			1
+KIF13B	AU1635302	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr8:29116690TAATA>TAATAAATA	NM_015254.3	evet	intron	diger (intron)	c.55+3806_55+3807insTATT	NA			1
+ANKRD11	Helbig4	Helbig2016	26795593	epilepsy	exome	254	GRCh37 (denovo-db v1.6.1)	chr16:89335053G>A	NM_001256183.1	hayir	stop-gained	LoF	c.7825C>T	p.(Q2609*)		2609	3
+ANKRD11	1-03659	Homsy2015	26785492	congenital_heart_disease	exome	1213	GRCh37 (denovo-db v1.6.1)	chr16:89341276G>A	NM_001256183.1	hayir	synonymous	sinonim	c.7659C>T	p.(S2553=)		2553	3
+ANKRD11	DDD4K.00609	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89341547TGCTGCCTGAACA>T	NM_001256182.1	hayir	coding	diger (coding)	c.7511_7522del12	p.(L2504_Q2508delinsQ)		2504	3
+ANKRD11	1-0025-006	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr16:89342444AC>A	NM_001256182.1	hayir	intron	diger (intron)	c.7471-846del1	NA			3
+ANKRD11	Proband-1253	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr16:89344668C>T	NM_001256182.1	hayir	intron	diger (intron)	c.7470+812G>A	NA			3
+ANKRD11	AU2863302	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr16:89345882C>T	NM_013275.5	hayir	synonymous	sinonim	c.7068G>A	p.(E2356=)		2356	3
+ANKRD11	DDD4K.00569	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89346589CCCAG>C	NM_001256183.1	hayir	frameshift	LoF	c.6357_6360del4	p.(W2120Rfs*54)		2120	3
+ANKRD11	DDD4K.02132	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89346766GC>G	NM_001256182.1	hayir	frameshift	LoF	c.6183del1	p.(L2062Wfs*25)		2062	3
+ANKRD11	DDD4K.03952	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89347133GAA>G	NM_001256183.1	hayir	frameshift	LoF	c.5815_5816del2	p.(F1939Qfs*10)		1939	3
+ANKRD11	DDD4K.03665	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89347139ACCC>ACCCC	NM_001256182.1	hayir	codingComplex	diger (codingComplex)	c.5810_5811insG	p.(P1938Sfs*12)		1938	3
+ANKRD11	DDD4K.02708	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89347506A>G	NM_001256182.1	hayir	missense	missense	c.5444T>C	p.(V1815A)		1815	3
+ANKRD11	SC_CHD_FY35816716	Sifrim2016	27479907	congenital_heart_disease	exome	859	GRCh37 (denovo-db v1.6.1)	chr16:89347768TG>TGG	NM_013275.5	hayir	codingComplex	diger (codingComplex)	c.5181_5182insC	p.(S1728Qfs*4)		1728	3
+ANKRD11	1-0911-003	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr16:89347775C>CG	NM_013275.5	hayir	frameshift	LoF	c.5174_5175insC	p.(S1726Vfs*6)		1726	3
+ANKRD11	Lelieveld_183	Lelieveld2016	27479843	intellectualDisability	exome	820	GRCh37 (denovo-db v1.6.1)	chr16:89347985TTT>T	NM_001256182.1	hayir	frameshift	LoF	c.4963_4964del2	p.(K1655Rfs*12)		1655	3
+ANKRD11	DDD4K.04158	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89348106GA>G	NM_001256183.1	hayir	frameshift	LoF	c.4843del1	p.(S1615Pfs*71)		1615	3
+ANKRD11	DDD4K.03936	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89348542T>A	NM_013275.5	hayir	stop-gained	LoF	c.4408A>T	p.(R1470*)		1470	3
+ANKRD11	7-0027-003	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr16:89348575TC>T	NM_013275.5	hayir	frameshift	LoF	c.4374del1	p.(K1459Rfs*72)		1459	3
+ANKRD11	DDD4K.02428	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89348744G>C	NM_001256182.1	hayir	stop-gained	LoF	c.4206C>G	p.(Y1402*)		1402	3
+ANKRD11	DDD4K.02614	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89348760AGGAAGTCCTTTTCG>AG	NM_001256182.1	hayir	codingComplex	diger (codingComplex)	c.4177_4189del13	p.(R1393Wfs*12)		1393	3
+ANKRD11	DDD4K.01781	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89348777C>T	NM_001256183.1	hayir	synonymous	sinonim	c.4173G>A	p.(Q1391=)		1391	3
+ANKRD11	DDD4K.03690	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89348845CTTT>CT	NM_013275.5	hayir	codingComplex	diger (codingComplex)	c.4103_4104del2	p.(K1368Rfs*17)		1368	3
+ANKRD11	DDD4K.03050	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89349176CTCTTT>CT	NM_001256182.1	hayir	codingComplex	diger (codingComplex)	c.3770_3773del4	p.(K1257Rfs*60)		1257	3
+ANKRD11	DDD4K.03368	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89349178CTTT>CT	NM_013275.5	hayir	codingComplex	diger (codingComplex)	c.3770_3771del2	p.(K1257Rfs*25)		1257	3
+ANKRD11	DDD4K.03944	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89349242CTGTTT>CT	NM_001256183.1	hayir	codingComplex	diger (codingComplex)	c.3704_3707del4	p.(K1235Rfs*82)		1235	3
+ANKRD11	DDD4K.02140	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89349367TCCCC>TCCC	NM_001256182.1	hayir	codingComplex	diger (codingComplex)	c.3582del1	p.(R1195Efs*123)		1195	3
+ANKRD11	Proband-739	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr16:89349388G>A	NM_013275.5	hayir	stop-gained	LoF	c.3562C>T	p.(R1188*)		1188	3
+ANKRD11	DDD4K.01141	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89349488TTCCTCCTTCTCCTGGAGGCCGTCCGTCCTC>TTCCTC	NM_001256182.1	hayir	codingComplex	diger (codingComplex)	c.3437_3461del25	p.(R1146Kfs*164)		1146	3
+ANKRD11	DDD4K.00189	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89349581ACTCTC>ACTC	NM_001256182.1	hayir	codingComplex	diger (codingComplex)	c.3367_3368del2	p.(D1123*fs*1)		1123	3
+ANKRD11	Helbig5	Helbig2016	26795593	epilepsy	exome	254	GRCh37 (denovo-db v1.6.1)	chr16:89350432CG>C	NM_013275.5	hayir	frameshift	LoF	NA	D839			1
+ANKRD11	DDD4K.02587	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89350438G>A	NM_001256182.1	hayir	stop-gained	LoF	c.2512C>T	p.(R838*)		838	3
+ANKRD11	DDD4K.02024	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89350537CTTTTTT>CT	NM_001256182.1	hayir	codingComplex	diger (codingComplex)	c.2408_2412del5	p.(K803Rfs*5)		803	3
+ANKRD11	DDD4K.03380	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89350537CTTTTTT>CT	NM_001256183.1	hayir	codingComplex	diger (codingComplex)	c.2408_2412del5	p.(K803Rfs*5)		803	3
+ANKRD11	DDD4K.01752	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89350537CTTTTTT>CT	NM_001256182.1	hayir	codingComplex	diger (codingComplex)	c.2408_2412del5	p.(K803Rfs*5)		803	3
+ANKRD11	DDD4K.01925	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89350548TTTTCTTT>TTTT	NM_001256182.1	hayir	codingComplex	diger (codingComplex)	c.2398_2401del4	p.(K800Nfs*62)		800	3
+ANKRD11	Lelieveld_402	Lelieveld2016	27479843	intellectualDisability	exome	820	GRCh37 (denovo-db v1.6.1)	chr16:89350549TTTTC>T	NM_013275.5	hayir	frameshift	LoF	NA	KE799			1
+ANKRD11	DDD4K.00294	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89350552CT>C	NM_001256182.1	hayir	frameshift	LoF	c.2397del1	p.(E800Kfs*63)		800	3
+ANKRD11	DDD4K.01557	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89350675TCA>T	NM_001256182.1	hayir	frameshift	LoF	c.2273_2274del2	p.(L758Qfs*23)		758	3
+ANKRD11	TOF5135998	Sifrim2016	27479907	congenital_heart_disease	exome	859	GRCh37 (denovo-db v1.6.1)	chr16:89350711A>C	NM_013275.5	hayir	missense	missense	c.2239T>G	p.(S747A)		747	3
+ANKRD11	Lelieveld_214	Lelieveld2016	27479843	intellectualDisability	exome	820	GRCh37 (denovo-db v1.6.1)	chr16:89350854TTTCTC>T	NM_013275.5	hayir	frameshift	LoF	NA	EEK697			1
+ANKRD11	DDD4K.01424	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89351005TGATGGAACAC>T	NM_001256182.1	hayir	frameshift	LoF	c.1935_1944del10	p.(C646Afs*4)		646	3
+ANKRD11	DDD4K.00909	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89351042GTGTTTTGTTTT>GTGTTTT	NM_001256182.1	hayir	codingComplex	diger (codingComplex)	c.1903_1907del5	p.(K635Qfs*26)		635	3
+ANKRD11	DDD4K.00161	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89351042GTGTTTTGTTTT>GTGTTTT	NM_001256182.1	hayir	codingComplex	diger (codingComplex)	c.1903_1907del5	p.(K635Qfs*26)		635	3
+ANKRD11	DDD4K.02162	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89351042GTGTTTTGTTTT>GTGTTTT	NM_001256182.1	hayir	codingComplex	diger (codingComplex)	c.1903_1907del5	p.(K635Qfs*26)		635	3
+ANKRD11	DDD4K.04168	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89351042GTGTTTTGTTTT>GTGTTTT	NM_013275.5	hayir	codingComplex	diger (codingComplex)	c.1903_1907del5	p.(K635Qfs*26)		635	3
+ANKRD11	DDD4K.02119	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89351056GTTTTTT>GTTTTT	NM_001256182.1	hayir	codingComplex	diger (codingComplex)	c.1893del1	p.(K631Nfs*22)		631	3
+ANKRD11	DDD4K.02005	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89351149G>A	NM_001256182.1	hayir	stop-gained	LoF	c.1801C>T	p.(R601*)		601	3
+ANKRD11	DDD4K.01868	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89351378C>T	NM_001256182.1	hayir	synonymous	sinonim	c.1572G>A	p.(S524=)		524	3
+ANKRD11	3325-1	Fromer2014	24463507	schizophrenia	exome	623	GRCh37 (denovo-db v1.6.1)	chr16:89351546G>A	NM_001256183.1	hayir	synonymous	sinonim	c.1404C>T	p.(R468=)		468	3
+ANKRD11	DDD4K.02806	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89351590CTTTATTT>CTTT	NM_001256182.1	hayir	codingComplex	diger (codingComplex)	c.1356_1359del4	p.(N453*fs*1)		453	3
+ANKRD11	DDD4K.00349	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89357059GCCCCC>GCCCC	NM_001256182.1	hayir	codingComplex	diger (codingComplex)	c.574del1	p.(A192Qfs*36)		192	4
+ANKRD11	DDD4K.01470	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89357095TCCCC>TCCC	NM_013275.5	hayir	codingComplex	diger (codingComplex)	c.538del1	p.(D180Tfs*48)		180	4
+ANKRD11	DDD4K.04092	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr16:89367291G>C	NM_001256183.1	hayir	intron	diger (intron)	c.226+4323C>G	NA			4
+ANKRD11	AU066104	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr16:89382592G>A	NM_001256182.1	hayir	intron	diger (intron)	c.87+749C>T	NA			4
+ANKRD11	AU054103	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr16:89400267TTCT>TT	NM_013275.5	hayir	intron	diger (intron)	c.-16842_-16841del2	NA			5
+ANKRD11	AU3885304	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr16:89405024T>C	NM_001256182.1	hayir	intron	diger (intron)	c.-21597A>G	NA			4
+ANKRD11	AU2123302	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr16:89410197G>A	NM_001256183.1	hayir	intron	diger (intron)	c.-26770C>T	NA			4
+ANKRD11	AU072905	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr16:89423622G>A	NM_013275.5	hayir	intron	diger (intron)	c.-40195C>T	NA			4
+ANKRD11	3-0438-000	Yuen2016	27525107	autism	genome	200	GRCh37 (denovo-db v1.6.1)	chr16:89447934T>C	NM_001256183.1	hayir	intron	diger (intron)	c.-64507A>G	NA			4
+ANKRD11	Proband-1304	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr16:89462807G>T	NM_013275.5	hayir	intron	diger (intron)	c.-79380C>A	NA			4
+ANKRD11	Proband-1304	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr16:89464082C>T	NM_001256183.1	hayir	intron	diger (intron)	c.-80655G>A	NA			4
+ANKRD11	1-0638-003	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr16:89472316G>C	NM_013275.5	hayir	intron	diger (intron)	c.-88889C>G	NA			4
+ANKRD11	2-1292-003	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr16:89472903C>T	NM_001256182.1	hayir	intron	diger (intron)	c.-89476G>A	NA			4
+ANKRD11	Proband-891	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr16:89479457A>G	NM_001256183.1	hayir	intron	diger (intron)	c.-96030T>C	NA			4
+ANKRD11	Proband-1431	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr16:89480223G>A	NM_001256182.1	hayir	intron	diger (intron)	c.-96796C>T	NA			4
+ANKRD11	1-0508-003	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr16:89500899G>A	NM_013275.5	hayir	intron	diger (intron)	c.-117472C>T	NA			4
+ANKRD11	Proband-1102	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr16:89524850TCTCGATCTCCTGAC>T	NM_013275.5	hayir	intron	diger (intron)	c.-141437_-141424del14	NA			5
+ANKRD11	2-1246-003	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr16:89527424C>G	NM_001256182.1	hayir	intron	diger (intron)	c.-143997G>C	NA			4
+ANKRD11	Proband-1018	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr16:89536492T>G	NM_001256183.1	hayir	intron	diger (intron)	c.-153065A>C	NA			4
+ANKRD11	2-1264-003	Yuen2016	27525107	autism	genome	200	GRCh37 (denovo-db v1.6.1)	chr16:89537069T>C	NM_001256182.1	hayir	intron	diger (intron)	c.-153642A>G	NA			4
+ANKRD11	AU2793302	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr16:89538239A>T	NM_001256183.1	hayir	intron	diger (intron)	c.-154812T>A	NA			4
+ANKRD11	Proband-721	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr16:89538338T>C	NM_001256183.1	hayir	intron	diger (intron)	c.-154911A>G	NA			4
+CHD8	Lelieveld_57	Lelieveld2016	27479843	intellectualDisability	exome	820	GRCh37 (denovo-db v1.6.1)	chr14:21860711A>C	NM_001170629.1	hayir	synonymous	sinonim	c.6726T>G	p.(L2242=)		2242	2
+CHD8	37	McCarthy2014	24776741	schizophrenia	exome	57	GRCh37 (denovo-db v1.6.1)	chr14:21860919G>T	NM_001170629.1	hayir	stop-gained	LoF	c.6518C>A	p.(S2173*)		2173	2
+CHD8	1-0559-003	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr14:21861805G>GT	NM_001170629.1	hayir	frameshift	LoF	c.6148_6149insA	p.(T2050Nfs*17)		2050	2
+CHD8	214-17110-1	ASD3	25418537	autism	targeted	3486	GRCh37 (denovo-db v1.6.1)	chr14:21862535G>A	NM_001170629.1	hayir	stop-gained	LoF	c.5500C>T	p.(R1834*)		1834	2
+CHD8	Lelieveld_57	Lelieveld2016	27479843	intellectualDisability	exome	820	GRCh37 (denovo-db v1.6.1)	chr14:21863457C>G	NM_001170629.1	hayir	missense-near-splice	missense	c.5182G>C	p.(A1728P)		1728	2
+CHD8	2-1176-003	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr14:21865980A>T	NM_001170629.1	hayir	splice-donor	LoF	c.5051+2T>A	NA			2
+CHD8	211-5221-3	ASD3	25418537	autism	targeted	3486	GRCh37 (denovo-db v1.6.1)	chr14:21865980A>T	NM_001170629.1	hayir	splice-donor	LoF	c.5051+2T>A	NA			2
+CHD8	211-5264-4	ASD3	25418537	autism	targeted	3486	GRCh37 (denovo-db v1.6.1)	chr14:21867866T>G	NM_001170629.1	hayir	splice-acceptor	LoF	c.4818-2A>C	NA			2
+CHD8	217-14002-100	ASD3	25418537	autism	targeted	3486	GRCh37 (denovo-db v1.6.1)	chr14:21868219G>A	NM_001170629.1	hayir	missense	missense	c.4738C>T	p.(R1580W)		1580	2
+CHD8	Proband-129	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr14:21868308A>C	NM_001170629.1	hayir	splice-donor	LoF	c.4727+2T>G	NA			2
+CHD8	DDD4K.01670	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr14:21869143CAGAGA>CAGA	NM_001170629.1	hayir	codingComplex	diger (codingComplex)	c.4259_4260del2	p.(F1420*fs*1)		1420	2
+CHD8	AU3777302	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr14:21870498A>T	NM_001170629.1	hayir	synonymous	sinonim	c.3879T>A	p.(T1293=)		1293	2
+CHD8	ASDFI_1077	DeRubeis2014	25363760	autism	exome	1445	GRCh37 (denovo-db v1.6.1)	chr14:21870652C>T	NM_001170629.1	hayir	missense	missense	c.3725G>A	p.(R1242Q)		1242	2
+CHD8	220-9823-203	ASD3	25418537	autism	targeted	3486	GRCh37 (denovo-db v1.6.1)	chr14:21876489C>T	NM_001170629.1	hayir	missense	missense	c.2712G>A	p.(M904I)		904	2
+CHD8	AU036A	DeRubeis2014	25363760	autism	exome	1445	GRCh37 (denovo-db v1.6.1)	chr14:21876700A>G	NM_001170629.1	hayir	missense	missense	c.2501T>C	p.(L834P)		834	2
+CHD8	217-14255-3780	ASD3	25418537	autism	targeted	3486	GRCh37 (denovo-db v1.6.1)	chr14:21882516G>T	NM_001170629.1	hayir	missense	missense	c.2086C>A	p.(Q696K)		696	2
+CHD8	DDD4K.03815	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr14:21882543G>A	NM_001170629.1	hayir	stop-gained	LoF	c.2059C>T	p.(Q687*)		687	2
+CHD8	DDD4K.01909	DDD_2017	28135719	developmentalDisorder	exome	4293	GRCh37 (denovo-db v1.6.1)	chr14:21883883C>A	NM_001170629.1	hayir	splice-donor	LoF	c.1899+1G>T	NA			2
+CHD8	Proband-388	Jonsson2017	28959963	mixed	genome	1548	GRCh37 (denovo-db v1.6.1)	chr14:21889719T>C	NM_001170629.1	hayir	intron	diger (intron)	c.1716+4568A>G	NA			2
+CHD8	220-9806-201	ASD3	25418537	autism	targeted	3486	GRCh37 (denovo-db v1.6.1)	chr14:21899168C>T	NM_020920.3	hayir	intron	diger (intron)	c.6+802G>A	NA			2
+CHD8	Lelieveld_568	Lelieveld2016	27479843	intellectualDisability	exome	820	GRCh37 (denovo-db v1.6.1)	chr14:21899626CC>C	NM_001170629.1	hayir	frameshift	LoF	c.176del1	p.(N60Ifs*31)		60	2
+CHD8	2-1323-003	Yuen2016	27525107	autism	genome	200	GRCh37 (denovo-db v1.6.1)	chr14:21908963T>C	XM_005267923.1	hayir	intron	diger (intron)	c.-9161A>G	NA			3
+CHD8	1-0285-004	Yuen2017	28263302	autism	genome	1625	GRCh37 (denovo-db v1.6.1)	chr14:21923053C>T	XM_005267923.1	hayir	intron	diger (intron)	c.-23251G>A	NA			3

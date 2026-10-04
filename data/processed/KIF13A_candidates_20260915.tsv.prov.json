@@ -1,0 +1,17 @@
+{
+  "file": "data/processed/KIF13A_candidates_20260915.tsv",
+  "sha256": "9a85d65dd15d7f64aea04686dd2a7a39e8129dbebae3f7fb71a981a167062cd9",
+  "bytes": 449287,
+  "retrieved_utc": "2026-09-15T18:40:46+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: gnomAD v4.1 + Ensembl VEP + KIF1A calibration sets + paralog map",
+  "urls": [
+    "https://rest.ensembl.org/vep/human/region"
+  ],
+  "tool": "scripts/build_kif13a_candidates.py",
+  "params": {
+    "am_cutoff": 0.968,
+    "af_max": 0.0001
+  },
+  "n_records": 2671
+}

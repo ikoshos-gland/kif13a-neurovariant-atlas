@@ -1,0 +1,19 @@
+{
+  "file": "data/interim/evo2/control_panel_af_matched_negatives_w8192_20260915.tsv",
+  "sha256": "918434f13f67bb6c48594172ac2cc34bedaefd81b4c91b1e72ecf9914c09482f",
+  "bytes": 1289,
+  "retrieved_utc": "2026-09-15T17:11:39+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "NVIDIA NIM arc/evo2-40b forward",
+  "urls": [
+    "https://health.api.nvidia.com/v1/biology/arc/evo2-40b/forward"
+  ],
+  "tool": "scripts/evo2_control_panel.py (AF-matched negatives)",
+  "params": {
+    "af_range": [
+      0.01,
+      0.1
+    ]
+  },
+  "n_records": 4
+}

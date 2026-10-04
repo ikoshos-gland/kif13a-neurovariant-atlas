@@ -1,0 +1,13 @@
+{
+  "file": "data/interim/casefinding/KIF13A_clinvar_cnv_overlaps_20260916.tsv",
+  "sha256": "fe7508ca5c39db62436b7ef612205a29a677089d6481bc7b5ef9a85fe0f5808c",
+  "bytes": 7642,
+  "retrieved_utc": "2026-09-16T07:06:18+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "NCBI ClinVar via E-utilities",
+  "tool": "esearch/esummary db=clinvar",
+  "accessed": "2026-09-16",
+  "gene": "KIF13A (HGNC:14566)",
+  "note": "ClinVar records overlapping KIF13A that are NOT single-gene, plus summary counts.",
+  "n_records": 21
+}

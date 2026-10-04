@@ -1,0 +1,45 @@
+{
+  "file": "data/interim/regional_constraint/per_domain_20260916_bins12.tsv",
+  "sha256": "06ec05942092f11f35c3d288f9c967d0c22eaec6b5466434d3cf660af0593863",
+  "bytes": 5993,
+  "retrieved_utc": "2026-09-16T14:16:56+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: regional missense constraint per domain",
+  "urls": [
+    "https://gnomad.broadinstitute.org/api",
+    "https://rest.ensembl.org",
+    "https://raw.githubusercontent.com/jeremymcrae/denovonear/master/src/denovonear/data/rates.txt"
+  ],
+  "tool": "scripts/regional_constraint.py",
+  "params": {
+    "kif13a_domains": [
+      [
+        5,
+        352,
+        "motor"
+      ],
+      [
+        353,
+        380,
+        "boyun baglayici"
+      ],
+      [
+        381,
+        468,
+        "CC1"
+      ],
+      [
+        469,
+        519,
+        "FHA"
+      ],
+      [
+        520,
+        1805,
+        "kuyruk"
+      ]
+    ],
+    "max_af": 0.001
+  },
+  "n_records": 25
+}

@@ -1,0 +1,56 @@
+{
+ "am_cutoff_calibrated": 0.9732,
+ "am_cutoff_generic": 0.564,
+ "n_missense": 1336,
+ "n_confidently_observed": 1250,
+ "n_over_calibrated": 101,
+ "n_over_generic": 399,
+ "n_over_calibrated_confident": 89,
+ "n_over_generic_confident": 359,
+ "tiers": {
+  "A": {
+   "all": 23,
+   "confident": 19
+  },
+  "B": {
+   "all": 45,
+   "confident": 43
+  },
+  "C": {
+   "all": 33,
+   "confident": 27
+  },
+  "D": {
+   "all": 30,
+   "confident": 22
+  },
+  "-": {
+   "all": 1205,
+   "confident": 1139
+  }
+ },
+ "tier_A_examples": [
+  "C794R (AM 0.9996, NSD1 C1635G)",
+  "C1108R (AM 0.9995, NSD1 C1905G)",
+  "C1108Y (AM 0.9994, NSD1 C1905G)",
+  "C1341R (AM 0.9992, NSD1 C2138S;C2138R)",
+  "D1211V (AM 0.999, NSD1 D2008H)",
+  "C794S (AM 0.9973, NSD1 C1635G)",
+  "D1211E (AM 0.9969, NSD1 D2008H)",
+  "C1324S (AM 0.9956, NSD1 C2121G;C2121Y)",
+  "G1176C (AM 0.9955, NSD1 G1973R;G1973D;G1973V)",
+  "C794Y (AM 0.9953, NSD1 C1635G)",
+  "C770Y (AM 0.9934, NSD1 C1611Y;C1611R)",
+  "W1157S (AM 0.9915, NSD1 W1954C)"
+ ],
+ "tier_A_by_domain": {
+  "SET": 10,
+  "PHD2": 5,
+  "AWS": 4,
+  "PHD5": 3,
+  "PHD3": 1
+ },
+ "n_identical_residue": 554,
+ "n_in_shared_module": 666,
+ "saved": "data/processed/NSD3_candidates_20260917.tsv"
+}

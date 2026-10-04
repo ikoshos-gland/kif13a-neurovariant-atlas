@@ -1,0 +1,16 @@
+{
+  "file": "data/interim/regional_constraint/gene_level_reproduction_20260916_rawrates.tsv",
+  "sha256": "99e72cfd7621053b011caad1f1486bed0f92d7ec0e233e0ac844cb5c64a4832d",
+  "bytes": 4323,
+  "retrieved_utc": "2026-09-16T14:16:39+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: this pipeline vs gnomAD v4.1 published constraint",
+  "urls": [
+    "https://gnomad.broadinstitute.org/api"
+  ],
+  "tool": "scripts/regional_constraint.py",
+  "params": {
+    "max_af": 0.001
+  },
+  "n_records": 11
+}

@@ -1,0 +1,19 @@
+{
+  "file": "data/interim/clinvar_curation/KIF1A_consensus_rank_mean_20260915.tsv",
+  "sha256": "27ea7370ca2868379bfb19315954fefc672a4c3fec3ffc94df7c1c21158a2fd8",
+  "bytes": 16766,
+  "retrieved_utc": "2026-09-15T18:08:11+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: rank-mean consensus of non-label-trained models",
+  "urls": [],
+  "tool": "scripts/consensus_rank_mean.py",
+  "params": {
+    "models": [
+      "am_pathogenicity",
+      "esm1b",
+      "primateai",
+      "cadd_phred"
+    ]
+  },
+  "n_records": 171
+}

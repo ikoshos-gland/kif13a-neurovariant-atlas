@@ -1,0 +1,11 @@
+{
+  "file": "data/interim/nsd_pair/NSD1_NSD3_domain_identity_20260917.tsv",
+  "sha256": "af10ba1f6ed716b7faeb5fd6045b6da444d0b7bc7924b57e68323d475773c132",
+  "bytes": 1046,
+  "retrieved_utc": "2026-09-17T18:43:30+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "tool": "scripts/nsd_pair_calibration.py",
+  "source": "derived: paralog residue map, identity computed per annotated domain",
+  "urls": [],
+  "n_records": 16
+}

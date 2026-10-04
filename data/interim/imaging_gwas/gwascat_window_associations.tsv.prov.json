@@ -1,0 +1,9 @@
+{
+  "file": "data/interim/imaging_gwas/gwascat_window_associations.tsv",
+  "sha256": "8dab7f3e3c45499120cca830897c7493a47055e7d40414ddfa7b32e06c4420b9",
+  "bytes": 14828,
+  "retrieved_utc": "2026-09-17T19:49:04+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "https://www.ebi.ac.uk/gwas/rest/api/singleNucleotidePolymorphisms/search/findByChromBpLocationRange?chrom=6&bpStart=17508198&bpEnd=18238274&size=500",
+  "note": "GWAS Catalog, KIF13A +-250kb (GRCh38 chr6:17508198-18238274), 135 SNP, 187 iliski"
+}

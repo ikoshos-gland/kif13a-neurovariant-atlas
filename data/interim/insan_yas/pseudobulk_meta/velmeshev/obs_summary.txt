@@ -1,0 +1,30 @@
+file raw/velmeshev.h5ad
+n_obs 709372 n_var 17631
+count matrix raw/X encoding csr_matrix shape (np.int64(709372), np.int64(17631))
+count sample integer=True min=1.0 max=2961.0 dtype=float32
+main X sample (integer, min, max, dtype) = (False, 0.32171547412872314, 7.041316032409668, 'float32')
+var columns ['feature_name', 'feature_reference', 'feature_biotype', 'feature_length', 'feature_type']
+
+tissue_ontology_term_id	category	10	['UBERON:0001870', 'UBERON:0003027', 'UBERON:0034891', 'UBERON:0000956', 'UBERON:0016538', 'UBERON:0004025', 'UBERON:0004026', 'UBERON:0004024']
+assay_ontology_term_id	category	3	['EFO:0009899', 'EFO:0009922', 'EFO:0030059']
+disease_ontology_term_id	category	1	['PATO:0000461']
+cell_type_ontology_term_id	category	6	['CL:0002453', 'unknown', 'CL:0002319', 'CL:0000128', 'CL:0000129', 'CL:0000127']
+self_reported_ethnicity_ontology_term_id	category	1	['unknown']
+development_stage_ontology_term_id	category	40	['HsapDv:0000106', 'HsapDv:0000108', 'HsapDv:0000116', 'HsapDv:0000115', 'HsapDv:0000113', 'HsapDv:0000107', 'HsapDv:0000109', 'HsapDv:0000102']
+sex_ontology_term_id	category	2	['PATO:0000384', 'PATO:0000383']
+donor_id	category	106	['5387', '5163', '5958', '5577', '5893', '5554', '4341', '5242']
+suspension_type	category	1	['nucleus']
+is_primary_data	bool	1	['True']
+sample	category	169	['5387_BA9', '5163_BA24', '5958_BA24', '5577_BA9', '5958_BA9', '5893_PFC', '5554_BA24', '5893_BA24']
+dataset	category	4	['Velmeshev', 'Ramos', 'Herring', 'Trevino']
+region	category	24	['BA9', 'BA24', 'PFC', 'BA46', 'FIC', 'FC', 'Cing', 'INS']
+PMI	int64	32	['13', '12', '24', '19', '11', '15', '16', '9']
+tissue_type	category	1	['tissue']
+cell_type	category	6	['oligodendrocyte precursor cell', 'unknown', 'neural cell', 'oligodendrocyte', 'microglial cell', 'astrocyte']
+assay	category	3	["10x 3' v2", "10x 3' v3", '10x multiome']
+disease	category	1	['normal']
+sex	category	2	['male', 'female']
+tissue	category	10	['frontal cortex', 'cingulate cortex', 'insular cortex', 'cerebral cortex', 'temporal cortex', 'lateral ganglionic eminence', 'caudal ganglionic eminence', 'medial ganglionic eminence']
+self_reported_ethnicity	category	1	['unknown']
+development_stage	category	40	['12-year-old stage', '14-year-old stage', '22-year-old stage', '21-year-old stage', '19-year-old stage', '13-year-old stage', '15-year-old stage', '8-year-old stage']
+observation_joinid	object	709372	['NLsy@+9O(!', '?z*%FX07mf', '`xdGX($pq=', 'gNR8C$@9v7', '$gA}zc;hB|', 'LXmhVn8~v-', '7;K+IOyt=*', '?ad3ETClpJ']

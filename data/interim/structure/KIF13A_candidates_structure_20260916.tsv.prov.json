@@ -1,0 +1,18 @@
+{
+  "file": "data/interim/structure/KIF13A_candidates_structure_20260916.tsv",
+  "sha256": "862991f29c68d14632a4ae6f8284c9157df9e6e4f00c87a418f862da12d5957e",
+  "bytes": 283431,
+  "retrieved_utc": "2026-09-16T07:08:54+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: data/processed/KIF13A_candidates_20260915.tsv + structural axis",
+  "urls": [
+    "https://files.rcsb.org/download/8UTN.cif"
+  ],
+  "tool": "scripts/structure_axis.py",
+  "params": {
+    "pdb_id": "8UTN",
+    "kif1a_chain": "K",
+    "trimmed_rmsd_A": 1.034
+  },
+  "n_records": 2671
+}

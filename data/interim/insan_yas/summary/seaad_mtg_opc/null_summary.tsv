@@ -1,0 +1,2 @@
+n_genes_null	kif13a_t	kif13a_beta	emp_p_all_two_sided	pct_rank_t_all	all_median_abs_t	frac_genes_p_lt_0_05	n_matched	emp_p_matched_two_sided	pct_rank_t_matched	dataset	celltype
+17459	-1.520163873517307	-0.0949091685176416	0.42648490749756574	0.06168738186608626	1.3188399901461423	0.27240964545506613	100	0.42	0.39	seaad_mtg_opc	OPC

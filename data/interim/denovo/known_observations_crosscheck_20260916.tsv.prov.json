@@ -1,0 +1,15 @@
+{
+  "file": "data/interim/denovo/known_observations_crosscheck_20260916.tsv",
+  "sha256": "357d9203d52ca153e3023b4bddc26a6e335d47caa02378ccc0c14b89fbcde2fb",
+  "bytes": 237,
+  "retrieved_utc": "2026-09-16T14:35:16+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "Cross-check of the three known human KIF13A observations against the assembled de novo cohorts",
+  "urls": [
+    "https://java.genemed.tech/admin-api/backend/data/hg38/gene4denovo2_all/geneSymbol/page",
+    "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7116826/supplementaryFiles",
+    "https://denovo-db.gs.washington.edu/denovo-db.non-ssc-samples.variants.tsv.gz"
+  ],
+  "tool": "scripts/denovo_axis.py",
+  "n_records": 3
+}

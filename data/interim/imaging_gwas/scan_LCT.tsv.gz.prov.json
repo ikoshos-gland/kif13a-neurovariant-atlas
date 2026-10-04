@@ -1,0 +1,12 @@
+{
+  "file": "data/interim/imaging_gwas/scan_LCT.tsv.gz",
+  "sha256": "a7a5514a7560ee456e82fdfd3e3040dd2e750185999075bcb6a96d5156acfd4c",
+  "bytes": 143365,
+  "retrieved_utc": "2026-09-17T19:17:37+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "https://open.win.ox.ac.uk/ukbiobank/big40/pheweb33k/api/region/<IDP>/lz-results/?filter=chr2:136295410-136844750",
+  "note": "BIG40 33k, LCT +-250kb, 683 IDP, p<0.05 satirlari",
+  "n_idp": 683,
+  "window": "2:136295410-136844750",
+  "build": "GRCh37"
+}

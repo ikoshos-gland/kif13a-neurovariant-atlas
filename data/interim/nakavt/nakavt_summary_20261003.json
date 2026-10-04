@@ -1,0 +1,1571 @@
+{
+  "ddg2p_target_rows": [
+    {
+      "g2p id": "G2P00959",
+      "gene": "KIF1A",
+      "disease name": "KIF1A-related NESCAV syndrome",
+      "allelic requirement": "monoallelic_autosomal",
+      "confidence": "definitive",
+      "variant consequence": "altered gene product structure",
+      "molecular mechanism": "undetermined",
+      "panel": "DD"
+    },
+    {
+      "g2p id": "G2P00963",
+      "gene": "KIF1A",
+      "disease name": "KIF1A-related neuropathy, hereditary sensory",
+      "allelic requirement": "biallelic_autosomal",
+      "confidence": "definitive",
+      "variant consequence": "absent gene product",
+      "molecular mechanism": "loss of function",
+      "panel": "DD"
+    }
+  ],
+  "ddg2p_n_ardd_lof_genes": 1127,
+  "gnomad_q": {
+    "KIF13A": {
+      "cls_all_plof": {
+        "n_variants": 204,
+        "allele_count": 765,
+        "q_joint": 0.00047842379089545477,
+        "q_rgc_weighted": 0.00046876615244703554,
+        "q_afr": 0.00036550497301878,
+        "hom_afr": 0,
+        "q_amr": 0.0003898555286905523,
+        "hom_amr": 0,
+        "q_asj": 0.0002441657291949444,
+        "hom_asj": 0,
+        "q_eas": 0.0004968549794017401,
+        "hom_eas": 0,
+        "q_fin": 0.0007153583525499234,
+        "hom_fin": 0,
+        "q_mid": 0.0,
+        "hom_mid": 0,
+        "q_nfe": 0.0004874119160676179,
+        "hom_nfe": 1,
+        "q_sas": 0.00043769429947171585,
+        "hom_sas": 0,
+        "q_ami": 0.0,
+        "hom_ami": 0,
+        "q_remaining": 0.0005009459107435303,
+        "hom_remaining": 0,
+        "hom_joint": 1
+      },
+      "cls_hc_any": {
+        "n_variants": 162,
+        "allele_count": 440,
+        "q_joint": 0.00027688890790161726,
+        "q_rgc_weighted": 0.00027964962741483464,
+        "q_afr": 0.00033881410646212546,
+        "hom_afr": 0,
+        "q_amr": 0.00037311912701691217,
+        "hom_amr": 0,
+        "q_asj": 0.0002441657291949444,
+        "hom_asj": 0,
+        "q_eas": 0.00043000906512378887,
+        "hom_eas": 0,
+        "q_fin": 0.00024303229241022148,
+        "hom_fin": 0,
+        "q_mid": 0.0,
+        "hom_mid": 0,
+        "q_nfe": 0.00026014814147161587,
+        "hom_nfe": 0,
+        "q_sas": 0.00037174137140729975,
+        "hom_sas": 0,
+        "q_ami": 0.0,
+        "hom_ami": 0,
+        "q_remaining": 0.00026059094786709313,
+        "hom_remaining": 0,
+        "hom_joint": 0
+      },
+      "cls_hc_snv": {
+        "n_variants": 94,
+        "allele_count": 333,
+        "q_joint": 0.0002094108053741778,
+        "q_rgc_weighted": 0.00021535993176320659,
+        "q_afr": 0.00024310972197843117,
+        "hom_afr": 0,
+        "q_amr": 0.00029576228877636467,
+        "hom_amr": 0,
+        "q_asj": 0.00010812055578816003,
+        "hom_asj": 0,
+        "q_eas": 0.0003854249172999566,
+        "hom_eas": 0,
+        "q_fin": 9.537663217686869e-05,
+        "hom_fin": 0,
+        "q_mid": 0.0,
+        "hom_mid": 0,
+        "q_nfe": 0.00019948529353752383,
+        "hom_nfe": 0,
+        "q_sas": 0.00031496732728471006,
+        "hom_sas": 0,
+        "q_ami": 0.0,
+        "hom_ami": 0,
+        "q_remaining": 0.0001802162276888797,
+        "hom_remaining": 0,
+        "hom_joint": 0
+      },
+      "cls_true_lof": {
+        "n_variants": 158,
+        "allele_count": 308,
+        "q_joint": 0.00019457580019358219,
+        "q_rgc_weighted": 0.00019177947449368056,
+        "q_afr": 0.0002719888411658222,
+        "hom_afr": 0,
+        "q_amr": 0.0002554839305661341,
+        "hom_amr": 0,
+        "q_asj": 0.0002441657291949444,
+        "hom_asj": 0,
+        "q_eas": 0.00029603862793359546,
+        "hom_eas": 0,
+        "q_fin": 0.00024303229241022148,
+        "hom_fin": 0,
+        "q_mid": 0.0,
+        "hom_mid": 0,
+        "q_nfe": 0.00017652697364192222,
+        "hom_nfe": 0,
+        "q_sas": 0.0002162145906636687,
+        "hom_sas": 0,
+        "q_ami": 0.0,
+        "hom_ami": 0,
+        "q_remaining": 0.0002284283336898128,
+        "hom_remaining": 0,
+        "hom_joint": 0
+      },
+      "cls_true_lof_snv": {
+        "n_variants": 90,
+        "allele_count": 201,
+        "q_joint": 0.00012709769766614272,
+        "q_rgc_weighted": 0.00012748977884205256,
+        "q_afr": 0.00017628445668212795,
+        "hom_afr": 0,
+        "q_amr": 0.00017812709232558656,
+        "hom_amr": 0,
+        "q_asj": 0.00010812055578816003,
+        "hom_asj": 0,
+        "q_eas": 0.0002514544801097632,
+        "hom_eas": 0,
+        "q_fin": 9.537663217686869e-05,
+        "hom_fin": 0,
+        "q_mid": 0.0,
+        "hom_mid": 0,
+        "q_nfe": 0.00011586412570783017,
+        "hom_nfe": 0,
+        "q_sas": 0.00015944054654107903,
+        "hom_sas": 0,
+        "q_ami": 0.0,
+        "hom_ami": 0,
+        "q_remaining": 0.00014805361351159937,
+        "hom_remaining": 0,
+        "hom_joint": 0
+      },
+      "structure": {
+        "n_exons": 39,
+        "cds_length": 5418,
+        "protein_length": 1805,
+        "last_junction_cds": 4581,
+        "escape_from_cds": 4532
+      }
+    },
+    "KIF1A": {
+      "cls_all_plof": {
+        "n_variants": 107,
+        "allele_count": 1188,
+        "q_joint": 0.0007852920074001697,
+        "q_rgc_weighted": 0.0008272182724009724,
+        "q_afr": 0.0003406077645761884,
+        "hom_afr": 0,
+        "q_amr": 0.0004624595736148929,
+        "hom_amr": 0,
+        "q_asj": 0.0006005594781301166,
+        "hom_asj": 0,
+        "q_eas": 0.00023042576272233248,
+        "hom_eas": 0,
+        "q_fin": 0.00019655303029473612,
+        "hom_fin": 0,
+        "q_mid": 0.0004282288752584664,
+        "hom_mid": 0,
+        "q_nfe": 0.0009350227595596041,
+        "hom_nfe": 0,
+        "q_sas": 0.0004329810744285439,
+        "hom_sas": 0,
+        "q_ami": 0.0,
+        "hom_ami": 0,
+        "q_remaining": 0.0004890945297627799,
+        "hom_remaining": 0,
+        "hom_joint": 0
+      },
+      "cls_hc_any": {
+        "n_variants": 103,
+        "allele_count": 1174,
+        "q_joint": 0.0007723849149945476,
+        "q_rgc_weighted": 0.0008093961131036821,
+        "q_afr": 0.00034060776457618837,
+        "hom_afr": 0,
+        "q_amr": 0.0003359733606121102,
+        "hom_amr": 0,
+        "q_asj": 0.0005157802600032216,
+        "hom_asj": 0,
+        "q_eas": 0.00023042576272233248,
+        "hom_eas": 0,
+        "q_fin": 0.0001965530302947361,
+        "hom_fin": 0,
+        "q_mid": 0.0004282288752584664,
+        "hom_mid": 0,
+        "q_nfe": 0.0009271253375023451,
+        "hom_nfe": 0,
+        "q_sas": 0.0004329810744285439,
+        "hom_sas": 0,
+        "q_ami": 0.0,
+        "hom_ami": 0,
+        "q_remaining": 0.0004890945297627799,
+        "hom_remaining": 0,
+        "hom_joint": 0
+      },
+      "cls_hc_snv": {
+        "n_variants": 54,
+        "allele_count": 920,
+        "q_joint": 0.0005865627414673215,
+        "q_rgc_weighted": 0.0006167602155692035,
+        "q_afr": 0.000244868996699363,
+        "hom_afr": 0,
+        "q_amr": 9.052347903378027e-05,
+        "hom_amr": 0,
+        "q_asj": 0.0003064266525216289,
+        "hom_asj": 0,
+        "q_eas": 0.00013490785365728812,
+        "hom_eas": 0,
+        "q_fin": 6.600027399380443e-05,
+        "hom_fin": 0,
+        "q_mid": 0.0004282288752584664,
+        "hom_mid": 0,
+        "q_nfe": 0.0007300592439514817,
+        "hom_nfe": 0,
+        "q_sas": 0.00026586224402602244,
+        "hom_sas": 0,
+        "q_ami": 0.0,
+        "hom_ami": 0,
+        "q_remaining": 0.00033692731726058363,
+        "hom_remaining": 0,
+        "hom_joint": 0
+      },
+      "cls_true_lof": {
+        "n_variants": 102,
+        "allele_count": 1173,
+        "q_joint": 0.0007714415258880502,
+        "q_rgc_weighted": 0.0008082761272571042,
+        "q_afr": 0.00034060776457618837,
+        "hom_afr": 0,
+        "q_amr": 0.00033597336061211026,
+        "hom_amr": 0,
+        "q_asj": 0.0005157802600032216,
+        "hom_asj": 0,
+        "q_eas": 0.00023042576272233248,
+        "hom_eas": 0,
+        "q_fin": 0.0001965530302947361,
+        "hom_fin": 0,
+        "q_mid": 0.0004282288752584664,
+        "hom_mid": 0,
+        "q_nfe": 0.0009257074890590009,
+        "hom_nfe": 0,
+        "q_sas": 0.0004329810744285439,
+        "hom_sas": 0,
+        "q_ami": 0.0,
+        "hom_ami": 0,
+        "q_remaining": 0.0004890945297627798,
+        "hom_remaining": 0,
+        "hom_joint": 0
+      },
+      "cls_true_lof_snv": {
+        "n_variants": 54,
+        "allele_count": 920,
+        "q_joint": 0.0005865627414673215,
+        "q_rgc_weighted": 0.0006167602155692035,
+        "q_afr": 0.000244868996699363,
+        "hom_afr": 0,
+        "q_amr": 9.052347903378027e-05,
+        "hom_amr": 0,
+        "q_asj": 0.0003064266525216289,
+        "hom_asj": 0,
+        "q_eas": 0.00013490785365728812,
+        "hom_eas": 0,
+        "q_fin": 6.600027399380443e-05,
+        "hom_fin": 0,
+        "q_mid": 0.0004282288752584664,
+        "hom_mid": 0,
+        "q_nfe": 0.0007300592439514817,
+        "hom_nfe": 0,
+        "q_sas": 0.00026586224402602244,
+        "hom_sas": 0,
+        "q_ami": 0.0,
+        "hom_ami": 0,
+        "q_remaining": 0.00033692731726058363,
+        "hom_remaining": 0,
+        "hom_joint": 0
+      },
+      "structure": {
+        "n_exons": 49,
+        "cds_length": 5376,
+        "protein_length": 1791,
+        "last_junction_cds": 5333,
+        "escape_from_cds": 5284
+      }
+    },
+    "KIF13B": {
+      "cls_all_plof": {
+        "n_variants": 301,
+        "allele_count": 902,
+        "q_joint": 0.0006262680058138254,
+        "q_rgc_weighted": 0.0006258350768536513,
+        "q_afr": 0.0005886430034218106,
+        "hom_afr": 0,
+        "q_amr": 0.0007449121763793832,
+        "hom_amr": 0,
+        "q_asj": 0.0004920510355130639,
+        "hom_asj": 0,
+        "q_eas": 0.0010656536310227165,
+        "hom_eas": 0,
+        "q_fin": 0.0009240450806699364,
+        "hom_fin": 0,
+        "q_mid": 0.0004596252187423082,
+        "hom_mid": 0,
+        "q_nfe": 0.0006137599289469762,
+        "hom_nfe": 0,
+        "q_sas": 0.0005740054355132291,
+        "hom_sas": 0,
+        "q_ami": 0.0,
+        "hom_ami": 0,
+        "q_remaining": 0.0006222465918775707,
+        "hom_remaining": 0,
+        "hom_joint": 0
+      },
+      "cls_hc_any": {
+        "n_variants": 301,
+        "allele_count": 902,
+        "q_joint": 0.0006262680058138254,
+        "q_rgc_weighted": 0.0006258350768536513,
+        "q_afr": 0.0005886430034218106,
+        "hom_afr": 0,
+        "q_amr": 0.0007449121763793832,
+        "hom_amr": 0,
+        "q_asj": 0.0004920510355130639,
+        "hom_asj": 0,
+        "q_eas": 0.0010656536310227165,
+        "hom_eas": 0,
+        "q_fin": 0.0009240450806699364,
+        "hom_fin": 0,
+        "q_mid": 0.0004596252187423082,
+        "hom_mid": 0,
+        "q_nfe": 0.0006137599289469762,
+        "hom_nfe": 0,
+        "q_sas": 0.0005740054355132291,
+        "hom_sas": 0,
+        "q_ami": 0.0,
+        "hom_ami": 0,
+        "q_remaining": 0.0006222465918775707,
+        "hom_remaining": 0,
+        "hom_joint": 0
+      },
+      "cls_hc_snv": {
+        "n_variants": 144,
+        "allele_count": 598,
+        "q_joint": 0.0004279969234353084,
+        "q_rgc_weighted": 0.00040959281031365907,
+        "q_afr": 0.0004505081584749329,
+        "hom_afr": 0,
+        "q_amr": 0.0002810246864245854,
+        "hom_amr": 0,
+        "q_asj": 0.00038844182814283795,
+        "hom_asj": 0,
+        "q_eas": 0.0007477484603465505,
+        "hom_eas": 0,
+        "q_fin": 0.000783943266929648,
+        "hom_fin": 0,
+        "q_mid": 0.0001670564650851988,
+        "hom_mid": 0,
+        "q_nfe": 0.0004259669043334185,
+        "hom_nfe": 0,
+        "q_sas": 0.00021151470986517816,
+        "hom_sas": 0,
+        "q_ami": 0.0,
+        "hom_ami": 0,
+        "q_remaining": 0.0004749486391123374,
+        "hom_remaining": 0,
+        "hom_joint": 0
+      },
+      "cls_true_lof": {
+        "n_variants": 283,
+        "allele_count": 853,
+        "q_joint": 0.0005954345538967596,
+        "q_rgc_weighted": 0.0005961348931904128,
+        "q_afr": 0.0005485596300051038,
+        "hom_afr": 0,
+        "q_amr": 0.0007449121763793831,
+        "hom_amr": 0,
+        "q_asj": 0.00045719325525651064,
+        "hom_asj": 0,
+        "q_eas": 0.001018440223995989,
+        "hom_eas": 0,
+        "q_fin": 0.0009071440530874595,
+        "hom_fin": 0,
+        "q_mid": 0.0004596252187423082,
+        "hom_mid": 0,
+        "q_nfe": 0.0005812539348531933,
+        "hom_nfe": 0,
+        "q_sas": 0.0005508708937764959,
+        "hom_sas": 0,
+        "q_ami": 0.0,
+        "hom_ami": 0,
+        "q_remaining": 0.0005896785092391113,
+        "hom_remaining": 0,
+        "hom_joint": 0
+      },
+      "cls_true_lof_snv": {
+        "n_variants": 140,
+        "allele_count": 588,
+        "q_joint": 0.000421679274060235,
+        "q_rgc_weighted": 0.0004038905539112108,
+        "q_afr": 0.0004505081584749329,
+        "hom_afr": 0,
+        "q_amr": 0.0002810246864245854,
+        "hom_amr": 0,
+        "q_asj": 0.00038844182814283795,
+        "hom_asj": 0,
+        "q_eas": 0.0007233463129575801,
+        "hom_eas": 0,
+        "q_fin": 0.000783943266929648,
+        "hom_fin": 0,
+        "q_mid": 0.0001670564650851988,
+        "hom_mid": 0,
+        "q_nfe": 0.0004191172863917556,
+        "hom_nfe": 0,
+        "q_sas": 0.0002115147098651782,
+        "hom_sas": 0,
+        "q_ami": 0.0,
+        "hom_ami": 0,
+        "q_remaining": 0.00045846548489594655,
+        "hom_remaining": 0,
+        "hom_joint": 0
+      },
+      "structure": {
+        "n_exons": 40,
+        "cds_length": 5481,
+        "protein_length": 1826,
+        "last_junction_cds": 5218,
+        "escape_from_cds": 5169
+      }
+    }
+  },
+  "KIF13A_exon38": {
+    "exon38_coding_nt": 105,
+    "exon38_cds": [
+      4477,
+      4581
+    ],
+    "exon39_cds": [
+      4582,
+      5418
+    ],
+    "exon38_skip_in_frame": true
+  },
+  "gh_n_genes": 18766,
+  "gh_n_ko_genes": 2991,
+  "gh_fit_tolerant_band": {
+    "F_eff": 0.016298229749445226,
+    "n_genes": 7726,
+    "obs_total": 2336.0,
+    "exp_total": 2325.89142458628,
+    "obs_exp_F0": 19.927630026354613
+  },
+  "gh_fit_tolerant_het10_50": {
+    "F_eff": 0.015389388536352277,
+    "n_genes": 3587,
+    "obs_total": 712.0,
+    "exp_total": 711.0221185997106,
+    "obs_exp_F0": 45.503442739908564
+  },
+  "gh_empirical_het15_30": {
+    "tolerant": {
+      "n_genes": 1683,
+      "frac_ko_ge1": 0.14913844325609033,
+      "mean_ko": 0.1859774212715389,
+      "exp_mean_ko_Feff": 0.1725074908861607
+    },
+    "ardd_lof": {
+      "n_genes": 264,
+      "frac_ko_ge1": 0.026515151515151516,
+      "mean_ko": 0.030303030303030304,
+      "exp_mean_ko_Feff": 0.16942354292310752
+    },
+    "all_genes": {
+      "n_genes": 2814,
+      "frac_ko_ge1": 0.12935323383084577,
+      "mean_ko": 0.16098081023454158,
+      "exp_mean_ko_Feff": 0.17062951808333507
+    }
+  },
+  "gh_empirical_het3_10": {
+    "tolerant": {
+      "n_genes": 2108,
+      "frac_ko_ge1": 0.031309297912713474,
+      "mean_ko": 0.033681214421252374,
+      "exp_mean_ko_Feff": 0.0471587422309918
+    },
+    "ardd_lof": {
+      "n_genes": 233,
+      "frac_ko_ge1": 0.02575107296137339,
+      "mean_ko": 0.02575107296137339,
+      "exp_mean_ko_Feff": 0.050967231792305064
+    }
+  },
+  "gh_ardd_depletion": {
+    "n_genes": 1004,
+    "obs": 97.0,
+    "exp": 276.0835385075623,
+    "obs_over_exp": 0.3513429323760389,
+    "p_le_obs": 1.2103895410213885e-35
+  },
+  "gh_target_genes": {
+    "KIF13A": {
+      "het": 22.0,
+      "hom": 0.0,
+      "chet": 0.0,
+      "q": 0.00024984101026619425,
+      "loeuf": 0.471,
+      "exp_F_eff_band": 0.18198398672877797,
+      "exp_F_eff_het10_50": 0.17198923110863087,
+      "exp_F_paper_0.018": 0.20069878259289545,
+      "exp_HWE_F0": 0.002748251112928137,
+      "in_RGC_ME": "True",
+      "in_gnomAD_v4": "True",
+      "true_lof_share_sas_vs_cls_hc_any": 0.5816263867676229,
+      "exp_true_lof_Feff_het10_50_vs_cls_hc_any": 0.09937501518350061,
+      "true_lof_share_sas_vs_cls_all_plof": 0.4939853932862122,
+      "exp_true_lof_Feff_het10_50_vs_cls_all_plof": 0.08428377655733987
+    },
+    "KIF1A": {
+      "het": 6.0,
+      "hom": 0.0,
+      "chet": 0.0,
+      "q": 6.81384573453257e-05,
+      "loeuf": 0.304,
+      "exp_F_eff_band": 0.04909577301167389,
+      "exp_F_eff_het10_50": 0.04636943515350975,
+      "exp_F_paper_0.018": 0.05420073589533932,
+      "exp_HWE_F0": 0.00020441537203597714,
+      "in_RGC_ME": "False",
+      "in_gnomAD_v4": "False",
+      "true_lof_share_sas_vs_cls_hc_any": 1.0,
+      "exp_true_lof_Feff_het10_50_vs_cls_hc_any": 0.04636943515350975,
+      "true_lof_share_sas_vs_cls_all_plof": 1.0,
+      "exp_true_lof_Feff_het10_50_vs_cls_all_plof": 0.04636943515350975
+    },
+    "KIF13B": {
+      "het": 33.0,
+      "hom": 0.0,
+      "chet": 0.0,
+      "q": 0.00037476151539929137,
+      "loeuf": 0.738,
+      "exp_F_eff_band": 0.2750035747068273,
+      "exp_F_eff_het10_50": 0.2600133145695132,
+      "exp_F_paper_0.018": 0.3030722608340147,
+      "exp_HWE_F0": 0.006183565004088307,
+      "in_RGC_ME": "True",
+      "in_gnomAD_v4": "False",
+      "true_lof_share_sas_vs_cls_hc_any": 0.959696301976569,
+      "exp_true_lof_Feff_het10_50_vs_cls_hc_any": 0.24929832120246279,
+      "true_lof_share_sas_vs_cls_all_plof": 0.959696301976569,
+      "exp_true_lof_Feff_het10_50_vs_cls_all_plof": 0.24929832120246279
+    }
+  },
+  "rgc_st6_n_genes": 4848,
+  "rgc_fit_tolerant_band": {
+    "F_eff": 0.021194802697288986,
+    "n_genes": 6940,
+    "obs_total": 27225.0,
+    "exp_total": 27296.42678064353,
+    "obs_exp_F0": 55.36967372123321
+  },
+  "rgc_fit_tolerant_n230_920": {
+    "F_eff": 0.018331443461836794,
+    "n_genes": 2406,
+    "obs_total": 12269.0,
+    "exp_total": 12264.362677879833,
+    "obs_exp_F0": 57.55408342758955
+  },
+  "rgc_empirical_n300_650": {
+    "tolerant": {
+      "n_genes": 1378,
+      "frac_ko_ge1": 0.5703918722786647,
+      "mean_ko": 5.152394775036284,
+      "exp_mean_ko_Feff": 4.868736833195717
+    },
+    "ardd_lof": {
+      "n_genes": 207,
+      "frac_ko_ge1": 0.2608695652173913,
+      "mean_ko": 1.0338164251207729,
+      "exp_mean_ko_Feff": 4.865522949517389
+    },
+    "all_genes": {
+      "n_genes": 1951,
+      "frac_ko_ge1": 0.5125576627370579,
+      "mean_ko": 4.2045105074320865,
+      "exp_mean_ko_Feff": 4.858135482448446
+    }
+  },
+  "rgc_empirical_n10_40": {
+    "tolerant": {
+      "n_genes": 1293,
+      "frac_ko_ge1": 0.09899458623356536,
+      "mean_ko": 1.1670533642691416,
+      "exp_mean_ko_Feff": 0.26338308337250277
+    },
+    "ardd_lof": {
+      "n_genes": 91,
+      "frac_ko_ge1": 0.04395604395604396,
+      "mean_ko": 0.46153846153846156,
+      "exp_mean_ko_Feff": 0.2808571168563291
+    }
+  },
+  "rgc_ardd_depletion": {
+    "n_genes": 964,
+    "obs": 943.0,
+    "exp": 3645.178208881026,
+    "obs_over_exp": 0.2586979143303603,
+    "p_le_obs": 0.0
+  },
+  "rgc_target_genes": {
+    "KIF13A": {
+      "n_hc_snv_alleles": 460.0,
+      "N_total": 1643814.19178082,
+      "q": 0.00027983698054198007,
+      "shet_mean": 0.027840409040038,
+      "ko_obs": 2.0,
+      "sum_homAA": 2.0,
+      "comp_het": 0.0,
+      "homAlt_aaf": 7.72777097031443e-05,
+      "allhetRA": 604.0,
+      "transcript_st2": "ENST00000259711",
+      "transcript_st6": "ENST00000259711",
+      "exp_Feff_band": 5.9090795043856135,
+      "exp_Feff_n230_920": 5.121184763918364,
+      "p_ge_obs_Feff_n230_920": 0.9634629731104181,
+      "rgc_over_gnomad_hcsnv_scale": 1.299392037557235,
+      "q_true_lof_snv_rgc_scale": 0.00016565920349729594,
+      "exp_true_lof_Feff_n230_920": 3.0133999430994853
+    },
+    "KIF1A": {
+      "n_hc_snv_alleles": 19.0,
+      "N_total": 1643669.66666667,
+      "q": 1.1559500296998015e-05,
+      "shet_mean": 0.49795514060391,
+      "ko_obs": 0.0,
+      "sum_homAA": null,
+      "comp_het": null,
+      "homAlt_aaf": null,
+      "allhetRA": null,
+      "transcript_st2": "ENST00000649096",
+      "transcript_st6": NaN,
+      "exp_Feff_band": 0.241106558386057,
+      "exp_Feff_n230_920": 0.20855148458790826,
+      "p_ge_obs_Feff_n230_920": 1.0,
+      "rgc_over_gnomad_hcsnv_scale": 0.018742292393697665,
+      "q_true_lof_snv_rgc_scale": 1.1559500296998015e-05,
+      "exp_true_lof_Feff_n230_920": 0.20855148458790826
+    },
+    "KIF13B": {
+      "n_hc_snv_alleles": 291.0,
+      "N_total": 1643776.72072072,
+      "q": 0.00017703134271935059,
+      "shet_mean": 0.0408564718352969,
+      "ko_obs": 3.0,
+      "sum_homAA": 3.0,
+      "comp_het": 0.0,
+      "homAlt_aaf": 1.32183138340622e-05,
+      "allhetRA": 684.0,
+      "transcript_st2": "ENST00000524189",
+      "transcript_st6": "ENST00000524189",
+      "exp_Feff_band": 3.720698755514205,
+      "exp_Feff_n230_920": 3.22220707256132,
+      "p_ge_obs_Feff_n230_920": 0.624711611946647,
+      "rgc_over_gnomad_hcsnv_scale": 0.43221301317223576,
+      "q_true_lof_snv_rgc_scale": 0.00017456675329776775,
+      "exp_true_lof_Feff_n230_920": 3.176932837979373
+    }
+  },
+  "rgc_KIF13A_hom_candidates": [
+    {
+      "variant_id": "6-17764129-C-T",
+      "hgvsc": "c.5399G>A",
+      "hgvsp": "p.Trp1800Ter",
+      "consequence": "stop_gained",
+      "loftee": "LC",
+      "lof_filter": "END_TRUNC",
+      "nmd_escape": true,
+      "joint_ac": 180,
+      "af_rgc_weighted": 0.00011960421657807529,
+      "ratio_to_rgc_homAlt_aaf": 1.5477194787154618,
+      "exp_hom_rgc_Fdefault": 0.08033340611413546,
+      "af_sas": 0.0,
+      "af_amr": 0.0,
+      "af_nfe": 0.00014916897624314544,
+      "af_mid": 0.0,
+      "cls_true_lof": false
+    },
+    {
+      "variant_id": "6-17771113-C-G",
+      "hgvsc": "c.4581+1G>C",
+      "hgvsp": "",
+      "consequence": "splice_donor_variant",
+      "loftee": "HC",
+      "lof_filter": "",
+      "nmd_escape": true,
+      "joint_ac": 128,
+      "af_rgc_weighted": 8.542478176924727e-05,
+      "ratio_to_rgc_homAlt_aaf": 1.1054258996209805,
+      "exp_hom_rgc_Fdefault": 0.19793721193835342,
+      "af_sas": 0.00014410499711790006,
+      "af_amr": 0.00011763519645077807,
+      "af_nfe": 8.10613403961937e-05,
+      "af_mid": 0.0,
+      "cls_true_lof": false
+    }
+  ],
+  "gnomad_syn_calibration": {
+    "n_variants": 2994,
+    "by_F_multiplier": {
+      "0.0": {
+        "obs_hom": 1009.0,
+        "exp_hom": 765.1390381018349
+      },
+      "0.5": {
+        "obs_hom": 1009.0,
+        "exp_hom": 821.4137981018092
+      },
+      "1.0": {
+        "obs_hom": 1009.0,
+        "exp_hom": 877.6885581017837
+      },
+      "2.0": {
+        "obs_hom": 1009.0,
+        "exp_hom": 990.2380781017321
+      }
+    },
+    "F_multiplier_fit": 2.1666992617851797
+  },
+  "gnomad_hom": {
+    "KIF13A:cls_true_lof": {
+      "obs_hom": 0.0,
+      "exp_hom_F1": 0.21207561182772414,
+      "exp_hom_Ffit": 0.4576044218143371,
+      "exp_hom_F0": 0.0016282257456188467
+    },
+    "KIF13A:cls_hc_any": {
+      "obs_hom": 0.0,
+      "exp_hom_F1": 0.34101847888813663,
+      "exp_hom_Ffit": 0.7302088801213266,
+      "exp_hom_F0": 0.0074360262536115225
+    },
+    "KIF13A:cls_all_plof": {
+      "obs_hom": 1.0,
+      "exp_hom_F1": 0.49001647641082846,
+      "exp_hom_Ffit": 1.0302783003493903,
+      "exp_hom_F0": 0.02694785055783752
+    },
+    "KIF1A:cls_true_lof": {
+      "obs_hom": 0.0,
+      "exp_hom_F1": 0.8409137957984404,
+      "exp_hom_Ffit": 1.5203245390694722,
+      "exp_hom_F0": 0.25857799982694263
+    },
+    "KIF1A:cls_hc_any": {
+      "obs_hom": 0.0,
+      "exp_hom_F1": 0.8411645043682,
+      "exp_hom_Ffit": 1.5208669220411273,
+      "exp_hom_F0": 0.2585787087511643
+    },
+    "KIF1A:cls_all_plof": {
+      "obs_hom": 0.0,
+      "exp_hom_F1": 0.8500978659608186,
+      "exp_hom_Ffit": 1.5397162852874255,
+      "exp_hom_F0": 0.25901287781107596
+    },
+    "KIF13B:cls_true_lof": {
+      "obs_hom": 0.0,
+      "exp_hom_F1": 0.5837662192998179,
+      "exp_hom_Ffit": 1.2214971558125036,
+      "exp_hom_F0": 0.037154973881794506
+    },
+    "KIF13B:cls_hc_any": {
+      "obs_hom": 0.0,
+      "exp_hom_F1": 0.6092396146260483,
+      "exp_hom_Ffit": 1.2764293962502529,
+      "exp_hom_F0": 0.03737863598504851
+    },
+    "KIF13B:cls_all_plof": {
+      "obs_hom": 0.0,
+      "exp_hom_F1": 0.6092396146260483,
+      "exp_hom_Ffit": 1.2764293962502529,
+      "exp_hom_F0": 0.03737863598504851
+    },
+    "KIF13A:p.Trp1800Ter": {
+      "obs_hom": 1.0,
+      "exp_hom_F1": 0.06510437729349541,
+      "exp_hom_Ffit": 0.1256482449391742,
+      "hom_by_pop": {
+        "afr": 0,
+        "amr": 0,
+        "asj": 0,
+        "eas": 0,
+        "fin": 0,
+        "mid": 0,
+        "nfe": 1,
+        "sas": 0,
+        "ami": 0,
+        "remaining": 0
+      }
+    }
+  },
+  "chundru": {
+    "target_genes": {
+      "KIF13A": {
+        "known_recessive_status": "NA",
+        "All": {
+          "obs": 0.0,
+          "exp": 0.35888336307493,
+          "p": 1.0
+        },
+        "LoF/LoF": {
+          "obs": 0.0,
+          "exp": 0.00633403980856126,
+          "p": 1.0
+        },
+        "LoF/Functional": {
+          "obs": 0.0,
+          "exp": 0.0308814696701687,
+          "p": 1.0
+        },
+        "Functional/Functional": {
+          "obs": 0.0,
+          "exp": 0.328001893404761,
+          "p": 1.0
+        },
+        "Synonymous/Synonymous": {
+          "obs": 0.0,
+          "exp": 1.58682711266131,
+          "p": 1.0
+        },
+        "LoF/LoF_SAS": {
+          "SAS3": {
+            "obs": 0.0,
+            "exp": 0.0
+          },
+          "SAS4": {
+            "obs": 0.0,
+            "exp": 0.0
+          },
+          "SAS5": {
+            "obs": 0.0,
+            "exp": 0.00111018527595333
+          }
+        }
+      },
+      "KIF1A": {
+        "known_recessive_status": "Consensus",
+        "All": {
+          "obs": 1.0,
+          "exp": 0.38822996063499,
+          "p": 0.321743646932648
+        },
+        "LoF/LoF": {
+          "obs": 0.0,
+          "exp": 0.0,
+          "p": 1.0
+        },
+        "LoF/Functional": {
+          "obs": 0.0,
+          "exp": 0.0,
+          "p": 1.0
+        },
+        "Functional/Functional": {
+          "obs": 1.0,
+          "exp": 0.38822996063499,
+          "p": 0.321743646932648
+        },
+        "Synonymous/Synonymous": {
+          "obs": 1.0,
+          "exp": 6.11977433908166,
+          "p": 0.997801047875386
+        },
+        "LoF/LoF_SAS": {
+          "SAS3": {
+            "obs": 0.0,
+            "exp": 0.0
+          },
+          "SAS4": {
+            "obs": 0.0,
+            "exp": 0.0
+          },
+          "SAS5": {
+            "obs": 0.0,
+            "exp": 0.0
+          }
+        }
+      },
+      "KIF13B": {
+        "known_recessive_status": "NA",
+        "All": {
+          "obs": 0.0,
+          "exp": 1.2001494829263,
+          "p": 1.0
+        },
+        "LoF/LoF": {
+          "obs": 0.0,
+          "exp": 0.0251739694847589,
+          "p": 1.0
+        },
+        "LoF/Functional": {
+          "obs": 0.0,
+          "exp": 0.0983207750085008,
+          "p": 1.0
+        },
+        "Functional/Functional": {
+          "obs": 0.0,
+          "exp": 1.1018287079178,
+          "p": 1.0
+        },
+        "Synonymous/Synonymous": {
+          "obs": 2.0,
+          "exp": 2.67016521920286,
+          "p": 0.745874881135471
+        },
+        "LoF/LoF_SAS": {
+          "SAS3": {
+            "obs": 0.0,
+            "exp": 0.0
+          },
+          "SAS4": {
+            "obs": 0.0,
+            "exp": 0.0
+          },
+          "SAS5": {
+            "obs": 0.0,
+            "exp": 0.00160498970689148
+          }
+        }
+      }
+    },
+    "all_genes_syn": {
+      "n_genes": 16153,
+      "obs": 9870.0,
+      "exp": 10213.549026188926,
+      "ratio": 0.9663634036212074
+    },
+    "all_genes_lof": {
+      "n_genes": 16153,
+      "obs": 928.0,
+      "exp": 521.6059406395763,
+      "ratio": 1.7791208414193223
+    },
+    "consensus_lof": {
+      "n_genes": 955,
+      "obs": 299.0,
+      "exp": 37.745583842370195,
+      "ratio": 7.921456487430626
+    },
+    "consensus_and_ddg2p_ardd_lof_lof": {
+      "n_genes": 850,
+      "obs": 287.0,
+      "exp": 34.94108270122592,
+      "ratio": 8.213826756717257
+    },
+    "consensus_all": {
+      "n_genes": 955,
+      "obs": 1251.0,
+      "exp": 449.938098613792,
+      "ratio": 2.7803824656195784
+    },
+    "similar_exp_consensus_ardd": {
+      "n_genes": 296,
+      "frac_lof_obs_ge1": 0.08445945945945946,
+      "exp_range": [
+        0.0021113466028537535,
+        0.01900211942568378
+      ]
+    },
+    "n_consensus": 1069,
+    "n_discordant": 749,
+    "KIF13A_under_H_C": {
+      "R_ardd_lof": 8.213826756717257,
+      "exp_null": 0.00633403980856126,
+      "exp_H_C": 0.05202670565767273,
+      "p0_under_H_C": 0.9493035147296768,
+      "R_median_gene": 0.0
+    }
+  },
+  "popeve": {
+    "supp_table2": [
+      {
+        "chrom": "8",
+        "gene": "KIF13B",
+        "protein": "NP_056069.2",
+        "%_severe": "0",
+        "%_moderate": "0",
+        "popEVE_min": "-4.4095",
+        "popEVE_mean": "-3.5236402910879923",
+        "popEVE_max": "-2.363",
+        "popEVE_std": "0.3459008346891644",
+        "popEVE_10%": "-4.0435",
+        "popEVE_median": "-3.475",
+        "popEVE_90%": "-3.111",
+        "autosomal_dominant": "False",
+        "autosomal_recessive": "False",
+        "haploinsufficient": "False",
+        "homozygous_lof_tolerant": "False",
+        "acmg_actionable": "False",
+        "cancer_risk": "False",
+        "gwas_catalog": "True",
+        "ukbb_flag": "False",
+        "pathogenic_flag": "False",
+        "constraint_flag": "False",
+        "ddg2p": "False",
+        "dnw": "False",
+        "dnw_missense": "False",
+        "dev_disorder_known": "False"
+      },
+      {
+        "chrom": "2",
+        "gene": "KIF1A",
+        "protein": "NP_004312.2",
+        "%_severe": "0.0972437091529062",
+        "%_moderate": "0.0509582294067502",
+        "popEVE_min": "-6.659",
+        "popEVE_mean": "-3.769301566002589",
+        "popEVE_max": "-2.623",
+        "popEVE_std": "0.7207862028589503",
+        "popEVE_10%": "-5.0329",
+        "popEVE_median": "-3.423",
+        "popEVE_90%": "-3.247",
+        "autosomal_dominant": "False",
+        "autosomal_recessive": "False",
+        "haploinsufficient": "False",
+        "homozygous_lof_tolerant": "False",
+        "acmg_actionable": "False",
+        "cancer_risk": "False",
+        "gwas_catalog": "False",
+        "ukbb_flag": "False",
+        "pathogenic_flag": "False",
+        "constraint_flag": "False",
+        "ddg2p": "True",
+        "dnw": "True",
+        "dnw_missense": "True",
+        "dev_disorder_known": "True"
+      },
+      {
+        "chrom": "6",
+        "gene": "KIF13A",
+        "protein": "NP_071396.4",
+        "%_severe": "0.0129847645429362",
+        "%_moderate": "0.0386657433056325",
+        "popEVE_min": "-5.4265",
+        "popEVE_mean": "-3.7118185595567863",
+        "popEVE_max": "-2.231",
+        "popEVE_std": "0.4488635250653393",
+        "popEVE_10%": "-4.2765",
+        "popEVE_median": "-3.6655",
+        "popEVE_90%": "-3.2055",
+        "autosomal_dominant": "False",
+        "autosomal_recessive": "False",
+        "haploinsufficient": "False",
+        "homozygous_lof_tolerant": "False",
+        "acmg_actionable": "False",
+        "cancer_risk": "False",
+        "gwas_catalog": "True",
+        "ukbb_flag": "False",
+        "pathogenic_flag": "False",
+        "constraint_flag": "False",
+        "ddg2p": "False",
+        "dnw": "False",
+        "dnw_missense": "False",
+        "dev_disorder_known": "False"
+      }
+    ],
+    "KIF13A_n_mutants": 34295,
+    "KIF13A_max_pos": 1805.0,
+    "KIF1A_n_mutants": 32110,
+    "KIF1A_max_pos": 1690.0,
+    "KIF13A_n_scored_filtered": 17328,
+    "KIF13A_n_positions_scored": 912,
+    "KIF13A_scored_pos_range": [
+      1.0,
+      939.0
+    ],
+    "KIF13A_frac_severe_le": 0.012984764542936287,
+    "KIF13A_frac_severe_lt": 0.012927054478301015,
+    "KIF13A_st2_pct_severe": 0.0129847645429362,
+    "KIF13A_moderate_threshold_implied": -4.6161033010157,
+    "KIF13A_n_severe": 225,
+    "KIF13A_min_unfiltered": -5.426,
+    "KIF1A_n_scored_filtered": 31673,
+    "KIF1A_n_positions_scored": 1667,
+    "KIF1A_scored_pos_range": [
+      1.0,
+      1686.0
+    ],
+    "KIF1A_frac_severe_le": 0.12174407223818394,
+    "KIF1A_frac_severe_lt": 0.12164935433965839,
+    "KIF1A_st2_pct_severe": 0.0972437091529062,
+    "KIF1A_moderate_threshold_implied": -4.859148201938562,
+    "KIF1A_n_severe": 3856,
+    "KIF1A_min_unfiltered": -6.502,
+    "KIF13A_scored_positions_motor_5_352": 347,
+    "KIF13A_scored_positions_tail_520_1805": 395,
+    "moderate_threshold_used": -4.737625751477131,
+    "KIF13A_tiers": [
+      {
+        "set": "candidates tier A",
+        "n": 52,
+        "n_scored": 52,
+        "n_severe": 1,
+        "n_moderate": 4,
+        "median": -4.2135,
+        "min": -5.176
+      },
+      {
+        "set": "candidates tier B",
+        "n": 73,
+        "n_scored": 73,
+        "n_severe": 0,
+        "n_moderate": 3,
+        "median": -4.024,
+        "min": -5.034
+      },
+      {
+        "set": "candidates tier C",
+        "n": 170,
+        "n_scored": 100,
+        "n_severe": 0,
+        "n_moderate": 0,
+        "median": -3.817,
+        "min": -4.532
+      },
+      {
+        "set": "candidates tier D",
+        "n": 33,
+        "n_scored": 33,
+        "n_severe": 0,
+        "n_moderate": 0,
+        "median": -3.806,
+        "min": -4.304
+      },
+      {
+        "set": "saturation tier A",
+        "n": 929,
+        "n_scored": 929,
+        "n_severe": 119,
+        "n_moderate": 199,
+        "median": -4.512,
+        "min": -5.403
+      },
+      {
+        "set": "saturation tier A, SNV",
+        "n": 234,
+        "n_scored": 234,
+        "n_severe": 4,
+        "n_moderate": 25,
+        "median": -4.3405000000000005,
+        "min": -5.176
+      },
+      {
+        "set": "KIF1A same substitution pathogenic",
+        "n": 98,
+        "n_scored": 98,
+        "n_severe": 0,
+        "n_moderate": 7,
+        "median": -4.234999999999999,
+        "min": -4.977
+      },
+      {
+        "set": "KIF1A same substitution pathogenic, SNV",
+        "n": 68,
+        "n_scored": 68,
+        "n_severe": 0,
+        "n_moderate": 5,
+        "median": -4.2315000000000005,
+        "min": -4.977
+      },
+      {
+        "set": "all motor substitutions",
+        "n": 6612,
+        "n_scored": 6593,
+        "n_severe": 223,
+        "n_moderate": 430,
+        "median": -3.924,
+        "min": -5.426
+      }
+    ],
+    "KIF13A_denovo_and_known": {
+      "D65E": -3.617,
+      "R173Q": -4.126,
+      "Q237H": -3.42,
+      "I403T": -3.774,
+      "A1146V": NaN,
+      "S1233L": NaN,
+      "T1315A": NaN,
+      "S1639L": NaN,
+      "K1122E": NaN
+    },
+    "KIF1A_sets": {
+      "missense_positive_core": {
+        "n": 111,
+        "n_scored": 111,
+        "frac_severe": 0.7747747747747747,
+        "frac_severe_or_moderate": 0.918918918918919,
+        "median": -5.372
+      },
+      "missense_negative_motor_population": {
+        "n": 61,
+        "n_scored": 61,
+        "frac_severe": 0.03278688524590164,
+        "frac_severe_or_moderate": 0.14754098360655737,
+        "median": -3.787
+      },
+      "missense_negative_motor_population_ac2": {
+        "n": 32,
+        "n_scored": 31,
+        "frac_severe": 0.0625,
+        "frac_severe_or_moderate": 0.125,
+        "median": -4.146
+      },
+      "missense_negative_clinvar_outside_motor": {
+        "n": 88,
+        "n_scored": 80,
+        "frac_severe": 0.0,
+        "frac_severe_or_moderate": 0.0,
+        "median": -3.287
+      },
+      "heldout_pp3_dependent_positive": {
+        "n": 18,
+        "n_scored": 18,
+        "frac_severe": 0.7222222222222222,
+        "frac_severe_or_moderate": 0.7777777777777778,
+        "median": -5.4670000000000005
+      },
+      "auroc_core_vs_motor_population": 0.9566533746861615
+    }
+  },
+  "empirical_overdispersion": {
+    "rgc_KIF13A_def_obs2_eq": {
+      "center": 460.0,
+      "k": 2,
+      "how": "eq",
+      "tolerant": {
+        "band": [
+          322.0,
+          598.0
+        ],
+        "n_genes": 1116,
+        "p": 0.12096774193548387,
+        "mean_ko": 4.624551971326165,
+        "frac_ko0": 0.4229390681003584
+      },
+      "ardd_lof": {
+        "band": [
+          322.0,
+          598.0
+        ],
+        "n_genes": 166,
+        "p": 0.04819277108433735,
+        "mean_ko": 1.0963855421686748,
+        "frac_ko0": 0.7349397590361446
+      },
+      "LR_ardd_over_tolerant": 0.39839357429718875
+    },
+    "rgc_KIF13A_def_obs2_le": {
+      "center": 460.0,
+      "k": 2,
+      "how": "le",
+      "tolerant": {
+        "band": [
+          322.0,
+          598.0
+        ],
+        "n_genes": 1116,
+        "p": 0.7688172043010753,
+        "mean_ko": 4.624551971326165,
+        "frac_ko0": 0.4229390681003584
+      },
+      "ardd_lof": {
+        "band": [
+          322.0,
+          598.0
+        ],
+        "n_genes": 166,
+        "p": 0.9337349397590361,
+        "mean_ko": 1.0963855421686748,
+        "frac_ko0": 0.7349397590361446
+      },
+      "LR_ardd_over_tolerant": 1.2145083831830819
+    },
+    "rgc_KIF13A_true_obs0": {
+      "center": 272.31294970796193,
+      "k": 0,
+      "how": "eq",
+      "tolerant": {
+        "band": [
+          190.61906479557334,
+          354.0068346203505
+        ],
+        "n_genes": 1436,
+        "p": 0.5919220055710307,
+        "mean_ko": 2.3516713091922004,
+        "frac_ko0": 0.5919220055710307
+      },
+      "ardd_lof": {
+        "band": [
+          190.61906479557334,
+          354.0068346203505
+        ],
+        "n_genes": 232,
+        "p": 0.8793103448275862,
+        "mean_ko": 0.6293103448275862,
+        "frac_ko0": 0.8793103448275862
+      },
+      "LR_ardd_over_tolerant": 1.48551724137931
+    },
+    "gh_KIF13A_def_obs0": {
+      "center": 22.0,
+      "k": 0,
+      "how": "eq",
+      "tolerant": {
+        "band": [
+          15.0,
+          29.0
+        ],
+        "n_genes": 1582,
+        "p": 0.8565107458912768,
+        "mean_ko": 0.1763590391908976,
+        "frac_ko0": 0.8565107458912768
+      },
+      "ardd_lof": {
+        "band": [
+          15.0,
+          29.0
+        ],
+        "n_genes": 253,
+        "p": 0.9723320158102767,
+        "mean_ko": 0.03162055335968379,
+        "frac_ko0": 0.9723320158102767
+      },
+      "LR_ardd_over_tolerant": 1.1352245380161312
+    },
+    "gh_KIF13A_true_obs0": {
+      "center": 12.795780508887704,
+      "k": 0,
+      "how": "eq",
+      "tolerant": {
+        "band": [
+          8.0,
+          17.0
+        ],
+        "n_genes": 1648,
+        "p": 0.9223300970873787,
+        "mean_ko": 0.09344660194174757,
+        "frac_ko0": 0.9223300970873787
+      },
+      "ardd_lof": {
+        "band": [
+          8.0,
+          17.0
+        ],
+        "n_genes": 257,
+        "p": 0.9727626459143969,
+        "mean_ko": 0.027237354085603113,
+        "frac_ko0": 0.9727626459143969
+      },
+      "LR_ardd_over_tolerant": 1.054679500307188
+    },
+    "rgc_KIF1A_obs0": {
+      "center": 19.0,
+      "k": 0,
+      "how": "eq",
+      "tolerant": {
+        "band": [
+          13.299999999999999,
+          24.7
+        ],
+        "n_genes": 510,
+        "p": 0.9215686274509803,
+        "mean_ko": 0.7294117647058823,
+        "frac_ko0": 0.9215686274509803
+      },
+      "ardd_lof": {
+        "band": [
+          13.299999999999999,
+          24.7
+        ],
+        "n_genes": 40,
+        "p": 0.95,
+        "mean_ko": 0.05,
+        "frac_ko0": 0.95
+      },
+      "LR_ardd_over_tolerant": 1.0308510638297872
+    },
+    "gh_KIF1A_obs0": {
+      "center": 6.0,
+      "k": 0,
+      "how": "eq",
+      "tolerant": {
+        "band": [
+          3.0,
+          9.0
+        ],
+        "n_genes": 1916,
+        "p": 0.9733820459290188,
+        "mean_ko": 0.02870563674321503,
+        "frac_ko0": 0.9733820459290188
+      },
+      "ardd_lof": {
+        "band": [
+          3.0,
+          9.0
+        ],
+        "n_genes": 198,
+        "p": 0.9747474747474747,
+        "mean_ko": 0.025252525252525252,
+        "frac_ko0": 0.9747474747474747
+      },
+      "LR_ardd_over_tolerant": 1.0014027676226067
+    },
+    "rgc_KIF13B_obs3_eq": {
+      "center": 291.0,
+      "k": 3,
+      "how": "eq",
+      "tolerant": {
+        "band": [
+          203.7,
+          378.3
+        ],
+        "n_genes": 1410,
+        "p": 0.0475177304964539,
+        "mean_ko": 2.629078014184397,
+        "frac_ko0": 0.5673758865248227
+      },
+      "ardd_lof": {
+        "band": [
+          203.7,
+          378.3
+        ],
+        "n_genes": 230,
+        "p": 0.013043478260869565,
+        "mean_ko": 0.7347826086956522,
+        "frac_ko0": 0.8695652173913043
+      },
+      "LR_ardd_over_tolerant": 0.2744970798182998
+    },
+    "gh_KIF13B_obs0": {
+      "center": 33.0,
+      "k": 0,
+      "how": "eq",
+      "tolerant": {
+        "band": [
+          23.0,
+          43.0
+        ],
+        "n_genes": 1474,
+        "p": 0.7924016282225237,
+        "mean_ko": 0.26255088195386705,
+        "frac_ko0": 0.7924016282225237
+      },
+      "ardd_lof": {
+        "band": [
+          23.0,
+          43.0
+        ],
+        "n_genes": 222,
+        "p": 0.9594594594594594,
+        "mean_ko": 0.04054054054054054,
+        "frac_ko0": 0.9594594594594594
+      },
+      "LR_ardd_over_tolerant": 1.2108246945575714
+    },
+    "combined_LR_scenario_rgc_homs_are_true_lof_or_unknown": 0.4522661613301213,
+    "combined_LR_scenario_rgc_homs_are_nmd_escape": 1.5667445818356431
+  },
+  "summary_table": [
+    {
+      "kohort": "Genes & Health (44.028, yetiskin, otozigot)",
+      "tanim": "G&H pLoF (ST16), q kohort ici",
+      "q": 0.00024984101026619425,
+      "F": 0.015389388536352277,
+      "beklenen": 0.17198923110863087,
+      "gozlenen": 0.0,
+      "P(X<=gozlenen)": 0.8419882403995728,
+      "P(X>=gozlenen)": 1.0,
+      "P(0)": 0.8419882403995728
+    },
+    {
+      "kohort": "Genes & Health",
+      "tanim": "gercek LoF (SAS payi ile)",
+      "q": 0.00014531412406749915,
+      "F": 0.015389388536352277,
+      "beklenen": 0.09937501518350061,
+      "gozlenen": 0,
+      "P(X<=gozlenen)": 0.9054031044379253,
+      "P(X>=gozlenen)": 1.0,
+      "P(0)": 0.9054031044379253
+    },
+    {
+      "kohort": "RGC-ME (983.578)",
+      "tanim": "RGC pLOF AAF<%1 (ST6), q = HC SNV (ST2)",
+      "q": 0.00027983698054198007,
+      "F": 0.018331443461836794,
+      "beklenen": 5.121184763918364,
+      "gozlenen": 2.0,
+      "P(X<=gozlenen)": 0.11480941961330082,
+      "P(X>=gozlenen)": 0.9634629731104181,
+      "P(0)": 0.005968946911217458
+    },
+    {
+      "kohort": "RGC-ME",
+      "tanim": "gercek LoF (gnomAD payi, RGC olcegi)",
+      "q": 0.00016565920349729594,
+      "F": 0.018331443461836794,
+      "beklenen": 3.0133999430994853,
+      "gozlenen": null
+    },
+    {
+      "kohort": "gnomAD v4.1 (yalniz homozigot)",
+      "tanim": "gercek LoF",
+      "q": 0.00019457580019358219,
+      "F": "populasyona gore",
+      "beklenen": 0.4576044218143371,
+      "gozlenen": 0.0,
+      "P(X<=gozlenen)": 0.6327977476880526,
+      "P(X>=gozlenen)": 1.0,
+      "P(0)": 0.6327977476880527
+    },
+    {
+      "kohort": "Chundru 2024 DD triolari (29.745)",
+      "tanim": "LoF/LoF, notr beklenti (yazarlarin)",
+      "q": null,
+      "F": "alt gruba gore",
+      "beklenen": 0.00633403980856126,
+      "gozlenen": 0.0,
+      "P(X<=gozlenen)": 0.9936859779348931,
+      "P(X>=gozlenen)": 1.0,
+      "P(0)": 0.993685977934893
+    },
+    {
+      "kohort": "Chundru 2024",
+      "tanim": "LoF/LoF, H_C altinda (ARDD carpani)",
+      "q": null,
+      "F": null,
+      "beklenen": 0.05202670565767273,
+      "gozlenen": 0.0,
+      "P(X<=gozlenen)": 0.9493035147296768,
+      "P(X>=gozlenen)": 1.0,
+      "P(0)": 0.9493035147296768
+    }
+  ]
+}

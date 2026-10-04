@@ -1,0 +1,14 @@
+{
+  "file": "data/interim/lof/KIF13A_clinvar_lof_sequence_20260916.tsv",
+  "sha256": "f49e71b222ad9729548ff0df84e78670150315d6c4d626bc919ea80cfad89d17",
+  "bytes": 975,
+  "retrieved_utc": "2026-09-16T11:22:48+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived from data/raw/clinvar KIF13A single-gene pull",
+  "urls": [],
+  "tool": "scripts/lof_axis.py",
+  "params": {
+    "gene": "KIF13A"
+  },
+  "n_records": 7
+}

@@ -1,0 +1,234 @@
+{
+ "pdb_id": "8UTN",
+ "pdb_title": "KIF1A[1-393] AMP-PNP bound two-heads-bound state in complex with a microtubule (class T23L1)",
+ "pdb_citation": {
+  "title": "Cryo-EM unveils kinesin KIF1A's processivity mechanism and the impact of its pathogenic variant P305L.",
+  "journal": "Nat Commun",
+  "year": "2024",
+  "doi": "10.1038/s41467-024-48720-4",
+  "pmid": "38956021"
+ },
+ "kif1a_chain_primary": "K",
+ "tubulin_head_frames": [
+  "K",
+  "N"
+ ],
+ "per_frame_trimmed_rmsd_A": {
+  "K": 1.034,
+  "N": 1.704
+ },
+ "kif1a_chains": [
+  "K",
+  "N"
+ ],
+ "tubulin_chains": [
+  "A",
+  "E",
+  "S",
+  "B",
+  "I"
+ ],
+ "ligand": "ANP+MG",
+ "n_pairs_all": 354,
+ "rmsd_all_A": 2.552,
+ "n_pairs_trimmed": 311,
+ "rmsd_trimmed_A": 1.034,
+ "kif1a_residues_touching_tubulin": 30,
+ "kif13a_residues_clashing_with_tubulin_under_2A": [
+  258,
+  259,
+  260,
+  269,
+  270,
+  273,
+  298,
+  299,
+  300,
+  301,
+  344,
+  348,
+  376,
+  377,
+  378,
+  379,
+  380
+ ],
+ "cutoffs": {
+  "atp_A": 5.0,
+  "mt_A": 5.0,
+  "buried_rel_sasa": 0.15,
+  "trim_A": 3.0
+ },
+ "motor_class_counts": {
+  "yuzey": 149,
+  "gomulu cekirdek": 124,
+  "ATP cebi": 25,
+  "mikrotubul arayuzu": 50
+ },
+ "candidate_class_counts": {
+  "A": {
+   "boyun baglayici (yapi ekseni guvenilmez)": 1,
+   "mikrotubul arayuzu": 18,
+   "ATP cebi": 23,
+   "gomulu cekirdek": 9,
+   "yuzey": 1
+  },
+  "B": {
+   "gomulu cekirdek": 37,
+   "mikrotubul arayuzu": 8,
+   "yuzey": 20,
+   "ATP cebi": 5,
+   "boyun baglayici (yapi ekseni guvenilmez)": 3
+  },
+  "C": {
+   "motor disi (yapi ekseni yok)": 148,
+   "yuzey": 12,
+   "gomulu cekirdek": 4,
+   "mikrotubul arayuzu": 5,
+   "ATP cebi": 1
+  },
+  "D": {
+   "gomulu cekirdek": 21,
+   "mikrotubul arayuzu": 2,
+   "yuzey": 7,
+   "ATP cebi": 3
+  }
+ },
+ "sanity_checks": [
+  {
+   "kif1a_pos": 99,
+   "kif13a_pos": 104,
+   "aa": "THR",
+   "note": "P-loop / switch I bolgesi, ClinVar P/LP",
+   "native_per_head": {
+    "K": {
+     "aa": "THR",
+     "dist_nucleotide_A": 3.04,
+     "dist_tubulin_A": 8.61,
+     "nearest_tubulin": "A/alpha/GLU414"
+    },
+    "N": {
+     "aa": "THR",
+     "dist_nucleotide_A": 74.66,
+     "dist_tubulin_A": 10.97,
+     "nearest_tubulin": "E/alpha/GLU414"
+    }
+   },
+   "dist_nucleotide_A": 2.09,
+   "dist_tubulin_A": 9.06,
+   "tubulin_frame": "N",
+   "nearest_tubulin": "E/alpha/GLU414",
+   "rel_sasa": 0.065,
+   "plddt": 82.81,
+   "result": "ATP cebi"
+  },
+  {
+   "kif1a_pos": 254,
+   "kif13a_pos": 258,
+   "aa": "ARG",
+   "note": "ClinVar P/LP sicak nokta",
+   "native_per_head": {
+    "K": {
+     "aa": "ARG",
+     "dist_nucleotide_A": 10.1,
+     "dist_tubulin_A": 2.91,
+     "nearest_tubulin": "A/alpha/GLU420"
+    },
+    "N": {
+     "aa": "ARG",
+     "dist_nucleotide_A": 72.35,
+     "dist_tubulin_A": 3.07,
+     "nearest_tubulin": "E/alpha/GLU414"
+    }
+   },
+   "dist_nucleotide_A": 10.85,
+   "dist_tubulin_A": 0.59,
+   "tubulin_frame": "K",
+   "nearest_tubulin": "A/alpha/GLY416",
+   "rel_sasa": 0.617,
+   "plddt": 66.94,
+   "result": "mikrotubul arayuzu"
+  },
+  {
+   "kif1a_pos": 305,
+   "kif13a_pos": 303,
+   "aa": "PRO",
+   "note": "L11-alpha4, mikrotubul yakini, ClinVar P/LP",
+   "native_per_head": {
+    "K": {
+     "aa": "PRO",
+     "dist_nucleotide_A": 22.26,
+     "dist_tubulin_A": 5.33,
+     "nearest_tubulin": "B/beta/GLU421"
+    },
+    "N": {
+     "aa": "PRO",
+     "dist_nucleotide_A": 94.29,
+     "dist_tubulin_A": 6.66,
+     "nearest_tubulin": "I/beta/GLU421"
+    }
+   },
+   "dist_nucleotide_A": 21.51,
+   "dist_tubulin_A": 4.92,
+   "tubulin_frame": "N",
+   "nearest_tubulin": "I/beta/PHE260",
+   "rel_sasa": 0.076,
+   "plddt": 90.25,
+   "result": "mikrotubul arayuzu"
+  },
+  {
+   "kif1a_pos": 350,
+   "kif13a_pos": 348,
+   "aa": "ARG",
+   "note": "kinezin-tubulin tuz koprusu (literatur)",
+   "native_per_head": {
+    "K": {
+     "aa": "ARG",
+     "dist_nucleotide_A": 19.82,
+     "dist_tubulin_A": 7.37,
+     "nearest_tubulin": "A/alpha/ARG402"
+    },
+    "N": {
+     "aa": "ARG",
+     "dist_nucleotide_A": 80.59,
+     "dist_tubulin_A": 2.4,
+     "nearest_tubulin": "E/alpha/GLU415"
+    }
+   },
+   "dist_nucleotide_A": 19.42,
+   "dist_tubulin_A": 1.4,
+   "tubulin_frame": "N",
+   "nearest_tubulin": "E/alpha/ARG402",
+   "rel_sasa": 0.365,
+   "plddt": 92.62,
+   "result": "mikrotubul arayuzu"
+  },
+  {
+   "kif1a_pos": 364,
+   "kif13a_pos": 362,
+   "aa": "PRO",
+   "note": "boyun baglayici, ClinVar P/LP",
+   "native_per_head": {
+    "K": {
+     "aa": "PRO",
+     "dist_nucleotide_A": 39.17,
+     "dist_tubulin_A": 14.76,
+     "nearest_tubulin": "E/alpha/GLU445"
+    },
+    "N": {
+     "aa": "PRO",
+     "dist_nucleotide_A": 52.68,
+     "dist_tubulin_A": 19.39,
+     "nearest_tubulin": "E/alpha/GLU445"
+    }
+   },
+   "dist_nucleotide_A": 32.09,
+   "dist_tubulin_A": 12.58,
+   "tubulin_frame": "K",
+   "nearest_tubulin": "B/beta/MET406",
+   "rel_sasa": 0.182,
+   "plddt": 73.31,
+   "result": "boyun baglayici (yapi ekseni guvenilmez)"
+  }
+ ]
+}

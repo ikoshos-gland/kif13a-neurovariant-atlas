@@ -1,0 +1,22 @@
+{
+  "file": "data/interim/lof/gnomad_lof_variants_20260916.tsv",
+  "sha256": "cd793f4e3e92b467b37306ef3ef6c747857199f2f980eb1818932f84e77b607b",
+  "bytes": 183296,
+  "retrieved_utc": "2026-09-16T11:22:48+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: gnomAD v4.1 LoF pull + Ensembl MANE exon structure",
+  "urls": [
+    "https://gnomad.broadinstitute.org/api",
+    "https://rest.ensembl.org/lookup/id"
+  ],
+  "tool": "scripts/lof_axis.py",
+  "params": {
+    "genes": [
+      "KIF13A",
+      "KIF1A",
+      "KIF13B"
+    ],
+    "nmd_window_nt": 50
+  },
+  "n_records": 1223
+}

@@ -1,0 +1,13 @@
+{
+  "file": "data/interim/denovo/gene4denovo2_five_gene_dnms_20260916.tsv",
+  "sha256": "34a19b112485fe5127a9577f181d688d2cf91f49e4e2ceb823373ee47ef275cf",
+  "bytes": 208948,
+  "retrieved_utc": "2026-09-16T14:35:16+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "Gene4Denovo2 variant-level rows for the five project genes (hg38)",
+  "urls": [
+    "https://java.genemed.tech/admin-api/backend/data/hg38/gene4denovo2_all/geneSymbol/page"
+  ],
+  "tool": "scripts/denovo_axis.py",
+  "n_records": 1053
+}

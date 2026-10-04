@@ -1,0 +1,610 @@
+{
+ "PRIMARY module: core positives vs gnomAD AC>=3": {
+  "n_pos": 120,
+  "n_neg": 72,
+  "n_pos_residues": 82,
+  "n_neg_residues": 64,
+  "models": {
+   "AlphaMissense": {
+    "auroc": 0.973,
+    "ci95": [
+     0.942,
+     0.995
+    ],
+    "sens_at_90_spec": 0.95,
+    "threshold": 0.9732,
+    "n_pos": 120,
+    "n_neg": 72,
+    "label_trained": false
+   },
+   "CADD v1.7": {
+    "auroc": 0.82,
+    "ci95": [
+     0.738,
+     0.889
+    ],
+    "sens_at_90_spec": 0.4,
+    "threshold": 32.0,
+    "n_pos": 120,
+    "n_neg": 72,
+    "label_trained": false
+   },
+   "ESM1b (dbNSFP)": {
+    "auroc": 0.902,
+    "ci95": [
+     0.845,
+     0.954
+    ],
+    "sens_at_90_spec": 0.658,
+    "threshold": -12.643,
+    "n_pos": 120,
+    "n_neg": 72,
+    "label_trained": false
+   },
+   "PrimateAI": {
+    "auroc": 0.857,
+    "ci95": [
+     0.786,
+     0.916
+    ],
+    "sens_at_90_spec": 0.492,
+    "threshold": 0.8682,
+    "n_pos": 120,
+    "n_neg": 72,
+    "label_trained": false
+   },
+   "REVEL": {
+    "auroc": 0.975,
+    "ci95": [
+     0.954,
+     0.991
+    ],
+    "sens_at_90_spec": 0.917,
+    "threshold": 0.7546,
+    "n_pos": 120,
+    "n_neg": 72,
+    "label_trained": true
+   },
+   "MetaRNN": {
+    "auroc": 0.972,
+    "ci95": [
+     0.945,
+     0.991
+    ],
+    "sens_at_90_spec": 0.892,
+    "threshold": 0.8108,
+    "n_pos": 120,
+    "n_neg": 72,
+    "label_trained": true
+   },
+   "baseline: paralog residue identical in NSD3": {
+    "auroc": 0.74
+   },
+   "baseline: is inside the shared module": {
+    "auroc": 0.5
+   }
+  }
+ },
+ "module: core positives vs gnomAD AC>=2": {
+  "n_pos": 120,
+  "n_neg": 119,
+  "n_pos_residues": 82,
+  "n_neg_residues": 105,
+  "models": {
+   "AlphaMissense": {
+    "auroc": 0.975,
+    "ci95": [
+     0.955,
+     0.992
+    ],
+    "sens_at_90_spec": 0.95,
+    "threshold": 0.9743,
+    "n_pos": 120,
+    "n_neg": 119,
+    "label_trained": false
+   },
+   "CADD v1.7": {
+    "auroc": 0.843,
+    "ci95": [
+     0.784,
+     0.894
+    ],
+    "sens_at_90_spec": 0.475,
+    "threshold": 30.16,
+    "n_pos": 120,
+    "n_neg": 119,
+    "label_trained": false
+   },
+   "ESM1b (dbNSFP)": {
+    "auroc": 0.915,
+    "ci95": [
+     0.865,
+     0.957
+    ],
+    "sens_at_90_spec": 0.767,
+    "threshold": -11.9794,
+    "n_pos": 120,
+    "n_neg": 119,
+    "label_trained": false
+   },
+   "PrimateAI": {
+    "auroc": 0.84,
+    "ci95": [
+     0.78,
+     0.896
+    ],
+    "sens_at_90_spec": 0.467,
+    "threshold": 0.8719,
+    "n_pos": 120,
+    "n_neg": 119,
+    "label_trained": false
+   },
+   "REVEL": {
+    "auroc": 0.974,
+    "ci95": [
+     0.954,
+     0.989
+    ],
+    "sens_at_90_spec": 0.9,
+    "threshold": 0.7748,
+    "n_pos": 120,
+    "n_neg": 119,
+    "label_trained": true
+   },
+   "MetaRNN": {
+    "auroc": 0.973,
+    "ci95": [
+     0.952,
+     0.989
+    ],
+    "sens_at_90_spec": 0.892,
+    "threshold": 0.8113,
+    "n_pos": 120,
+    "n_neg": 119,
+    "label_trained": true
+   },
+   "baseline: paralog residue identical in NSD3": {
+    "auroc": 0.773
+   },
+   "baseline: is inside the shared module": {
+    "auroc": 0.5
+   }
+  }
+ },
+ "module: held-out PP3-dependent positives vs gnomAD AC>=3": {
+  "n_pos": 25,
+  "n_neg": 72,
+  "n_pos_residues": 24,
+  "n_neg_residues": 64,
+  "models": {
+   "AlphaMissense": {
+    "auroc": 0.968,
+    "ci95": [
+     0.932,
+     0.996
+    ],
+    "sens_at_90_spec": 0.92,
+    "threshold": 0.9732,
+    "n_pos": 25,
+    "n_neg": 72,
+    "label_trained": false
+   },
+   "CADD v1.7": {
+    "auroc": 0.799,
+    "ci95": [
+     0.685,
+     0.898
+    ],
+    "sens_at_90_spec": 0.44,
+    "threshold": 32.0,
+    "n_pos": 25,
+    "n_neg": 72,
+    "label_trained": false
+   },
+   "ESM1b (dbNSFP)": {
+    "auroc": 0.917,
+    "ci95": [
+     0.843,
+     0.971
+    ],
+    "sens_at_90_spec": 0.76,
+    "threshold": -12.643,
+    "n_pos": 25,
+    "n_neg": 72,
+    "label_trained": false
+   },
+   "PrimateAI": {
+    "auroc": 0.798,
+    "ci95": [
+     0.678,
+     0.89
+    ],
+    "sens_at_90_spec": 0.4,
+    "threshold": 0.8682,
+    "n_pos": 25,
+    "n_neg": 72,
+    "label_trained": false
+   },
+   "REVEL": {
+    "auroc": 0.943,
+    "ci95": [
+     0.87,
+     0.995
+    ],
+    "sens_at_90_spec": 0.92,
+    "threshold": 0.7546,
+    "n_pos": 25,
+    "n_neg": 72,
+    "label_trained": true
+   },
+   "MetaRNN": {
+    "auroc": 0.95,
+    "ci95": [
+     0.881,
+     0.996
+    ],
+    "sens_at_90_spec": 0.92,
+    "threshold": 0.8108,
+    "n_pos": 25,
+    "n_neg": 72,
+    "label_trained": true
+   },
+   "baseline: paralog residue identical in NSD3": {
+    "auroc": 0.717
+   },
+   "baseline: is inside the shared module": {
+    "auroc": 0.5
+   }
+  }
+ },
+ "module: positives with functional evidence vs gnomAD AC>=3": {
+  "n_pos": 17,
+  "n_neg": 72,
+  "n_pos_residues": 16,
+  "n_neg_residues": 64,
+  "models": {
+   "AlphaMissense": {
+    "auroc": 0.969,
+    "ci95": [
+     0.93,
+     0.997
+    ],
+    "sens_at_90_spec": 0.941,
+    "threshold": 0.9732,
+    "n_pos": 17,
+    "n_neg": 72,
+    "label_trained": false
+   },
+   "CADD v1.7": {
+    "auroc": 0.877,
+    "ci95": [
+     0.784,
+     0.947
+    ],
+    "sens_at_90_spec": 0.588,
+    "threshold": 32.0,
+    "n_pos": 17,
+    "n_neg": 72,
+    "label_trained": false
+   },
+   "ESM1b (dbNSFP)": {
+    "auroc": 0.945,
+    "ci95": [
+     0.886,
+     0.988
+    ],
+    "sens_at_90_spec": 0.824,
+    "threshold": -12.643,
+    "n_pos": 17,
+    "n_neg": 72,
+    "label_trained": false
+   },
+   "PrimateAI": {
+    "auroc": 0.91,
+    "ci95": [
+     0.834,
+     0.963
+    ],
+    "sens_at_90_spec": 0.529,
+    "threshold": 0.8682,
+    "n_pos": 17,
+    "n_neg": 72,
+    "label_trained": false
+   },
+   "REVEL": {
+    "auroc": 0.995,
+    "ci95": [
+     0.982,
+     1.0
+    ],
+    "sens_at_90_spec": 1.0,
+    "threshold": 0.7546,
+    "n_pos": 17,
+    "n_neg": 72,
+    "label_trained": true
+   },
+   "MetaRNN": {
+    "auroc": 0.977,
+    "ci95": [
+     0.943,
+     1.0
+    ],
+    "sens_at_90_spec": 0.882,
+    "threshold": 0.8108,
+    "n_pos": 17,
+    "n_neg": 72,
+    "label_trained": true
+   },
+   "baseline: paralog residue identical in NSD3": {
+    "auroc": 0.757
+   },
+   "baseline: is inside the shared module": {
+    "auroc": 0.5
+   }
+  }
+ },
+ "WHOLE PROTEIN (confounded): core positives vs ClinVar B/LB": {
+  "n_pos": 125,
+  "n_neg": 184,
+  "n_pos_residues": 87,
+  "n_neg_residues": 172,
+  "models": {
+   "AlphaMissense": {
+    "auroc": 0.992,
+    "ci95": [
+     0.974,
+     1.0
+    ],
+    "sens_at_90_spec": 0.992,
+    "threshold": 0.2878,
+    "n_pos": 125,
+    "n_neg": 184,
+    "label_trained": false
+   },
+   "CADD v1.7": {
+    "auroc": 0.971,
+    "ci95": [
+     0.948,
+     0.989
+    ],
+    "sens_at_90_spec": 0.96,
+    "threshold": 24.2,
+    "n_pos": 125,
+    "n_neg": 184,
+    "label_trained": false
+   },
+   "ESM1b (dbNSFP)": {
+    "auroc": 0.987,
+    "ci95": [
+     0.967,
+     0.999
+    ],
+    "sens_at_90_spec": 0.992,
+    "threshold": -5.7087,
+    "n_pos": 125,
+    "n_neg": 184,
+    "label_trained": false
+   },
+   "PrimateAI": {
+    "auroc": 0.993,
+    "ci95": [
+     0.978,
+     1.0
+    ],
+    "sens_at_90_spec": 0.992,
+    "threshold": 0.6146,
+    "n_pos": 125,
+    "n_neg": 184,
+    "label_trained": false
+   },
+   "REVEL": {
+    "auroc": 0.989,
+    "ci95": [
+     0.973,
+     0.999
+    ],
+    "sens_at_90_spec": 0.968,
+    "threshold": 0.4354,
+    "n_pos": 125,
+    "n_neg": 184,
+    "label_trained": true
+   },
+   "MetaRNN": {
+    "auroc": 0.99,
+    "ci95": [
+     0.976,
+     0.999
+    ],
+    "sens_at_90_spec": 0.984,
+    "threshold": 0.3997,
+    "n_pos": 125,
+    "n_neg": 184,
+    "label_trained": true
+   },
+   "baseline: paralog residue identical in NSD3": {
+    "auroc": 0.909
+   },
+   "baseline: is inside the shared module": {
+    "auroc": 0.964
+   }
+  }
+ },
+ "SENSITIVITY screen hotspot window (1968-2219)": {
+  "n_pos": 64,
+  "n_neg": 25,
+  "n_pos_residues": 43,
+  "n_neg_residues": 23,
+  "models": {
+   "AlphaMissense": {
+    "auroc": 0.949,
+    "ci95": [
+     0.873,
+     0.997
+    ],
+    "sens_at_90_spec": 0.953,
+    "threshold": 0.9917,
+    "n_pos": 64,
+    "n_neg": 25,
+    "label_trained": false
+   },
+   "CADD v1.7": {
+    "auroc": 0.8,
+    "ci95": [
+     0.667,
+     0.931
+    ],
+    "sens_at_90_spec": 0.469,
+    "threshold": 32.0,
+    "n_pos": 64,
+    "n_neg": 25,
+    "label_trained": false
+   },
+   "ESM1b (dbNSFP)": {
+    "auroc": 0.85,
+    "ci95": [
+     0.747,
+     0.949
+    ],
+    "sens_at_90_spec": 0.5,
+    "threshold": -13.3693,
+    "n_pos": 64,
+    "n_neg": 25,
+    "label_trained": false
+   },
+   "PrimateAI": {
+    "auroc": 0.828,
+    "ci95": [
+     0.719,
+     0.921
+    ],
+    "sens_at_90_spec": 0.562,
+    "threshold": 0.871,
+    "n_pos": 64,
+    "n_neg": 25,
+    "label_trained": false
+   },
+   "REVEL": {
+    "auroc": 0.974,
+    "ci95": [
+     0.941,
+     0.996
+    ],
+    "sens_at_90_spec": 0.922,
+    "threshold": 0.7688,
+    "n_pos": 64,
+    "n_neg": 25,
+    "label_trained": true
+   },
+   "MetaRNN": {
+    "auroc": 0.954,
+    "ci95": [
+     0.895,
+     0.994
+    ],
+    "sens_at_90_spec": 0.891,
+    "threshold": 0.8512,
+    "n_pos": 64,
+    "n_neg": 25,
+    "label_trained": true
+   },
+   "baseline: paralog residue identical in NSD3": {
+    "auroc": 0.744
+   },
+   "baseline: is inside the shared module": {
+    "auroc": 0.5
+   }
+  }
+ },
+ "SENSITIVITY SET + Post-SET only (1942-2082)": {
+  "n_pos": 37,
+  "n_neg": 14,
+  "n_pos_residues": 26,
+  "n_neg_residues": 11,
+  "models": {
+   "AlphaMissense": {
+    "auroc": 0.986,
+    "ci95": [
+     0.952,
+     1.0
+    ],
+    "sens_at_90_spec": 1.0,
+    "threshold": 0.9034,
+    "n_pos": 37,
+    "n_neg": 14,
+    "label_trained": false
+   },
+   "CADD v1.7": {
+    "auroc": 0.854,
+    "ci95": [
+     0.693,
+     0.993
+    ],
+    "sens_at_90_spec": 0.622,
+    "threshold": 31.25,
+    "n_pos": 37,
+    "n_neg": 14,
+    "label_trained": false
+   },
+   "ESM1b (dbNSFP)": {
+    "auroc": 0.863,
+    "ci95": [
+     0.728,
+     0.969
+    ],
+    "sens_at_90_spec": 0.541,
+    "threshold": -13.4195,
+    "n_pos": 37,
+    "n_neg": 14,
+    "label_trained": false
+   },
+   "PrimateAI": {
+    "auroc": 0.836,
+    "ci95": [
+     0.69,
+     0.945
+    ],
+    "sens_at_90_spec": 0.676,
+    "threshold": 0.8663,
+    "n_pos": 37,
+    "n_neg": 14,
+    "label_trained": false
+   },
+   "REVEL": {
+    "auroc": 0.986,
+    "ci95": [
+     0.956,
+     1.0
+    ],
+    "sens_at_90_spec": 0.919,
+    "threshold": 0.7466,
+    "n_pos": 37,
+    "n_neg": 14,
+    "label_trained": true
+   },
+   "MetaRNN": {
+    "auroc": 0.977,
+    "ci95": [
+     0.934,
+     1.0
+    ],
+    "sens_at_90_spec": 0.919,
+    "threshold": 0.8399,
+    "n_pos": 37,
+    "n_neg": 14,
+    "label_trained": true
+   },
+   "baseline: paralog residue identical in NSD3": {
+    "auroc": 0.714
+   },
+   "baseline: is inside the shared module": {
+    "auroc": 0.5
+   }
+  }
+ },
+ "paralog_identity": {
+  "positives_identical_fraction": 0.967,
+  "negatives_identical_fraction": 0.486,
+  "n_pos": 120,
+  "n_neg": 72
+ }
+}

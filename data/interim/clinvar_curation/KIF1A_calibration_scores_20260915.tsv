@@ -1,0 +1,339 @@
+set	label	source	id	protein_change	protein_pos	cv_group	domain	residue_identical_in_kif13a	functional_literature	gnomad_af_max	am_pathogenicity	cadd_phred	revel	esm1b	primateai	metarnn	vep_consequence
+heldout_pp3_dependent_positive	1	ClinVar	VCV004875244	A185T	185	res185	motor	True		6.57e-06	0.9105	29.1	0.551	-11.992556	0.865909099579	0.7650571	missense_variant
+heldout_pp3_dependent_positive	1	ClinVar	VCV004856338	G199V	199	res199	motor	True			0.9977	32.0	0.904	-13.455421	0.910757660866	0.98991716	missense_variant
+heldout_pp3_dependent_positive	1	ClinVar	VCV004856199	S323L	323	res323	motor	True			0.9872	31.0	0.894	-14.936974	0.810751020908	0.9521407	missense_variant
+heldout_pp3_dependent_positive	1	ClinVar	VCV004856116	S309Y	309	res309	motor	True			0.9955	32.0	0.911	-16.100355	0.868574559689	0.9745227	missense_variant
+missense_positive_core	1	ClinVar	VCV004845676	M108T	108	res108	motor	True			0.9836	28.2	0.887	-16.055254	0.908898234367	0.9208088	missense_variant
+missense_positive_core	1	ClinVar	VCV004813322	E19K	19	res19	motor	True			0.9918	33.0	0.942	-15.144552	0.852907717228	0.9771795	missense_variant
+missense_positive_core	1	ClinVar	VCV004795001	C92R	92	res92	motor	True			0.9995	33.0	0.904	-16.597883	0.941562891006	0.97902125	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV004794225	S1211C	1211	res1211	stalk	False		0	0.6993	28.7	0.64	-11.893966	0.784361183643	0.81546974	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV004791708	D1387N	1387	res1387	stalk	False		2.74e-06	0.943	27.0	0.704	-13.256457	0.733312606812	0.8474722	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV004790777	P1515R	1515	res1515	stalk	True		2.841e-06	0.1194	23.1	0.204	-4.081932	0.554609596729	0.18540004	missense_variant
+missense_positive_core	1	ClinVar	VCV004789387	A68E	68	res68	motor	True			0.7065	28.5	0.88	-14.710081	0.729442596436	0.9572707	missense_variant
+missense_positive_core	1	ClinVar	VCV004538461	R169W	169	res169	motor	True			0.9873	21.0	0.854	-11.103815	0.897553324699	0.9754107	missense_variant
+missense_positive_core	1	ClinVar	VCV004531852	A250P	250	res250	motor	True			0.9974	31.0	0.905	-15.793824	0.878879666328	0.98803675	missense_variant
+heldout_pp3_dependent_positive	1	ClinVar	VCV004293830	G268V	268	res268	motor	True			0.9969	27.6	0.896	-14.396	0.880564212799	0.9613929	missense_variant
+missense_positive_core	1	ClinVar	VCV003897785	D308G	308	res308	motor	True			0.9958	31.0	0.918	-15.590253	0.851647734642	0.9655231	missense_variant
+heldout_pp3_dependent_positive	1	ClinVar	VCV003897203	S55Y	55	res55	motor	False			0.9827	32.0	0.85	-14.798906	0.839878678322	0.9172222	missense_variant
+heldout_pp3_dependent_positive	1	ClinVar	VCV003776103	N272D	272	res272	motor	True			0.9968	30.0	0.796	-15.769963	0.868495941162	0.9824291	missense_variant
+missense_positive_core	1	ClinVar	VCV003774955	N211H	211	res211	motor	True			0.9943	29.1	0.896	-12.273128	0.830901741982	0.9826211	missense_variant
+heldout_pp3_dependent_positive	1	ClinVar	VCV003772293	Y306N	306	res306	motor	True			0.9905	28.9	0.908	-15.739436	0.898401081562	0.98499507	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV003768617					False		6.573e-06		12.81					missense_variant
+missense_positive_core	1	ClinVar	VCV003767220	T312I	312	res312	motor	True			0.9956	31.0	0.957	-15.767067	0.86156642437	0.9820569	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV003761963	A406D	406	res406	CC_region	False		3.422e-06	0.5337	24.9	0.29	-2.7922797	0.730651915073	0.4411865	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV003761147	L1428I	1428	res1428	stalk	False		1.37e-06	0.1433	23.6	0.25	-10.44419	0.740507125854	0.30645943	missense_variant
+missense_positive_core	1	ClinVar	VCV003753722	P14A	14	res14	motor	True			0.8768	28.5	0.96	-14.458857	0.841093182564	0.9747897	missense_variant
+missense_positive_core	1	ClinVar	VCV003753720	Q70K	70	res70	motor	True			0.9278	29.3	0.879	-16.796175	0.764437198639	0.9662992	missense_variant
+missense_positive_core	1	ClinVar	VCV003753714	L249M	249	res249	motor	True			0.9393	23.8	0.749	-12.061533	0.765460669994	0.97815454	missense_variant
+missense_positive_core	1	ClinVar	VCV003753713	G268W	268	res268	motor	True			0.9996	30.0	0.919	-13.363027	0.903200924397	0.98485756	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV003753699	A1157S	1157	res1157	stalk	False		2.063e-06	0.1357	29.3	0.142	-7.030177	0.754599928856	0.22901332	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV003753690	A1632G	1632	res1632	stalk	False		1.314e-05	0.1009	20.7	0.029	-4.0091615	0.494783133268	0.0622724	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV003753459	A1529V	1529	res1529	stalk	False		2.627e-05	0.0701	23.6	0.148	-4.1769	0.42696082592	0.034018427	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV003751726	T1747M	1747	res1747	PH	True		4.122e-06	0.8408	32.0	0.463	-9.063716	0.742027759552	0.91972286	missense_variant
+heldout_pp3_dependent_positive	1	ClinVar	VCV003389696	S245R	245	res245	motor	True			0.9995	28.8	0.833	-15.959169	0.804648280144	0.90025735	missense_variant
+missense_positive_core	1	ClinVar	VCV003376669	M210R	210	res210	motor	True			0.9983	32.0	0.915	-15.026209	0.891413450241	0.9820229	missense_variant
+missense_positive_core	1	ClinVar	VCV003337222	T99K	99	res99	motor	True			0.9959	33.0	0.883	-16.846758	0.896793007851	0.97261715	missense_variant
+heldout_pp3_dependent_positive	1	ClinVar	VCV003027205	A330D	330	res330	motor	False			0.9994	33.0	0.889	-15.781465	0.858800411224	0.90023136	missense_variant
+missense_positive_core	1	ClinVar	VCV003024339	N211D	211	res211	motor	True			0.9936	30.0	0.878	-15.468315	0.848259985447	0.9850172	missense_variant
+missense_positive_core	1	ClinVar	VCV002952198	L372V	372	res372	neck_coil_CC1	True			0.9177	27.9	0.8	-16.124775	0.728551268578	0.8895484	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002950913	A1601G	1601	res1601	stalk	False		2.061e-06	0.0935	23.2	0.096	-3.3054605	0.565324306488	0.23099717	missense_variant
+missense_positive_core	1	ClinVar	VCV002946720	L275Q	275	res275	motor	True			0.9996	31.0	0.838	-14.046116	0.919326603413	0.98951924	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002946463	P1071A	1071	res1071	stalk	False		3.447e-06	0.0582	16.73	0.107	-3.745747	0.392306864262	0.08191642	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002946247	H1432R	1432	res1432	stalk	False		6.571e-06	0.0827	19.46	0.073	-4.2762485	0.728409290314	0.1050961	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002942603	K1712R	1712	res1712	PH	False		2.054e-06	0.0776	19.08	0.058	-4.339071	0.606541574001	0.10651785	missense_variant
+missense_positive_core	1	ClinVar	VCV002940950	T35A	35	res35	motor	True		6.872e-07	0.7369	26.6	0.823	-10.774902	0.794991612434	0.87137824	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002938627	V1054L	1054	res1054	stalk	False		2.766e-06	0.0734	0.123	0.084	-4.762888	0.303126335144	0.020758748	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002936907	R1652G	1652	res1652	stalk	False		1.314e-05	0.0607	17.72	0.059	-2.4886942	0.447895765305	0.08950326	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002934144	E1536A	1536	res1536	stalk	True		3.582e-06	0.0751	21.4	0.067	-3.3069332	0.432813942432	0.1145111	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002933382	A1642T	1642	res1642	stalk	False		3.152e-05	0.0624	7.432	0.008	-3.7102344	0.494492471218	0.022738397	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002931321	E1519D	1519	res1519	stalk	False		1.427e-06	0.0893	18.79	0.06	-3.913917	0.528914868832	0.09380859	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002930643	R1421C	1421	res1421	stalk	False		2.055e-06	0.4634	26.3	0.437	-9.104232	0.852740526199	0.560653	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002929464	Q1626K	1626	res1626	stalk	False		2.06e-06	0.1032	20.7	0.063	-4.6804776	0.601992368698	0.06878537	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002925904	T1588N	1588	res1588	stalk	False		1.314e-05	0.2346	24.5	0.159	-4.010127	0.652934908867	0.33301976	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002924851	R1357Q	1357	res1357	stalk	True		1.314e-05	0.8573	28.7	0.744	-11.461553	0.849809706211	0.75968826	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002923842	Y1682H	1682	res1682	PH	False		2.062e-06	0.4245	25.3	0.47	-8.039593	0.912507712841	0.94029963	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002922561	R1005C	1005	res1005	stalk	False		6.844e-06	0.9853	29.4	0.579	-12.847074	0.844204306602	0.8290132	missense_variant
+missense_positive_core	1	ClinVar	VCV002578901	C92Y	92	res92	motor	True		0	0.9992	32.0	0.871	-16.353727	0.945980489254	0.97567	missense_variant
+heldout_pp3_dependent_positive	1	ClinVar	VCV002576565	A334T	334	res334	motor	True		0	0.9538	28.7	0.732	-14.585135	0.873747348785	0.87825465	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV002574479	R350Q	350	res350	motor	True		6.842e-07	0.9905	33.0	0.887	-12.519104	0.823103666306	0.91462314	missense_variant
+heldout_pp3_dependent_positive	1	ClinVar	VCV002504638	T341P	341	res341	motor	True			0.9968	26.7	0.943	-15.0713005	0.883099019527	0.99096084	missense_variant
+heldout_pp3_dependent_positive	1	ClinVar	VCV002444305	A101V	101	res101	motor	False			0.9504	29.7	0.758	-15.532756	0.843125104904	0.925248	missense_variant
+heldout_pp3_dependent_positive	1	ClinVar	VCV002444114	M210I	210	res210	motor	True			0.9993	32.0	0.801	-7.879245	0.869381129742	0.97350276	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV002433128	V247M	247	res247	motor	True		0	0.9878	27.3	0.8	-11.673347	0.802695870399	0.9802157	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002428665					False		0.0006568		7.868					missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002414922	L1092P	1092	res1092	stalk	False		6.847e-07	0.1515	21.7	0.367	-12.124077	0.653389692307	0.29072237	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002201376	D1759H	1759	res1759	PH	False		6.852e-07	0.9702	28.6	0.32	-11.094777	0.823668062687	0.68996525	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002194801	F1685L	1685	res1685	PH	False		1.166e-05	0.9939	23.0	0.352	-9.133737	0.943169295788	0.5551687	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002159770	A719V	719	res719	stalk	False		6.568e-06	0.8938	24.4	0.125	-10.417332	0.824671506882	0.3130065	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002150982	A1768T	1768	res1768	PH	False		1.971e-05	0.9749	29.9	0.734	-7.031883	0.780940055847	0.9128655	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002141949	H1432Y	1432	res1432	stalk	False		6.57e-06	0.1109	22.8	0.072	-10.132401	0.74162197113	0.2455768	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002139190	R1406C	1406	res1406	stalk	False		1.314e-05	0.8223	27.2	0.655	-11.577131	0.858606696129	0.84828675	missense_variant
+missense_positive_core	1	ClinVar	VCV002098196	G251R	251	res251	motor	True	Boyle 2021 HGG Adv		0.9999	29.2	0.943	-9.238596	0.864198565483	0.99359655	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002077289	P1070S	1070	res1070	stalk	True		2.069e-06	0.0629	7.903	0.051	-4.4175825	0.36115565896	0.041062444	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002071149	R1591Q	1591	res1591	stalk	False		8.225e-06	0.086	23.9	0.099	-3.702471	0.539543628693	0.21777612	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002060548	I1752F	1752	res1752	PH	False		3.292e-05	0.6506	20.4	0.184	-8.680878	0.764014482498	0.35651848	missense_variant
+missense_positive_core	1	ClinVar	VCV002035801	A255D	255	res255	motor	False			0.9991	29.2	0.88	-19.987572	0.896703660488	0.9774122	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002026401	A1787S	1787	res1787	C_terminal	False		1.37e-06	0.086	22.6	0.064	-3.0484283	0.585491597652	0.14626005	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002024728	A1463T	1463	res1463	stalk	False		7.144e-07	0.8333	27.7	0.302	-10.950417	0.848179578781	0.27347684	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV002020192					False				19.89					missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV002005626	G321S	321	res321	motor	True		0	0.9531	34.0	0.92	-12.554221	0.810981869698	0.98168397	missense_variant
+missense_positive_core	1	ClinVar	VCV001987306	Y89F	89	res89	motor	True		2.053e-06	0.3123	27.0	0.836	-8.361494	0.883439660072	0.9559245	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV001978199	I27V	27	res27	motor	False			0.1813	23.7	0.297	-4.1713037	0.710115134716	0.25731856	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001973194	I1752V	1752	res1752	PH	False		1.972e-05	0.2619	18.63	0.104	-2.9417868	0.67982250452	0.34614724	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001959032	R422S	422	res422	CC_region	False		6.573e-06	0.8863	24.6	0.305	-11.674997	0.801486968994	0.49397752	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001946833	T1379I	1379	res1379	stalk	False		6.849e-07	0.1564	22.2	0.313	-7.052231	0.472918689251	0.26772866	missense_variant
+missense_positive_core	1	ClinVar	VCV001803047	A269D	269	res269	motor	False			0.9989	26.1	0.809	-17.472275	0.884114861488	0.89097226	missense_variant
+missense_positive_core	1	ClinVar	VCV001801064	G279R	279	res279	motor	True			0.9999	30.0	0.901	-12.047762	0.946691811085	0.99113935	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV001700774	A101T	101	res101	motor	False			0.7936	29.2	0.549	-8.579295	0.830763220787	0.7897117	missense_variant
+heldout_pp3_dependent_positive	1	ClinVar	VCV001696931	M147R	147	res147	motor	True		6.168e-06	0.994	32.0	0.913	-18.210823	0.849690437317	0.9734908	missense_variant
+missense_positive_core	1	ClinVar	VCV001685908	H218R	218	res218	motor	True			0.999	26.5	0.964	-11.475528	0.861128211021	0.9918862	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV001676446	T312N	312	res312	motor	True			0.9747	29.5	0.938	-16.745651	0.832173645496	0.97868705	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001655966					False		1.971e-05		16.61					missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001600298	H1018P	1018	res1018	stalk	False		0.000184	0.309	23.8	0.241	-10.022808	0.483581483364	0.01803714	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001528901	R1616Q	1616	res1616	stalk	False		9.2e-05	0.0842	26.3	0.123	-3.2067213	0.63405251503	0.26682192	missense_variant
+missense_positive_core	1	ClinVar	VCV001507070	T258K	258	res258	motor	True		0	0.9948	24.8	0.757	-12.204804	0.889428675175	0.89884174	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001506702	L1197R	1197	res1197	stalk	False		6.571e-06	0.4181	25.7	0.348	-6.4867134	0.772723972797	0.3240779	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001506252	S1730G	1730	res1730	PH	False		1.371e-05	0.8411	34.0	0.309	-10.579302	0.726777911186	0.68520784	missense_variant
+missense_positive_core	1	ClinVar	VCV001505292	I27F	27	res27	motor	False			0.9292	28.2	0.849	-11.004246	0.78308403492	0.836807	missense_variant
+missense_positive_core	1	ClinVar	VCV001486265	E253D	253	res253	motor	True			0.9978	23.4	0.739	-13.850344	0.835937917233	0.9845333	missense_variant
+missense_positive_core	1	ClinVar	VCV001477424	R254G	254	res254	motor	True			0.9955	32.0	0.869	-13.37154	0.815914869308	0.9833605	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001475747	E1659D	1659	res1659	stalk	False		2.626e-05	0.0902	17.18	0.089	-5.1327167	0.656380176544	0.08599162	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001473034	Q1726H	1726	res1726	PH	False		6.569e-06	0.3303	20.5	0.338	-8.86414	0.68957054615	0.3725341	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001463718	N1546S	1546	res1546	stalk	True		2.653e-05	0.0462	0.262	0.112	-2.4691253	0.310331761837	0.029262811	missense_variant
+missense_positive_core	1	ClinVar	VCV001452132	T344M	344	res344	motor	True			0.9822	29.2	0.827	-16.085064	0.85345441103	0.96293676	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001442629	L1076P	1076	res1076	stalk	False		6.573e-06	0.0678	22.7	0.216	-4.004423	0.573527038097	0.17539486	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV001431889	S51R	51	res51	motor	False			0.8637	31.0	0.477	-13.459081	0.734221935272	0.6445118	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001428495	E431K	431	res431	CC_region	False		6.572e-06	0.5584	26.0	0.237	-14.612182	0.815835475922	0.4366062	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001422108	R1457Q	1457	res1457	stalk	True		6.569e-06	0.9771	34.0	0.789	-9.369781	0.894168972969	0.7961915	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001419726	R1652L	1652	res1652	stalk	False		6.853e-07	0.0766	5.57	0.011	-2.6188803	0.460733622313	0.07621282	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001418721	R1507W	1507	res1507	stalk	False		6.572e-06	0.1078	23.2	0.322	-6.1391487	0.532875418663	0.47263706	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001417676	A424G	424	res424	CC_region	False		1.369e-06	0.1097	22.2	0.118	-2.7823157	0.664533257484	0.1471304	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001408827	P1381L	1381	res1381	stalk	True		1.971e-05	0.3893	28.8	0.686	-8.909063	0.729514658451	0.85638106	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001403754	I1365V	1365	res1365	stalk	True		6.575e-06	0.3214	22.8	0.279	-6.661574	0.768429875374	0.2952062	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001401299	K1780R	1780	res1780	C_terminal	False		1.314e-05	0.2143	25.9	0.283	-5.495222	0.756548881531	0.36969844	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001400326	R1550P	1550	res1550	stalk	True		1.315e-05	0.9055	25.1	0.245	-14.354768	0.519130527973	0.41018474	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001398006	Q1626P	1626	res1626	stalk	False		1.373e-06	0.0654	19.6	0.052	-3.040224	0.580411553383	0.072556406	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001369386	P1205L	1205	res1205	stalk	False		6.569e-06	0.8069	26.6	0.576	-12.314693	0.855235278606	0.8285264	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001360820	C1232Y	1232	res1232	stalk	False		6.57e-06	0.373	23.6	0.471	-10.047765	0.689620494843	0.69531167	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001354461	T1690M	1690	res1690	PH	False		6.165e-06	0.2231	28.1	0.314	-10.678705	0.811005711555	0.62881184	missense_variant
+missense_positive_core	1	ClinVar	VCV001349128	S58W	58	res58	motor	True			0.9909	33.0	0.889	-15.889029	0.80500638485	0.9750335	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001346902	R465Q	465	res465	CC_region	True		1.437e-05	0.2907	28.5	0.264	-12.38737	0.798920869827	0.359975	missense_variant
+missense_positive_core	1	ClinVar	VCV001320263	I271S	271	res271	motor	True			0.9991	32.0	0.937	-17.319569	0.899347066879	0.96746683	missense_variant
+missense_positive_core	1	ClinVar	VCV001319270	E148K	148	res148	motor	True			0.9993	33.0	0.936	-14.618387	0.900299668312	0.98758805	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001063161	T1714N	1714	res1714	PH	True		3.942e-05	0.0837	18.11	0.039	-7.1406617	0.440623819828	0.056974083	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001062627	I433M	433	res433	CC_region	False		1.314e-05	0.1083	19.54	0.162	-9.765923	0.729745864868	0.21533096	missense_variant
+missense_positive_core	1	ClinVar	VCV001058331	D156V	156	res156	motor	True			0.9975	28.7	0.953	-13.727216	0.820496678352	0.9793731	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001052105	T1604S	1604	res1604	stalk	False		6.569e-06	0.1817	26.3	0.238	-3.0124264	0.780091166496	0.3938643	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001041657	H1330Q	1330	res1330	stalk	False		6.57e-06	0.0978	19.59	0.056	-7.1428638	0.295294702053	0.11724159	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001038191	R1415Q	1415	res1415	stalk	False		2.631e-05	0.2192	26.7	0.328	-8.719858	0.630870819092	0.42574543	missense_variant
+missense_positive_core	1	ClinVar	VCV001032200	K280R	280	res280	motor	False			0.4396	28.3	0.433	-12.100101	0.874254345894	0.68478143	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV001028217	S217F	217	res217	motor	True			0.9991	33.0	0.925	-15.250483	0.814960718155	0.9871141	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001025820	A1651V	1651	res1651	stalk	False		1.439e-05	0.0686	2.598	0.03	-3.6552927	0.503969013691	0.05449322	missense_variant
+missense_positive_core	1	ClinVar	VCV001023002	A250S	250	res250	motor	True		0	0.9009	25.3	0.863	-15.989202	0.837723493576	0.98125774	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001019986	E1547K	1547	res1547	stalk	False		1.97e-05	0.1933	25.6	0.401	-10.355764	0.634630858898	0.19957706	missense_variant
+missense_positive_core	1	ClinVar	VCV001004912	T312P	312	res312	motor	True			0.9764	31.0	0.984	-15.109202	0.784087836742	0.9861732	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV001004820	R660H	660	res660	stalk	False		1.351e-05	0.2113	25.7	0.246	-13.136298	0.630679965019	0.25716895	missense_variant
+missense_positive_core	1	ClinVar	VCV001001813	R11L	11	res11	motor	True			0.9867	32.0	0.965	-15.477988	0.909121274948	0.96109307	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000989197	K297R	297	res297	motor	False		6.569e-06	0.1408	25.4	0.614	-10.136799	0.830535769463	0.62681973	missense_variant
+missense_positive_core	1	ClinVar	VCV000989196	V281L	281	res281	motor	True			0.9928	25.3	0.864	-13.907585	0.916572034359	0.9815158	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000989195	E267D	267	res267	motor	True			0.9877	17.22	0.727	-12.406754	0.845998883247	0.9865636	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000989194	D248N	248	res248	motor	True		0	0.9984	29.1	0.88	-11.145638	0.832906961441	0.9769397	missense_variant
+missense_positive_core	1	ClinVar	VCV000989193	V220F	220	res220	motor	True			0.9795	29.6	0.903	-17.72099	0.839990854263	0.96763074	missense_variant
+missense_positive_core	1	ClinVar	VCV000989192	S215N	215	res215	motor	True			0.9895	29.4	0.89	-10.596207	0.8224401474	0.9779151	missense_variant
+missense_positive_core	1	ClinVar	VCV000989191	L174P	174	res174	motor	True			0.9857	31.0	0.637	-13.338036	0.78771173954	0.8482641	missense_variant
+missense_positive_core	1	ClinVar	VCV000989190	G78R	78	res78	motor	True			0.9975	28.9	0.939	-13.712528	0.846742630005	0.9780474	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000989189	V73L	73	res73	motor	True		6.569e-06	0.9174	27.2	0.774	-15.001196	0.820101737976	0.894001	missense_variant
+missense_positive_core	1	ClinVar	VCV000989188	S69W	69	res69	motor	False			0.755	29.9	0.686	-14.945459	0.750694155693	0.8087792	missense_variant
+missense_positive_core	1	ClinVar	VCV000989187	C26R	26	res26	motor	True			0.9837	31.0	0.853	-17.318733	0.855776071548	0.9085323	missense_variant
+missense_positive_core	1	ClinVar	VCV000988992	Y338C	338	res338	motor	True			0.9754	26.4	0.87	-12.688576	0.926782488823	0.944414	missense_variant
+missense_positive_core	1	ClinVar	VCV000988991	A334V	334	res334	motor	True		6.855e-07	0.9747	31.0	0.812	-15.492449	0.884433865547	0.93907917	missense_variant
+missense_positive_core	1	ClinVar	VCV000986214	L249P	249	res249	motor	True			0.9999	31.0	0.978	-13.266955	0.8416197896	0.99224174	missense_variant
+missense_positive_core	1	ClinVar	VCV000985565	L275P	275	res275	motor	True			0.9999	32.0	0.836	-12.695264	0.941358864307	0.98856497	missense_variant
+missense_positive_core	1	ClinVar	VCV000985166	L157F	157	res157	motor	True			0.9878	28.5	0.915	-10.502926	0.842336416245	0.9859944	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000979181	L372P	372	res372	neck_coil_CC1	True			0.9998	32.0	0.964	-13.942623	0.831804394722	0.9715883	missense_variant
+missense_positive_core	1	ClinVar	VCV000977818	R13L	13	res13	motor	True			0.988	33.0	0.953	-13.86557	0.863230109215	0.9677978	missense_variant
+missense_positive_core	1	ClinVar	VCV000974924	V186F	186	res186	motor	True			0.9701	31.0	0.935	-15.641764	0.900410115719	0.9831056	missense_variant
+missense_positive_core	1	ClinVar	VCV000974923	T106N	106	res106	motor	False			0.9811	32.0	0.916	-14.110638	0.860931873322	0.9743779	missense_variant
+missense_positive_core	1	ClinVar	VCV000974922	S323P	323	res323	motor	True			0.9932	28.2	0.94	-15.585954	0.810605168343	0.9606744	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000974921	S252R	252	res252	motor	True			0.9997	19.2	0.726	-13.141749	0.785773277283	0.9687258	missense_variant
+missense_positive_core	1	ClinVar	VCV000974917	R350W	350	res350	motor	True	Shatarupa 2026 Nat Commun	6.571e-06	0.9972	33.0	0.929	-11.492881	0.891789495945	0.9599582	missense_variant
+missense_positive_core	1	ClinVar	VCV000974916	L173P	173	res173	motor	False			0.9571	28.9	0.697	-14.139387	0.825981795788	0.8606493	missense_variant
+missense_positive_core	1	ClinVar	VCV000974915	E148D	148	res148	motor	True			0.996	25.6	0.819	-14.914628	0.859125852585	0.9818629	missense_variant
+missense_positive_core	1	ClinVar	VCV000974913	R167H	167	res167	motor	False		2.737e-06	0.7779	28.0	0.753	-13.827644	0.867699623108	0.93844795	missense_variant
+missense_positive_core	1	ClinVar	VCV000974871	P14T	14	res14	motor	True			0.9713	31.0	0.968	-14.974742	0.862159907818	0.97700983	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000962903	E1025K	1025	res1025	stalk	False		9.215e-06	0.3561	24.0	0.425	-13.023587	0.690173506737	0.47725442	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000947656	Q707R	707	res707	stalk	True		1.174e-05	0.1224	17.07	0.099	-7.318114	0.572618067265	0.14470708	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000945941	A1768S	1768	res1768	PH	False		1.371e-06	0.6608	27.4	0.665	-10.683052	0.757785201073	0.8958992	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000936699	G117D	117	res117	motor	True		0	0.997	31.0	0.951	-15.721965	0.879285335541	0.98937595	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000871018	I37T	37	res37	motor	False			0.9754	27.0	0.826	-15.64522	0.785960674286	0.88267756	missense_variant
+missense_positive_core	1	ClinVar	VCV000869126	R307P	307	res307	motor	True			0.9978	32.0	0.931	-15.845706	0.913125872612	0.9868113	missense_variant
+missense_positive_core	1	ClinVar	VCV000864523	T35N	35	res35	motor	True		0	0.9634	31.0	0.698	-12.81209	0.84129846096	0.86249673	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000863001	T341A	341	res341	motor	True		6.878e-07	0.972	25.3	0.952	-12.043038	0.886258721352	0.9879203	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000862867	C1378Y	1378	res1378	stalk	False		2.055e-06	0.9339	26.2	0.634	-11.148784	0.797515511513	0.9115319	missense_variant
+missense_positive_core	1	ClinVar	VCV000801920	G78D	78	res78	motor	True			0.9976	28.4	0.946	-15.199869	0.85218667984	0.98294854	missense_variant
+missense_positive_core	1	ClinVar	VCV000801919	L157P	157	res157	motor	True			0.9997	32.0	0.977	-13.02023	0.900748491287	0.9929472	missense_variant
+missense_positive_core	1	ClinVar	VCV000801918	G268R	268	res268	motor	True			0.9996	28.5	0.92	-12.375862	0.908616900444	0.98001456	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000801916	D1093G	1093	res1093	stalk	False		1.315e-05	0.1095	23.5	0.15	-6.478757	0.468020379543	0.19397527	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000679511					False		0.008113		0.871					missense_variant
+missense_positive_core	1	ClinVar	VCV000666256	R169T	169	res169	motor	True	Anazawa 2022 PNAS;Shatarupa 2026 Nat Commun		0.9947	24.8	0.857	-15.16425	0.878737688065	0.9802164	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000664164	S1312Y	1312	res1312	stalk	False		2.737e-05	0.246	26.5	0.393	-13.637474	0.581463754177	0.61330223	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000662405	A1157T	1157	res1157	stalk	False		1.375e-06	0.1177	29.2	0.18	-8.786085	0.784586668015	0.12923974	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000659507	V831M	831	res831	stalk	True		1.971e-05	0.1154	23.4	0.086	-7.6657915	0.728201985359	0.14122313	missense_variant
+missense_positive_core	1	ClinVar	VCV000654820	R11Q	11	res11	motor	True	Anazawa 2022 PNAS	6.852e-07	0.9782	33.0	0.969	-13.431314	0.872913837433	0.9670057	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000654461	V1587I	1587	res1587	stalk	True		6.851e-07	0.1038	23.5	0.077	-4.697687	0.561632990837	0.10794777	missense_variant
+missense_positive_core	1	ClinVar	VCV000647033	L246R	246	res246	motor	True			0.9985	33.0	0.921	-16.412312	0.812955081463	0.9856093	missense_variant
+missense_positive_core	1	ClinVar	VCV000645308	E267Q	267	res267	motor	True			0.9873	35.0	0.854	-15.17687	0.834363043308	0.98271394	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000644605	G1618S	1618	res1618	stalk	False		6.571e-06	0.0638	18.59	0.133	-1.6787059	0.582759618759	0.040281475	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000583174	R380W	380	res380	neck_coil_CC1	True		1.314e-05	0.7161	32.0	0.644	-14.628184	0.651630938053	0.79255676	missense_variant
+missense_positive_core	1	ClinVar	VCV000580199	A250D	250	res250	motor	True		0	0.9995	32.0	0.91	-17.235636	0.892957806587	0.9897237	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000574511	R380P	380	res380	neck_coil_CC1	True			0.9948	33.0	0.654	-19.218794	0.592294752598	0.8172938	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000572111	R1750C	1750	res1750	PH	False		6.57e-06	0.8736	33.0	0.52	-12.918182	0.899074435234	0.9428925	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000532860	R1096C	1096	res1096	stalk	False		5.82e-05	0.0968	24.8	0.337	-11.08759	0.385038614273	0.37083206	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000532857	V988I	988	res988	stalk	True		1.314e-05	0.2505	23.2	0.312	-9.109672	0.543536663055	0.3822316	missense_variant
+missense_positive_core	1	ClinVar	VCV000521717	S214N	214	res214	motor	True			0.9887	30.0	0.825	-14.109657	0.788217842579	0.976079	missense_variant
+missense_positive_core	1	ClinVar	VCV000521233	E267K	267	res267	motor	True			0.998	34.0	0.87	-13.772087	0.886547386646	0.9833953	missense_variant
+missense_positive_core	1	ClinVar	VCV000520815	G117V	117	res117	motor	True		0	0.9964	36.0	0.889	-16.299242	0.83752477169	0.9413403	missense_variant
+missense_positive_core	1	ClinVar	VCV000464261	T258M	258	res258	motor	True		0	0.9834	28.4	0.789	-11.897953	0.874974191189	0.92101616	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000464225	A1110V	1110	res1110	stalk	True		2.739e-06	0.9665	34.0	0.743	-12.033683	0.874502420425	0.82210207	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000451648	C151Y	151	res151	motor	False			0.9994	31.0	0.843	-14.816081	0.91369587183	0.95315206	missense_variant
+missense_positive_core	1	ClinVar	VCV000449043	G199R	199	res199	motor	True			0.9983	28.7	0.883	-10.786435	0.935186266899	0.9915893	missense_variant
+missense_positive_core	1	ClinVar	VCV000435636	R307G	307	res307	motor	True			0.9928	23.1	0.837	-15.250154	0.898575186729	0.9894415	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000435632	S104F	104	res104	motor	True			0.9995	33.0	0.849	-15.732091	0.892490267754	0.97789735	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000435629	R633H	633	res633	stalk	False		6.846e-07	0.6217	25.6	0.378	-13.703168	0.888181328773	0.4562093	missense_variant
+missense_positive_core	1	ClinVar	VCV000432584	A85D	85	res85	motor	True			0.9982	31.0	0.897	-17.586815	0.87555873394	0.9667536	missense_variant
+missense_positive_core	1	ClinVar	VCV000432272	K103T	103	res103	motor	True			0.9967	31.0	0.954	-14.062148	0.885789752007	0.93945503	missense_variant
+missense_positive_core	1	ClinVar	VCV000428604	P305L	305	res305	motor	True	Anazawa 2022 PNAS;Boyle 2021 HGG Adv;Shatarupa 2026 Nat Commun	0	0.9314	33.0	0.934	-14.605015	0.895628094673	0.98738295	missense_variant
+missense_positive_core	1	ClinVar	VCV000426934	R13C	13	res13	motor	True			0.9791	34.0	0.965	-13.236237	0.89026683569	0.9711709	missense_variant
+missense_positive_core	1	ClinVar	VCV000424652	R11W	11	res11	motor	True		6.853e-07	0.99	33.0	0.896	-15.494114	0.927653431892	0.9508773	missense_variant
+missense_positive_core	1	ClinVar	VCV000422067	G102S	102	res102	motor	True		6.88e-07	0.9831	33.0	0.974	-13.063633	0.927709341049	0.9874549	missense_variant
+missense_positive_core	1	ClinVar	VCV000421138	R13S	13	res13	motor	True			0.9981	33.0	0.969	-15.513365	0.857129633427	0.9631806	missense_variant
+missense_positive_core	1	ClinVar	VCV000418275	R307Q	307	res307	motor	True		0	0.952	32.0	0.928	-14.39336	0.875141739845	0.98995996	missense_variant
+missense_positive_core	1	ClinVar	VCV000392042	R254P	254	res254	motor	True			0.9991	32.0	0.772	-12.762358	0.842891573906	0.98366445	missense_variant
+missense_negative_clinvar_outside_motor	0	ClinVar	VCV000378046	R938Q	938	res938	stalk	False		0.0009053		20.9	0.026	-4.3075223	0.427563339472	0.0037359595	missense_variant
+missense_positive_core	1	ClinVar	VCV000373905	G78S	78	res78	motor	True		6.842e-07	0.8411	30.0	0.887	-12.605322	0.789326667786	0.91402113	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000373642	R316Q	316	res316	motor	False		0	0.8547	32.0	0.614	-12.379153	0.774722337723	0.7870655	missense_variant
+missense_positive_core	1	ClinVar	VCV000373113	G268E	268	res268	motor	True			0.9989	28.3	0.918	-14.407264	0.904813170433	0.9824507	missense_variant
+missense_positive_core	1	ClinVar	VCV000280500	R254Q	254	res254	motor	True	Anazawa 2022 PNAS	0	0.9948	32.0	0.784	-12.954252	0.782946884632	0.9830507	missense_variant
+heldout_pp3_dependent_positive	1	ClinVar	VCV000245961	T277P	277	res277	motor	True			0.994	32.0	0.865	-14.687741	0.88629257679	0.96417046	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000245928	Y347C	347	res347	motor	True			0.9982	32.0	0.931	-11.330873	0.871930718422	0.9666927	missense_variant
+heldout_pp3_dependent_positive	1	ClinVar	VCV000245914	S309P	309	res309	motor	True			0.9953	31.0	0.938	-13.437567	0.840045154095	0.97821355	missense_variant
+heldout_pp3_dependent_positive	1	ClinVar	VCV000245898	G493S	493	res493	CC_region	True			0.9772	27.4	0.723	-13.519499	0.931602299213	0.80156446	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000245852	P14L	14	res14	motor	True			0.9745	33.0	0.94	-14.431319	0.876397609711	0.9785252	missense_variant
+missense_positive_core	1	ClinVar	VCV000245636	R254W	254	res254	motor	True	Anazawa 2022 PNAS;Boyle 2021 HGG Adv	1.394e-06	0.998	33.0	0.813	-11.8787365	0.864129662514	0.9804587	missense_variant
+missense_positive_core	1	ClinVar	VCV000234899	N272S	272	res272	motor	True			0.8693	27.4	0.756	-13.147715	0.805950045586	0.9852855	missense_variant
+missense_positive_core	1	ClinVar	VCV000234758	S217C	217	res217	motor	True			0.966	31.0	0.928	-12.85152	0.796191692352	0.98637015	missense_variant
+missense_positive_core	1	ClinVar	VCV000234716	H171P	171	res171	motor	True			0.9652	28.3	0.951	-18.754889	0.725608408451	0.9542362	missense_variant
+missense_positive_core	1	ClinVar	VCV000234697	R169K	169	res169	motor	True			0.7661	24.2	0.693	-12.281443	0.885212540627	0.95971525	missense_variant
+missense_positive_core	1	ClinVar	VCV000224157	Y89D	89	res89	motor	True			0.9784	32.0	0.954	-16.364376	0.909786462784	0.98642004	missense_variant
+missense_positive_core	1	ClinVar	VCV000211298	S274L	274	res274	motor	True	Boyle 2021 HGG Adv		0.9976	31.0	0.838	-13.371069	0.910448014736	0.9198817	missense_variant
+missense_positive_core	1	ClinVar	VCV000209165	R13H	13	res13	motor	True	Boyle 2021 HGG Adv	0	0.977	33.0	0.946	-15.198866	0.863336324692	0.96909165	missense_variant
+missense_positive_core	1	ClinVar	VCV000208161	R216H	216	res216	motor	True			0.9922	33.0	0.959	-13.282106	0.823897600174	0.98990333	missense_variant
+missense_positive_core	1	ClinVar	VCV000208160	R216C	216	res216	motor	True			0.9968	34.0	0.958	-12.310701	0.860839247704	0.990731	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000191158	R75W	75	res75	motor	False		6.5e-05	0.1277	26.0	0.653	-10.349646	0.412461012602	0.6597965	missense_variant
+missense_positive_core	1	ClinVar	VCV000188057	S69L	69	res69	motor	False			0.2543	32.0	0.576	-12.792405	0.728174090385	0.68820375	missense_variant
+missense_positive_core	1	ClinVar	VCV000162061	L249Q	249	res249	motor	True			0.9997	31.0	0.99	-14.623306	0.777533948421	0.9918201	missense_variant
+missense_positive_core	1	ClinVar	VCV000162060	R316W	316	res316	motor	False	Boyle 2021 HGG Adv		0.9881	31.0	0.909	-14.26918	0.865521550179	0.9498167	missense_variant
+missense_positive_core	1	ClinVar	VCV000162059	E253K	253	res253	motor	True	Boyle 2021 HGG Adv	0	0.999	30.0	0.951	-11.72208	0.882726669312	0.9900358	missense_variant
+sensitivity_conflict_P_vs_VUS		ClinVar	VCV000162058	R216P	216	res216	motor	True			0.9984	33.0	0.953	-13.818407	0.833460688591	0.98637724	missense_variant
+missense_positive_core	1	ClinVar	VCV000162057	S215R	215	res215	motor	True			0.9995	31.0	0.98	-12.721245	0.829057335854	0.9869193	missense_variant
+missense_positive_core	1	ClinVar	VCV000162056	A202P	202	res202	motor	False			0.9932	32.0	0.862	-16.16998	0.874602138996	0.90646863	missense_variant
+missense_positive_core	1	ClinVar	VCV000162055	R167C	167	res167	motor	False		6.57e-06	0.9314	32.0	0.917	-13.069751	0.891026973724	0.959041	missense_variant
+missense_positive_core	1	ClinVar	VCV000162054	V144F	144	res144	motor	True			0.9814	35.0	0.946	-14.213925	0.810362875462	0.93831503	missense_variant
+missense_positive_core	1	ClinVar	VCV000162053	G102D	102	res102	motor	True		0	0.9996	31.0	0.98	-12.938296	0.947187483311	0.98372924	missense_variant
+missense_positive_core	1	ClinVar	VCV000162052	S58L	58	res58	motor	True			0.9265	33.0	0.938	-12.980472	0.783872425556	0.9809303	missense_variant
+missense_positive_core	1	ClinVar	VCV000037004	R350G	350	res350	motor	True	Anazawa 2022 PNAS;Shatarupa 2026 Nat Commun	6.842e-07	0.9963	28.6	0.93	-12.9604	0.850787043571	0.9527273	missense_variant
+missense_positive_core	1	ClinVar	VCV000030169	T99M	99	res99	motor	True	Boyle 2021 HGG Adv		0.9874	34.0	0.933	-15.13437	0.881279468536	0.9831116	missense_variant
+missense_positive_core	1	ClinVar	VCV000030166	A255V	255	res255	motor	False	Anazawa 2022 PNAS;Shatarupa 2026 Nat Commun	0	0.9936	28.2	0.814	-14.189437	0.870832681656	0.9052965	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240773210-C-T	E362K	362	res362	neck_linker	True		1.239177334950873e-06	0.948	33.0	0.887	-14.293825	0.825060248375	0.92157435	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240773212-T-A	N361I	361	res361	neck_linker	True		1.8587590924298937e-06	0.9427	29.6	0.874	-15.638971	0.6670140028	0.93459845	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240773216-T-C	I360V	360	res360	neck_linker	False		1.239169657196106e-06	0.1841	23.7	0.418	-7.9977107	0.747609496117	0.4393828	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240773230-C-T	R355H	355	res355	neck_linker	False		0.0001152556320346213	0.6077	27.3	0.556	-6.6967797	0.81986951828	0.4636428	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240773231-G-A	R355C	355	res355	neck_linker	False		7.435856443355505e-06	0.705	33.0	0.733	-8.81581	0.856491327286	0.76440775	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240774203-A-C	D339E	339	res339	motor	False		0.00012414626051500112	0.7434	0.416	0.448	-5.155531	0.886957764626	0.35825086	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240774229-A-T	L331M	331	res331	motor	False		1.241429481219034e-06	0.8168	25.9	0.596	-9.860983	0.827136397362	0.700356	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240774241-T-C	M327V	327	res327	motor	True		1.861478684207587e-06	0.8179	27.0	0.881	-13.408601	0.767099261284	0.9711747	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240775881-C-T	V310M	310	res310	motor	True		1.2402623899112095e-06	0.9563	31.0	0.691	-12.156729	0.9146078825	0.8544824	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240775910-T-C	K300R	300	res300	motor	False		1.2420339050415398e-06	0.1054	25.2	0.405	-8.873308	0.852409124374	0.5957738	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240775911-T-C	K300E	300	res300	motor	False		1.2420477890307307e-06	0.7578	28.8	0.717	-17.19319	0.876851677895	0.86482096	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240782591-T-C	K294R	294	res294	motor	True		2.576599069590076e-06	0.1014	26.6	0.275	-7.128918	0.827004313469	0.14598218	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240782594-T-C	N293S	293	res293	motor	False		6.441713444242461e-06	0.0643	22.6	0.222	-3.7788334	0.729277789593	0.120652676	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240782595-T-A	N293Y	293	res293	motor	False		3.8645102699360424e-06	0.241	24.1	0.633	-6.8935027	0.809796333313	0.3213585	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240782598-G-A	P292S	292	res292	motor	False		1.2882314900458354e-06	0.0669	23.6	0.298	-2.395792	0.753589510918	0.1978912	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240782607-C-G	D289H	289	res289	motor	False		1.9326509786944556e-06	0.7283	26.3	0.562	-8.676242	0.914945006371	0.49713385	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240783058-C-A	A284S	284	res284	motor	False		1.2395306145468835e-06	0.295	24.8	0.661	-10.85128	0.860867977142	0.8109937	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240783073-C-T	G279S	279	res279	motor	True		1.2393431976789581e-06	0.996	29.4	0.885	-10.639132	0.925420820713	0.9888418	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240783102-G-A	A269V	269	res269	motor	False		1.8594249914156546e-06	0.9944	28.9	0.627	-11.40913	0.850754857063	0.81123275	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240783749-G-A	T263M	263	res263	motor	False		8.253580466695534e-06	0.7565	25.2	0.496	-6.430685	0.818451583385	0.6822922	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240784994-C-T	E239K	239	res239	motor	True		8.062605511597128e-06	0.8781	27.7	0.788	-12.467005	0.744049012661	0.8361424	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240784996-G-A	T238M	238	res238	motor	False		1.1784012692001881e-05	0.1064	29.3	0.475	-9.128208	0.632713198662	0.66856253	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240785006-T-C	N235D	235	res235	motor	False		1.8593512351670255e-06	0.0456	6.214	0.125	-3.6785254	0.457128584385	0.03611952	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240785008-G-C	T234S	234	res234	motor	False		1.2395306145468835e-06	0.0947	23.8	0.171	-10.093426	0.637966573238	0.23698011	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240785015-C-T	A232T	232	res232	motor	False		2.3552482989529062e-05	0.0628	24.0	0.102	-8.553068	0.53746265173	0.15106297	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240785020-T-C	H230R	230	res230	motor	False		1.3634008671229515e-05	0.0965	23.9	0.371	-12.618974	0.810828208923	0.35614163	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240785023-C-T	R229H	229	res229	motor	False		4.958202354154478e-06	0.0992	26.7	0.333	-10.96925	0.771794974804	0.31202623	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240785024-G-A	R229C	229	res229	motor	False		2.1072098805831766e-05	0.1401	29.1	0.463	-12.314975	0.814371645451	0.5146097	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240785025-C-A	K228N	228	res228	motor	False		2.478858436113001e-06	0.7526	24.7	0.423	-9.818718	0.833159685135	0.5108357	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240785045-T-C	N222D	222	res222	motor	True		1.239461478776701e-06	0.9138	27.2	0.716	-12.2019825	0.839903771877	0.7939851	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240785051-C-T	V220I	220	res220	motor	True		1.9212414938582248e-05	0.2351	28.0	0.429	-9.366673	0.76148557663	0.5132785	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240785092-G-A	A206V	206	res206	motor	True		2.48076169307024e-06	0.9933	29.0	0.835	-14.810433	0.831923007965	0.9669516	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240785096-C-T	V205M	205	res205	motor	True		3.1009559627041823e-06	0.9816	26.8	0.743	-10.170983	0.833376467228	0.89734983	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240786360-G-A	L195F	195	res195	motor	True		1.2394307542431911e-06	0.988	29.1	0.775	-11.56806	0.877408087254	0.94891185	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240786383-G-A	T187I	187	res187	motor	True		1.9211843419757706e-05	0.6293	28.4	0.536	-6.4367037	0.88842767477	0.69695735	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240786441-C-T	V168M	168	res168	motor	True		2.479018209628259e-06	0.9681	28.2	0.727	-13.587969	0.876230359077	0.9279677	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240786449-T-C	N165S	165	res165	motor	False		5.577638873911896e-06	0.161	23.2	0.478	-5.84929	0.769247233868	0.6417761	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240786458-T-C	N162S	162	res162	motor	False		1.2394783779194364e-06	0.3674	23.4	0.333	-4.956938	0.844386696815	0.51366097	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240786461-T-A	K161M	161	res161	motor	True		1.1155955296847575e-05	0.8649	29.2	0.893	-15.759329	0.842941641808	0.90670764	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240786479-C-T	R155H	155	res155	motor	True		1.8593097498484662e-06	0.9273	32.0	0.855	-9.965008	0.853720486164	0.9676107	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240786483-C-T	V154I	154	res154	motor	True		1.2395521250261856e-06	0.5167	27.1	0.435	-9.256996	0.797687828541	0.62373257	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240786485-C-T	R153H	153	res153	motor	False		4.338873454896171e-06	0.9422	31.0	0.696	-13.151931	0.886656522751	0.90957224	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240786486-G-C	R153G	153	res153	motor	False		1.2396043678699507e-06	0.9881	26.7	0.841	-15.893117	0.874644577503	0.9386543	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240786486-G-A	R153C	153	res153	motor	False		1.2396043678699507e-06	0.9911	29.8	0.803	-12.868973	0.910280108452	0.9388511	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240786503-A-T	M147K	147	res147	motor	True		1.2411228686817538e-06	0.9923	29.4	0.918	-16.527119	0.859211683273	0.9713547	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240786503-A-G	M147T	147	res147	motor	True		2.4820670654521087e-06	0.969	28.7	0.901	-16.195974	0.879155874252	0.9599774	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240787256-C-T	V142M	142	res142	motor	True		9.303479501333498e-06	0.7721	27.2	0.76	-9.141838	0.827697873116	0.91787267	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240787272-G-C	D136E	136	res136	motor	False		4.029153716553375e-05	0.107	17.97	0.107	-2.1337147	0.521810472012	0.07630816	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240787273-T-C	D136G	136	res136	motor	False		1.239845664011744e-06	0.1087	21.1	0.27	-6.806723	0.515084028244	0.2531432	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240787274-C-T	D136N	136	res136	motor	False		1.797557800781008e-05	0.0719	20.8	0.177	-5.9741106	0.542740225792	0.17006695	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240787286-C-T	D132N	132	res132	motor	False		1.2397211619162618e-06	0.0738	23.4	0.225	-7.9149704	0.73626190424	0.20810023	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240787292-T-G	I130L	130	res130	motor	True		4.339142411893713e-06	0.2363	25.5	0.487	-10.544702	0.807008504868	0.62536865	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240787310-C-T	E124K	124	res124	motor	False		1.8596555174119545e-06	0.2158	27.3	0.631	-13.077336	0.855211257935	0.80919814	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240788052-T-A	Q121L	121	res121	motor	False		1.4234470193019415e-05	0.0863	24.3	0.457	-10.185916	0.637294054031	0.45204493	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240788052-T-C	Q121R	121	res121	motor	False		4.033530501794921e-05	0.1586	23.9	0.39	-12.319155	0.683495759964	0.2992767	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240788052-T-G	Q121P	121	res121	motor	False		2.135788699304682e-05	0.8363	28.1	0.725	-17.64404	0.655552327633	0.87582314	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240788053-G-C	Q121E	121	res121	motor	False		2.5756965005299497e-06	0.1207	26.1	0.527	-8.315688	0.646633863449	0.7363662	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240788053-G-T	Q121K	121	res121	motor	False		1.28783000643915e-06	0.1389	24.1	0.449	-11.029436	0.69278049469	0.62153405	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240788058-A-G	I119T	119	res119	motor	True		0.002246294096777677	0.9923	28.1	0.933	-7.7278376	0.882294952869	0.9457798	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240788071-G-T	Q115K	115	res115	motor	True		1.2676729454507655e-06	0.3394	28.3	0.708	-10.037171	0.77314043045	0.80562305	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240788072-G-C	D114E	114	res114	motor	False		1.2646749722087676e-06	0.0993	19.88	0.232	-6.6094127	0.75547349453	0.11832857	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240788075-C-A	K113N	113	res113	motor	False		1.2627107622100975e-06	0.1604	20.8	0.183	-10.647711	0.797332584858	0.20054343	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240788143-C-T	V91M	91	res91	motor	False		1.2397073298935587e-06	0.9128	32.0	0.694	-13.569764	0.889125466347	0.87674475	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240788179-C-T	E79K	79	res79	motor	True		3.717734709886572e-06	0.1836	26.0	0.311	-7.788008	0.738367497921	0.3016398	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240788185-T-C	I77V	77	res77	motor	False		2.4786464607407187e-06	0.1628	25.0	0.578	-8.637594	0.628491401672	0.52933514	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240788190-C-T	R75Q	75	res75	motor	False		1.301310357562906e-05	0.0589	23.5	0.184	-5.607524	0.31213080883	0.06784552	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240788211-G-A	A68V	68	res68	motor	True		1.0534325790756067e-05	0.311	29.9	0.757	-9.6431675	0.691912055016	0.895578	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240788212-C-T	A68T	68	res68	motor	True		1.2393892785391071e-05	0.1818	27.4	0.7	-9.686823	0.673123121262	0.8470873	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240788214-T-C	Y67C	67	res67	motor	True		1.23949681387344e-06	0.5043	27.8	0.789	-10.575766	0.800932407379	0.8131863	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240788216-G-T	N66K	66	res66	motor	False		1.2393938868135927e-06	0.2841	19.54	0.253	-10.933493	0.711837530136	0.23258942	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240788227-C-G	E63Q	63	res63	motor	False		1.859143827084751e-06	0.101	23.5	0.412	-7.800035	0.641264617443	0.399725	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240789279-G-T	P47H	47	res47	motor	True		1.2392310818983038e-06	0.2741	26.9	0.477	-9.132377	0.818360865116	0.7014477	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240789282-G-A	T46M	46	res46	motor	False		4.4613645827136996e-05	0.0651	26.7	0.302	-9.818883	0.749183535576	0.15521252	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240789297-T-C	K41R	41	res41	motor	True		1.2393155508076e-06	0.1244	24.9	0.302	-9.436943	0.597724497318	0.31392565	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240789301-G-T	P40T	40	res40	motor	False		1.2393493415956622e-06	0.8783	28.6	0.692	-10.667259	0.802600562572	0.8564974	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240789303-T-C	N39S	39	res39	motor	True		1.239435362826111e-06	0.1883	26.2	0.412	-8.322828	0.674918293953	0.5012631	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240789307-C-T	V38I	38	res38	motor	False		1.8590816136828407e-06	0.0532	9.287	0.259	-3.5613165	0.451299548149	0.042470336	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240797647-T-C	T36A	36	res36	motor	False		1.8686256507488829e-06	0.1242	23.6	0.283	-6.08996	0.636157095432	0.26501128	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240797658-C-T	G32E	32	res32	motor	True		3.1033502527989115e-06	0.7524	27.4	0.699	-11.065202	0.776207089424	0.8487112	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240797663-C-T	M30I	30	res30	motor	True		4.343196940403892e-06	0.955	29.2	0.713	-8.603887	0.788529992104	0.7796529	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240797667-T-A	Q29L	29	res29	motor	False		2.480918634552002e-06	0.3504	28.6	0.781	-10.894573	0.723868608475	0.8256488	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240797678-C-G	K25N	25	res25	motor	True		4.9603113091377615e-06	0.8347	27.5	0.466	-11.282154	0.780532360077	0.5627759	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240797679-T-C	K25R	25	res25	motor	True		1.2401685637111797e-06	0.1323	24.8	0.541	-7.6033535	0.712751626968	0.6305126	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240797686-C-G	D23H	23	res23	motor	False		3.7199797633100877e-06	0.5098	27.7	0.631	-8.735895	0.656193673611	0.6873639	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240797688-C-T	R22H	22	res22	motor	False		4.960372821621273e-06	0.1767	26.1	0.321	-9.663303	0.645445466042	0.4728694	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240797689-G-A	R22C	22	res22	motor	False		7.440033331349325e-06	0.3053	33.0	0.612	-9.391486	0.723707377911	0.7814797	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240797693-C-T	M20I	20	res20	motor	False		4.340046351695036e-06	0.1215	23.7	0.272	-4.0724335	0.704062461853	0.09199524	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240797700-C-T	R18Q	18	res18	motor	True		1.4880435699157271e-05	0.9444	33.0	0.828	-14.382602	0.760396122932	0.8999281	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240797701-G-A	R18W	18	res18	motor	True		2.480552468645817e-06	0.9802	32.0	0.851	-14.405434	0.853569984436	0.92355835	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240797727-G-A	A9V	9	res9	motor	True		4.966137152292803e-06	0.9422	31.0	0.63	-11.689278	0.897743940353	0.743111	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240797739-G-A	S5L	5	res5	motor	False		4.969703445371156e-06	0.7972	33.0	0.865	-16.488323	0.882719039917	0.8551806	missense_variant
+missense_negative_motor_population_ac2	0	gnomAD v4.1	2-240797740-A-T	S5T	5	res5	motor	False		1.242191275096922e-06	0.3701	26.1	0.7	-12.58861	0.873672068119	0.75109756	missense_variant
+missense_negative_motor_population	0	gnomAD v4.1	2-240797746-C-T	G3R	3	res3	motor	False		9.946871273808769e-06	0.8723	31.0	0.542	-12.262888	0.882565438747	0.65789986	missense_variant

@@ -1,0 +1,55 @@
+parent	path	id	type	name	version	size	md5	modified
+syn61929919	results/230921_PsychAD_color_palette.csv	syn62090906	FileEntity	230921_PsychAD_color_palette.csv	1	8725	9e4a55011963612418b74d39c5be7c0f	2024-08-16T14:44:38.547Z
+syn61929919	results/cis_analysis	syn61930218	Folder	cis_analysis	1			2024-08-01T17:45:58.622Z
+syn61929919	results/coloc_and_subclass_specific.tsv	syn62090963	FileEntity	coloc_and_subclass_specific.tsv	1	1145	dea91cfd8638521891917787254961a8	2024-08-16T14:47:54.368Z
+syn61929919	results/coloc_class.tsv	syn61930113	FileEntity	coloc_class.tsv	2	24808931	c4856626276b4d8975df0095a5c73d80	2024-08-16T16:26:34.580Z
+syn61929919	results/coloc_subclass.tsv	syn61930114	FileEntity	coloc_subclass.tsv	3	67258018	be778b8a2748d99e3fe8e79b169c895f	2024-08-16T16:26:27.304Z
+syn61929919	results/dynamic_eQTL.tsv	syn61930091	FileEntity	dynamic_eQTL.tsv	2	4867091	f15cd781b62bacbaf017283b509c6a63	2024-07-31T18:02:32.559Z
+syn61929919	results/dynamic_eQTL_significant_genes.tsv	syn61930104	FileEntity	dynamic_eQTL_significant_genes.tsv	1	25870	47722cbfa1f0264d7d6e8aceadcd5ce4	2024-07-31T18:03:25.705Z
+syn61929919	results/mashr_lfsr_class.tsv.gz	syn61930162	FileEntity	mashr_lfsr_class.tsv.gz	1	1023896	d81281803a3a1223ca7bacddec50cff7	2024-07-31T18:11:53.226Z
+syn61929919	results/mashr_lfsr_subclass.tsv.gz	syn61930164	FileEntity	mashr_lfsr_subclass.tsv.gz	4	3724494	fed0fe2cc5ff981df757fdbcaf0dba2f	2024-08-16T14:47:19.048Z
+syn61929919	results/merge_coloc_mashr.tsv	syn62090962	FileEntity	merge_coloc_mashr.tsv	1	1986	1a0adbec26cfb31349d8537e7ff17046	2024-08-16T14:47:45.257Z
+syn61929919	results/specific_and_coloc.tsv	syn61930118	FileEntity	specific_and_coloc.tsv	1	59535	47ee143d7f41d605aba7ef2dcd653645	2024-07-31T18:05:46.949Z
+syn61929919	results/specific_eQTL_class.tsv.gz	syn61930119	FileEntity	specific_eQTL_class.tsv.gz	1	1411825	288106ca9588d6647c7a0fca404e287a	2024-07-31T18:05:58.200Z
+syn61929919	results/specific_eQTL_subclass.tsv.gz	syn61930125	FileEntity	specific_eQTL_subclass.tsv.gz	2	4805970	e37ab44bc21db64d1b379076eeec4084	2024-08-16T14:47:25.887Z
+syn61929919	results/trans_analysis	syn63854990	Folder	trans_analysis	1			2024-10-21T17:44:06.992Z
+syn63854990	results/trans_analysis/geneInfo.tsv.gz	syn63854989	FileEntity	geneInfo.tsv.gz	1	1330336	921650d690d23110768146c7a328b48a	2024-10-21T17:45:18.443Z
+syn63854990	results/trans_analysis/trans_eQTL_FDR05.tsv.gz	syn63854988	FileEntity	trans_eQTL_FDR05.tsv.gz	1	145383	658c2dde71505511b35347f48e8004d0	2024-10-21T17:44:38.548Z
+syn63854990	results/trans_analysis/trans_eQTL_results.parquet	syn61940116	FileEntity	trans_eQTL_results.parquet	1	49017137643	3a0fecc6c97f2e76ee25bec56af28955	2024-10-21T17:44:58.704Z
+syn61930218	results/cis_analysis/chrX	syn74415475	Folder	chrX	1			2026-04-13T14:50:31.557Z
+syn61930218	results/cis_analysis/meta-Adaptive-subclass.parquet	syn61930223	FileEntity	meta-Adaptive-subclass.parquet	1	311914431	3e8e28b6a7cc80a427d65b3b81012b0e	2024-07-31T18:15:18.848Z
+syn61930218	results/cis_analysis/meta-Astro-class.parquet	syn61930233	FileEntity	meta-Astro-class.parquet	1	4103275951	0d2c6c9f997cd5308fc31937abb90e86	2024-07-31T18:16:05.314Z
+syn61930218	results/cis_analysis/meta-Astro-subclass.parquet	syn61930242	FileEntity	meta-Astro-subclass.parquet	1	4103277904	9c622982f3ea2f89bcc1948df06e4f4c	2024-07-31T18:16:52.144Z
+syn61930218	results/cis_analysis/meta-EN-class.parquet	syn61930247	FileEntity	meta-EN-class.parquet	1	4845576566	482214b11b8579af685cde56933d5d91	2024-07-31T18:17:46.654Z
+syn61930218	results/cis_analysis/meta-EN_L2_3_IT-subclass.parquet	syn61930260	FileEntity	meta-EN_L2_3_IT-subclass.parquet	1	4353092253	d9f84d03d363e78e7082b13dceffa2bf	2024-07-31T18:19:04.849Z
+syn61930218	results/cis_analysis/meta-EN_L3_5_IT_1-subclass.parquet	syn61930263	FileEntity	meta-EN_L3_5_IT_1-subclass.parquet	1	3151912803	898867748d1895eaad90064aa786747c	2024-07-31T18:19:40.967Z
+syn61930218	results/cis_analysis/meta-EN_L3_5_IT_2-subclass.parquet	syn61930272	FileEntity	meta-EN_L3_5_IT_2-subclass.parquet	1	3694817239	fbb2ec94910428632ca5160bd50f6872	2024-07-31T18:20:23.706Z
+syn61930218	results/cis_analysis/meta-EN_L3_5_IT_3-subclass.parquet	syn61930281	FileEntity	meta-EN_L3_5_IT_3-subclass.parquet	1	3715566862	da672a05c003a881080a7ddf86139682	2024-07-31T18:21:06.421Z
+syn61930218	results/cis_analysis/meta-EN_L5_6_NP-subclass.parquet	syn61930285	FileEntity	meta-EN_L5_6_NP-subclass.parquet	1	2473080017	4f3f08f3a4965b0a36595b740397b639	2024-07-31T18:21:36.274Z
+syn61930218	results/cis_analysis/meta-EN_L6B-subclass.parquet	syn61930286	FileEntity	meta-EN_L6B-subclass.parquet	1	2623296167	a28b85057d66722af01d73ef4358a960	2024-07-31T18:22:09.782Z
+syn61930218	results/cis_analysis/meta-EN_L6_CT-subclass.parquet	syn61930300	FileEntity	meta-EN_L6_CT-subclass.parquet	1	2765383281	f504d5a36cfe7c2c1943e0805518cd38	2024-07-31T18:22:42.174Z
+syn61930218	results/cis_analysis/meta-EN_L6_IT_1-subclass.parquet	syn61930308	FileEntity	meta-EN_L6_IT_1-subclass.parquet	1	3005006649	783c95712455290ea14b1e86de7b8b69	2024-07-31T18:23:16.569Z
+syn61930218	results/cis_analysis/meta-EN_L6_IT_2-subclass.parquet	syn61930314	FileEntity	meta-EN_L6_IT_2-subclass.parquet	1	2417348935	acd4d7ac63422944974a75c6cfa3cb35	2024-07-31T18:23:46.188Z
+syn61930218	results/cis_analysis/meta-Endo-class.parquet	syn61930250	FileEntity	meta-Endo-class.parquet	1	931263291	9a49226dd6e544192b47e41af0c098b4	2024-07-31T18:18:00.283Z
+syn61930218	results/cis_analysis/meta-Endo-subclass.parquet	syn61930252	FileEntity	meta-Endo-subclass.parquet	1	931263732	94c3e41fdc59568f0fd9b8a1cbaa9c69	2024-07-31T18:18:14.260Z
+syn61930218	results/cis_analysis/meta-IN-class.parquet	syn61930332	FileEntity	meta-IN-class.parquet	1	4428469150	e74e56d62593cca9dd3255008a434752	2024-07-31T18:25:51.651Z
+syn61930218	results/cis_analysis/meta-IN_ADARB2-subclass.parquet	syn61930324	FileEntity	meta-IN_ADARB2-subclass.parquet	1	2890404478	b09a28253fca89e36ea489bd98129840	2024-07-31T18:24:59.882Z
+syn61930218	results/cis_analysis/meta-IN_LAMP5_LHX6-subclass.parquet	syn61930336	FileEntity	meta-IN_LAMP5_LHX6-subclass.parquet	1	2511199482	6d9c5341ee494d20899a8e63463748e4	2024-07-31T18:26:21.869Z
+syn61930218	results/cis_analysis/meta-IN_LAMP5_RELN-subclass.parquet	syn61930337	FileEntity	meta-IN_LAMP5_RELN-subclass.parquet	1	2874235907	9c1ae0c37df61fadeab1baadd9dd4778	2024-07-31T18:26:55.024Z
+syn61930218	results/cis_analysis/meta-IN_PVALB-subclass.parquet	syn61930351	FileEntity	meta-IN_PVALB-subclass.parquet	1	3571212904	a5a88fae22dfad7b38e09dcff966992e	2024-07-31T18:28:10.896Z
+syn61930218	results/cis_analysis/meta-IN_PVALB_CHC-subclass.parquet	syn61930338	FileEntity	meta-IN_PVALB_CHC-subclass.parquet	1	2269360820	d5d98d2cdd387aee164435019dd022c3	2024-07-31T18:27:26.241Z
+syn61930218	results/cis_analysis/meta-IN_SST-subclass.parquet	syn61930356	FileEntity	meta-IN_SST-subclass.parquet	1	3228304064	dab598050420ab8201745c0464c80bfb	2024-07-31T18:28:48.809Z
+syn61930218	results/cis_analysis/meta-IN_VIP-subclass.parquet	syn61930363	FileEntity	meta-IN_VIP-subclass.parquet	1	3703317858	02e24780d77e16bf7ae474ba7b762e15	2024-07-31T18:29:31.147Z
+syn61930218	results/cis_analysis/meta-Immune-class.parquet	syn61930317	FileEntity	meta-Immune-class.parquet	1	3103913641	d7eda2c2bcdefa538107c31c8fa6fbdd	2024-07-31T18:24:22.464Z
+syn61930218	results/cis_analysis/meta-Micro-subclass.parquet	syn61930366	FileEntity	meta-Micro-subclass.parquet	1	3014531922	5c38495d384d8bcd4f68895d03a78ce8	2024-07-31T18:30:07.135Z
+syn61930218	results/cis_analysis/meta-Mural-class.parquet	syn61930369	FileEntity	meta-Mural-class.parquet	1	1612639046	282770451007fb0cf3052815558a4a1a	2024-07-31T18:30:27.988Z
+syn61930218	results/cis_analysis/meta-OPC-class.parquet	syn61930384	FileEntity	meta-OPC-class.parquet	1	3491225585	f3756a3a35fc0fea3b2c3c8ff009b725	2024-07-31T18:32:50.015Z
+syn61930218	results/cis_analysis/meta-OPC-subclass.parquet	syn61930385	FileEntity	meta-OPC-subclass.parquet	1	3491003668	86faad5c358836abb8ab698344f34118	2024-07-31T18:33:30.118Z
+syn61930218	results/cis_analysis/meta-Oligo-class.parquet	syn61930378	FileEntity	meta-Oligo-class.parquet	1	4289045880	5e201b6e003217bad65740bb49902284	2024-07-31T18:31:16.956Z
+syn61930218	results/cis_analysis/meta-Oligo-subclass.parquet	syn61930381	FileEntity	meta-Oligo-subclass.parquet	1	4289047917	940ece012ac9421bd4f08425950922c6	2024-07-31T18:32:06.869Z
+syn61930218	results/cis_analysis/meta-PC-subclass.parquet	syn61930388	FileEntity	meta-PC-subclass.parquet	1	891506050	a2b76f8bc1b808141246429b7aea7122	2024-07-31T18:33:47.623Z
+syn61930218	results/cis_analysis/meta-PVM-subclass.parquet	syn61930389	FileEntity	meta-PVM-subclass.parquet	1	730509066	1c150b0325342d8eb5e6e56f7df85779	2024-07-31T18:33:59.019Z
+syn61930218	results/cis_analysis/meta-SMC-subclass.parquet	syn61930390	FileEntity	meta-SMC-subclass.parquet	1	347585580	fd0c6b29cbbfd42b97cc36ad912b0c62	2024-07-31T18:34:05.869Z
+syn61930218	results/cis_analysis/meta-VLMC-subclass.parquet	syn61930391	FileEntity	meta-VLMC-subclass.parquet	1	1074396408	49de8ee3532a3f977ebb6ffce6c917be	2024-07-31T18:34:21.077Z
+syn74415475	results/cis_analysis/chrX/class	syn74415922	Folder	class	1			2026-04-13T16:20:06.441Z
+syn74415475	results/cis_analysis/chrX/subclass	syn74415923	Folder	subclass	1			2026-04-13T16:20:14.426Z

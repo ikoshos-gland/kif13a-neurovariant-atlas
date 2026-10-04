@@ -1,0 +1,6 @@
+gen	rol	kaplanis_obs_LoF	kaplanis_exp_LoF	kaplanis_p_LoF	kaplanis_obs_mis	kaplanis_exp_mis	kaplanis_p_mis	kaplanis_obs_syn	kaplanis_exp_syn	denovoWEST_p	kaplanis_significant	g4d2_LoF_vaka	g4d2_LoF_kontrol	g4d2_missense_vaka	g4d2_toplam_DNM	denovodb_LoF_vaka	denovodb_missense_vaka	sfari	mu_lof	mu_mis
+KIF13A	hedef	0	0.367	1.0	2	3.163	0.8239368130241826	2	1.253	0.708504365005218	False	0	1	7	174	0	2	listede degil	5.9159e-06	5.0924e-05
+KIF1A	paralog, missense mekanizmasi	0	0.298	1.0	53	4.806	2.8622178067917066e-36	0	2.26	5.21685062610416e-21	True	2	0	75	175	0	11	listede (score 2S, Strong Candidate, Syndromic Criteria)	4.794e-06	7.7371e-05
+KIF13B	paralog, null beklenir	2	0.337	0.04549292365658231	6	3.763	0.17900875440895836	2	1.618	0.286261227096063	False	1	0	15	158	0	7	listede (score 2, Strong Candidate Criteria)	5.4246e-06	6.058e-05
+ANKRD11	pozitif kontrol (HI=3)	111	0.308	8.19674395836132e-238	17	7.065	0.0010564681021063642	7	4.098	1e-14	True	120	0	32	380	19	2	listede (score 1S, High Confidence, Syndromic Criteria)	4.965e-06	0.00011374
+CHD8	pozitif kontrol (HI=3)	19	0.497	8.798495243274153e-24	9	5.138	0.07749251761498961	0	1.577	4.27847890200694e-16	True	80	0	33	166	10	6	listede (score 1S, High Confidence, Syndromic Criteria)	8.0048e-06	8.272e-05

@@ -1,0 +1,357 @@
+{
+ "measured": "20260916",
+ "gnomad_lof": {
+  "KIF13A": {
+   "gene": "KIF13A",
+   "transcript": "ENST00000259711.11",
+   "protein_length": 1805,
+   "n_exons": 39,
+   "cds_length": 5418,
+   "nmd_escape_from_cds": 4532,
+   "nmd_escape_from_codon": 1511,
+   "lof_rows_total": 382,
+   "lof_rows_confident": 204,
+   "lof_rows_ac0_or_zero": 178,
+   "confident_by_consequence": {
+    "frameshift_variant": 89,
+    "stop_gained": 69,
+    "splice_donor_variant": 26,
+    "splice_acceptor_variant": 20
+   },
+   "confident_loftee": {
+    "HC": 162,
+    "LC": 42
+   },
+   "confident_lof_filter": {
+    "(none)": 162,
+    "END_TRUNC": 41,
+    "GC_TO_GT_DONOR": 1
+   },
+   "confident_lof_flags": {
+    "(none)": 198,
+    "PHYLOCSF_WEAK": 4,
+    "NAGNAG_SITE": 1,
+    "NON_CAN_SPLICE": 1
+   },
+   "confident_allele_count_sum": 765,
+   "confident_max_allele_count": 180,
+   "confident_singletons": 142,
+   "confident_homozygotes": 1,
+   "confident_in_last_exon": 38,
+   "confident_nmd_escape": 45,
+   "confident_in_last_50_codons": 8,
+   "confident_end_trunc": 41,
+   "true_lof_candidates": 158,
+   "true_lof_allele_count_sum": 308,
+   "true_lof_max_allele_count": 29,
+   "true_lof_carrier_frequency_per_100k": 19.08,
+   "loeuf": 0.4489627711545366,
+   "loeuf_percentile": 11,
+   "pli": 0.999750572233937,
+   "obs_lof": 79,
+   "exp_lof": 212.17400278427647,
+   "mis_z": 2.79488363965389,
+   "oe_mis": 0.860569442734971
+  },
+  "KIF1A": {
+   "gene": "KIF1A",
+   "transcript": "ENST00000498729.9",
+   "protein_length": 1791,
+   "n_exons": 49,
+   "cds_length": 5376,
+   "nmd_escape_from_cds": 5284,
+   "nmd_escape_from_codon": 1762,
+   "lof_rows_total": 335,
+   "lof_rows_confident": 107,
+   "lof_rows_ac0_or_zero": 228,
+   "confident_by_consequence": {
+    "frameshift_variant": 41,
+    "stop_gained": 30,
+    "splice_acceptor_variant": 19,
+    "splice_donor_variant": 17
+   },
+   "confident_loftee": {
+    "HC": 103,
+    "LC": 4
+   },
+   "confident_lof_filter": {
+    "(none)": 103,
+    "5UTR_SPLICE": 3,
+    "GC_TO_GT_DONOR": 1
+   },
+   "confident_lof_flags": {
+    "(none)": 100,
+    "NON_CAN_SPLICE": 6,
+    "PHYLOCSF_WEAK": 1
+   },
+   "confident_allele_count_sum": 1188,
+   "confident_max_allele_count": 824,
+   "confident_singletons": 78,
+   "confident_homozygotes": 0,
+   "confident_in_last_exon": 0,
+   "confident_nmd_escape": 1,
+   "confident_in_last_50_codons": 1,
+   "confident_end_trunc": 0,
+   "true_lof_candidates": 102,
+   "true_lof_allele_count_sum": 1173,
+   "true_lof_max_allele_count": 824,
+   "true_lof_carrier_frequency_per_100k": 72.68,
+   "loeuf": 0.2587130941913371,
+   "loeuf_percentile": 3,
+   "pli": 1,
+   "obs_lof": 46,
+   "exp_lof": 227.33996419861973,
+   "mis_z": 6.867936501880208,
+   "oe_mis": 0.6770190021350824
+  },
+  "KIF13B": {
+   "gene": "KIF13B",
+   "transcript": "ENST00000524189.6",
+   "protein_length": 1826,
+   "n_exons": 40,
+   "cds_length": 5481,
+   "nmd_escape_from_cds": 5169,
+   "nmd_escape_from_codon": 1723,
+   "lof_rows_total": 506,
+   "lof_rows_confident": 301,
+   "lof_rows_ac0_or_zero": 205,
+   "confident_by_consequence": {
+    "frameshift_variant": 146,
+    "stop_gained": 82,
+    "splice_donor_variant": 41,
+    "splice_acceptor_variant": 32
+   },
+   "confident_loftee": {
+    "HC": 301
+   },
+   "confident_lof_filter": {
+    "(none)": 301
+   },
+   "confident_lof_flags": {
+    "(none)": 298,
+    "NAGNAG_SITE": 3
+   },
+   "confident_allele_count_sum": 902,
+   "confident_max_allele_count": 225,
+   "confident_singletons": 215,
+   "confident_homozygotes": 0,
+   "confident_in_last_exon": 14,
+   "confident_nmd_escape": 18,
+   "confident_in_last_50_codons": 9,
+   "confident_end_trunc": 0,
+   "true_lof_candidates": 283,
+   "true_lof_allele_count_sum": 853,
+   "true_lof_max_allele_count": 225,
+   "true_lof_carrier_frequency_per_100k": 52.85,
+   "loeuf": 0.6628850531974718,
+   "loeuf_percentile": 21,
+   "pli": 1.433079971028373e-20,
+   "obs_lof": 127,
+   "exp_lof": 221.99977768742127,
+   "mis_z": 1.8015692493557762,
+   "oe_mis": 0.9133950427054769
+  }
+ },
+ "constraint_panel_rank": [
+  {
+   "gene": "TCF4",
+   "loeuf": 0.09440643237367707,
+   "hi": "3"
+  },
+  {
+   "gene": "STXBP1",
+   "loeuf": 0.09874119569009897,
+   "hi": "3"
+  },
+  {
+   "gene": "SCN1A",
+   "loeuf": 0.10668311571676678,
+   "hi": "3"
+  },
+  {
+   "gene": "ADNP",
+   "loeuf": 0.1077693887154643,
+   "hi": "3"
+  },
+  {
+   "gene": "SYNGAP1",
+   "loeuf": 0.12437555310481917,
+   "hi": "3"
+  },
+  {
+   "gene": "ANKRD11",
+   "loeuf": 0.1303247483824217,
+   "hi": "3"
+  },
+  {
+   "gene": "NSD1",
+   "loeuf": 0.14863933541485985,
+   "hi": "3"
+  },
+  {
+   "gene": "CHD8",
+   "loeuf": 0.14982206115023283,
+   "hi": "3"
+  },
+  {
+   "gene": "POGZ",
+   "loeuf": 0.18938992119077935,
+   "hi": "3"
+  },
+  {
+   "gene": "ARID1B",
+   "loeuf": 0.19168931909424516,
+   "hi": "3"
+  },
+  {
+   "gene": "DYRK1A",
+   "loeuf": 0.1970687953250491,
+   "hi": "3"
+  },
+  {
+   "gene": "KIF1A",
+   "loeuf": 0.2587130941913371,
+   "hi": "0"
+  },
+  {
+   "gene": "SETD5",
+   "loeuf": 0.3689544901183697,
+   "hi": "3"
+  },
+  {
+   "gene": "KIF13A",
+   "loeuf": 0.4489627711545366,
+   "hi": "not curated"
+  },
+  {
+   "gene": "KIF13B",
+   "loeuf": 0.6628850531974718,
+   "hi": "not curated"
+  }
+ ],
+ "clingen_dosage_list_date": "16 Sep,2026",
+ "kif13a_in_clingen_dosage": false,
+ "clinvar_sequence_lof": 7,
+ "clinvar_cnv_records": 24,
+ "clinvar_cnv_kif13a_only": [
+  "VCV000442594"
+ ],
+ "clinvar_phenotyped_records": [
+  {
+   "variation_id": "442594",
+   "accession": "VCV000442594",
+   "note": "KIF13A-only deletion, affected child",
+   "title": "GRCh37/hg19 6p22.3(chr6:17758616-18011991)x1",
+   "traits": "Delayed speech and language development",
+   "affected_status": "present",
+   "collection_method": "clinical testing",
+   "origin": "unknown",
+   "submitters": "ISCA site 1;International Standards For Cytogenomic Arrays Consortium (ISCA)",
+   "cited_pmids": "20466091"
+  },
+  {
+   "variation_id": "2570672",
+   "accession": "VCV002570672",
+   "note": "p.Lys1122Glu tail missense VUS with a phenotype",
+   "title": "NM_022113.6(KIF13A):c.3364A&gt;G (p.Lys1122Glu)",
+   "traits": "Apraxia;Chiari malformation;Moderate intellectual disability;Seizure;Speech apraxia",
+   "affected_status": "present",
+   "collection_method": "research",
+   "origin": "unknown",
+   "submitters": "HudsonAlpha Institute for Biotechnology, HudsonAlpha Institute for Biotechnology",
+   "cited_pmids": "25741868"
+  }
+ ],
+ "decipher": {
+  "hi_score": ".154932934526596",
+  "hi_index": "42.29403779889318",
+  "s_het": "0.048854",
+  "p_li": ".99182",
+  "loeuf": ".471",
+  "missense_z_score": "2.2689",
+  "p_hi": "0.990076242573081",
+  "p_ts": "0.604440727070404",
+  "obs_missense": "774",
+  "exp_missense": "951.68",
+  "pdn": ".559847",
+  "pgof": ".598052",
+  "plof": ".615944",
+  "lof_pctl": ".142745",
+  "dn_pctl": ".733071",
+  "gof_pctl": ".526393",
+  "rank_max": "lof",
+  "public_patients": "i",
+  "public_snv_count": "i",
+  "clingen_dosage_record": "absent",
+  "source_url": "https://www.deciphergenomics.org/gene/KIF13A/overview/clinical-info",
+  "retrieved": "20260916"
+ },
+ "literature": {
+  "lam2021": {
+   "query": "EXT_ID:33526817",
+   "hitCount": 1
+  },
+  "kif13a_lof": {
+   "query": "KIF13A AND (haploinsufficiency OR \"loss of function\" OR frameshift OR nonsense)",
+   "hitCount": 144
+  },
+  "kif13a_deletion_case": {
+   "query": "KIF13A AND (\"6p22.3\" OR microdeletion) AND (patient OR proband OR case)",
+   "hitCount": 25
+  },
+  "kif13a_mouse": {
+   "query": "\"Kif13a\" AND (knockout OR \"null mice\" OR heterozygous)",
+   "hitCount": 195
+  }
+ },
+ "impc": {
+  "KIF13A": {
+   "n_significant_calls": 21,
+   "zygosity_of_calls": {
+    "homozygote": 21
+   },
+   "heterozygote_tests": 1,
+   "heterozygote_significant": 0,
+   "viability_counts": {
+    "Number of hemizygous males": 0.0,
+    "Total anzygous females": 0.0,
+    "Total heterozygous females": 41.0,
+    "Total WTs": 42.0,
+    "Total homozygous males": 22.0,
+    "Total homozygous females": 14.0,
+    "Total homozygotes": 36.0,
+    "Total of hemizygous males": 0.0,
+    "Total heterozygous males": 51.0,
+    "Number of heterozygous males": 51.0,
+    "Total WT males": 25.0,
+    "Number of heterozygous females": 41.0,
+    "Number of WT males": 25.0,
+    "Number of homozygous females": 14.0,
+    "Total males": 98.0,
+    "Number of homozygous males": 22.0,
+    "Number of WT females": 17.0,
+    "Total females": 72.0,
+    "Total heterozygotes": 92.0,
+    "Total WT females": 17.0,
+    "Number of anzygous females": 0.0,
+    "Total pups": 170.0
+   }
+  },
+  "KIF13B": {
+   "n_significant_calls": 4,
+   "zygosity_of_calls": {
+    "homozygote": 4
+   },
+   "heterozygote_tests": 45,
+   "heterozygote_significant": 0,
+   "viability_counts": {}
+  },
+  "KIF1A": {
+   "n_significant_calls": 0,
+   "zygosity_of_calls": {},
+   "heterozygote_tests": 0,
+   "heterozygote_significant": 0,
+   "viability_counts": {}
+  }
+ }
+}

@@ -1,0 +1,10 @@
+{
+  "file": "data/interim/structure/KIF13A_structure_axis_summary_20260916.json",
+  "sha256": "25380ba509a0bc214c9e88a21c1905763da20513162703fee2a4c16db1568f5f",
+  "bytes": 4860,
+  "retrieved_utc": "2026-09-16T07:08:54+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived",
+  "tool": "scripts/structure_axis.py",
+  "urls": []
+}

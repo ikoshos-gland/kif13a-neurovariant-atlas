@@ -1,0 +1,18 @@
+{
+  "file": "data/interim/paralog_pairs/paralog_scan_pairs_qualified_20260916.tsv",
+  "sha256": "7c661bb49c39d27112779f94df0d4a7b349d60d5d0f518c52a5e7c94e7598fb6",
+  "bytes": 239348,
+  "retrieved_utc": "2026-09-16T11:57:21+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "Ensembl REST homology + ClinVar esearch counts for both siblings",
+  "urls": [
+    "https://rest.ensembl.org/homology/symbol/human/",
+    "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
+  ],
+  "tool": "scripts/paralog_pairs_scan.py::pairs",
+  "params": {
+    "min_rich": 30,
+    "max_sibling": 2
+  },
+  "n_records": 3510
+}

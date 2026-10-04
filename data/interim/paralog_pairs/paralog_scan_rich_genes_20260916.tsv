@@ -1,0 +1,446 @@
+symbol	ensembl_gene_id	entrez_id	gene_group	clinvar_plp_missense	clinvar_plp_alleles_summary	clinvar_total_alleles_summary
+FBN1	ENSG00000166147	2200	Fibrillin family	1499	3751	9512
+LDLR	ENSG00000130164	3949	Low density lipoprotein receptors|MicroRNA protein coding host genes	746	2330	4929
+COL4A5	ENSG00000188153	1287	Network forming collagens	728	1478	3727
+ABCA4	ENSG00000198691	24	ATP binding cassette subfamily A|ATPase phospholipid transporting	632	1539	4656
+COL3A1	ENSG00000168542	1281	MicroRNA protein coding host genes|Fibrillar collagens	570	969	4013
+COL1A2	ENSG00000164692	1278	Fibrillar collagens	565	763	2854
+SCN1A	ENSG00000144285	6323	Sodium voltage-gated channel alpha subunits	497	2230	5401
+COL2A1	ENSG00000139219	1280	Fibrillar collagens	493	1134	3572
+PAH	ENSG00000171759	5053	Aromatic amino acid hydroxylase family	478	923	1771
+NF1	ENSG00000196712	4763	Armadillo like helical domain containing|CRAL-TRIO lipid binding domain containing	461	5839	17734
+COL1A1	ENSG00000108821	1277	Fibrillar collagens	448	1534	3909
+SCN2A	ENSG00000136531	6326	Sodium voltage-gated channel alpha subunits	423	734	3113
+GCK	ENSG00000106633	2645	Hexokinase family	396	694	1405
+KCNQ2	ENSG00000075043	3785	Potassium voltage-gated channels	394	847	2609
+F8	ENSG00000185010	2157	Multicopper oxidase family|Coagulation factors	387	759	1875
+ALPL	ENSG00000162551	249	Alkaline phosphatases	329	547	1631
+COL7A1	ENSG00000114270	1294	Collagens|Fibronectin type III domain containing|MicroRNA protein coding host genes	304	1093	6344
+COL4A4	ENSG00000081052	1286	Network forming collagens	302	951	3896
+MYH7	ENSG00000092054	4625	Myosin heavy chains, class II|MicroRNA protein coding host genes	295	443	5907
+SCN8A	ENSG00000196876	6334	Sodium voltage-gated channel alpha subunits	285	384	2579
+RYR1	ENSG00000196218	6261	Ryanodine receptors|Protein phosphatase 1 regulatory subunits	279	832	11193
+USH2A	ENSG00000042781	7399	Fibronectin type III domain containing|USH2 complex	278	2344	9805
+PTEN	ENSG00000171862	5728	C2 tensin-type domain containing|PTEN protein phosphatases|Phosphoinositide phosphatases	275	1374	4207
+OTC	ENSG00000036473	5009		272	458	1181
+NOTCH3	ENSG00000074181	4854	Notch receptors|MicroRNA protein coding host genes	266	332	2121
+COL4A1	ENSG00000187498	1282	Network forming collagens	262	417	3085
+TP53	ENSG00000141510	7157	p53 transcription factor family	254	1205	4021
+BEST1	ENSG00000167995	7439	Bestrophins	251	344	1055
+GAA	ENSG00000171298	2548	Glycoside hydrolase family 31	250	883	3677
+BRCA1	ENSG00000012048	672	Ring finger proteins|FA complementation groups|Protein phosphatase 1 regulatory subunits|BRCA1 A complex|BRCA1 B complex|BRCA1 C complex	241	4714	16057
+ACVRL1	ENSG00000139567	94	Type 1 receptor serine/threonine kinases|BMP receptors	240	576	1279
+KCNQ1	ENSG00000053918	3784	Potassium voltage-gated channels	236	586	3158
+ATP7B	ENSG00000123191	540	ATPase copper transporting	229	929	3802
+ARSA	ENSG00000100299	410	Sulfatases	212	420	1526
+F9	ENSG00000101981	2158	Serine proteases|Gla domain containing|Coagulation factors	210	331	898
+NPC1	ENSG00000141458	4864	Solute carrier family 65	209	671	2898
+SLC26A4	ENSG00000091137	5172	Solute carrier family 26	209	665	1867
+RYR2	ENSG00000198626	6262	Ryanodine receptors|EF-hand domain containing|Armadillo like helical domain containing|MicroRNA protein coding host genes	208	273	10150
+MLH1	ENSG00000076242	4292	MutL homologs|BRCA1-associated genome surveillance complex	200	2100	6499
+LMNA	ENSG00000160789	4000	Lamins	198	575	2514
+ACTA1	ENSG00000143632	58	Actins	196	238	676
+TUBA1A	ENSG00000167552	7846	Tubulin alpha family	196	203	456
+TSC2	ENSG00000103197	7249	Protein phosphatase 1 regulatory subunits|Armadillo like helical domain containing|TSC complex	191	1599	12761
+AR	ENSG00000169083	367	Nuclear receptor subfamily 3 group C	190	389	1225
+G6PD	ENSG00000160211	2539	Oxidoreductases	188	250	1133
+KCNH2	ENSG00000055118	3757	Potassium voltage-gated channels|PAS domain containing	187	757	3924
+CRB1	ENSG00000134376	23418	Crumbs complex components	180	606	2250
+SPAST	ENSG00000021574	6683	AAA ATPases	177	747	1660
+MYO7A	ENSG00000137474	4647	A-kinase anchoring proteins|Myosin heavy chains, class VII|FERM domain containing|SH3 domain containing	174	934	5084
+VWF	ENSG00000110799	7450	Receptor ligands	173	495	2202
+PDHA1	ENSG00000131828	5160	Pyruvate dehydrogenase complex subunits|Pyruvate dehydrogenase E1 subunits	172	400	1238
+TYR	ENSG00000077498	7299	Tyrosinase family|Oxygenases	172	326	873
+MMUT	ENSG00000146085	4594		170	423	1259
+FH	ENSG00000091483	2271	Carbon-oxygen lyases	166	534	2652
+GJB1	ENSG00000169562	2705	Gap junction proteins	165	266	1003
+GCDH	ENSG00000105607	2639	Acyl-CoA dehydrogenase family|Flavoproteins	164	342	1076
+MSH2	ENSG00000095002	4436	MutS homologs|BRCA1-associated genome surveillance complex	164	2475	8624
+ACADVL	ENSG00000072778	37	Acyl-CoA dehydrogenase family|Flavoproteins	159	562	2213
+PKHD1	ENSG00000170927	5314	IPT domain containing	159	1650	6952
+IDS	ENSG00000010404	3423	Sulfatases	158	809	1763
+NSD1	ENSG00000165671	64324	PHD finger proteins|Histone lysine methyltransferases|PWWP domain containing|SET domain containing	158	745	2842
+GRIN2B	ENSG00000273079	2904	Glutamate ionotropic receptor NMDA type subunits	157	292	1894
+MEN1	ENSG00000133895	4221		157	697	3187
+SLC12A3	ENSG00000070915	6559	MicroRNA protein coding host genes|Solute carrier family 12	155	506	2097
+GLDC	ENSG00000178445	2731	Oxidoreductases	153	599	2941
+ACADM	ENSG00000117054	34	Acyl-CoA dehydrogenase family|Flavoproteins	152	410	1130
+COMP	ENSG00000105664	1311	Thrombospondin family	152	175	912
+SMPD1	ENSG00000166311	6609		151	388	1226
+PKD1	ENSG00000008710	5310	C-type lectin domain containing|MicroRNA protein coding host genes	150	2333	7387
+CFTR	ENSG00000001626	1080	Chloride channels, ATP-gated CFTR|ATP binding cassette subfamily C	149	1697	6445
+CACNA1A	ENSG00000141837	773	Calcium voltage-gated channel alpha1 subunits	147	623	4539
+GJB2	ENSG00000165474	2706	Gap junction proteins	147	264	736
+GLB1	ENSG00000170266	2720	Galactosidases beta	147	340	1364
+DYNC1H1	ENSG00000197102	1778	Dynein 1 complex subunits|Dynein heavy chains	146	181	5717
+ABCC8	ENSG00000006071	6833	ATP binding cassette subfamily C	145	499	3014
+HNF1A	ENSG00000135100	6927	HNF class homeoboxes	145	399	1263
+CASR	ENSG00000036828	846	Calcium sensing receptors	142	335	3161
+RHO	ENSG00000163914	6010	Opsin receptors	142	200	678
+PRPH2	ENSG00000112619	5961	Tetraspanin family	138	375	859
+AGXT	ENSG00000172482	189	Transaminases	136	357	1160
+PSEN1	ENSG00000080815	5663	Presenilin family|Gamma-secretase complex subunits	136	150	644
+PTPN11	ENSG00000179295	5781	SH2 domain containing|Protein tyrosine phosphatases non-receptor type	136	203	1381
+KIF1A	ENSG00000130294	547	Kinesins|Pleckstrin homology domain containing	135	217	3609
+EDA	ENSG00000158813	1896	Tumor necrosis factor superfamily|MicroRNA protein coding host genes	134	320	865
+GALT	ENSG00000213930	2592	Histidine triad superfamily	134	357	1077
+MECP2	ENSG00000169057	4204	Methyl-CpG binding domain containing	134	932	2515
+DYSF	ENSG00000135636	8291	Ferlin family	133	985	4668
+ATP1A3	ENSG00000105409	478	ATPase Na+/K+ transporting subunits	131	184	1411
+DHCR7	ENSG00000172893	1717	AEBS complex subunits|Dehydrocholesterol reductases	131	323	1186
+TTR	ENSG00000118271	7276	Gla domain containing	131	135	495
+DDX3X	ENSG00000215301	1654	DEAD-box helicases	129	368	1298
+RPE65	ENSG00000116745	6121		129	343	1183
+CNGA3	ENSG00000144191	1261	Cyclic nucleotide gated channels	128	234	827
+MFN2	ENSG00000116688	9927	Mitofusin family	128	215	1521
+STXBP1	ENSG00000136854	6812	SM family of SNARE chaperones	128	441	1362
+SLC2A1	ENSG00000117394	6513	Solute carrier family 2	127	360	1275
+BRCA2	ENSG00000139618	675	FA complementation groups	126	5987	22023
+HGD	ENSG00000113924	3081	Oxygenases	126	279	665
+CREBBP	ENSG00000005339	1387	Zinc fingers ZZ-type|Lysine acetyltransferases|Bromodomain containing	125	588	3284
+PCDH19	ENSG00000165194	57526	Non-clustered protocadherins	125	465	1772
+CAPN3	ENSG00000092529	825	EF-hand domain containing|Calpains	124	558	2182
+CDKL5	ENSG00000008086	6792	Cilia and flagella associated|Cyclin dependent kinase like family	122	885	2496
+SCN5A	ENSG00000183873	6331	Sodium voltage-gated channel alpha subunits	122	568	5093
+ABCD1	ENSG00000101986	215	ATP binding cassette subfamily D	120	553	2073
+CBS	ENSG00000160200	875	Carbon-oxygen lyases	118	316	1546
+SMARCA2	ENSG00000080503	6595	SNF2 related family|Bromodomain containing|BAF complex subunits|GBAF complex subunits	118	128	1778
+BTK	ENSG00000010671	695	Pleckstrin homology domain containing|SH2 domain containing|Tec family tyrosine kinases|SH3 domain containing	116	377	1155
+GRIN2A	ENSG00000183454	2903	Glutamate ionotropic receptor NMDA type subunits	116	347	2518
+BRAF	ENSG00000157764	673	Mitogen-activated protein kinase kinase kinases|RAF family	115	134	1635
+ACTB	ENSG00000075624	60	Actins|BAF complex subunits|PBAF complex subunits|GBAF complex subunits	114	141	745
+GALNS	ENSG00000141012	2588	Sulfatases	113	368	1521
+BTD	ENSG00000169814	686	Vanin family	112	272	993
+CLCN1	ENSG00000188037	1180	CLC chloride channel and transporter family	112	362	1824
+MYO15A	ENSG00000091536	51168	Myosin heavy chains, class XV|FERM domain containing|SH3 domain containing	112	733	4009
+ETFDH	ENSG00000171503	2110	Flavoproteins|Oxidoreductases	111	338	1159
+SLC22A5	ENSG00000197375	6584	Solute carrier family 22	110	308	1372
+SERPING1	ENSG00000149131	710	Serpin peptidase inhibitors|Complement system regulators and receptors	109	387	907
+KMT2D	ENSG00000167548	8085	PHD finger proteins|Histone lysine methyltransferases|SET domain containing	108	1065	7548
+POLG	ENSG00000140521	5428	DNA polymerases|MicroRNA protein coding host genes	108	401	3491
+ASL	ENSG00000126522	435	Carbon-nitrogen lyases	107	266	1007
+PAX6	ENSG00000007372	5080	PRD class homeoboxes and pseudogenes|Paired boxes	107	468	1049
+TGFBR2	ENSG00000163513	7048	Type 2 receptor serine/threonine kinases	105	129	1414
+FGFR2	ENSG00000066468	2263	CD molecules|I-set domain containing|Fibroblast growth factor receptor family	104	138	1013
+FOXG1	ENSG00000176165	2290	Forkhead boxes	104	288	972
+PMM2	ENSG00000140650	5373	HAD Asp-based non-protein phosphatases	104	269	987
+GALC	ENSG00000054983	2581	Glycoside hydrolase family	103	448	1677
+UMOD	ENSG00000169344	7369		103	107	652
+NIPBL	ENSG00000164190	25836	Armadillo like helical domain containing	100	623	2504
+GRIN1	ENSG00000176884	2902	Glutamate ionotropic receptor NMDA type subunits	99	133	1391
+ABCC6	ENSG00000091262	368	ATP binding cassette subfamily C	98	382	2222
+TGM1	ENSG00000092295	7051	Transglutaminases	98	312	1229
+MPZ	ENSG00000158887	4359	V-set domain containing|Ig-like cell adhesion molecule family	96	209	757
+STAT3	ENSG00000168610	6774	SH2 domain containing|Signal transducer and activator of transcription family	96	102	970
+SOD1	ENSG00000142168	6647	Superoxide dismutases	94	135	391
+FGFR1	ENSG00000077782	2260	CD molecules|I-set domain containing|Fibroblast growth factor receptor family	93	233	1411
+NAGLU	ENSG00000108784	4669	Glycoside hydrolase family	92	305	1459
+DCX	ENSG00000077279	1641	Doublecortin superfamily	91	172	531
+IDUA	ENSG00000127415	3425	Glycoside hydrolase family	91	434	2681
+WFS1	ENSG00000109501	7466		90	244	2259
+PIK3CA	ENSG00000121879	5290	Phosphatidylinositol 3-kinase family	89	114	1693
+CHD7	ENSG00000171316	55636	Myb/SANT domain containing|Helicases|SNF2 related family	88	879	4574
+DYNC2H1	ENSG00000187240	79659	Dynein 2 complex subunits|Dynein heavy chains	88	656	4325
+KCNB1	ENSG00000158445	3745	Potassium voltage-gated channels|BTB domain containing	88	117	894
+OCA2	ENSG00000104044	4948	Solute carrier family 13	88	378	1824
+BMPR2	ENSG00000204217	659	Type 2 receptor serine/threonine kinases|BMP receptors	86	584	2291
+GUCY2D	ENSG00000132518	3000	Transmembrane guanylate cyclases	85	277	1746
+MSH6	ENSG00000116062	2956	MutS homologs|PWWP domain containing|BRCA1-associated genome surveillance complex	85	2381	10797
+NALCN	ENSG00000102452	259232	Sodium leak channels, non selective|NALCN channel complex subunits	85	197	1515
+FBN2	ENSG00000138829	2201	Fibrillin family	84	141	4195
+GNAS	ENSG00000087460	2778	Granins|G protein subunits alpha, group s	84	254	1368
+TP63	ENSG00000073282	8626	MicroRNA protein coding host genes|p53 transcription factor family	84	138	898
+KRAS	ENSG00000133703	3845	RAS type GTPase family	83	98	600
+NPHS1	ENSG00000161270	4868	Fibronectin type III domain containing|V-set domain containing|C2-set domain containing	82	507	2178
+RET	ENSG00000165731	5979	Cadherin related|Ret proto-oncogene family	82	179	4470
+HEXA	ENSG00000213614	3073	Hexosaminidases	81	376	1391
+GNAO1	ENSG00000087258	2775	G protein subunits alpha, group i|MicroRNA protein coding host genes	80	108	624
+PCCB	ENSG00000114054	5096	Propionyl-CoA carboxylase subunits	80	303	1402
+VHL	ENSG00000134086	7428		80	484	2266
+PROC	ENSG00000115718	5624	Serine proteases|Gla domain containing	79	115	510
+SMC1A	ENSG00000072501	8243	Structural maintenance of chromosomes proteins|Cohesin complex|MicroRNA protein coding host genes	79	234	1393
+ASS1	ENSG00000130707	445	Ligases	77	253	1004
+SDHB	ENSG00000117118	6390	Mitochondrial complex II: succinate dehydrogenase subunits	77	331	1732
+G6PC1	ENSG00000131482	2538	Glucose 6-phosphatases, catalytic	76	179	637
+GABRB3	ENSG00000166206	2562	Gamma-aminobutyric acid type A receptor subunits	76	112	1104
+ITGA2B	ENSG00000005961	3674	CD molecules|Protein phosphatase 1 regulatory subunits|Integrin alpha subunits|Human platelet antigens	76	265	1023
+CHD2	ENSG00000173575	1106	Helicases|SNF2 related family|MicroRNA protein coding host genes	74	402	2633
+LRP5	ENSG00000162337	4041	Low density lipoprotein receptors	74	228	2537
+HNF1B	ENSG00000275410	6928	HNF class homeoboxes	73	303	1076
+STAT1	ENSG00000115415	6772	SH2 domain containing|Signal transducer and activator of transcription family	73	104	849
+ATRX	ENSG00000085224	546	SNF2 related family	72	167	2964
+HNF4A	ENSG00000101076	3172	MicroRNA protein coding host genes|Hepatocyte nuclear factor 4 family	72	169	788
+KCNT1	ENSG00000107147	57582	Potassium sodium-activated channel subfamily T 	72	81	2678
+PHEX	ENSG00000102174	5251	M13 metallopeptidases	72	986	1866
+BCKDHB	ENSG00000083123	594	Branched chain alpha-keto acid dehydrogenase complex subunits|Oxidoreductases	71	257	906
+PAX3	ENSG00000135903	5077	PRD class homeoboxes and pseudogenes|Paired boxes	71	210	547
+TUBB2B	ENSG00000137285	347733	Tubulin beta family	71	73	307
+ALDH7A1	ENSG00000164904	501	Aldehyde dehydrogenases	70	218	1229
+CDH23	ENSG00000107736	64072	Cadherin related|MicroRNA protein coding host genes	70	767	6354
+FKRP	ENSG00000181027	79147		70	233	1288
+LPL	ENSG00000175445	4023	Lipases	70	173	1016
+TMEM67	ENSG00000164953	91147	MKS complex	70	252	1475
+ATL1	ENSG00000198513	51062	Atlastins	69	97	718
+RAG2	ENSG00000175097	5897	RAG transposon derived genes	69	150	657
+SOS1	ENSG00000115904	6654	Pleckstrin homology domain containing|Dbl family Rho GEFs	69	75	2269
+ENG	ENSG00000106991	2022	CD molecules	68	674	2171
+HUWE1	ENSG00000086758	10075	Armadillo like helical domain containing|MicroRNA protein coding host genes|HECT domain containing	68	83	2732
+SERPINC1	ENSG00000117601	462	Serpin peptidase inhibitors	68	169	544
+SMARCA4	ENSG00000127616	6597	SNF2 related family|Bromodomain containing|BAF complex subunits|PBAF complex subunits|GBAF complex subunits	68	357	6780
+ATP1A2	ENSG00000018625	477	ATPase Na+/K+ transporting subunits	67	137	1587
+CHD3	ENSG00000170004	1107	PHD finger proteins|SNF2 related family|NuRD complex subunits|Small nucleolar RNA protein coding host genes	67	126	898
+DNMT3A	ENSG00000119772	1788	PWWP domain containing|MicroRNA protein coding host genes|7BS C5-cytosine DNA/RNA methyltransferases|DNA/RNA methyltransferases	67	220	1414
+ELANE	ENSG00000197561	1991	Granule associated serine proteases of immune defence|Complement system regulators and receptors|Elastases	67	117	972
+GNE	ENSG00000159921	10020	Carbohydrate kinases	67	238	1337
+RAG1	ENSG00000166349	5896	Ring finger proteins|RAG transposon derived genes	67	181	976
+SGCA	ENSG00000108823	6442	Sarcoglycans	67	212	876
+ALOX12B	ENSG00000179477	242	Arachidonate lipoxygenases	66	156	475
+COL6A2	ENSG00000142173	1292	Collagens	66	289	2520
+PLA2G6	ENSG00000184381	8398	Ankyrin repeat domain containing|Patatin like phospholipase domain containing|Phospholipases|Thioester hydrolases	66	204	1264
+CPS1	ENSG00000021826	1373	Glutamine amidotransferase class 1 domain containing|ATP-grasp fold containing|Carbamoyl-phosphate synthetases	65	425	2304
+GABRA1	ENSG00000022355	2554	Gamma-aminobutyric acid type A receptor subunits	65	84	828
+MTM1	ENSG00000171100	4534	Myotubularins|Phosphoinositide phosphatases	65	288	1169
+NLRP3	ENSG00000162711	114548	NLR family|Pyrin domain containing	65	66	1356
+SGSH	ENSG00000181523	6448	Sulfatases	65	221	1730
+ARSB	ENSG00000113273	411	Sulfatases	64	283	1068
+OPA1	ENSG00000198836	4976	Dynamin superfamily	64	408	1887
+TCF4	ENSG00000196628	6925	Basic helix-loop-helix proteins	64	325	1392
+SACS	ENSG00000151835	26278	DNAJ (HSP40) heat shock proteins|Protein phosphatase 1 regulatory subunits	63	1076	5057
+CACNA1C	ENSG00000151067	775	Calcium voltage-gated channel alpha1 subunits	62	110	3908
+CYBB	ENSG00000165168	1536	Flavoproteins|NADH oxidase family	62	221	1075
+THRB	ENSG00000151090	7068	Thyroid hormone receptors	62	84	411
+TRPV4	ENSG00000111199	59341	Ankyrin repeat domain containing|Transient receptor potential cation channel subfamily V	62	70	1344
+GABRB2	ENSG00000145864	2561	Gamma-aminobutyric acid type A receptor subunits	61	63	672
+IRF6	ENSG00000117595	3664	Interferon regulatory factors 	61	136	417
+IVD	ENSG00000128928	3712	Acyl-CoA dehydrogenase family|Flavoproteins	61	205	867
+SOX11	ENSG00000176887	6664	SRY-box transcription factors	61	88	480
+FANCA	ENSG00000187741	2175	FA complementation groups|FA core complex	60	1319	7291
+ABCB11	ENSG00000073734	8647	ATP binding cassette subfamily B	59	415	2237
+MUTYH	ENSG00000132781	4595	DNA glycosylases	59	436	4247
+ZBTB20	ENSG00000181722	26137	Zinc fingers C2H2-type|BTB domain containing|MicroRNA protein coding host genes	59	99	522
+ACAT1	ENSG00000075239	38		58	237	856
+KMT2A	ENSG00000118058	4297	PHD finger proteins|Zinc fingers CXXC-type|Histone lysine methyltransferases|Bromodomain containing|SET domain containing	58	553	3862
+NR5A1	ENSG00000136931	2516	Nuclear receptor subfamily 5 group A	58	138	400
+COL6A1	ENSG00000142156	1291	Collagens	57	205	2251
+CYP17A1	ENSG00000148795	1586	Cytochrome P450 family 17	57	166	640
+PRF1	ENSG00000180644	5551	C2 domain containing	57	150	791
+PURA	ENSG00000185129	5813	Purine rich element binding protein family	57	223	652
+SHH	ENSG00000164690	6469	Hedgehog signaling molecule family	57	127	770
+SLC6A1	ENSG00000157103	6529	Solute carrier family 6	57	203	1101
+FGFR3	ENSG00000068078	2261	CD molecules|I-set domain containing|Fibroblast growth factor receptor family	56	69	1475
+INF2	ENSG00000203485	64423	Armadillo like helical domain containing|Formins	56	63	1904
+ITGB3	ENSG00000259207	3690	CD molecules|Integrin beta subunits|Human platelet antigens	56	198	999
+PKLR	ENSG00000143627	5313	Pyruvate kinase family	56	121	488
+RPGR	ENSG00000156313	6103		56	827	2241
+TNNI3	ENSG00000129991	7137	Troponin complex subunits	56	84	898
+TUBB3	ENSG00000258947	10381	Tubulin beta family	56	60	454
+ACTG1	ENSG00000184009	71	Actins	55	62	753
+CHD4	ENSG00000111642	1108	PHD finger proteins|SNF2 related family|NuRD complex subunits|Small nucleolar RNA protein coding host genes	55	76	913
+HOGA1	ENSG00000241935	112817	Oxo-acid lyases	55	148	617
+PYGM	ENSG00000068976	5837	Glycogen phosphorylases	55	337	1626
+TGFBR1	ENSG00000106799	7046	Type 1 receptor serine/threonine kinases	55	120	1272
+FBXO11	ENSG00000138081	80204	F-boxes other|Ubiquitin protein ligase E3 component n-recognins	54	161	1290
+GFAP	ENSG00000131095	2670	Intermediate filaments Type III	54	79	626
+HPRT1	ENSG00000165704	3251	Phosphoribosyltransferases	54	134	540
+MCCC2	ENSG00000131844	64087	Methylcrotonyl-CoA carboxylase subunits	54	228	954
+RAF1	ENSG00000132155	5894	Mitogen-activated protein kinase kinase kinases|RAF family	54	57	1433
+SMC3	ENSG00000108055	9126	Proteoglycans|Structural maintenance of chromosomes proteins|Cohesin complex	54	81	826
+AVPR2	ENSG00000126895	554	Arginine vasopressin and oxytocin receptors	53	117	718
+EIF2B5	ENSG00000145191	8893		53	123	912
+KCNJ2	ENSG00000123700	3759	Potassium inwardly rectifying channel subfamily J	53	67	709
+PANK2	ENSG00000125779	80025	MicroRNA protein coding host genes|Pantothenate kinase family	53	153	868
+TMPRSS3	ENSG00000160183	64699	Scavenger receptor cysteine rich domain containing|Type II transmembrane serine proteases	53	123	776
+DICER1	ENSG00000100697	23405	Endoribonucleases|MicroRNA protein coding host genes|RISC loading complex subunits	52	871	7832
+GJA1	ENSG00000152661	2697	Gap junction proteins	52	61	399
+OTOF	ENSG00000115155	9381	Ferlin family	52	423	2501
+WAS	ENSG00000015285	7454	Wiskott-Aldrich Syndrome protein family	52	213	954
+ALDH5A1	ENSG00000112294	7915	Aldehyde dehydrogenases	51	156	921
+BCKDHA	ENSG00000248098	593	Branched chain alpha-keto acid dehydrogenase complex subunits|Oxidoreductases	51	202	850
+F7	ENSG00000057593	2155	Serine proteases|Gla domain containing|Coagulation factors	51	94	485
+KCNA2	ENSG00000177301	3737	Potassium voltage-gated channels|BTB domain containing	51	69	607
+MTHFR	ENSG00000177000	4524	Flavoproteins|Oxidoreductases	51	211	1058
+MTOR	ENSG00000198793	2475	MTOR complex 1|MTOR complex 2|Armadillo like helical domain containing|Phosphatidylinositol 3-kinase-related kinase family	51	57	3239
+TPM1	ENSG00000140416	7168	Tropomyosins	51	53	1106
+CDKN2A	ENSG00000147889	1029	Cyclin dependent kinase inhibitor 2 family	50	186	1726
+EXT1	ENSG00000182197	2131	Exostosin glycosyltransferase family	50	564	1350
+IL2RG	ENSG00000147168	3561	CD molecules|Fibronectin type III domain containing|Interleukin receptors	50	168	697
+TNNT2	ENSG00000118194	7139	Troponin complex subunits	50	65	1180
+TWNK	ENSG00000107815	56652	Helicases|Mitochondrial nucleoid associated proteins	50	84	698
+VCP	ENSG00000165280	7415	AAA ATPases|VCP-Ufd1-Npl4 complex subunits	50	53	871
+EBF3	ENSG00000108001	253738	EBF transcription factors|MicroRNA protein coding host genes|IPT domain containing	49	117	470
+PPT1	ENSG00000131238	5538	Depalmitoylases|Thioester hydrolases	49	193	800
+TPP1	ENSG00000166340	1200		49	224	1316
+ABCB4	ENSG00000005471	5244	ATP binding cassette subfamily B|ATPase phospholipid transporting	48	262	1611
+DEAF1	ENSG00000177030	10522	Zinc fingers MYND-type|SAND domain containing	48	110	1151
+FLNB	ENSG00000136068	2317	Filamin family	48	160	2947
+GJA8	ENSG00000121634	2703	Gap junction proteins	48	59	599
+HMBS	ENSG00000256269	3145		48	180	797
+PMS2	ENSG00000122512	5395	MutL homologs	48	1110	6266
+PRKCG	ENSG00000126583	5582	C2 domain containing protein kinases|Protein kinase C family	48	53	417
+RB1	ENSG00000139687	5925	Receptor ligands	48	1040	4875
+DES	ENSG00000175084	1674	Intermediate filaments Type III	47	131	1383
+EP300	ENSG00000100393	2033	Zinc fingers ZZ-type|Lysine acetyltransferases|Bromodomain containing	47	295	2478
+F11	ENSG00000088926	2160	Serine proteases|Coagulation factors	47	232	973
+KRT14	ENSG00000186847	3861	Keratins, type I	47	83	305
+LIPA	ENSG00000107798	3988	Lipases	47	185	1091
+MAP2K1	ENSG00000169032	5604	Mitogen-activated protein kinase kinases	47	57	759
+SRD5A2	ENSG00000277893	6716	Steroid 5-alpha reductase family	47	108	377
+FLNA	ENSG00000196924	2316	Filamin family	46	357	4752
+KCNJ11	ENSG00000187486	3767	Potassium inwardly rectifying channel subfamily J	46	79	589
+MYOC	ENSG00000034971	4653	Olfactomedin domain containing 	46	51	365
+SATB2	ENSG00000119042	23314	CUT class homeoboxes and pseudogenes	46	224	982
+WT1	ENSG00000184937	7490	Zinc fingers C2H2-type	46	180	2106
+COL11A1	ENSG00000060718	1301	Fibrillar collagens	45	274	3532
+KDM5C	ENSG00000126012	8242	PHD finger proteins|AT-rich interaction domain containing|MicroRNA protein coding host genes|Lysine demethylase 5 family	45	200	1365
+MED13L	ENSG00000123066	23389	Mediator complex|MicroRNA protein coding host genes	45	345	1841
+MVK	ENSG00000110921	4598	Isoprenoid biosynthesis kinases	45	138	913
+PAFAH1B1	ENSG00000007168	5048	WD repeat domain containing	45	215	706
+CSNK2A1	ENSG00000101266	1457	Casein kinase 2 alpha family	44	86	362
+CYP1B1	ENSG00000138061	1545	Cytochrome P450 family 1|Hydroperoxy icosatetraenoate dehydratases	44	127	635
+GABRG2	ENSG00000113327	2566	Gamma-aminobutyric acid type A receptor subunits	44	156	837
+STK11	ENSG00000118046	6794	STK11 family kinases	44	457	3128
+TMC1	ENSG00000165091	117531	Transmembrane channel like family	44	194	969
+CSF1R	ENSG00000182578	1436	CD molecules|Immunoglobulin like domain containing|CSF1R, KIT, FLT3 receptor tyrosine kinase family	43	84	1045
+KCNA1	ENSG00000111262	3736	Potassium voltage-gated channels|BTB domain containing	43	47	809
+LMX1B	ENSG00000136944	4010	LIM class homeoboxes	43	161	759
+NFIX	ENSG00000008441	4784	Nuclear factor I family	43	189	566
+PCCA	ENSG00000175198	5095	Propionyl-CoA carboxylase subunits|ATP-grasp fold containing	43	367	1747
+PROS1	ENSG00000184500	5627	Gla domain containing	43	157	736
+PTCH1	ENSG00000185920	5727	Solute carrier family 65	43	788	6493
+TK2	ENSG00000166548	7084	Deoxyribonucleoside kinases	43	102	677
+ADA	ENSG00000196839	100	Adenosine deaminase family	42	190	790
+ATP7A	ENSG00000165240	538	ATPase copper transporting	42	287	2518
+CDK13	ENSG00000065883	8621	Cyclin dependent kinases	42	89	1244
+GATA2	ENSG00000179348	2624	GATA zinc finger domain containing	42	238	1903
+HDAC8	ENSG00000147099	55869	Histone deacetylases, class I	42	109	610
+KRT5	ENSG00000186081	3852	Keratins, type II	42	96	408
+PROP1	ENSG00000175325	5626	PRD class homeoboxes and pseudogenes	42	104	407
+SMAD3	ENSG00000166949	4088	SMAD family	42	228	1323
+TUBB4A	ENSG00000104833	10382	Tubulin beta family	42	47	394
+TUBB8	ENSG00000261456	347688	Tubulin beta family	42	58	129
+GNB1	ENSG00000078369	2782	WD repeat domain containing|G protein subunits beta	41	66	566
+HCN1	ENSG00000164588	348980	Cyclic nucleotide gated channels	41	48	1215
+HSD17B4	ENSG00000133835	3295	Short chain dehydrogenase/reductase superfamily|SCP2 domain containing|Carbon-oxygen lyases	41	279	1566
+KIF5A	ENSG00000155980	3798	Kinesins	41	100	1537
+MYH9	ENSG00000100345	4627	Myosin heavy chains, class II|MicroRNA protein coding host genes	41	72	2063
+PAX2	ENSG00000075891	5076	PRD class homeoboxes and pseudogenes|Paired boxes	41	158	669
+RPS6KA3	ENSG00000177189	6197	MAPK activated protein kinases|Ribosomal protein S6 kinase family	41	179	942
+SLC45A2	ENSG00000164175	51151	Solute carrier family 45	41	123	719
+SLC4A1	ENSG00000004939	6521	Blood group antigens|CD molecules|Solute carrier family 4	41	239	1035
+TH	ENSG00000180176	7054	Aromatic amino acid hydroxylase family	41	204	1288
+TULP1	ENSG00000112041	7287		41	155	883
+ACTG2	ENSG00000163017	72	Actins	40	44	125
+ADAMTS13	ENSG00000160323	11093	ADAM metallopeptidases with thrombospondin type 1 motif	40	134	1261
+AFG3L2	ENSG00000141385	10939	AAA ATPases	40	72	711
+AIRE	ENSG00000160224	326	PHD finger proteins|SAND domain containing	40	245	1474
+CLCN7	ENSG00000103249	1186	CLC chloride channel and transporter family|Protein phosphatase 1 regulatory subunits	40	101	1536
+EEF1A2	ENSG00000101210	1917	Translational GTPases	40	49	756
+MYH3	ENSG00000109063	4621	Myosin heavy chains, class II	40	133	1964
+RUNX2	ENSG00000124813	860	Runt-related transcription factors	40	192	711
+TERT	ENSG00000164362	7015	Telomerase holoenzyme subunits	40	178	4034
+ZEB2	ENSG00000169554	9839	Zinc fingers C2H2-type|ZF class homeoboxes and pseudogenes	40	418	1689
+ABCA3	ENSG00000167972	21	ATP binding cassette subfamily A|ATPase phospholipid transporting	39	154	1954
+ASAH1	ENSG00000104763	427		39	132	1145
+DNAH5	ENSG00000039139	1767	Dyneins, axonemal outer arm complex subunits|Dynein heavy chains	39	1202	6864
+GLRA1	ENSG00000145888	2741	Glycine receptors	39	91	602
+ITPR1	ENSG00000150995	3708	Inositol 1,4,5-triphosphate receptors|Protein phosphatase 1 regulatory subunits	39	107	2462
+JAG1	ENSG00000101384	182	CD molecules|MicroRNA protein coding host genes|Canonical Notch ligands	39	488	2767
+KCNJ1	ENSG00000151704	3758	Potassium inwardly rectifying channel subfamily J	39	85	443
+MMACHC	ENSG00000132763	25974	Flavoproteins|Oxidoreductases	39	192	699
+NMNAT1	ENSG00000173614	64802	MicroRNA protein coding host genes	39	82	284
+OAT	ENSG00000065154	4942	Transaminases	39	166	802
+PRPS1	ENSG00000147224	5631	Phosphoribosyl pyrophosphate synthetase family	39	46	606
+TUBB	ENSG00000196230	203068	Tubulin beta family	39	40	138
+INSR	ENSG00000171105	3643	CD molecules|Fibronectin type III domain containing|Insulin receptor family	38	79	849
+L1CAM	ENSG00000198910	3897	CD molecules|Fibronectin type III domain containing|I-set domain containing|Ig-like cell adhesion molecule family	38	229	1831
+MED12	ENSG00000184634	9968	Mediator complex	38	93	2716
+ALDH3A2	ENSG00000072210	224	Aldehyde dehydrogenases	37	204	847
+ATM	ENSG00000149311	472	Armadillo like helical domain containing|Phosphatidylinositol 3-kinase-related kinase family|BRCA1-associated genome surveillance complex	37	4081	19789
+BCS1L	ENSG00000074582	617	AAA ATPases|Mitochondrial respiratory chain complex assembly factors	37	143	637
+CC2D2A	ENSG00000048342	57545	MKS complex	37	354	2457
+CLCN4	ENSG00000073464	1183	CLC chloride channel and transporter family	37	71	1037
+FAH	ENSG00000103876	2184		37	208	940
+FOXL2	ENSG00000183770	668	Forkhead boxes	37	181	346
+MYBPC3	ENSG00000134571	4607	I-set domain containing|Myosin binding proteins	37	1107	4749
+RARS2	ENSG00000146282	57038	Aminoacyl tRNA synthetases, Class I	37	281	1122
+SLC40A1	ENSG00000138449	30061	Solute carrier family 40	37	45	370
+TAF1	ENSG00000147133	6872	Lysine acetyltransferases|Bromodomain containing|General transcription factor IID complex subunits|TATA-box binding protein associated factor 1 family	37	41	1133
+ALAS2	ENSG00000158578	212	5'-aminolevulinate synthase family	36	50	547
+ANO5	ENSG00000171714	203859	Anoctamins	36	210	1589
+ATP2A2	ENSG00000174437	488	ATPases Ca2+ transporting	36	96	432
+CHD8	ENSG00000100888	57680	SNF2 related family|Small nucleolar RNA protein coding host genes	36	242	1988
+CTCF	ENSG00000102974	10664	Zinc fingers C2H2-type|Cilia and flagella associated	36	97	442
+FAS	ENSG00000026103	355	CD molecules|Tumor necrosis factor receptor superfamily|Death inducing signaling complex	36	124	559
+GNPTAB	ENSG00000111670	79158	EF-hand domain containing	36	456	1813
+IFIH1	ENSG00000115267	64135	Caspase recruitment domain containing|RIG-I RNA sensor family	36	43	1796
+KCNQ3	ENSG00000184156	3786	Potassium voltage-gated channels	36	60	1566
+LZTR1	ENSG00000099949	8216	BTB domain containing	36	829	5171
+MEF2C	ENSG00000081189	4208	Myocyte enhancer factor 2 proteins|MADS box family	36	151	686
+PRPF8	ENSG00000174231	10594	JAMM/MPN+ metallopeptidase family|U5 small nuclear ribonucleoprotein|Spliceosomal Bact complex|Spliceosomal C complex|Spliceosomal P complex	36	83	1829
+PTS	ENSG00000150787	5805	Carbon-oxygen lyases	36	117	395
+RIT1	ENSG00000143622	6016	RAS type GTPase family	36	38	445
+SLC3A1	ENSG00000138079	6519	Solute carrier family 3	36	196	795
+ACADS	ENSG00000122971	35	Acyl-CoA dehydrogenase family|Flavoproteins	35	101	535
+DNM1L	ENSG00000087470	10059	Dynamin superfamily	35	68	920
+DYRK1A	ENSG00000157540	1859	Dual-specificity tyrosine-regulated kinase family	35	284	1280
+MC4R	ENSG00000166603	4160	Melanocortin receptors	35	69	370
+MORC2	ENSG00000133422	22880	Zinc fingers CW-type	35	35	1093
+SLC6A8	ENSG00000130821	6535	Solute carrier family 6	35	210	1543
+TBC1D24	ENSG00000162065	57465	TLDc domain containing|TBC1 domain family members	35	114	1120
+TBL1XR1	ENSG00000177565	79718	WD repeat domain containing|NCoR/SMRT transcriptional repression complex subunits	35	120	773
+TRIO	ENSG00000038382	7204	I-set domain containing|Dbl family Rho GEFs|TRIO family|Spectrin repeat containing|CRAL-TRIO lipid binding domain containing|SH3 domain containing	35	189	2099
+BICD2	ENSG00000185963	23299	Centriolar satellite proteins|BICD family cargo adaptors	34	40	1003
+CYP27B1	ENSG00000111012	1594	Cytochrome P450 family 27	34	116	597
+ECHS1	ENSG00000127884	1892	MicroRNA protein coding host genes|Enoyl-CoA hydratases	34	67	533
+FLT4	ENSG00000037280	2324	I-set domain containing|VEGF receptor tyrosine kinase family	34	71	658
+IGHMBP2	ENSG00000132740	3508	Zinc fingers AN1-type|UPF1 like RNA helicases	34	183	1549
+PMP22	ENSG00000109099	5376	MicroRNA protein coding host genes	34	133	592
+PNPLA6	ENSG00000032444	10908	Patatin like phospholipase domain containing	34	128	1541
+TUBB2A	ENSG00000137267	7280	Tubulin beta family	34	38	443
+USP9X	ENSG00000124486	8239	Ubiquitin specific peptidases|Armadillo like helical domain containing|Centriolar satellite proteins	34	142	1777
+ADSL	ENSG00000239900	158	Purinosome|Carbon-nitrogen lyases	33	80	952
+AMT	ENSG00000145020	275	Small molecule methyltransferases|Methyltransferases with unique structures	33	161	793
+ANKRD11	ENSG00000167522	29123	Ankyrin repeat domain containing	33	771	3647
+COL6A3	ENSG00000163359	1293	Collagens	33	216	4095
+COQ8A	ENSG00000163050	56997	ADCK family	33	117	866
+EHMT1	ENSG00000181090	79813	Ankyrin repeat domain containing|Histone lysine methyltransferases|SET domain containing	33	351	2782
+GCH1	ENSG00000131979	2643	MicroRNA protein coding host genes	33	134	658
+HECW2	ENSG00000138411	57520	C2 domain containing|Nedd4 family E3 ubiquitin protein ligases	33	40	613
+KIT	ENSG00000157404	3815	CD molecules|Immunoglobulin like domain containing|CSF1R, KIT, FLT3 receptor tyrosine kinase family	33	124	3519
+NTRK1	ENSG00000198400	4914	Immunoglobulin like domain containing|Neurotrophic receptor tyrosine kinase family	33	222	1826
+OCRL	ENSG00000122126	4952	Phosphoinositide phosphatases	33	169	1287
+PDE6B	ENSG00000133256	5158	Phosphodiesterases	33	188	1484
+SLC16A2	ENSG00000147100	6567	Solute carrier family 16	33	122	635
+SLC26A2	ENSG00000155850	1836	Solute carrier family 26	33	245	967
+SPTAN1	ENSG00000197694	6709	EF-hand domain containing|Spectrins|SH3 domain containing	33	147	3349
+ADA2	ENSG00000093072	51816	Adenosine deaminase family	32	96	704
+CASK	ENSG00000147044	8573	Membrane associated guanylate kinases|PDZ domain containing|CASK family|SH3 domain containing	32	235	1397
+CHAT	ENSG00000070748	1103	Choline/carnitine acyltransferase family	32	130	1484
+CLDN16	ENSG00000113946	10686	Claudins	32	59	451
+DMD	ENSG00000198947	1756	Zinc fingers ZZ-type|MicroRNA protein coding host genes|Spectrin repeat containing	32	3543	12030
+GDAP1	ENSG00000104381	54332		32	108	676
+GJA3	ENSG00000121743	2700	Gap junction proteins	32	40	348
+GUSB	ENSG00000169919	2990	Glycoside hydrolase family	32	119	792
+SLC37A4	ENSG00000137700	2542	Solute carrier family 37	32	187	1188
+TBX5	ENSG00000089225	6910	T-box transcription factors	32	221	900
+TYMP	ENSG00000025708	1890	Minor histocompatibility antigens	32	208	1288
+CACNA1E	ENSG00000198216	777	EF-hand domain containing|Calcium voltage-gated channel alpha1 subunits	31	39	2578
+CYP27A1	ENSG00000135929	1593	Cytochrome P450 family 27	31	229	1298
+EZH2	ENSG00000106462	2146	Histone lysine methyltransferases|Myb/SANT domain containing|Polycomb repressive complex 2|SET domain containing	31	46	821
+GBE1	ENSG00000114480	2632		31	243	1196
+KCNQ4	ENSG00000117013	9132	Potassium voltage-gated channels	31	58	553
+KRT1	ENSG00000167768	3848	Keratins, type II	31	49	296
+MYT1L	ENSG00000186487	23040	Zinc fingers C2H2C-type	31	136	720
+RPS19	ENSG00000105372	6223	S ribosomal proteins|MicroRNA protein coding host genes	31	91	318
+SPG7	ENSG00000197912	6687	AAA ATPases	31	240	1387
+TNFRSF1A	ENSG00000067182	7132	CD molecules|Tumor necrosis factor receptor superfamily	31	37	713
+ARID1A	ENSG00000117713	8289	AT-rich interaction domain containing|Armadillo like helical domain containing|BAF complex subunits	30	149	1974
+DNM2	ENSG00000079805	1785	Pleckstrin homology domain containing|MicroRNA protein coding host genes|Dynamins	30	31	1437
+EBP	ENSG00000147155	10682	AEBS complex subunits|EXPERA domain containing	30	81	430
+ENPP1	ENSG00000197594	5167	Ectonucleotide pyrophosphatase/phosphodiesterase family	30	100	966
+FOXP1	ENSG00000114861	27086	Forkhead boxes|MicroRNA protein coding host genes	30	213	1148
+GAMT	ENSG00000130005	2593	7BS small molecule methyltransferases|Small molecule methyltransferases	30	156	750
+HEXB	ENSG00000049860	3074	Hexosaminidases	30	253	981
+INPP5E	ENSG00000148384	56623	Phosphoinositide phosphatases	30	83	1046
+SDHA	ENSG00000073578	6389	Mitochondrial complex II: succinate dehydrogenase subunits|Flavoproteins	30	348	3530
+SLC4A11	ENSG00000088836	83959	Solute carrier family 4	30	187	1351

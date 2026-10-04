@@ -1,0 +1,68 @@
+{
+ "teacher": {
+  "gene_id": "ENSG00000165671",
+  "symbol": "NSD1",
+  "chrom": "5",
+  "start": 177131830,
+  "stop": 177300213,
+  "strand": "+",
+  "canonical_transcript_id": "ENST00000439151",
+  "mane_select_transcript": {
+   "ensembl_id": "ENST00000439151",
+   "ensembl_version": "7",
+   "refseq_id": "NM_022455",
+   "refseq_version": "5"
+  },
+  "gnomad_constraint": {
+   "oe_lof_upper": 0.14863933541485985,
+   "pli": 1,
+   "mis_z": 5.798679874002442,
+   "oe_mis": 0.762337893598807,
+   "oe_mis_lower": 0.7377095118692437,
+   "oe_mis_upper": 0.787924775238864,
+   "obs_mis": 2495,
+   "exp_mis": 3272.826945833333,
+   "obs_syn": 1106,
+   "exp_syn": 1178.0624484161083,
+   "oe_syn": 0.938829687243664,
+   "syn_z": 1.2527320934587132,
+   "obs_lof": 26,
+   "exp_lof": 242.7123882303424,
+   "oe_lof": 0.107122673834535,
+   "flags": []
+  }
+ },
+ "student": {
+  "gene_id": "ENSG00000147548",
+  "symbol": "NSD3",
+  "chrom": "8",
+  "start": 38269704,
+  "stop": 38382272,
+  "strand": "-",
+  "canonical_transcript_id": "ENST00000317025",
+  "mane_select_transcript": {
+   "ensembl_id": "ENST00000317025",
+   "ensembl_version": "13",
+   "refseq_id": "NM_023034",
+   "refseq_version": "2"
+  },
+  "gnomad_constraint": {
+   "oe_lof_upper": 0.20987120182793004,
+   "pli": 1,
+   "mis_z": 5.9260983688742375,
+   "oe_mis": 0.6665007709257493,
+   "oe_mis_lower": 0.6351636404457977,
+   "oe_mis_upper": 0.6996449859601194,
+   "obs_mis": 1157,
+   "exp_mis": 1735.931975581907,
+   "obs_syn": 520,
+   "exp_syn": 599.9880995352564,
+   "oe_syn": 0.8666838565677982,
+   "syn_z": 1.9484416585560542,
+   "obs_lof": 24,
+   "exp_lof": 160.82436742532994,
+   "oe_lof": 0.1492311170516066,
+   "flags": []
+  }
+ }
+}

@@ -1,0 +1,97 @@
+Job 6439580 on barbun9, start Sat Oct  3 20:31:25 +03 2026
+GET https://static-content.springer.com/esm/art%3A10.1038%2Fs41588-026-02553-7/MediaObjects/41588_2026_2553_MOESM4_ESM.xlsx
+  raw/gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx  14,828,993 B  sha256 c413e271b5e3501e
+GET https://static-content.springer.com/esm/art%3A10.1038%2Fs41588-026-02553-7/MediaObjects/41588_2026_2553_MOESM1_ESM.pdf
+  raw/gh_supp_info__41588_2026_2553_MOESM1_ESM.pdf  6,717,782 B  sha256 d9270a67e0f5d8a6
+GET https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-024-07556-0/MediaObjects/41586_2024_7556_MOESM1_ESM.docx
+  raw/rgc_supp_info__41586_2024_7556_MOESM1_ESM.docx  5,099,060 B  sha256 1b1b4567f3bf4981
+GET https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-024-07556-0/MediaObjects/41586_2024_7556_MOESM3_ESM.xlsx
+  raw/rgc_st1__41586_2024_7556_MOESM3_ESM.xlsx  29,869 B  sha256 0f6be4d1e0ff25d6
+GET https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-024-07556-0/MediaObjects/41586_2024_7556_MOESM4_ESM.xlsx
+  raw/rgc_st2__41586_2024_7556_MOESM4_ESM.xlsx  3,105,120 B  sha256 b42431c0906230e0
+GET https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-024-07556-0/MediaObjects/41586_2024_7556_MOESM8_ESM.xlsx
+  raw/rgc_st6__41586_2024_7556_MOESM8_ESM.xlsx  370,573 B  sha256 47991549c9cf838f
+GET https://static-content.springer.com/esm/art%3A10.1038%2Fs41588-024-01910-8/MediaObjects/41588_2024_1910_MOESM4_ESM.xlsx
+  raw/chundru_supp_tables__41588_2024_1910_MOESM4_ESM.xlsx  454,539 B  sha256 996cf74748efeb8b
+GET https://static-content.springer.com/esm/art%3A10.1038%2Fs41588-024-01910-8/MediaObjects/41588_2024_1910_MOESM5_ESM.zip
+  raw/chundru_supp_data__41588_2024_1910_MOESM5_ESM.zip  30,357,197 B  sha256 10aa1824becadc8d
+GET https://static-content.springer.com/esm/art%3A10.1038%2Fs41588-024-01910-8/MediaObjects/41588_2024_1910_MOESM1_ESM.pdf
+  raw/chundru_supp_info__41588_2024_1910_MOESM1_ESM.pdf  3,131,527 B  sha256 c97dd8aecf8ea028
+GET https://static-content.springer.com/esm/art%3A10.1038%2Fs41588-025-02400-1/MediaObjects/41588_2025_2400_MOESM3_ESM.xlsx
+  raw/popeve_supp_tables__41588_2025_2400_MOESM3_ESM.xlsx  20,192,985 B  sha256 b96a8377080ee66d
+GET https://data.evemodel.org/popeve/v1.1/mutations/NP_071396.4.csv
+  raw/popeve_KIF13A_NP_071396.4__NP_071396.4.csv  2,278,985 B  sha256 120a78266d0ec61c
+GET https://data.evemodel.org/popeve/v1.1/mutations/NP_004312.2.csv
+  raw/popeve_KIF1A_NP_004312.2__NP_004312.2.csv  2,599,035 B  sha256 bc775d74b0c5a968
+GET https://ftp.ebi.ac.uk/pub/databases/gene2phenotype/G2P_data_downloads/2026_09_28/DDG2P_2026-09-28.csv.gz
+  raw/ddg2p__DDG2P_2026-09-28.csv.gz  634,430 B  sha256 ff70823ecf0d8a05
+GET https://storage.googleapis.com/gcp-public-data--gnomad/release/4.1/constraint/gnomad.v4.1.constraint_metrics.tsv
+  raw/gnomad_v41_constraint__gnomad.v4.1.constraint_metrics.tsv  95,546,041 B  sha256 68d8abdb7fc48f57
+  raw/ensembl/ENST00000259711_structure.json  8,627 B  sha256 4f2cdd13808a7629
+  raw/ensembl/ENST00000498729_structure.json  10,909 B  sha256 697ca9e8e7f40261
+  raw/ensembl/ENST00000524189_structure.json  8,817 B  sha256 8c8b8b6671872774
+gnomAD KIF13A ENST00000259711
+  raw/gnomad/KIF13A_ENST00000259711_gnomad_r4_pop.json  664,972 B  sha256 40075b19d603c62a
+gnomAD KIF1A ENST00000498729
+  raw/gnomad/KIF1A_ENST00000498729_gnomad_r4_pop.json  568,687 B  sha256 63734027169ccca6
+gnomAD KIF13B ENST00000524189
+  raw/gnomad/KIF13B_ENST00000524189_gnomad_r4_pop.json  872,016 B  sha256 844676f1505daa5d
+  sheet chundru_supp_tables__41588_2024_1910_MOESM4_ESM.xlsx :: 'Supp Table 1' -> Supp_Table_1.tsv (1003 rows)
+  sheet chundru_supp_tables__41588_2024_1910_MOESM4_ESM.xlsx :: 'Supp Table 2' -> Supp_Table_2.tsv (1005 rows)
+  sheet chundru_supp_tables__41588_2024_1910_MOESM4_ESM.xlsx :: 'Supp Table 3' -> Supp_Table_3.tsv (7 rows)
+  sheet chundru_supp_tables__41588_2024_1910_MOESM4_ESM.xlsx :: 'Supp Table 4' -> Supp_Table_4.tsv (269 rows)
+  sheet chundru_supp_tables__41588_2024_1910_MOESM4_ESM.xlsx :: 'Supp Table 5' -> Supp_Table_5.tsv (1822 rows)
+  sheet chundru_supp_tables__41588_2024_1910_MOESM4_ESM.xlsx :: 'Supp Table 6' -> Supp_Table_6.tsv (994 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'Table of contents' -> Table_of_contents.tsv (27 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST1' -> ST1.tsv (22 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST2' -> ST2.tsv (15263 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST3' -> ST3.tsv (18 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST4' -> ST4.tsv (19402 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST5' -> ST5.tsv (22 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST6' -> ST6.tsv (731 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST7' -> ST7.tsv (18251 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST8' -> ST8.tsv (3097 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST9' -> ST9.tsv (948 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST10' -> ST10.tsv (1325 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST11' -> ST11.tsv (2816 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST12' -> ST12.tsv (2078 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST13' -> ST13.tsv (737 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST14' -> ST14.tsv (45700 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST15' -> ST15.tsv (36 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST16' -> ST16.tsv (18767 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST17' -> ST17.tsv (45 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST18' -> ST18.tsv (8864 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST19' -> ST19.tsv (17 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST20' -> ST20.tsv (25 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST21' -> ST21.tsv (5 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST22' -> ST22.tsv (13 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST23' -> ST23.tsv (13 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST24' -> ST24.tsv (12 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST25' -> ST25.tsv (22 rows)
+  sheet gh_supp_tables__41588_2026_2553_MOESM4_ESM.xlsx :: 'ST26' -> ST26.tsv (19366 rows)
+  sheet popeve_supp_tables__41588_2025_2400_MOESM3_ESM.xlsx :: 'Index' -> Index.tsv (11 rows)
+  sheet popeve_supp_tables__41588_2025_2400_MOESM3_ESM.xlsx :: 'SuppTable01' -> SuppTable01.tsv (26 rows)
+  sheet popeve_supp_tables__41588_2025_2400_MOESM3_ESM.xlsx :: 'SuppTable02' -> SuppTable02.tsv (18397 rows)
+  sheet popeve_supp_tables__41588_2025_2400_MOESM3_ESM.xlsx :: 'SuppTable03' -> SuppTable03.tsv (50 rows)
+  sheet popeve_supp_tables__41588_2025_2400_MOESM3_ESM.xlsx :: 'SuppTable04' -> SuppTable04.tsv (90 rows)
+  sheet popeve_supp_tables__41588_2025_2400_MOESM3_ESM.xlsx :: 'SuppTable05' -> SuppTable05.tsv (26660 rows)
+  sheet popeve_supp_tables__41588_2025_2400_MOESM3_ESM.xlsx :: 'SuppTable06' -> SuppTable06.tsv (18396 rows)
+  sheet popeve_supp_tables__41588_2025_2400_MOESM3_ESM.xlsx :: 'SuppTable07' -> SuppTable07.tsv (491 rows)
+  sheet popeve_supp_tables__41588_2025_2400_MOESM3_ESM.xlsx :: 'SuppTable08' -> SuppTable08.tsv (18428 rows)
+  sheet popeve_supp_tables__41588_2025_2400_MOESM3_ESM.xlsx :: 'SuppTable09' -> SuppTable09.tsv (7904 rows)
+  sheet popeve_supp_tables__41588_2025_2400_MOESM3_ESM.xlsx :: 'SuppTable10' -> SuppTable10.tsv (11429 rows)
+  sheet popeve_supp_tables__41588_2025_2400_MOESM3_ESM.xlsx :: 'SuppTable11' -> SuppTable11.tsv (384 rows)
+  sheet rgc_st1__41586_2024_7556_MOESM3_ESM.xlsx :: 'A.ancestry_GT50_cutoff' -> A.ancestry_GT50_cutoff.tsv (9 rows)
+  sheet rgc_st1__41586_2024_7556_MOESM3_ESM.xlsx :: 'B.ancestry_weighted_unrelated' -> B.ancestry_weighted_unrelated.tsv (29 rows)
+  sheet rgc_st1__41586_2024_7556_MOESM3_ESM.xlsx :: 'C.cohort_sample_sizes' -> C.cohort_sample_sizes.tsv (36 rows)
+  sheet rgc_st2__41586_2024_7556_MOESM4_ESM.xlsx :: 'definitions' -> definitions.tsv (22 rows)
+  sheet rgc_st2__41586_2024_7556_MOESM4_ESM.xlsx :: 'table_s2' -> table_s2.tsv (16711 rows)
+  sheet rgc_st6__41586_2024_7556_MOESM8_ESM.xlsx :: 'definitions' -> definitions.tsv (16 rows)
+  sheet rgc_st6__41586_2024_7556_MOESM8_ESM.xlsx :: 'suppl_table_6_HKOs' -> suppl_table_6_HKOs.tsv (4849 rows)
+  docx -> rgc_supp_info__41586_2024_7556_MOESM1_ESM.txt (752,901 chars)
+  pdf -> chundru_supp_info__41588_2024_1910_MOESM1_ESM.txt (30 pages)
+  pdf -> gh_supp_info__41588_2026_2553_MOESM1_ESM.txt (49 pages)
+  zip member RecessiveDD_SuppDataFile.xlsx 31,152,348 B
+  zip member __MACOSX/._RecessiveDD_SuppDataFile.xlsx 572 B
+  sheet RecessiveDD_SuppDataFile.xlsx :: 'Sheet1' -> Sheet1.tsv (16659 rows)
+  sheet RecessiveDD_SuppDataFile.xlsx :: 'Sheet2' -> Sheet2.tsv (0 rows)

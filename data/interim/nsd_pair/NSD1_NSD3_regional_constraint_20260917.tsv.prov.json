@@ -1,0 +1,18 @@
+{
+  "file": "data/interim/nsd_pair/NSD1_NSD3_regional_constraint_20260917.tsv",
+  "sha256": "a0e03eae1e337ef3a0505b1a6ef7fd5c5120db599443bc9513f90496dfc5283b",
+  "bytes": 4330,
+  "retrieved_utc": "2026-09-17T18:54:32+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "tool": "scripts/nsd_pair_calibration.py",
+  "source": "derived: Samocha 2014 trinucleotide rates + gnomAD v4.1 exomes, synonymous-calibrated expectation (scripts/regional_constraint.py helpers)",
+  "urls": [
+    "https://raw.githubusercontent.com/jeremymcrae/denovonear/master/src/denovonear/data/rates.txt",
+    "https://gnomad.broadinstitute.org/api"
+  ],
+  "params": {
+    "max_af": 0.001,
+    "n_rate_bins": 24
+  },
+  "n_records": 28
+}

@@ -1,0 +1,17 @@
+{
+  "file": "data/interim/paralog_maps/NSD1_to_NSD3_pairwise_MANE.tsv",
+  "sha256": "7f519a4170f4d00c501fc718616bc02c8440f6efaa60b9b050be604020768191",
+  "bytes": 24225,
+  "retrieved_utc": "2026-09-17T18:43:30+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: Biopython PairwiseAligner (BLOSUM62, gap -10/-0.5, free end gaps) on Ensembl MANE proteins",
+  "urls": [
+    "https://rest.ensembl.org/sequence/id"
+  ],
+  "tool": "scripts/nsd_pair_calibration.py",
+  "params": {
+    "source": "NSD1",
+    "target": "NSD3"
+  },
+  "n_records": 1319
+}

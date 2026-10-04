@@ -1,0 +1,12 @@
+{
+  "file": "data/interim/regional_constraint/sanity_checks_20260916_af1e4.tsv",
+  "sha256": "d6d0654735412d8f73f7ba73dd93a2785c044372d9104f99bf2f757049fd5938",
+  "bytes": 1694,
+  "retrieved_utc": "2026-09-16T14:16:54+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived",
+  "urls": [],
+  "tool": "scripts/regional_constraint.py",
+  "params": {},
+  "n_records": 9
+}

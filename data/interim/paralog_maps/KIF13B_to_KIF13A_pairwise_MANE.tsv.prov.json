@@ -1,0 +1,17 @@
+{
+  "file": "data/interim/paralog_maps/KIF13B_to_KIF13A_pairwise_MANE.tsv",
+  "sha256": "c4acb485c25fb8145141d8329ae3b53f4237d961d5976eeb9be401ec62412d75",
+  "bytes": 21809,
+  "retrieved_utc": "2026-09-15T16:13:57+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: Biopython PairwiseAligner on Ensembl MANE proteins",
+  "urls": [
+    "https://rest.ensembl.org/sequence/id"
+  ],
+  "tool": "paralog_map",
+  "params": {
+    "source": "KIF13B",
+    "target": "KIF13A"
+  },
+  "n_records": 1711
+}

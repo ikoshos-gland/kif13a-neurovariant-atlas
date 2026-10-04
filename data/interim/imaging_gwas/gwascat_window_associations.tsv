@@ -1,0 +1,188 @@
+rsid	pos_grch38	p	beta	beta_unit	beta_yon	or	efo_traits	kif13a_uzaklik	nhlrc1_uzaklik	nup153_uzaklik
+rs551155433	18158332	6.0000000000000005e-155	0.9694702	unit	decrease		level of thiopurine S-methyltransferase in blood		35655	
+rs200868187	17602639	3e-101	0.5809	unit	decrease		psoriasis			12068
+rs200868187	17602639	3e-99	0.569	unit	decrease		psoriasis			12068
+rs200868187	17602639	4e-98	0.5816	unit	decrease		psoriasis vulgaris			12068
+rs200868187	17602639	4.9999999999999995e-98	0.5634	unit	decrease		psoriasis			12068
+rs200868187	17602639	4e-95	0.5502	unit	decrease		psoriasis			12068
+rs200868187	17602639	1e-94	0.5652	unit	decrease		psoriasis vulgaris			12068
+rs6910196	18102276	1e-89	0.12227901	unit	increase		level of thiopurine S-methyltransferase in blood	114641	18164	
+rs73726531	18102797	1e-72	2.2	unit	decrease		thiopurine methyltransferase activity measurement	115162	17643	
+rs1142345	18130687	9e-61	7.69	unit	decrease		trait in response to mercaptopurine;thiopurine methyltransferase activity measurement		8010	
+rs187686404	18170919	1e-60	1.0035819	unit	decrease		level of thiopurine S-methyltransferase in blood		48242	
+rs572244808	18110933	2e-58	0.9960896	unit	decrease		level of thiopurine S-methyltransferase in blood	123298	9507	
+rs1800462	18143724	9e-57	0.8748602	unit	decrease		level of thiopurine S-methyltransferase in blood		21047	
+rs6927877	17647415	5.9999999999999996e-55	0.0112	unit	increase		body height			0
+rs10949481	18120798	4e-54	1.0823	unit	decrease		aging	133163	0	
+rs138317895	18131584	6e-50	0.94833475	unit	decrease		level of thiopurine S-methyltransferase in blood		8907	
+rs34206659	17541093	8e-47	1.15839	unit	increase		protein measurement			73944
+rs34969716	18209878	2e-46	0.0619	unit	increase		atrial fibrillation		87201	
+rs34969716	18209878	4e-42	0.0621	unit	increase		atrial fibrillation		87201	
+rs200868187	17602639	5e-40	0.7339	unit	decrease		psoriatic arthritis			12068
+rs34969716	18209878	2e-39				1.07	atrial fibrillation		87201	
+rs34969716	18209878	2e-39	0.045	unit	decrease		QT interval		87201	
+rs34969716	18209878	5.999999999999999e-39	0.0452	unit	decrease		JT interval		87201	
+rs34969716	18209878	2e-37	0.0461	unit	decrease		QT interval		87201	
+rs34969716	18209878	2e-37	0.0467	unit	decrease		JT interval		87201	
+rs200868187	17602639	3e-35	0.7411	unit	decrease		psoriatic arthritis			12068
+rs10949482	18121083	1e-33					trait in response to mercaptopurine;thiopurine metabolite measurement	133448	0	
+rs10949483	18122275	5e-32	0.3697	unit	increase		aging	134640	0	
+rs9396793	17705013	1e-28				0.78	intrahepatic cholestasis of pregnancy	54113		0
+rs200868187	17602639	3e-28	0.09823	unit	increase		monocyte count			12068
+rs200868187	17602639	3e-28	0.09444	unit	decrease		eosinophil count			12068
+rs214589	18209452	6e-27	0.070453726	unit	decrease		level of thiopurine S-methyltransferase in blood		86775	
+rs76244256	18140332	6e-26	1.3414	unit	decrease		epigenetic status;aging		17655	
+rs200868187	17602639	2e-25	0.08739	unit	decrease		eosinophil count			12068
+rs34969716	18209878	3.0000000000000002e-25				1.09	atrial fibrillation		87201	
+rs143093668	18114015	4e-25	1.6799	unit	decrease		aging;epigenetic status	126380	6425	
+rs34969716	18209878	6.0000000000000005e-25	0.0691	unit	increase		atrial fibrillation		87201	
+rs73724422	18123999	7e-23	1.8143	unit	increase		aging		1322	
+rs35080903	18192831	1e-22	0.10085855	unit	increase		level of thiopurine S-methyltransferase in blood		70154	
+rs34969716	18209878	4e-22				1.09	atrial fibrillation		87201	
+rs200868187	17602639	5.0000000000000005e-22	0.2105	unit	decrease		skin disorder			12068
+rs75407001	18120062	1e-21	1.1184	unit	decrease		aging	132427	378	
+rs10949482	18121083	1e-20					trait in response to mercaptopurine;thiopurine metabolite measurement	133448	0	
+rs200868187	17602639	2.9999999999999997e-20	0.09529	unit	decrease		eosinophil count			12068
+rs200868187	17602639	4e-20	0.203	unit	decrease		skin disorder			12068
+rs562345710	17886286	4e-20	0.7105322	unit	decrease		level of thiopurine S-methyltransferase in blood	0	234154	
+rs200868187	17602639	2e-19	0.09031	unit	decrease		eosinophil count			12068
+rs34969716	18209878	2e-19				1.07	atrial fibrillation		87201	
+rs34969716	18209878	2e-19	0.06005	unit	decrease		atrial fibrillation		87201	
+rs34969716	18209878	2e-18	0.013	unit	increase		atrial fibrillation		87201	
+rs34969716	18209878	2e-18	0.05764	unit	decrease		atrial fibrillation;atrial flutter		87201	
+rs200868187	17602639	3.0000000000000002e-18	0.06838	unit	decrease		leukocyte quantity			12068
+rs187775383	18057814	9.000000000000001e-18	0.4696375	unit	decrease		glioma pathogenesis-related protein 1 measurement	70179	62626	
+rs200868187	17602639	1e-17	0.07499	unit	increase		platelet volume			12068
+rs6907850	18101663	1e-17					aging	114028	18777	
+rs78631584	18127970	1e-17					aging		5293	
+rs4294009	18105845	1e-17	0.3359	unit	increase		aging	118210	14595	
+rs3836949	17616283	4e-17	0.029092344	unit	decrease		Interferon gamma receptor 2 measurement			0
+rs9396784	17596908	9.000000000000001e-17				1.27	liver disorder			17799
+rs200868187	17602639	1e-16	0.07321	unit	increase		platelet volume			12068
+rs200868187	17602639	2e-16	0.0894	unit	increase		monocyte count			12068
+rs1142345	18130687	4e-16					thiopurine methyltransferase activity measurement		8010	
+rs201170640	18152589	1e-15	0.05459	unit	decrease		protein measurement		29912	
+rs7744541	18104469	2e-15	0.4388	unit	increase		epigenetic status;aging	116834	15971	
+rs200868187	17602639	2e-15	0.2276	unit	decrease		skin disorder;drug use measurement			12068
+rs200868187	17602639	4e-15	0.06797	unit	increase		monocyte count			12068
+rs200868187	17602639	5.000000000000001e-15	0.06294	unit	decrease		eosinophil count			12068
+rs112683346	17951438	5.000000000000001e-15	0.059135035	unit	increase		scavenger receptor class A member 5 measurement	0	169002	
+rs2228375	17675015	6.0000000000000005e-15				0.95	gallstones	84111		0
+rs200868187	17602639	8e-15	0.2199	unit	decrease		skin disorder;drug use measurement			12068
+rs200868187	17602639	2e-14	0.06483	unit	increase		monocyte count			12068
+rs200868187	17602639	4e-14	0.1798	unit	decrease		macular degeneration			12068
+rs200868187	17602639	5e-14	0.165	unit	decrease		erythematosquamous dermatosis			12068
+rs748954374	17833856	5e-14	0.053313453	unit	increase		level of thiopurine S-methyltransferase in blood	0	286584	
+rs200868187	17602639	7e-14	0.07717	unit	decrease		basophil count			12068
+rs570304138	17951439	1e-13	0.0645798	unit	decrease		amount of scavenger receptor class A member 5 (human) in blood	0	169001	
+rs12206031	17707522	2e-13	0.0216	unit	increase		body height	51604		587
+rs200868187	17602639	2e-13	0.06081	unit	decrease		eosinophil count			12068
+rs200868187	17602639	2e-13	0.06367	unit	increase		platelet volume			12068
+rs6915893	18110325	2e-13	0.5197	unit	increase		aging;epigenetic status	122690	10115	
+rs77032929	18152062	2e-13	0.04701	unit	decrease		protein measurement		29385	
+rs200682251	17722371	2e-13	0.052426122	unit	increase		level of thiopurine S-methyltransferase in blood	36812		15446
+rs200868187	17602639	3.0000000000000003e-13	0.05533	unit	decrease		leukocyte quantity			12068
+rs200868187	17602639	5e-13	0.1901	unit	decrease		macular degeneration			12068
+rs200868187	17602639	5e-13	0.1593	unit	decrease		seborrheic dermatitis			12068
+rs34969716	18209878	7e-13	0.05988	unit	decrease		atrial fibrillation		87201	
+rs200868187	17602639	8e-13	0.05985	unit	decrease		neutrophil count			12068
+rs200868187	17602639	1e-12	0.05742	unit	decrease		neutrophil count			12068
+rs1142345	18130687	1e-12	1.9551	unit	increase		aging		8010	
+rs34969716	18209878	1e-12	0.0732	unit	increase		atrial fibrillation		87201	
+rs536447969	17807594	2e-12	0.1724329	unit	decrease		amount of scavenger receptor class A member 5 (human) in blood	0	312846	
+rs561936617	18098957	3e-12	0.04869493	unit	increase		level of thiopurine S-methyltransferase in blood	111322	21483	
+rs187976596	17745784	4e-12	1.06	unit	decrease		thiopurine methyltransferase activity measurement	13342		38859
+rs34969716	18209878	4e-12	0.05758	unit	decrease		atrial fibrillation;atrial flutter		87201	
+rs200868187	17602639	1e-11	0.06665	unit	decrease		basophil measurement			12068
+rs1014146	17912846	2e-11					FEV/FVC ratio	0	207594	
+rs200868187	17602639	2e-11	0.06402	unit	decrease		eosinophil count			12068
+rs214502	18227315	1e-10	0.42	ms	increase		PR interval			
+rs214502	18227315	5e-10	0.4234	ms	increase		PR interval			
+rs6942390	17977018	6e-10				1.05	aortic stenosis	0	143422	
+rs79050301	18151959	8e-10					trait in response to mercaptopurine;thiopurine metabolite measurement		29282	
+rs75428660	17885814	1e-09	6.09	z score	increase		brain attribute	0	234626	
+rs62398171	17898894	2e-09	0.0353774	unit	decrease		chronic obstructive pulmonary disease	0	221546	
+rs2842936	18140019	3.0000000000000004e-09	0.0039	unit	decrease		body height		17342	
+rs76091407	18020202	4e-09					white matter microstructure measurement	32567	100238	
+rs150772783	18117724	5e-09	0.0558073	unit	increase		phenylalanine measurement	130089	2716	
+rs75428660	17885814	5e-09	5.85	z score	increase		cortical thickness	0	234626	
+rs11969064	18104864	5e-09				2.3	myelosuppression;trait in response to thiopurine	117229	15576	
+rs114812432	17657801	7.000000000000001e-09	1.96459	unit	decrease		bone tissue density;urate measurement			0
+rs9383311	17686881	8e-09	0.0402733	SD units	decrease		neutrophil measurement	72302		0
+rs16879766	17511396	9.000000000000001e-09	0.04	unit	increase		tobacco smoke exposure measurement;gut microbiome measurement			
+rs4716167	17627359	1e-08	0.0121	unit	increase		body height			0
+rs10949436	17679476	1e-08					hematological measurement	79707		0
+rs75428660	17885814	2e-08					cortical thickness	0	234626	
+rs188911996	18173684	2e-08	5.578	unit	increase		age at onset;Alzheimer disease		51007	
+rs113832183	18233908	2e-08					vital capacity			
+rs76883736	18032596	3.0000000000000004e-08					bone tissue density	44961	87844	
+rs75964046	17926093	3.0000000000000004e-08					BMI-adjusted waist circumference	0	194347	
+rs3734232	17780910	3.0000000000000004e-08	0.0083	unit	increase		body height	0	339530	73985
+rs34969716	18209878	3.0000000000000004e-08	0.095	unit	increase		atrial fibrillation		87201	
+rs147456729	18031075	4e-08					bone tissue density	43440	89365	
+rs2228375	17675015	4e-08				1.06	cholelithiasis	84111		0
+rs11344808	17720053	5e-08	0.0123	unit	increase		serum gamma-glutamyl transferase measurement	39073		13118
+rs115719480	18024327	5e-08					bone tissue density	36692	96113	
+rs77550061	18033238	5e-08					bone tissue density	45603	87202	
+rs185617584	17793536	2e-07					connective tissue neoplasm	0	326904	86611
+rs79642714	17605974	2e-07					pseudotumor cerebri			8733
+rs4712314	17833813	2e-07	0.27	unit	increase		progressive supranuclear palsy	0	286627	
+rs9350055	17670208	3e-07					acute myeloid leukemia	88918		0
+rs6906499	17665248	3e-07					acute myeloid leukemia	93935		0
+rs9396787	17670268	3e-07					acute myeloid leukemia	88915		0
+rs10949435	17630059	3e-07					acute myeloid leukemia			0
+rs9383307	17656802	3e-07					acute myeloid leukemia			0
+rs4716167	17627359	3e-07					acute myeloid leukemia			0
+rs7760870	17522755	4e-07	0.0090011	unit	decrease		reaction time measurement			92282
+rs1006066	17679884	6e-07					acute myeloid leukemia	79299		0
+rs6906857	17719708	6e-07					acute myeloid leukemia	39418		12773
+rs10949437	17711230	6e-07					acute myeloid leukemia	47953		4305
+rs11753865	17682491	6e-07					acute myeloid leukemia	76692		0
+rs16879902	17688462	6e-07					acute myeloid leukemia	70721		0
+rs6459562	17710444	6e-07					acute myeloid leukemia	48682		3519
+rs12199222	17699091	6e-07					acute myeloid leukemia	60092		0
+rs10949436	17679476	6e-07					acute myeloid leukemia	79707		0
+rs5029614	18100143	7e-07				1.8	cancer	112508	20297	
+rs72839123	17896874	7e-07	0.229	unit	increase		colorectal cancer;coffee consumption measurement	0	223566	
+rs3476	18224942	7e-07				1.8	cancer			
+rs12199222	17699091	7e-07	4.4	% s.d.	increase		body height	60092		0
+rs541460675	18121442	1e-06	1.7865	unit	decrease		psoriasis	133807	0	
+rs3777710	17610858	1e-06	0.0047	unit	increase		body height			4179
+rs3476	18224942	1e-06	0.3504732	unit	increase		lipid measurement			
+rs572301451	17729143	2e-06	1.5072	unit	decrease		psoriasis	29983		22208
+rs1473070452	18139165	2e-06	1.7466	unit	decrease		psoriasis		16488	
+rs1142345	18130687	2e-06				0.44	serum alanine aminotransferase amount;aspartate aminotransferase measurement		8010	
+rs146343288	17689625	3e-06				1.48	ovarian carcinoma	69501		0
+rs142085785	17547630	3e-06				1.75	autoimmune thrombocytopenic purpura			67407
+rs12215418	18149914	3e-06				0.69	susceptibility to common cold measurement		27237	
+rs145578678	18229415	3e-06	1.1492	unit	increase		cognitive decline measurement			
+rs9371012	17738146	4e-06	0.0072211	unit	decrease		dementia	21037		31221
+rs9477551	17890057	4e-06	0.12	unit	increase		cardiac troponin T measurement	0	230383	
+rs10456809	17813594	4.9999999999999996e-06				1.25	prostate carcinoma	0	306846	
+rs141229558	18117375	6e-06	0.4987	unit	increase		susceptibility to rubella infection measurement	129740	3065	
+rs1171555460	17888267	7e-06	1.6245	unit	decrease		psoriasis	0	232173	
+rs12212501	17760134	7e-06	0.167	unit	increase		serum selenium amount	0	360306	53199
+rs72839144	18011221	8e-06	0.213	unit	increase		colorectal cancer;coffee consumption measurement	23586	109219	
+rs9396818	18008471	8e-06					acute myeloid leukemia	20836	111969	
+rs4712320	17935097	8e-06					acute myeloid leukemia	0	185343	
+rs1003510	17984421	8e-06					acute myeloid leukemia	0	136019	
+rs12192759	17903857	8e-06					acute myeloid leukemia	0	216583	
+rs2876466	17951725	8e-06					acute myeloid leukemia	0	168715	
+rs2744057	17973737	8e-06					acute myeloid leukemia	0	146703	
+rs1983573	17921391	8e-06					acute myeloid leukemia	0	199049	
+rs2067849	17906098	8e-06					acute myeloid leukemia	0	214342	
+rs9396819	18008549	8e-06					acute myeloid leukemia	20914	111891	
+rs760848	18005358	8e-06					acute myeloid leukemia	17723	115082	
+rs7767446	17920579	8e-06					acute myeloid leukemia	0	199861	
+rs6937334	17935773	8e-06					acute myeloid leukemia	0	184667	
+rs2820221	18003257	8e-06					acute myeloid leukemia	15622	117183	
+rs2328176	17974403	8e-06					acute myeloid leukemia	0	146037	
+rs7765428	17925195	8e-06					acute myeloid leukemia	0	195245	
+rs12199169	17904777	8e-06					acute myeloid leukemia	0	215663	
+rs7757011	17928258	8e-06					acute myeloid leukemia	0	192182	
+rs2328175	17951119	8e-06					acute myeloid leukemia	0	169321	
+rs6459582	17967855	8e-06					acute myeloid leukemia	0	152585	
+rs6459573	17799535	9e-06	0.06102	unit	decrease		memory performance	0	320905	92600
+rs185342497	17786852	9e-06	0.678	unit	increase		blood nickel amount	0	333588	79927
+rs9465045	17534788	9e-06	1.0216	unit	increase		neuroblastoma			80249
+rs7747769	17920558	1e-05	0.19648	unit	decrease		COVID-19	0	199882	

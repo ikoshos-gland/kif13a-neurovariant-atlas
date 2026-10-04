@@ -1,0 +1,17 @@
+{
+  "file": "data/interim/evo2/KIF1A_calibration_evo2_w8192.tsv",
+  "sha256": "f0c6bbc988ef72988822ec7799215dd7280df1fdf8364d0059d20d9d2a953fce",
+  "bytes": 17292,
+  "retrieved_utc": "2026-09-16T06:36:22+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "NVIDIA NIM arc/evo2-40b forward (gene-sense)",
+  "urls": [
+    "https://health.api.nvidia.com/v1/biology/arc/evo2-40b/forward",
+    "https://rest.ensembl.org/sequence/region/human"
+  ],
+  "tool": "scripts/evo2_calibration.py",
+  "params": {
+    "window": 8192
+  },
+  "n_records": 171
+}

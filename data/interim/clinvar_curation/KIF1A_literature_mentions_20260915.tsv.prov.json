@@ -1,0 +1,16 @@
+{
+  "file": "data/interim/clinvar_curation/KIF1A_literature_mentions_20260915.tsv",
+  "sha256": "12b93c1792914715542e2882346201a6c993fa0e161c4ee98a81acceef161fd7",
+  "bytes": 783,
+  "retrieved_utc": "2026-09-15T17:37:26+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: Europe PMC full text regex, validated against MANE sequence",
+  "urls": [
+    "PMC8054982",
+    "PMC9371658",
+    "PMC6744892",
+    "PMC13254124"
+  ],
+  "tool": "scripts/kif1a_curation_extras.py",
+  "n_records": 16
+}

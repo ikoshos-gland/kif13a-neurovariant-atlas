@@ -1,0 +1,12 @@
+{
+  "file": "data/interim/imaging_gwas/sumstats_1479_chr6_17509414_18237854.tsv",
+  "sha256": "daedda5fcda4d5d19c4b6c1c773eded2ad6c302a30407ebffabbe02c6c1f11f9",
+  "bytes": 269779,
+  "retrieved_utc": "2026-09-17T19:02:25+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "https://open.win.ox.ac.uk/ukbiobank/big40/release2/stats33k/1479.txt.gz",
+  "note": "BIG40 33k sumstats IDP 1479, chr6:17509414-18237854 penceresi, MAF>=0.001 tam kapsam, akis onekinden (120 MB indirildi)",
+  "window": "6:17509414-18237854",
+  "build": "GRCh37",
+  "n_records": 4945
+}

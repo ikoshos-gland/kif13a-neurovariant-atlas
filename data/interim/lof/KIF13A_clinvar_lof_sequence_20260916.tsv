@@ -1,0 +1,8 @@
+gene	accession	title	molecular_consequence	classification	review_status	stars	traits	hgvsc	hgvsp	protein_pos	last_evaluated
+KIF13A	VCV004323838	NM_022113.6(KIF13A):c.5C>A (p.Ser2Ter)	nonsense			0		c.5C>A	p.Ser2Ter	2	1/01/01 00
+KIF13A	VCV004323825	NM_022113.6(KIF13A):c.160-1G>T	splice acceptor variant			0		c.160-1G>T			1/01/01 00
+KIF13A	VCV004323812	NM_022113.6(KIF13A):c.1266+1G>A	splice donor variant			0		c.1266+1G>A			1/01/01 00
+KIF13A	VCV004323809	NM_022113.6(KIF13A):c.1741G>T (p.Glu581Ter)	nonsense			0		c.1741G>T	p.Glu581Ter	581	1/01/01 00
+KIF13A	VCV004323806	NM_022113.6(KIF13A):c.1787-1G>T	splice acceptor variant			0		c.1787-1G>T			1/01/01 00
+KIF13A	VCV004289694	NM_022113.6(KIF13A):c.2942+4del	splice donor variant			0		c.2942+4del			1/01/01 00
+KIF13A	VCV003114419	NM_022113.6(KIF13A):c.5375T>C (p.Val1792Ala)	missense variant;splice donor variant	Uncertain significance	criteria provided, single submitter	1	not specified	c.5375T>C	p.Val1792Ala	1792	2024/01/31

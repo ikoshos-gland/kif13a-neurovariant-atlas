@@ -1,0 +1,15 @@
+{
+  "file": "data/interim/denovo/denovo_axis_summary_20260916.json",
+  "sha256": "3b66782fab74ced219083279ed719ce184eb282c8682b826bc5e40e277e4ee3d",
+  "bytes": 17517,
+  "retrieved_utc": "2026-09-16T14:35:16+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "Machine-readable summary of the de novo axis",
+  "urls": [
+    "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7116826/supplementaryFiles",
+    "https://java.genemed.tech/admin-api/backend/data/hg38/gene4denovo2_all/geneSymbol/page",
+    "https://denovo-db.gs.washington.edu/denovo-db.non-ssc-samples.variants.tsv.gz",
+    "https://storage.googleapis.com/gcp-public-data--gnomad/release/2.1.1/constraint/gnomad.v2.1.1.lof_metrics.by_gene.txt.bgz"
+  ],
+  "tool": "scripts/denovo_axis.py"
+}

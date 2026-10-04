@@ -1,0 +1,10 @@
+{
+  "file": "data/interim/nsd_pair/NSD1_NSD3_measured_lift_20260917.json",
+  "sha256": "2d6001be47b2ee6f182e3be01aa8342dd59408cca798391f947f9a3c6b5adf78",
+  "bytes": 1136,
+  "retrieved_utc": "2026-09-17T18:56:03+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "tool": "scripts/nsd_pair_calibration.py",
+  "source": "derived: paralog map + curated positives, screen-identical lift definition",
+  "urls": []
+}

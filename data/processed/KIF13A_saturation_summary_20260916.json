@@ -1,0 +1,80 @@
+{
+ "rows": 34295,
+ "protein_len": 1805,
+ "transcript": "ENST00000259711",
+ "kif1a_exact_substitution_match_snv": 68,
+ "kif1a_exact_substitution_match_snv_tier_a": 52,
+ "kif1a_exact_substitution_match_snv_observed": 15,
+ "am_cutoff_calibrated": 0.968,
+ "am_cutoff_generic": 0.564,
+ "am_over_calibrated": 8038,
+ "am_over_calibrated_snv_reachable": 1499,
+ "am_over_generic": 18459,
+ "snv_reachable": 10627,
+ "gnomad_status": {
+  "not_observed": 31680,
+  "observed_confident": 2045,
+  "ac0_filtered": 570
+ },
+ "tiers_all": {
+  "-": 26046,
+  "C": 5165,
+  "B": 1944,
+  "A": 929,
+  "D": 211
+ },
+ "tiers_snv_reachable": {
+  "-": 9018,
+  "B": 403,
+  "A": 234,
+  "D": 110,
+  "C": 862
+ },
+ "checks": [
+  {
+   "check": "K1122E present with AlphaMissense 0.8044",
+   "passed": true,
+   "detail": "AM=0.8044"
+  },
+  {
+   "check": "K1122E has no paralog mapping",
+   "passed": true,
+   "detail": "kif1a_pos=None"
+  },
+  {
+   "check": "K1122E absent from gnomAD",
+   "passed": true,
+   "detail": "not_observed"
+  },
+  {
+   "check": "K1122E carries ClinVar VCV002570672",
+   "passed": true,
+   "detail": "VCV002570672"
+  },
+  {
+   "check": "K1122E reachable as c.3364A>G",
+   "passed": true,
+   "detail": "c.3364A>G"
+  },
+  {
+   "check": "K1122E not structurally assessed (tail)",
+   "passed": true,
+   "detail": ""
+  },
+  {
+   "check": "all 2671 existing candidate rows reproduce their tier",
+   "passed": true,
+   "detail": "0 mismatches, 0 not found"
+  },
+  {
+   "check": "all 52 existing tier A keep tier A",
+   "passed": true,
+   "detail": "52/52"
+  },
+  {
+   "check": "every gnomAD missense protein change is in the table",
+   "passed": true,
+   "detail": "2615 vs 2615"
+  }
+ ]
+}

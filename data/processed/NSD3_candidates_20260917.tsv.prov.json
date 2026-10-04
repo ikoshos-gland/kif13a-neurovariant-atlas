@@ -1,0 +1,18 @@
+{
+  "file": "data/processed/NSD3_candidates_20260917.tsv",
+  "sha256": "b722643793c4006595f146c4244660558a30f3c930e77e64250d4c611ce1735f",
+  "bytes": 233505,
+  "retrieved_utc": "2026-09-17T19:01:54+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: gnomAD v4.1 NSD3 missense + VEP scores + NSD1-calibrated threshold + NSD1->NSD3 paralog map",
+  "urls": [
+    "https://gnomad.broadinstitute.org/api",
+    "https://rest.ensembl.org/vep/human/region"
+  ],
+  "tool": "scripts/nsd_pair_calibration.py",
+  "params": {
+    "am_cutoff": 0.9732,
+    "am_generic": 0.564
+  },
+  "n_records": 1336
+}

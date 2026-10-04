@@ -1,0 +1,5 @@
+kaynak	id	study	fenotip	build_kaynak	grch37	grch38	tablo_consequence	vep_consequence	hgvsc_mane	hgvsp_mane	transkript	protein_pos_MANE	domain	sinif
+Kaplanis 2020	98963	GDX	gelisimsel bozukluk (DD)	GRCh37	6:17873633A>T	chr6:17873402A>T	missense_variant	missense_variant	ENST00000259711.11:c.195T>A	ENSP00000259711.6:p.Asp65Glu	ENST00000259711.11 (MANE, NM_022113.6)	65	motor	missense
+Kaplanis 2020	DDD13k.09819	DDD	gelisimsel bozukluk (DD)	GRCh37	6:17788092G>A	chr6:17787861G>A	synonymous_variant				ENST00000259711.11 (MANE, NM_022113.6)			sinonim
+Kaplanis 2020	DDD13k.09076	DDD	gelisimsel bozukluk (DD)	GRCh37	6:17764668G>A	chr6:17764437G>A	synonymous_variant	synonymous_variant	ENST00000259711.11:c.5091C>T	ENSP00000259711.6:p.Gly1697=	ENST00000259711.11 (MANE, NM_022113.6)	1697	kuyruk	sinonim
+Kaplanis 2020	DDD13k.07429	DDD	gelisimsel bozukluk (DD)	GRCh37	6:17834250A>G	chr6:17834019A>G	missense_variant	missense_variant	ENST00000259711.11:c.1208T>C	ENSP00000259711.6:p.Ile403Thr	ENST00000259711.11 (MANE, NM_022113.6)	403	CC1	missense

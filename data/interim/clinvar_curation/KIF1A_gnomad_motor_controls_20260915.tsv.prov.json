@@ -1,0 +1,14 @@
+{
+  "file": "data/interim/clinvar_curation/KIF1A_gnomad_motor_controls_20260915.tsv",
+  "sha256": "d2619c4e3828a415193e8471085e0b87e65c2392aa28fa94c47bcc2e131b9945",
+  "bytes": 64947,
+  "retrieved_utc": "2026-09-15T17:37:23+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "derived: gnomAD v4.1 MANE transcript variants + AlphaFold DB AlphaMissense",
+  "urls": [],
+  "tool": "scripts/kif1a_curation_extras.py",
+  "params": {
+    "motor_end": 365
+  },
+  "n_records": 348
+}

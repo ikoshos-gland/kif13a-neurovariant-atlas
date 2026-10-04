@@ -1,0 +1,1178 @@
+[
+ [
+  6.0000000000000005e-155,
+  "rs551155433",
+  18158332,
+  "level of thiopurine S-methyltransferase in blood"
+ ],
+ [
+  3e-101,
+  "rs200868187",
+  17602639,
+  "psoriasis"
+ ],
+ [
+  3e-99,
+  "rs200868187",
+  17602639,
+  "psoriasis"
+ ],
+ [
+  4e-98,
+  "rs200868187",
+  17602639,
+  "psoriasis vulgaris"
+ ],
+ [
+  4.9999999999999995e-98,
+  "rs200868187",
+  17602639,
+  "psoriasis"
+ ],
+ [
+  4e-95,
+  "rs200868187",
+  17602639,
+  "psoriasis"
+ ],
+ [
+  1e-94,
+  "rs200868187",
+  17602639,
+  "psoriasis vulgaris"
+ ],
+ [
+  1e-89,
+  "rs6910196",
+  18102276,
+  "level of thiopurine S-methyltransferase in blood"
+ ],
+ [
+  1e-72,
+  "rs73726531",
+  18102797,
+  "thiopurine methyltransferase activity measurement"
+ ],
+ [
+  9e-61,
+  "rs1142345",
+  18130687,
+  "trait in response to mercaptopurine;thiopurine methyltransferase activity measurement"
+ ],
+ [
+  1e-60,
+  "rs187686404",
+  18170919,
+  "level of thiopurine S-methyltransferase in blood"
+ ],
+ [
+  2e-58,
+  "rs572244808",
+  18110933,
+  "level of thiopurine S-methyltransferase in blood"
+ ],
+ [
+  9e-57,
+  "rs1800462",
+  18143724,
+  "level of thiopurine S-methyltransferase in blood"
+ ],
+ [
+  5.9999999999999996e-55,
+  "rs6927877",
+  17647415,
+  "body height"
+ ],
+ [
+  4e-54,
+  "rs10949481",
+  18120798,
+  "aging"
+ ],
+ [
+  6e-50,
+  "rs138317895",
+  18131584,
+  "level of thiopurine S-methyltransferase in blood"
+ ],
+ [
+  8e-47,
+  "rs34206659",
+  17541093,
+  "protein measurement"
+ ],
+ [
+  2e-46,
+  "rs34969716",
+  18209878,
+  "atrial fibrillation"
+ ],
+ [
+  4e-42,
+  "rs34969716",
+  18209878,
+  "atrial fibrillation"
+ ],
+ [
+  5e-40,
+  "rs200868187",
+  17602639,
+  "psoriatic arthritis"
+ ],
+ [
+  2e-39,
+  "rs34969716",
+  18209878,
+  "QT interval"
+ ],
+ [
+  2e-39,
+  "rs34969716",
+  18209878,
+  "atrial fibrillation"
+ ],
+ [
+  5.999999999999999e-39,
+  "rs34969716",
+  18209878,
+  "JT interval"
+ ],
+ [
+  2e-37,
+  "rs34969716",
+  18209878,
+  "JT interval"
+ ],
+ [
+  2e-37,
+  "rs34969716",
+  18209878,
+  "QT interval"
+ ],
+ [
+  3e-35,
+  "rs200868187",
+  17602639,
+  "psoriatic arthritis"
+ ],
+ [
+  1e-33,
+  "rs10949482",
+  18121083,
+  "trait in response to mercaptopurine;thiopurine metabolite measurement"
+ ],
+ [
+  5e-32,
+  "rs10949483",
+  18122275,
+  "aging"
+ ],
+ [
+  1e-28,
+  "rs9396793",
+  17705013,
+  "intrahepatic cholestasis of pregnancy"
+ ],
+ [
+  3e-28,
+  "rs200868187",
+  17602639,
+  "eosinophil count"
+ ],
+ [
+  3e-28,
+  "rs200868187",
+  17602639,
+  "monocyte count"
+ ],
+ [
+  6e-27,
+  "rs214589",
+  18209452,
+  "level of thiopurine S-methyltransferase in blood"
+ ],
+ [
+  6e-26,
+  "rs76244256",
+  18140332,
+  "epigenetic status;aging"
+ ],
+ [
+  2e-25,
+  "rs200868187",
+  17602639,
+  "eosinophil count"
+ ],
+ [
+  3.0000000000000002e-25,
+  "rs34969716",
+  18209878,
+  "atrial fibrillation"
+ ],
+ [
+  4e-25,
+  "rs143093668",
+  18114015,
+  "aging;epigenetic status"
+ ],
+ [
+  6.0000000000000005e-25,
+  "rs34969716",
+  18209878,
+  "atrial fibrillation"
+ ],
+ [
+  7e-23,
+  "rs73724422",
+  18123999,
+  "aging"
+ ],
+ [
+  1e-22,
+  "rs35080903",
+  18192831,
+  "level of thiopurine S-methyltransferase in blood"
+ ],
+ [
+  4e-22,
+  "rs34969716",
+  18209878,
+  "atrial fibrillation"
+ ],
+ [
+  5.0000000000000005e-22,
+  "rs200868187",
+  17602639,
+  "skin disorder"
+ ],
+ [
+  1e-21,
+  "rs75407001",
+  18120062,
+  "aging"
+ ],
+ [
+  1e-20,
+  "rs10949482",
+  18121083,
+  "trait in response to mercaptopurine;thiopurine metabolite measurement"
+ ],
+ [
+  2.9999999999999997e-20,
+  "rs200868187",
+  17602639,
+  "eosinophil count"
+ ],
+ [
+  4e-20,
+  "rs200868187",
+  17602639,
+  "skin disorder"
+ ],
+ [
+  4e-20,
+  "rs562345710",
+  17886286,
+  "level of thiopurine S-methyltransferase in blood"
+ ],
+ [
+  2e-19,
+  "rs200868187",
+  17602639,
+  "eosinophil count"
+ ],
+ [
+  2e-19,
+  "rs34969716",
+  18209878,
+  "atrial fibrillation"
+ ],
+ [
+  2e-19,
+  "rs34969716",
+  18209878,
+  "atrial fibrillation"
+ ],
+ [
+  2e-18,
+  "rs34969716",
+  18209878,
+  "atrial fibrillation"
+ ],
+ [
+  2e-18,
+  "rs34969716",
+  18209878,
+  "atrial fibrillation;atrial flutter"
+ ],
+ [
+  3.0000000000000002e-18,
+  "rs200868187",
+  17602639,
+  "leukocyte quantity"
+ ],
+ [
+  9.000000000000001e-18,
+  "rs187775383",
+  18057814,
+  "glioma pathogenesis-related protein 1 measurement"
+ ],
+ [
+  1e-17,
+  "rs200868187",
+  17602639,
+  "platelet volume"
+ ],
+ [
+  1e-17,
+  "rs4294009",
+  18105845,
+  "aging"
+ ],
+ [
+  1e-17,
+  "rs6907850",
+  18101663,
+  "aging"
+ ],
+ [
+  1e-17,
+  "rs78631584",
+  18127970,
+  "aging"
+ ],
+ [
+  4e-17,
+  "rs3836949",
+  17616283,
+  "Interferon gamma receptor 2 measurement"
+ ],
+ [
+  9.000000000000001e-17,
+  "rs9396784",
+  17596908,
+  "liver disorder"
+ ],
+ [
+  1e-16,
+  "rs200868187",
+  17602639,
+  "platelet volume"
+ ],
+ [
+  2e-16,
+  "rs200868187",
+  17602639,
+  "monocyte count"
+ ],
+ [
+  4e-16,
+  "rs1142345",
+  18130687,
+  "thiopurine methyltransferase activity measurement"
+ ],
+ [
+  1e-15,
+  "rs201170640",
+  18152589,
+  "protein measurement"
+ ],
+ [
+  2e-15,
+  "rs200868187",
+  17602639,
+  "skin disorder;drug use measurement"
+ ],
+ [
+  2e-15,
+  "rs7744541",
+  18104469,
+  "epigenetic status;aging"
+ ],
+ [
+  4e-15,
+  "rs200868187",
+  17602639,
+  "monocyte count"
+ ],
+ [
+  5.000000000000001e-15,
+  "rs112683346",
+  17951438,
+  "scavenger receptor class A member 5 measurement"
+ ],
+ [
+  5.000000000000001e-15,
+  "rs200868187",
+  17602639,
+  "eosinophil count"
+ ],
+ [
+  6.0000000000000005e-15,
+  "rs2228375",
+  17675015,
+  "gallstones"
+ ],
+ [
+  8e-15,
+  "rs200868187",
+  17602639,
+  "skin disorder;drug use measurement"
+ ],
+ [
+  2e-14,
+  "rs200868187",
+  17602639,
+  "monocyte count"
+ ],
+ [
+  4e-14,
+  "rs200868187",
+  17602639,
+  "macular degeneration"
+ ],
+ [
+  5e-14,
+  "rs200868187",
+  17602639,
+  "erythematosquamous dermatosis"
+ ],
+ [
+  5e-14,
+  "rs748954374",
+  17833856,
+  "level of thiopurine S-methyltransferase in blood"
+ ],
+ [
+  7e-14,
+  "rs200868187",
+  17602639,
+  "basophil count"
+ ],
+ [
+  1e-13,
+  "rs570304138",
+  17951439,
+  "amount of scavenger receptor class A member 5 (human) in blood"
+ ],
+ [
+  2e-13,
+  "rs12206031",
+  17707522,
+  "body height"
+ ],
+ [
+  2e-13,
+  "rs200682251",
+  17722371,
+  "level of thiopurine S-methyltransferase in blood"
+ ],
+ [
+  2e-13,
+  "rs200868187",
+  17602639,
+  "eosinophil count"
+ ],
+ [
+  2e-13,
+  "rs200868187",
+  17602639,
+  "platelet volume"
+ ],
+ [
+  2e-13,
+  "rs6915893",
+  18110325,
+  "aging;epigenetic status"
+ ],
+ [
+  2e-13,
+  "rs77032929",
+  18152062,
+  "protein measurement"
+ ],
+ [
+  3.0000000000000003e-13,
+  "rs200868187",
+  17602639,
+  "leukocyte quantity"
+ ],
+ [
+  5e-13,
+  "rs200868187",
+  17602639,
+  "macular degeneration"
+ ],
+ [
+  5e-13,
+  "rs200868187",
+  17602639,
+  "seborrheic dermatitis"
+ ],
+ [
+  7e-13,
+  "rs34969716",
+  18209878,
+  "atrial fibrillation"
+ ],
+ [
+  8e-13,
+  "rs200868187",
+  17602639,
+  "neutrophil count"
+ ],
+ [
+  1e-12,
+  "rs1142345",
+  18130687,
+  "aging"
+ ],
+ [
+  1e-12,
+  "rs200868187",
+  17602639,
+  "neutrophil count"
+ ],
+ [
+  1e-12,
+  "rs34969716",
+  18209878,
+  "atrial fibrillation"
+ ],
+ [
+  2e-12,
+  "rs536447969",
+  17807594,
+  "amount of scavenger receptor class A member 5 (human) in blood"
+ ],
+ [
+  3e-12,
+  "rs561936617",
+  18098957,
+  "level of thiopurine S-methyltransferase in blood"
+ ],
+ [
+  4e-12,
+  "rs187976596",
+  17745784,
+  "thiopurine methyltransferase activity measurement"
+ ],
+ [
+  4e-12,
+  "rs34969716",
+  18209878,
+  "atrial fibrillation;atrial flutter"
+ ],
+ [
+  1e-11,
+  "rs200868187",
+  17602639,
+  "basophil measurement"
+ ],
+ [
+  2e-11,
+  "rs1014146",
+  17912846,
+  "FEV/FVC ratio"
+ ],
+ [
+  2e-11,
+  "rs200868187",
+  17602639,
+  "eosinophil count"
+ ],
+ [
+  1e-10,
+  "rs214502",
+  18227315,
+  "PR interval"
+ ],
+ [
+  5e-10,
+  "rs214502",
+  18227315,
+  "PR interval"
+ ],
+ [
+  6e-10,
+  "rs6942390",
+  17977018,
+  "aortic stenosis"
+ ],
+ [
+  8e-10,
+  "rs79050301",
+  18151959,
+  "trait in response to mercaptopurine;thiopurine metabolite measurement"
+ ],
+ [
+  1e-09,
+  "rs75428660",
+  17885814,
+  "brain attribute"
+ ],
+ [
+  2e-09,
+  "rs62398171",
+  17898894,
+  "chronic obstructive pulmonary disease"
+ ],
+ [
+  3.0000000000000004e-09,
+  "rs2842936",
+  18140019,
+  "body height"
+ ],
+ [
+  4e-09,
+  "rs76091407",
+  18020202,
+  "white matter microstructure measurement"
+ ],
+ [
+  5e-09,
+  "rs11969064",
+  18104864,
+  "myelosuppression;trait in response to thiopurine"
+ ],
+ [
+  5e-09,
+  "rs150772783",
+  18117724,
+  "phenylalanine measurement"
+ ],
+ [
+  5e-09,
+  "rs75428660",
+  17885814,
+  "cortical thickness"
+ ],
+ [
+  7.000000000000001e-09,
+  "rs114812432",
+  17657801,
+  "bone tissue density;urate measurement"
+ ],
+ [
+  8e-09,
+  "rs9383311",
+  17686881,
+  "neutrophil measurement"
+ ],
+ [
+  9.000000000000001e-09,
+  "rs16879766",
+  17511396,
+  "tobacco smoke exposure measurement;gut microbiome measurement"
+ ],
+ [
+  1e-08,
+  "rs10949436",
+  17679476,
+  "hematological measurement"
+ ],
+ [
+  1e-08,
+  "rs4716167",
+  17627359,
+  "body height"
+ ],
+ [
+  2e-08,
+  "rs113832183",
+  18233908,
+  "vital capacity"
+ ],
+ [
+  2e-08,
+  "rs188911996",
+  18173684,
+  "age at onset;Alzheimer disease"
+ ],
+ [
+  2e-08,
+  "rs75428660",
+  17885814,
+  "cortical thickness"
+ ],
+ [
+  3.0000000000000004e-08,
+  "rs34969716",
+  18209878,
+  "atrial fibrillation"
+ ],
+ [
+  3.0000000000000004e-08,
+  "rs3734232",
+  17780910,
+  "body height"
+ ],
+ [
+  3.0000000000000004e-08,
+  "rs75964046",
+  17926093,
+  "BMI-adjusted waist circumference"
+ ],
+ [
+  3.0000000000000004e-08,
+  "rs76883736",
+  18032596,
+  "bone tissue density"
+ ],
+ [
+  4e-08,
+  "rs147456729",
+  18031075,
+  "bone tissue density"
+ ],
+ [
+  4e-08,
+  "rs2228375",
+  17675015,
+  "cholelithiasis"
+ ],
+ [
+  5e-08,
+  "rs11344808",
+  17720053,
+  "serum gamma-glutamyl transferase measurement"
+ ],
+ [
+  5e-08,
+  "rs115719480",
+  18024327,
+  "bone tissue density"
+ ],
+ [
+  5e-08,
+  "rs77550061",
+  18033238,
+  "bone tissue density"
+ ],
+ [
+  2e-07,
+  "rs185617584",
+  17793536,
+  "connective tissue neoplasm"
+ ],
+ [
+  2e-07,
+  "rs4712314",
+  17833813,
+  "progressive supranuclear palsy"
+ ],
+ [
+  2e-07,
+  "rs79642714",
+  17605974,
+  "pseudotumor cerebri"
+ ],
+ [
+  3e-07,
+  "rs10949435",
+  17630059,
+  "acute myeloid leukemia"
+ ],
+ [
+  3e-07,
+  "rs2274136",
+  17632830,
+  "acute myeloid leukemia"
+ ],
+ [
+  3e-07,
+  "rs4716165",
+  17618292,
+  "acute myeloid leukemia"
+ ],
+ [
+  3e-07,
+  "rs4716167",
+  17627359,
+  "acute myeloid leukemia"
+ ],
+ [
+  3e-07,
+  "rs6906499",
+  17665248,
+  "acute myeloid leukemia"
+ ],
+ [
+  3e-07,
+  "rs9350055",
+  17670208,
+  "acute myeloid leukemia"
+ ],
+ [
+  3e-07,
+  "rs9383307",
+  17656802,
+  "acute myeloid leukemia"
+ ],
+ [
+  3e-07,
+  "rs9396787",
+  17670268,
+  "acute myeloid leukemia"
+ ],
+ [
+  4e-07,
+  "rs7760870",
+  17522755,
+  "reaction time measurement"
+ ],
+ [
+  6e-07,
+  "rs1006066",
+  17679884,
+  "acute myeloid leukemia"
+ ],
+ [
+  6e-07,
+  "rs10949436",
+  17679476,
+  "acute myeloid leukemia"
+ ],
+ [
+  6e-07,
+  "rs10949437",
+  17711230,
+  "acute myeloid leukemia"
+ ],
+ [
+  6e-07,
+  "rs11753865",
+  17682491,
+  "acute myeloid leukemia"
+ ],
+ [
+  6e-07,
+  "rs12199222",
+  17699091,
+  "acute myeloid leukemia"
+ ],
+ [
+  6e-07,
+  "rs16879902",
+  17688462,
+  "acute myeloid leukemia"
+ ],
+ [
+  6e-07,
+  "rs6459562",
+  17710444,
+  "acute myeloid leukemia"
+ ],
+ [
+  6e-07,
+  "rs6906857",
+  17719708,
+  "acute myeloid leukemia"
+ ],
+ [
+  7e-07,
+  "rs12199222",
+  17699091,
+  "body height"
+ ],
+ [
+  7e-07,
+  "rs3476",
+  18224942,
+  "cancer"
+ ],
+ [
+  7e-07,
+  "rs5029614",
+  18100143,
+  "cancer"
+ ],
+ [
+  7e-07,
+  "rs72839123",
+  17896874,
+  "colorectal cancer;coffee consumption measurement"
+ ],
+ [
+  1e-06,
+  "rs3476",
+  18224942,
+  "lipid measurement"
+ ],
+ [
+  1e-06,
+  "rs3777710",
+  17610858,
+  "body height"
+ ],
+ [
+  1e-06,
+  "rs541460675",
+  18121442,
+  "psoriasis"
+ ],
+ [
+  2e-06,
+  "rs1142345",
+  18130687,
+  "serum alanine aminotransferase amount;aspartate aminotransferase measurement"
+ ],
+ [
+  2e-06,
+  "rs1473070452",
+  18139165,
+  "psoriasis"
+ ],
+ [
+  2e-06,
+  "rs572301451",
+  17729143,
+  "psoriasis"
+ ],
+ [
+  3e-06,
+  "rs12215418",
+  18149914,
+  "susceptibility to common cold measurement"
+ ],
+ [
+  3e-06,
+  "rs142085785",
+  17547630,
+  "autoimmune thrombocytopenic purpura"
+ ],
+ [
+  3e-06,
+  "rs145578678",
+  18229415,
+  "cognitive decline measurement"
+ ],
+ [
+  3e-06,
+  "rs146343288",
+  17689625,
+  "ovarian carcinoma"
+ ],
+ [
+  3e-06,
+  "rs2274136",
+  17632830,
+  "low density lipoprotein cholesterol measurement"
+ ],
+ [
+  4e-06,
+  "rs9371012",
+  17738146,
+  "dementia"
+ ],
+ [
+  4e-06,
+  "rs9477551",
+  17890057,
+  "cardiac troponin T measurement"
+ ],
+ [
+  4.9999999999999996e-06,
+  "rs10456809",
+  17813594,
+  "prostate carcinoma"
+ ],
+ [
+  4.9999999999999996e-06,
+  "rs2274136",
+  17632830,
+  "total cholesterol measurement"
+ ],
+ [
+  6e-06,
+  "rs141229558",
+  18117375,
+  "susceptibility to rubella infection measurement"
+ ],
+ [
+  7e-06,
+  "rs1171555460",
+  17888267,
+  "psoriasis"
+ ],
+ [
+  7e-06,
+  "rs12212501",
+  17760134,
+  "serum selenium amount"
+ ],
+ [
+  8e-06,
+  "rs1003510",
+  17984421,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs12192759",
+  17903857,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs12199169",
+  17904777,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs1983573",
+  17921391,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs2064186",
+  17949122,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs2067849",
+  17906098,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs2328175",
+  17951119,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs2328176",
+  17974403,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs2744057",
+  17973737,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs2820221",
+  18003257,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs2876466",
+  17951725,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs4712320",
+  17935097,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs4712321",
+  17935187,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs4716200",
+  17910094,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs6459582",
+  17967855,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs6937334",
+  17935773,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs72839144",
+  18011221,
+  "colorectal cancer;coffee consumption measurement"
+ ],
+ [
+  8e-06,
+  "rs760848",
+  18005358,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs7752412",
+  17914573,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs7757011",
+  17928258,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs7765428",
+  17925195,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs7767446",
+  17920579,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs9358146",
+  18008006,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs9396818",
+  18008471,
+  "acute myeloid leukemia"
+ ],
+ [
+  8e-06,
+  "rs9396819",
+  18008549,
+  "acute myeloid leukemia"
+ ],
+ [
+  9e-06,
+  "rs185342497",
+  17786852,
+  "blood nickel amount"
+ ],
+ [
+  9e-06,
+  "rs6459573",
+  17799535,
+  "memory performance"
+ ],
+ [
+  9e-06,
+  "rs9465045",
+  17534788,
+  "neuroblastoma"
+ ],
+ [
+  1e-05,
+  "rs7747769",
+  17920558,
+  "COVID-19"
+ ]
+]

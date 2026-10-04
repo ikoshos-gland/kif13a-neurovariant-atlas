@@ -1,0 +1,16 @@
+{
+  "file": "data/interim/nsd_pair/NSD1_clinvar_20260917.tsv",
+  "sha256": "87b8564d3a1eda9f9c8279b27dadb437dfa6c14cbaed0c21ad84a47f92b277f6",
+  "bytes": 796192,
+  "retrieved_utc": "2026-09-17T18:36:43+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "tool": "scripts/nsd_pair_calibration.py",
+  "source": "NCBI E-utilities ClinVar esearch+esummary (single_gene)",
+  "urls": [
+    "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
+  ],
+  "params": {
+    "gene": "NSD1"
+  },
+  "n_records": 2694
+}

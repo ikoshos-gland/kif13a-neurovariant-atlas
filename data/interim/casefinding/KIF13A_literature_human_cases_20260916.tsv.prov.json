@@ -1,0 +1,13 @@
+{
+  "file": "data/interim/casefinding/KIF13A_literature_human_cases_20260916.tsv",
+  "sha256": "32ec083c6a8241d8c2fae02bb814dc7203a7ed1d6887d8833630b912c86eb25c",
+  "bytes": 2632,
+  "retrieved_utc": "2026-09-16T06:55:42+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "note": "Published human observations involving KIF13A, plus the negative result for our tier A protein changes.",
+  "source": "live web/API queries by Claude research session",
+  "tool": "curl + Europe PMC REST + NCBI E-utilities + ClinGen/G2P/PanelApp/SysNDD APIs",
+  "accessed": "2026-09-16",
+  "gene": "KIF13A (HGNC:14566, ENSG00000137177, MANE NM_022113.6 / ENST00000259711.11)",
+  "n_records": 4
+}
