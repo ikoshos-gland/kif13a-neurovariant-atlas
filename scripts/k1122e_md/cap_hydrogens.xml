@@ -1,0 +1,11 @@
+<Residues>
+  <!-- OpenMM's generic NME definition uses a methyl atom named C.
+       The Amber ff14SB NME template uses CH3 and HH31/HH32/HH33 instead.
+       Define that same capped chemistry explicitly before adding hydrogens. -->
+  <Residue name="NME">
+    <H name="H" parent="N"/>
+    <H name="HH31" parent="CH3"/>
+    <H name="HH32" parent="CH3"/>
+    <H name="HH33" parent="CH3"/>
+  </Residue>
+</Residues>

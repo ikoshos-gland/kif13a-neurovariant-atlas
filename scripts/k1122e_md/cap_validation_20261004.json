@@ -1,0 +1,729 @@
+{
+  "openmm_version": "8.3.1",
+  "source_sha256": "493338d05275a27b59aa6bd4815e1ecaf826aaced3b3c143ef60b53b20766898",
+  "cap_definition_sha256": "1e970dd64c0114cc82a352ad66fc24bfab222a1cdc4b0c51f10c2818cda8e2a2",
+  "config_sha256": "493e4de8d7c80f45ca3225aa58985bc4849e4cb84fd15ac86c38c3f0bd2430cc",
+  "cases": [
+    {
+      "task_id": "primary_WT_r01",
+      "boundary": "primary",
+      "variant": "WT",
+      "atoms": 932,
+      "initial_potential_kj_mol": -12904.681800355975,
+      "caps": {
+        "ACE": [
+          "C",
+          "CH3",
+          "H1",
+          "H2",
+          "H3",
+          "O"
+        ],
+        "NME": [
+          "CH3",
+          "H",
+          "HH31",
+          "HH32",
+          "HH33",
+          "N"
+        ]
+      },
+      "cap_bond_checks": [
+        {
+          "atoms": [
+            "ACE:C",
+            "ASN:N"
+          ],
+          "distance_nm": 0.13314935223274646,
+          "accepted_nm": [
+            0.12,
+            0.15
+          ]
+        },
+        {
+          "atoms": [
+            "ALA:C",
+            "NME:N"
+          ],
+          "distance_nm": 0.13424175952362943,
+          "accepted_nm": [
+            0.12,
+            0.15
+          ]
+        },
+        {
+          "atoms": [
+            "ACE:CH3",
+            "ACE:C"
+          ],
+          "distance_nm": 0.15375415441541718,
+          "accepted_nm": [
+            0.14,
+            0.17
+          ]
+        },
+        {
+          "atoms": [
+            "NME:N",
+            "NME:CH3"
+          ],
+          "distance_nm": 0.14822192820227395,
+          "accepted_nm": [
+            0.13,
+            0.17
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "task_id": "primary_K1122E_r01",
+      "boundary": "primary",
+      "variant": "K1122E",
+      "atoms": 925,
+      "initial_potential_kj_mol": -12470.142749958362,
+      "caps": {
+        "ACE": [
+          "C",
+          "CH3",
+          "H1",
+          "H2",
+          "H3",
+          "O"
+        ],
+        "NME": [
+          "CH3",
+          "H",
+          "HH31",
+          "HH32",
+          "HH33",
+          "N"
+        ]
+      },
+      "cap_bond_checks": [
+        {
+          "atoms": [
+            "ACE:C",
+            "ASN:N"
+          ],
+          "distance_nm": 0.13314935223274646,
+          "accepted_nm": [
+            0.12,
+            0.15
+          ]
+        },
+        {
+          "atoms": [
+            "ALA:C",
+            "NME:N"
+          ],
+          "distance_nm": 0.13424175952362943,
+          "accepted_nm": [
+            0.12,
+            0.15
+          ]
+        },
+        {
+          "atoms": [
+            "ACE:CH3",
+            "ACE:C"
+          ],
+          "distance_nm": 0.15375415441541718,
+          "accepted_nm": [
+            0.14,
+            0.17
+          ]
+        },
+        {
+          "atoms": [
+            "NME:N",
+            "NME:CH3"
+          ],
+          "distance_nm": 0.14822192820227395,
+          "accepted_nm": [
+            0.13,
+            0.17
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "task_id": "primary_K1122R_r01",
+      "boundary": "primary",
+      "variant": "K1122R",
+      "atoms": 934,
+      "initial_potential_kj_mol": -10551.00270662065,
+      "caps": {
+        "ACE": [
+          "C",
+          "CH3",
+          "H1",
+          "H2",
+          "H3",
+          "O"
+        ],
+        "NME": [
+          "CH3",
+          "H",
+          "HH31",
+          "HH32",
+          "HH33",
+          "N"
+        ]
+      },
+      "cap_bond_checks": [
+        {
+          "atoms": [
+            "ACE:C",
+            "ASN:N"
+          ],
+          "distance_nm": 0.13314935223274646,
+          "accepted_nm": [
+            0.12,
+            0.15
+          ]
+        },
+        {
+          "atoms": [
+            "ALA:C",
+            "NME:N"
+          ],
+          "distance_nm": 0.13424175952362943,
+          "accepted_nm": [
+            0.12,
+            0.15
+          ]
+        },
+        {
+          "atoms": [
+            "ACE:CH3",
+            "ACE:C"
+          ],
+          "distance_nm": 0.15375415441541718,
+          "accepted_nm": [
+            0.14,
+            0.17
+          ]
+        },
+        {
+          "atoms": [
+            "NME:N",
+            "NME:CH3"
+          ],
+          "distance_nm": 0.14822192820227395,
+          "accepted_nm": [
+            0.13,
+            0.17
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "task_id": "primary_K1104E_r01",
+      "boundary": "primary",
+      "variant": "K1104E",
+      "atoms": 925,
+      "initial_potential_kj_mol": -12805.794625288087,
+      "caps": {
+        "ACE": [
+          "C",
+          "CH3",
+          "H1",
+          "H2",
+          "H3",
+          "O"
+        ],
+        "NME": [
+          "CH3",
+          "H",
+          "HH31",
+          "HH32",
+          "HH33",
+          "N"
+        ]
+      },
+      "cap_bond_checks": [
+        {
+          "atoms": [
+            "ACE:C",
+            "ASN:N"
+          ],
+          "distance_nm": 0.13314935223274646,
+          "accepted_nm": [
+            0.12,
+            0.15
+          ]
+        },
+        {
+          "atoms": [
+            "ALA:C",
+            "NME:N"
+          ],
+          "distance_nm": 0.13424175952362943,
+          "accepted_nm": [
+            0.12,
+            0.15
+          ]
+        },
+        {
+          "atoms": [
+            "ACE:CH3",
+            "ACE:C"
+          ],
+          "distance_nm": 0.15375415441541718,
+          "accepted_nm": [
+            0.14,
+            0.17
+          ]
+        },
+        {
+          "atoms": [
+            "NME:N",
+            "NME:CH3"
+          ],
+          "distance_nm": 0.14822192820227395,
+          "accepted_nm": [
+            0.13,
+            0.17
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "task_id": "primary_E1128K_r01",
+      "boundary": "primary",
+      "variant": "E1128K",
+      "atoms": 939,
+      "initial_potential_kj_mol": -12591.6218687152,
+      "caps": {
+        "ACE": [
+          "C",
+          "CH3",
+          "H1",
+          "H2",
+          "H3",
+          "O"
+        ],
+        "NME": [
+          "CH3",
+          "H",
+          "HH31",
+          "HH32",
+          "HH33",
+          "N"
+        ]
+      },
+      "cap_bond_checks": [
+        {
+          "atoms": [
+            "ACE:C",
+            "ASN:N"
+          ],
+          "distance_nm": 0.13314935223274646,
+          "accepted_nm": [
+            0.12,
+            0.15
+          ]
+        },
+        {
+          "atoms": [
+            "ALA:C",
+            "NME:N"
+          ],
+          "distance_nm": 0.13424175952362943,
+          "accepted_nm": [
+            0.12,
+            0.15
+          ]
+        },
+        {
+          "atoms": [
+            "ACE:CH3",
+            "ACE:C"
+          ],
+          "distance_nm": 0.15375415441541718,
+          "accepted_nm": [
+            0.14,
+            0.17
+          ]
+        },
+        {
+          "atoms": [
+            "NME:N",
+            "NME:CH3"
+          ],
+          "distance_nm": 0.14822192820227395,
+          "accepted_nm": [
+            0.13,
+            0.17
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "task_id": "padded_WT_r01",
+      "boundary": "padded",
+      "variant": "WT",
+      "atoms": 1161,
+      "initial_potential_kj_mol": -14595.533864539608,
+      "caps": {
+        "ACE": [
+          "C",
+          "CH3",
+          "H1",
+          "H2",
+          "H3",
+          "O"
+        ],
+        "NME": [
+          "CH3",
+          "H",
+          "HH31",
+          "HH32",
+          "HH33",
+          "N"
+        ]
+      },
+      "cap_bond_checks": [
+        {
+          "atoms": [
+            "ACE:C",
+            "ASP:N"
+          ],
+          "distance_nm": 0.13281968980539008,
+          "accepted_nm": [
+            0.12,
+            0.15
+          ]
+        },
+        {
+          "atoms": [
+            "SER:C",
+            "NME:N"
+          ],
+          "distance_nm": 0.13378830292667565,
+          "accepted_nm": [
+            0.12,
+            0.15
+          ]
+        },
+        {
+          "atoms": [
+            "ACE:CH3",
+            "ACE:C"
+          ],
+          "distance_nm": 0.15220331796646228,
+          "accepted_nm": [
+            0.14,
+            0.17
+          ]
+        },
+        {
+          "atoms": [
+            "NME:N",
+            "NME:CH3"
+          ],
+          "distance_nm": 0.1473490413949139,
+          "accepted_nm": [
+            0.13,
+            0.17
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "task_id": "padded_K1122E_r01",
+      "boundary": "padded",
+      "variant": "K1122E",
+      "atoms": 1154,
+      "initial_potential_kj_mol": -14056.776412190502,
+      "caps": {
+        "ACE": [
+          "C",
+          "CH3",
+          "H1",
+          "H2",
+          "H3",
+          "O"
+        ],
+        "NME": [
+          "CH3",
+          "H",
+          "HH31",
+          "HH32",
+          "HH33",
+          "N"
+        ]
+      },
+      "cap_bond_checks": [
+        {
+          "atoms": [
+            "ACE:C",
+            "ASP:N"
+          ],
+          "distance_nm": 0.13281968980539008,
+          "accepted_nm": [
+            0.12,
+            0.15
+          ]
+        },
+        {
+          "atoms": [
+            "SER:C",
+            "NME:N"
+          ],
+          "distance_nm": 0.13378830292667565,
+          "accepted_nm": [
+            0.12,
+            0.15
+          ]
+        },
+        {
+          "atoms": [
+            "ACE:CH3",
+            "ACE:C"
+          ],
+          "distance_nm": 0.15220331796646228,
+          "accepted_nm": [
+            0.14,
+            0.17
+          ]
+        },
+        {
+          "atoms": [
+            "NME:N",
+            "NME:CH3"
+          ],
+          "distance_nm": 0.1473490413949139,
+          "accepted_nm": [
+            0.13,
+            0.17
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "task_id": "padded_K1122R_r01",
+      "boundary": "padded",
+      "variant": "K1122R",
+      "atoms": 1163,
+      "initial_potential_kj_mol": -12147.296676552436,
+      "caps": {
+        "ACE": [
+          "C",
+          "CH3",
+          "H1",
+          "H2",
+          "H3",
+          "O"
+        ],
+        "NME": [
+          "CH3",
+          "H",
+          "HH31",
+          "HH32",
+          "HH33",
+          "N"
+        ]
+      },
+      "cap_bond_checks": [
+        {
+          "atoms": [
+            "ACE:C",
+            "ASP:N"
+          ],
+          "distance_nm": 0.13281968980539008,
+          "accepted_nm": [
+            0.12,
+            0.15
+          ]
+        },
+        {
+          "atoms": [
+            "SER:C",
+            "NME:N"
+          ],
+          "distance_nm": 0.13378830292667565,
+          "accepted_nm": [
+            0.12,
+            0.15
+          ]
+        },
+        {
+          "atoms": [
+            "ACE:CH3",
+            "ACE:C"
+          ],
+          "distance_nm": 0.15220331796646228,
+          "accepted_nm": [
+            0.14,
+            0.17
+          ]
+        },
+        {
+          "atoms": [
+            "NME:N",
+            "NME:CH3"
+          ],
+          "distance_nm": 0.1473490413949139,
+          "accepted_nm": [
+            0.13,
+            0.17
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "task_id": "padded_K1104E_r01",
+      "boundary": "padded",
+      "variant": "K1104E",
+      "atoms": 1154,
+      "initial_potential_kj_mol": -14530.06186119597,
+      "caps": {
+        "ACE": [
+          "C",
+          "CH3",
+          "H1",
+          "H2",
+          "H3",
+          "O"
+        ],
+        "NME": [
+          "CH3",
+          "H",
+          "HH31",
+          "HH32",
+          "HH33",
+          "N"
+        ]
+      },
+      "cap_bond_checks": [
+        {
+          "atoms": [
+            "ACE:C",
+            "ASP:N"
+          ],
+          "distance_nm": 0.13281968980539008,
+          "accepted_nm": [
+            0.12,
+            0.15
+          ]
+        },
+        {
+          "atoms": [
+            "SER:C",
+            "NME:N"
+          ],
+          "distance_nm": 0.13378830292667565,
+          "accepted_nm": [
+            0.12,
+            0.15
+          ]
+        },
+        {
+          "atoms": [
+            "ACE:CH3",
+            "ACE:C"
+          ],
+          "distance_nm": 0.15220331796646228,
+          "accepted_nm": [
+            0.14,
+            0.17
+          ]
+        },
+        {
+          "atoms": [
+            "NME:N",
+            "NME:CH3"
+          ],
+          "distance_nm": 0.1473490413949139,
+          "accepted_nm": [
+            0.13,
+            0.17
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "task_id": "padded_E1128K_r01",
+      "boundary": "padded",
+      "variant": "E1128K",
+      "atoms": 1168,
+      "initial_potential_kj_mol": -14260.940112282988,
+      "caps": {
+        "ACE": [
+          "C",
+          "CH3",
+          "H1",
+          "H2",
+          "H3",
+          "O"
+        ],
+        "NME": [
+          "CH3",
+          "H",
+          "HH31",
+          "HH32",
+          "HH33",
+          "N"
+        ]
+      },
+      "cap_bond_checks": [
+        {
+          "atoms": [
+            "ACE:C",
+            "ASP:N"
+          ],
+          "distance_nm": 0.13281968980539008,
+          "accepted_nm": [
+            0.12,
+            0.15
+          ]
+        },
+        {
+          "atoms": [
+            "SER:C",
+            "NME:N"
+          ],
+          "distance_nm": 0.13378830292667565,
+          "accepted_nm": [
+            0.12,
+            0.15
+          ]
+        },
+        {
+          "atoms": [
+            "ACE:CH3",
+            "ACE:C"
+          ],
+          "distance_nm": 0.15220331796646228,
+          "accepted_nm": [
+            0.14,
+            0.17
+          ]
+        },
+        {
+          "atoms": [
+            "NME:N",
+            "NME:CH3"
+          ],
+          "distance_nm": 0.1473490413949139,
+          "accepted_nm": [
+            0.13,
+            0.17
+          ]
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "scientific_inference": "none; parameterization check only"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "KIF13A local monomer calculation",
+  "tool": "scripts/k1122e_md",
+  "utc": "2026-10-04T13:35:20.981209+00:00",
+  "path": "scripts/k1122e_md/cap_validation_20261004.json",
+  "sha256": "2f0f95e5185598d5b84c44f5b1b425bf1f0065c140894fee97076bd8103818c8",
+  "bytes": 14890,
+  "inputs": [
+    {
+      "path": "scripts/k1122e_md/protocol.json",
+      "sha256": "493e4de8d7c80f45ca3225aa58985bc4849e4cb84fd15ac86c38c3f0bd2430cc"
+    },
+    {
+      "path": "data/raw/alphafold/AF-Q9H1H9-F1_v6/AF-Q9H1H9-F1-model_v6.cif",
+      "sha256": "493338d05275a27b59aa6bd4815e1ecaf826aaced3b3c143ef60b53b20766898"
+    },
+    {
+      "path": "scripts/k1122e_md/cap_hydrogens.xml",
+      "sha256": "1e970dd64c0114cc82a352ad66fc24bfab222a1cdc4b0c51f10c2818cda8e2a2"
+    }
+  ],
+  "params": {
+    "validation_cases": 10
+  }
+}

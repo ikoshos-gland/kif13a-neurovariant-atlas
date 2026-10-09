@@ -1,0 +1,170 @@
+{
+  "protocol_id": "Rab10GTPMg_KIF13A1085-1160_ff19SB_OPC_v1_20261005",
+  "schema_version": 1,
+  "description": "Classical MD of the AlphaFold 3 Rab10(1-175, GTP, Mg2+):KIF13A(1085-1160) complex. Four arms x three starts x 100 ns. Same simulation conventions as the KIF13A monomer main arm (ff19SB + OPC, 0.15 M NaCl, 310 K, 1 bar, 2 fs, HBonds, PME 1.0 nm, LangevinMiddle 1/ps, MC barostat).",
+  "af3_root_default": "C:/Users/pc/OneDrive/Desktop/AF_KIF13K1122E/Alphafold_full",
+  "construct": {
+    "rab10": {
+      "label": "Rab10", "uniprot": "P61026", "af3_chain": "A", "first": 1, "last": 175,
+      "pdb_chain": "A", "n_terminus": "free_charged_NH3+", "c_terminus_cap": "NME",
+      "sequence": "MAKKTYDLLFKLLLIGDSGVGKTCVLFRFSDDAFNTTFISTIGIDFKIKTVELQGKKIKLQIWDTAGQERFHTITTSYYRGAMGIMLVYDITNGKSFENISKWLRNIDEHANEDVERMLLGNKCDMDDKRVVPKGKGEQIAREHGIRFFETSAKANINIEKAFLTLAEDILRKTP",
+      "fasta": "af3_inputs/sequences/P61026.fasta"
+    },
+    "kif13a": {
+      "label": "KIF13A", "uniprot": "Q9H1H9", "numbering": "UniProt Q9H1H9 = MANE Select (1805 aa)", "af3_chain": "B",
+      "first": 1085, "last": 1160, "pdb_chain": "B", "n_terminus_cap": "ACE", "c_terminus_cap": "NME",
+      "sequence_wt": "SYQEEDLNCVRERWSDALIKRREYLDEQIKKVSNKTEKTEDDVEREAQLVEQWVGLTEERNAVLVPAPGSGIPGAP",
+      "fasta": "af3_inputs/sequences/Q9H1H9.fasta"
+    },
+    "gtp": {"af3_chain": "C", "ccd": "GTP", "pdb_chain": "C", "heavy_atoms": 32, "net_charge": -4},
+    "mg": {"af3_chain": "D", "name": "MG", "pdb_chain": "D", "net_charge": 2}
+  },
+  "starts": {
+    "wt_s5": {"af3_job": "b1_rab10_kif13a_1085_1160_wt_s5", "model": 0, "residue_1122": "LYS", "ranking_score": 0.84},
+    "wt_s2": {"af3_job": "b1_rab10_kif13a_1085_1160_wt_s2", "model": 0, "residue_1122": "LYS", "ranking_score": 0.83},
+    "wt_s3": {"af3_job": "b1_rab10_kif13a_1085_1160_wt_s3", "model": 0, "residue_1122": "LYS", "ranking_score": 0.82},
+    "k1122e_s1": {"af3_job": "b1_rab10_kif13a_1085_1160_k1122e_s1", "model": 0, "residue_1122": "GLU", "ranking_score": 0.84},
+    "k1122e_s3": {"af3_job": "b1_rab10_kif13a_1085_1160_k1122e_s3", "model": 0, "residue_1122": "GLU", "ranking_score": 0.83},
+    "k1122e_s2": {"af3_job": "b1_rab10_kif13a_1085_1160_k1122e_s2", "model": 0, "residue_1122": "GLU", "ranking_score": 0.77}
+  },
+  "arms": {
+    "WT": {"starts": ["wt_s5", "wt_s2", "wt_s3"], "mutation": null},
+    "K1122E_AF3": {"starts": ["k1122e_s1", "k1122e_s3", "k1122e_s2"], "mutation": null},
+    "K1122E_paired": {"starts": ["wt_s5", "wt_s2", "wt_s3"], "mutation": {"position": 1122, "from": "LYS", "to": "GLU"}},
+    "K1122R_paired": {"starts": ["wt_s5", "wt_s2", "wt_s3"], "mutation": {"position": 1122, "from": "LYS", "to": "ARG"},
+      "tether": {
+        "enabled": true,
+        "decision": "Coordinator decision 2026-10-05: K1122R starts isosteric with WT (tethered to E1130); K1122E_paired stays as built.",
+        "reason": "The K1122R arm asks whether Arg keeps the K1122-E1130 tether, so it must start tethered like WT; an untethered start would measure re-formation instead.",
+        "position_pull": {"atoms": ["NE", "NH1", "NH2"], "target": "WT K1122 NZ of the same AF3 start", "flat_bottom_A": 1.0, "k_kj_mol_nm2": 5000.0},
+        "salt_bridge_pull": {"pair": "closest R1122 NE/NH1/NH2 to E1130 OE1/OE2", "target_A": 2.9, "accept_A": 3.2, "k_kj_mol_nm2": 5000.0, "applied": "only if the position pull leaves the closest N-O above accept_A"},
+        "release": "all pulls switched off and the system re-minimised with the standard relaxation restraints",
+        "accept": {"r1122_e1130_max_A": 3.2, "clash_heavy_A": 2.5}
+      }}
+  },
+  "seed_base": 26100500,
+  "parameters": {
+    "leaprc": ["leaprc.protein.ff19SB", "leaprc.water.opc"],
+    "gtp_prep": "params/GTP.prep",
+    "gtp_frcmod": "params/frcmod.phos",
+    "gtp_prep_unit": "gtp",
+    "extra_atom_types": [["O3", "O", "sp2"]],
+    "ion_set_note": "leaprc.water.opc loads frcmod.ionslm_126_opc: Na+ and Cl- 12-6 HFE set (Sengupta et al. 2021), Mg2+ 12-6 CM set (Li et al. 2020); same values as OpenMM amber19/opc.xml used by the monomer main arm.",
+    "pb_radii": "mbondi3",
+    "ambertools_version": "26.0 (conda-forge)"
+  },
+  "his": {
+    "rab10_residues": [72, 110, 144],
+    "ph": 7.0,
+    "neutral_below_pka": 6.0,
+    "protonated_above_pka": 7.5,
+    "rule": "pKa < 6.0: neutral, tautomer by H-bond analysis (HID/HIE, tie -> HIE); pKa > 7.5: HIP; 6.0 <= pKa <= 7.5: majority species at pH 7.0 (neutral if pKa < 7.0, else HIP) and flagged as a candidate sensitivity arm.",
+    "hbond_cutoff_A": 3.2
+  },
+  "mutant_relax": {
+    "method": "PDBFixer 1.12 side-chain replacement beyond CB (N, CA, C, O, CB kept), then ff19SB + GBn2 (mbondi3, 0.15 M) restrained minimisation of the dry tleap topology",
+    "restraint_k_kj_mol_nm2": 10000.0,
+    "free_atoms": "all hydrogens plus residue-1122 side-chain heavy atoms beyond CB (paired mutants only)",
+    "tolerance_kj_mol_nm": 1.0,
+    "max_iterations": 5000,
+    "carboxylate_oo_A": [2.10, 2.35],
+    "clash_heavy_A": 2.5
+  },
+  "mg_restraints": {
+    "coordination_cutoff_A": 2.6,
+    "flat_bottom_margin_A": 0.3,
+    "k_kj_mol_nm2": 2000.0,
+    "expected_ligands": ["Rab10 T23 OG1", "Rab10 T41 OG1", "GTP beta-phosphate O", "GTP gamma-phosphate O"],
+    "form": "E = 0.5 k (r - r_fb)^2 for r > r_fb, 0 otherwise; r_fb = AF3 distance + margin"
+  },
+  "solvation": {
+    "water": "OPC",
+    "box": "truncated_octahedron",
+    "tleap_command": "solvateOct",
+    "buffer_A": 12.0,
+    "rotation_safe": true,
+    "rotation_safe_rule": "nearest periodic image distance (TO box length a) >= solute diameter (all atoms) + 2 x 12 A; the solvateOct buffer is raised until this holds, so the gap to the nearest image stays >= 24 A in any orientation of the rigid complex",
+    "salt_molar": 0.15,
+    "water_molarity": 55.4,
+    "salt_rule": "pairs = floor((N_water - N_neutralising) * 0.15 / 55.4 + 0.5), the OpenMM Modeller rule used by the monomer main arm",
+    "cation": "Na+",
+    "anion": "Cl-"
+  },
+  "simulation": {
+    "temperature_k": 310.0,
+    "pressure_bar": 1.0,
+    "nonbonded_cutoff_nm": 1.0,
+    "ewald_error_tolerance": 0.0005,
+    "constraints": "HBonds",
+    "rigid_water": true,
+    "timestep_fs": 2.0,
+    "friction_per_ps": 1.0,
+    "barostat_frequency": 25,
+    "cuda_properties": {"Precision": "mixed", "DeterministicForces": "true"},
+    "restraint_sets": {
+      "backbone": "protein N, CA, C, O, cap heavy atoms, GTP heavy atoms and Mg2+",
+      "sidechain": "all other solute heavy atoms"
+    },
+    "stages": [
+      {"name": "minimize", "kind": "minimize", "max_iterations": 2000, "k_backbone": 1000.0, "k_sidechain": 1000.0},
+      {"name": "heat_nvt", "kind": "nvt", "ns": 0.1, "t_start_k": 50.0, "t_end_k": 310.0, "ramp_chunks": 25, "k_backbone": 1000.0, "k_sidechain": 1000.0},
+      {"name": "nvt", "kind": "nvt", "ns": 0.1, "k_backbone": 1000.0, "k_sidechain": 1000.0},
+      {"name": "npt_heavy", "kind": "npt", "ns": 0.25, "k_backbone": 1000.0, "k_sidechain": 1000.0},
+      {"name": "npt_backbone", "kind": "npt", "ns": 0.25, "k_backbone": 1000.0, "k_sidechain": 0.0},
+      {"name": "npt_backbone_weak", "kind": "npt", "ns": 0.25, "k_backbone": 100.0, "k_sidechain": 0.0},
+      {"name": "npt_free", "kind": "npt", "ns": 0.5, "k_backbone": 0.0, "k_sidechain": 0.0}
+    ],
+    "restraint_units": "kJ/mol/nm^2 (harmonic, periodic distance to the prepared coordinates)",
+    "production_ns": 100.0,
+    "report_ps": 10.0,
+    "solvent_report_ps": 100.0,
+    "checkpoint_ps": 1000.0,
+    "smoke": {"minimize_iterations": 200, "stage_steps": 10, "production_steps": 200, "report_steps": 10, "solvent_report_steps": 50, "checkpoint_steps": 50}
+  },
+  "analysis": {
+    "discard_production_ns": 10.0,
+    "salt_bridge_cutoff_nm": 0.40,
+    "contact_cutoff_nm": 0.45,
+    "contact_candidate_ca_nm": 2.0,
+    "contact_stride_ps": 100.0,
+    "sasa_stride_ps": 500.0,
+    "image_stride_ps": 100.0,
+    "image_warn_nm": 1.0,
+    "gbsa_stride_ps": 1000.0,
+    "na_cutoff_nm": 0.32,
+    "na_residues": [1122, 1124, 1125, 1126, 1130],
+    "mg_cutoff_nm": 0.26,
+    "hbond_heavy_cutoff_nm": 0.32,
+    "turn_dssp": [1116, 1126],
+    "helix1": [1088, 1117],
+    "helix2": [1124, 1148],
+    "rab10_switch1": [36, 44],
+    "rab10_switch2": [66, 80],
+    "rab10_core": [6, 170],
+    "rab10_core_exclude": [[36, 44], [66, 80]],
+    "histogram_nm": [0.2, 2.0, 0.05],
+    "charge_atoms_note": "Barlow-Thornton style charged groups: ARG NE/NH1/NH2, LYS NZ, HIP ND1/NE2, Rab10 M1 N (+); ASP OD1/OD2, GLU OE1/OE2 (-). The monomer main arm used ARG NH1/NH2 only.",
+    "comparisons": [
+      ["K1122E_AF3", "WT", "welch"],
+      ["K1122E_paired", "WT", "welch"],
+      ["K1122R_paired", "WT", "welch"],
+      ["K1122E_paired", "WT", "paired_by_start"],
+      ["K1122R_paired", "WT", "paired_by_start"],
+      ["K1122E_AF3", "K1122E_paired", "welch"],
+      ["K1122E_paired", "K1122R_paired", "paired_by_start"]
+    ]
+  },
+  "citations": {
+    "gtp_parameters": "Meagher KL, Redman LT, Carlson HA. J Comput Chem 2003;24:1016-1025. doi:10.1002/jcc.10262, PMID 12759902",
+    "ff19SB": "Tian C et al. J Chem Theory Comput 2020;16:528-552. doi:10.1021/acs.jctc.9b00591, PMID 31714766",
+    "OPC": "Izadi S, Anandakrishnan R, Onufriev AV. J Phys Chem Lett 2014;5:3863-3871. doi:10.1021/jz501780a, PMID 25400877",
+    "monovalent_ions_OPC": "Sengupta A et al. J Chem Inf Model 2021;61:869-880. doi:10.1021/acs.jcim.0c01390, PMID 33538599",
+    "divalent_ions_OPC": "Li Z, Song LF, Li P, Merz KM Jr. J Chem Theory Comput 2020;16:4429-4442. doi:10.1021/acs.jctc.0c00194, PMID 32510956",
+    "PROPKA3": "Olsson MHM et al. J Chem Theory Comput 2011;7:525-537. doi:10.1021/ct100578z, PMID 26596171; Sondergaard CR et al. J Chem Theory Comput 2011;7:2284-2295. doi:10.1021/ct200133y, PMID 26606496",
+    "GBn2_mbondi3": "Nguyen H, Roe DR, Simmerling C. J Chem Theory Comput 2013;9:2020-2034. doi:10.1021/ct3010485, PMID 25788871",
+    "OpenMM8": "Eastman P et al. J Phys Chem B 2024;128:109-116. doi:10.1021/acs.jpcb.3c06662, PMID 38154096",
+    "AmberTools": "Case DA et al. J Chem Inf Model 2023;63:6183-6191. doi:10.1021/acs.jcim.3c01153, PMID 37805934",
+    "LangevinMiddle": "Zhang Z et al. J Phys Chem A 2019;123:6056-6079. doi:10.1021/acs.jpca.9b02771, PMID 31117592",
+    "MDTraj": "McGibbon RT et al. Biophys J 2015;109:1528-1532. doi:10.1016/j.bpj.2015.08.015, PMID 26488642"
+  }
+}

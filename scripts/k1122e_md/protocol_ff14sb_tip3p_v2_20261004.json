@@ -1,0 +1,90 @@
+{
+  "protocol_id": "KIF13A_K1122E_monomer_v2_20261004",
+  "schema_version": 1,
+  "source": {
+    "accession": "Q9H1H9",
+    "model_version": 6,
+    "structure": "data/raw/alphafold/AF-Q9H1H9-F1_v6/AF-Q9H1H9-F1-model_v6.cif",
+    "confidence": "data/raw/alphafold/AF-Q9H1H9-F1_v6/AF-Q9H1H9-F1-confidence_v6.json",
+    "chain": "A",
+    "protein_length": 1805
+  },
+  "interpretation": {
+    "system": "ACE/NME-capped isolated monomer fragment, no dimer or cargo partner",
+    "claim_limit": "Local helix and contact hypotheses only; no pathogenicity, folding ddG, binding affinity, dominant-negative mechanism or motor activity determination.",
+    "controls": "K1122R, K1104E and E1128K are synthetic mechanistic controls with unknown clinical effects, not benign or pathogenic standards.",
+    "confidence_caveat": "AlphaFold local confidence does not establish oligomerization or global tail arrangement. Fragment boundary dependence and artificial cap chemistry remain limitations."
+  },
+  "boundaries": {
+    "primary": [1092, 1146],
+    "padded": [1084, 1154]
+  },
+  "variants": {
+    "WT": null,
+    "K1122E": {"position": 1122, "from": "LYS", "to": "GLU"},
+    "K1122R": {"position": 1122, "from": "LYS", "to": "ARG"},
+    "K1104E": {"position": 1104, "from": "LYS", "to": "GLU"},
+    "E1128K": {"position": 1128, "from": "GLU", "to": "LYS"}
+  },
+  "replicas": 3,
+  "seed_base": 26100400,
+  "simulation": {
+    "forcefield": ["amber14/protein.ff14SB.xml", "amber14/tip3p.xml"],
+    "water_model": "tip3p",
+    "temperature_k": 310.0,
+    "pressure_bar": 1.0,
+    "ph": 7.0,
+    "salt_molar": 0.15,
+    "solvent_padding_nm": 1.2,
+    "box_policy": "cubic_max_initial_atom_extent_plus_padding",
+    "nonbonded_cutoff_nm": 1.0,
+    "ewald_error_tolerance": 0.0005,
+    "timestep_fs": 2.0,
+    "friction_per_ps": 1.0,
+    "minimization_max_iterations": 2000,
+    "nvt_ns": 0.2,
+    "restrained_npt_ns": 0.5,
+    "unrestrained_npt_ns": 0.5,
+    "restraint_k_kj_mol_nm2": 1000.0,
+    "production_ns": 100.0,
+    "production_ns_by_boundary": {"primary": 100.0, "padded": 50.0},
+    "report_ps": 10.0,
+    "checkpoint_ps": 1000.0
+  },
+  "static_proxy": {
+    "forcefield": ["amber14/protein.ff14SB.xml", "implicit/gbn2.xml"],
+    "solvent_dielectric": 78.5,
+    "solute_dielectric": 1.0,
+    "restraint_k_kj_mol_nm2": 1000.0,
+    "minimization_max_iterations": 2000,
+    "interpretation": "Actual restrained monomer minimization and potential evaluation, reported separately for each composition. Absolute potentials across mutants are not folding or binding free energies and are not subtracted."
+  },
+  "analysis": {
+    "core": [1100, 1138],
+    "site_window": [1118, 1126],
+    "site": 1122,
+    "discard_production_ns": 10.0,
+    "block_ns": 10.0,
+    "alpha_phi_deg": [-100.0, -30.0],
+    "alpha_psi_deg": [-80.0, 0.0],
+    "hbond_acceptor_donor_nm": 0.35,
+    "hbond_n_h_o_angle_deg_min": 150.0,
+    "contact_heavy_distance_nm": 0.45,
+    "contact_min_sequence_separation": 3,
+    "salt_bridge_charged_distance_nm": 0.4,
+    "image_contact_ca_distance_nm": 0.8,
+    "image_contact_min_sequence_separation": 6,
+    "bootstrap_seed": 261004,
+    "bootstrap_iterations": 10000,
+    "primary_endpoints": ["core_alpha_torsion_fraction", "core_i_i4_hbond_fraction"],
+    "secondary_endpoints": ["site_alpha_torsion_fraction", "site_nonlocal_heavy_contact_count", "core_salt_bridge_count", "site_salt_bridge_count", "core_ca_rmsd_nm"],
+    "quality_endpoints": ["periodic_self_contact_pair_count"],
+    "inference": "Unpaired replica-mean bootstrap intervals and WT replica range; frames and within-replica blocks are not independent experimental replicates. Three replicas provide exploratory, not clinical, precision."
+  },
+  "sources": [
+    "https://docs.openmm.org/latest/userguide/application/02_running_sims.html",
+    "https://github.com/openmm/pdbfixer",
+    "https://alphafold.ebi.ac.uk/faq",
+    "https://doi.org/10.33011/livecoms.1.1.5067"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "file": "docs/K1122E_hesaplamalar_20261004.md",
+  "sha256": "7848111a8686073dea6f07b3e2bb4c2692bceca68e169de8e640b00eddb1ab7e",
+  "bytes": 14368,
+  "retrieved_utc": "2026-10-04T21:17:39+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "Scientific methods and handoff update",
+  "inputs": [
+    "data/interim/so3lr_review/pilot_and_finetuning_audit_20261004.json",
+    "data/interim/k1122e_md/TRUBA_jobs_20261004.json"
+  ],
+  "params": {
+    "so3lr_executed": false,
+    "fine_tuning_executed": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "file": "scripts/k1122e_md/protocol_ff14sb_tip3p_v2_20261004.json",
+  "sha256": "493e4de8d7c80f45ca3225aa58985bc4849e4cb84fd15ac86c38c3f0bd2430cc",
+  "bytes": 3956,
+  "retrieved_utc": "2026-10-04T20:38:17+00:00",
+  "server": "kif13a-atlas-mcp 0.1.0",
+  "source": "Local protocol transition validation",
+  "tool": "ff19SB/OPC v3",
+  "protocol_sha256": "c4edd0fd8d40519b6b5ba152957c05564824950afebc54db0ca4f18fbf0c5c65"
+}

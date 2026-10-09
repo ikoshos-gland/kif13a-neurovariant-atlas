@@ -1,0 +1,31 @@
+kosu                       n     donus_heliks   rho(e1130)  rho(intermolecular)  rho(kif)
+K1122E_paired_wt_s2         9000         0.350        +0.23       -0.11       -0.42
+WT_wt_s2                    9000         0.462        -0.02       -0.10       +0.01
+WT_wt_s3                    6801         0.463        -0.00       -0.03       -0.03
+K1122E_AF3_k1122e_s1        9000         0.422        +0.02       -0.05       -0.08
+K1122E_AF3_k1122e_s2        9000         0.430        -0.01       -0.00       +0.10
+K1122E_AF3_k1122e_s3        9000         0.281        -0.22       -0.13       -0.23
+K1122E_paired_wt_s2         9000         0.413        +0.02       -0.08       -0.00
+K1122E_paired_wt_s3         9000         0.292        +0.12       -0.12       -0.17
+K1122E_paired_wt_s5         9000         0.412        -0.01       -0.04       -0.04
+K1122R_paired_wt_s2         9000         0.417        +0.02       +0.05       -0.13
+K1122R_paired_wt_s3         9000         0.444        +0.06       -0.06       -0.07
+K1122R_paired_wt_s5         9000         0.443        -0.00       -0.00       -0.21
+WT_wt_s2                    9000         0.425        -0.15       -0.02       -0.13
+WT_wt_s3                    9000         0.460        -0.11       -0.00       +0.16
+WT_wt_s5                    9000         0.459        -0.04       +0.04       -0.00
+
+10 ns bloklari, kosu ici merkezlenmis, kol icinde havuzlanmis (Pearson):
+kol              olcum                      n_blok       r         p
+K1122E_AF3       e1130_r70_nm                   27   -0.31     0.120
+K1122E_AF3       intermolecular_sb_count        27   -0.28     0.163
+K1122E_AF3       kif_helix2_rmsd_nm             27   -0.13     0.513
+K1122E_paired    e1130_r70_nm                   36   +0.29     0.087
+K1122E_paired    intermolecular_sb_count        36   -0.32     0.060
+K1122E_paired    kif_helix2_rmsd_nm             36   -0.23     0.184
+K1122R_paired    e1130_r70_nm                   27   +0.06     0.777
+K1122R_paired    intermolecular_sb_count        27   +0.04     0.859
+K1122R_paired    kif_helix2_rmsd_nm             27   -0.42     0.030
+WT               e1130_r70_nm                   43   -0.29     0.058
+WT               intermolecular_sb_count        43   -0.11     0.486
+WT               kif_helix2_rmsd_nm             43   -0.18     0.251
