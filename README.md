@@ -84,6 +84,8 @@ Aynı başlangıç yapısından koşulan WT, K1122R ve K1122E, 100 ns. Turuncu v
 | KIF13A bir hastalık geni mi? | Kanıt yok; her hastalık hipotezi ayrı test edildi, hiçbiri kurtarılamadı | |
 | K1122E proteinde neyi değiştiriyor? | Saç tokasının dönüşünü ve heliks 2'nin başını (1124-1125) yerel olarak çözüyor | yüksek (MD içinde) |
 | K1122E Rab10 bağlanmasını bozuyor mu? | 100 ns MD'de ara yüz kırılmıyor | orta |
+| Etki her yük tersine çevirmesinde görülür mü? | Hayır; aynı heliksteki K1104E hiçbir şeyi değiştirmiyor, etki konuma özgü | yüksek (MD içinde) |
+| K1122E Rab10'un GTP hidroliz geometrisini (Q68) değiştiriyor mu? | Hayır; Q68 ve gama-fosfat suyu 12 koşuda ayrışmıyor | orta (negatif) |
 | K1122E patojenik mi? | Bilinmiyor; kalıtım bilgisi yok ve hesaplar tek başına bunu söyleyemez | |
 
 ---
@@ -316,7 +318,7 @@ MD'ye güvenmeden önce, kullanılan yöntemlerin tuz köprüsünü doğru tanı
 
 **Okuma:** ff19SB/OPC, Lys-Glu çiftinde deneyi tutturuyor; ana MD kolu için bu seçim veriyle destekleniyor. Arg-Glu köprüleri (R70-E1130 dahil) yine de yaklaşık 2 kat fazla dolu görünür. Glu-Glu itici: K1122E'de E1122 ile E1130 birbirini iter.
 
-**SO3LR kolları.** Fragman MD kolunun 8 koşusunun 7'si GPU belleği yetmediği için çöktü (V100 16 GB). PMF pencereleri sürüyor; bitmeden analiz edilmedi.
+**SO3LR kolları.** Fragman MD kolunun 8 koşusunun 7'si GPU belleği yetmediği için çöktü (V100 16 GB). SO3LR PMF'lerinin üçüncü turu da 12 Ekim'de başarısız oldu; bu kollar sonuç vermeden kapandı ve hiçbir çıkarımda kullanılmadı.
 
 ---
 
@@ -408,6 +410,21 @@ Tablolar: [results/k1122e_md_20261009/kompleks/ara_yuz_0910/](results/k1122e_md_
 - **"Saçaklanma ara yüze yayılıyor."** Koşu içinde dönüşün çözüldüğü karelerde R70-E1130 uzaklığı ve molekül arası köprü sayısı tutarlı biçimde değişmiyor; korelasyonların işareti kollar arasında tutarsız.
 - **"GBSA'ya göre mutant daha zayıf bağlanıyor."** Yalnız s2 varken öyle görünüyordu. Tam veride eşleşik farkların işareti başlangıca göre değişiyor: s2'de +38 (daha zayıf), s3'te -48 ve s5'te -38 kJ/mol (daha güçlü). Yük değiştiren mutasyonda bu yöntem zaten güvenilir değil.
 
+### 6. Switch II ve katalitik Q68 üzerinden dolaylı etki (sınandı, görülmedi)
+
+Soru: K1122E, Rab10'a doğrudan değmeden switch II üzerinden GTP hidrolizinin geometrisini değiştirebilir mi? Rab10'un katalitik glutamini Q68, KIF13A'nın tuttuğu R70'in iki kalıntı önünde. Klasik MD GTP'yi parçalayamaz; ölçülen şey hidrolize hazır duruşun sıklığı. 12 koşu, 10-100 ns, kontroller (WT + K1122R) 6 ve mutantlar (iki K1122E kolu) 6; kesin permütasyon testi.
+
+| Ölçüm | Kontrol | Mutant | p |
+|---|---|---|---|
+| Q68 amid ucu · gama-fosfor | 6,72 Å | 6,84 Å | 0,26 |
+| Q68 amid ucu · gama-oksijenler | 5,61 Å | 5,72 Å | 0,28 |
+| Q68'in gama-fosfora 5 Å'den yakın olduğu zaman | %0 | %0 | 0,72 |
+| Saldırıya hazır su (P'ye < 4 Å, O3B-P-O açısı ≥ 150°) | %61 | %53 | 0,13 |
+| Q68'in tuttuğu su | %12 | %9 | 0,23 |
+| R70 · E1130 | 3,17 Å | 3,10 Å | 0,76 |
+
+Q68 hiçbir koşuda gama-fosfata dönmüyor; bu, efektöre bağlı ve GAP'siz bir Rab için beklenen duruş. Mutasyon bunu değiştirmiyor. GAP erişimi ve gerçek hidroliz hızı bu hesapla ölçülemez. Kod: [scripts/k1122e_kompleks_md/q68_analiz.py](scripts/k1122e_kompleks_md/q68_analiz.py), tablo: [results/k1122e_md_20261014/q68/](results/k1122e_md_20261014/q68/).
+
 ---
 
 ## Kısım 2F: Monomer MD (Rab10 olmadan)
@@ -420,31 +437,33 @@ Tablolar: [results/k1122e_md_20261009/kompleks/ara_yuz_0910/](results/k1122e_md_
 | Kollar | WT, K1122E, K1122R, K1104E, E1128K; her biri 3 bağımsız tohum, iki parça: 30 görev |
 | Kuvvet alanı | ff19SB + OPC, 0,15 M tuz, 310 K, 1 bar, 2 fs; ana parça 100 ns, geniş parça 50 ns |
 | Birincil ölçümler (önceden belirlendi) | çekirdek alfa torsiyon oranı ve i,i+4 hidrojen bağı oranı |
-| Durum | ana parçada WT x3, K1122E x3, K1122R x2 bitti; diğer 22 görev sürüyor |
+| Durum | 30 görevin hepsi bitti (12 Ekim 2026) |
 
-Kod: [scripts/k1122e_md/](scripts/k1122e_md/) (protokol `protocol.json`), SLURM: [scripts/truba/k1122e/](scripts/truba/k1122e/).
+Kod: [scripts/k1122e_md/](scripts/k1122e_md/) (protokol `protocol.json`), SLURM: [scripts/truba/k1122e/](scripts/truba/k1122e/), tablo kodu: [scripts/k1122e_md_analiz/monomer_v3_tablo.py](scripts/k1122e_md_analiz/monomer_v3_tablo.py).
 
-### Sonuç (8 koşu, 10-100 ns, koşu başına 9.000 kare)
+### Sonuç: ana parça (1092-1146), 30 görevin 15'i, 10-100 ns, koşu başına 9.000 kare
 
-| Ölçüm | WT (3) | K1122E (3) | K1122R (2) | Ayrışma |
-|---|---|---|---|---|
-| Çekirdek alfa torsiyon (birincil) | 0,874-0,875 | 0,830-0,868 | 0,866-0,875 | örtüşüyor |
-| Çekirdek i,i+4 H bağı (birincil) | 0,486-0,499 | 0,435-0,495 | 0,470-0,519 | örtüşüyor |
-| Bölge alfa 1118-1126 | 0,466-0,475 | **0,393-0,445** | 0,473-0,484 | mutant hep altta |
-| 1124 sarmal oranı (DSSP) | 0,894-0,937 | **0,604-0,668** | 0,923-0,954 | mutant hep altta |
-| 1125 sarmal oranı (DSSP) | 0,962-0,982 | **0,731-0,935** | 0,973-0,979 | mutant hep altta |
-| 1124 omurga açıları sarmal | 0,993-0,998 | **0,928-0,980** | 0,997-0,998 | mutant hep altta |
-| 1117 sarmal oranı | 0,843-0,917 | 0,514-0,781 | 0,773-0,897 | örtüşüyor |
-| 1122-E1130 köprüsü | 0,23-0,33 | 0,00 | 0,86-0,89 | yan zincir değişimi |
-| Çekirdek CA RMSD (nm) | 0,120-0,125 | 0,131-0,198 | 0,104-0,134 | örtüşüyor |
+Değerler kol içindeki en düşük ve en yüksek koşu; alfa = omurga açılarının sarmal bölgede olduğu zaman oranı. p: K1122E (3) ile kontroller (WT + K1122R, 6) arasında kesin iki yönlü permütasyon testi; ulaşılabilecek en küçük değer 0,012.
 
-Periyodik öz temas hiçbir koşuda yok. Tablo: [results/k1122e_md_20261009/monomer/monomer_tam_100ns_0910.tsv](results/k1122e_md_20261009/monomer/monomer_tam_100ns_0910.tsv).
+| Ölçüm | WT | K1122R | **K1122E** | K1104E | E1128K | p |
+|---|---|---|---|---|---|---|
+| Çekirdek alfa (birincil) | 0,875-0,876 | 0,872-0,875 | **0,845-0,859** | 0,872-0,877 | 0,853-0,875 | 0,012 |
+| Çekirdek i,i+4 H bağı (birincil) | 0,486-0,505 | 0,488-0,521 | 0,470-0,499 | 0,476-0,487 | 0,495-0,508 | 0,095 |
+| Bölge alfa 1118-1126 | 0,473-0,475 | 0,461-0,477 | **0,346-0,420** | 0,467-0,485 | 0,373-0,475 | 0,012 |
+| 1117 alfa | 0,909-0,964 | 0,795-0,936 | 0,550-0,870 | 0,927-0,960 | 0,917-0,954 | 0,048 |
+| 1120 alfa | 0,893-0,932 | 0,821-0,938 | **0,368-0,580** | 0,911-0,940 | 0,072-0,909 | 0,012 |
+| 1124 alfa | 0,993-0,998 | 0,997-0,998 | **0,928-0,980** | 0,995-0,998 | 0,996-0,998 | 0,012 |
+| 1125 alfa | 0,986-0,997 | 0,991-0,995 | 0,756-0,995 | 0,976-0,991 | 0,990-0,998 | 0,083 |
+| Çekirdek CA RMSD (nm) | 0,116-0,126 | 0,107-0,123 | **0,138-0,158** | 0,117-0,120 | 0,111-0,121 | 0,012 |
+
+Geniş parça (1084-1154, 10-50 ns) aynı yönü veriyor: çekirdek alfa K1122E 0,863-0,868 ile kontroller 0,871-0,877, bölge 1118-1126 0,424-0,444 ile 0,458-0,477, 1120 alfa 0,528-0,776 ile 0,890-0,973 (üçü de p=0,012). Periyodik öz temas hiçbir koşuda yok. Tablo: [results/k1122e_md_20261014/monomer_v3/monomer_v3_tam_pencere_20261014.tsv](results/k1122e_md_20261014/monomer_v3/monomer_v3_tam_pencere_20261014.tsv).
 
 **Okuma:**
-- **1124 etkisi Rab10 olmadan da var**, üç tekrarın üçünde. Yani etki saç tokasının kendi özelliği, Rab10'a bağlı değil. 5 kontrole karşı 3 mutantta tam ayrışmanın iki yönlü p değeri 0,036.
-- **Etki yalnız hidrojen bağı kopması değil.** İki mutant koşuda 1124'ün omurga açıları da zamanın yaklaşık %7'sinde sarmal dışına çıkıyor; heliks 2'nin ilk dönüşünde kısmi bir çözülme var.
-- **Saç tokasının toplam sarmallığı** (önceden belirlenmiş birincil ölçüm) anlamlı değişmiyor: en düşük iki değer K1122E'den, ama üçüncü mutant koşu bir K1122R koşusunun üstünde.
-- **Belirleyici kontrol henüz yok: K1104E.** Aynı sarmalda başka bir konumda aynı yük tersine çevirmesi, sağlıklı bir insanda görülmüş. K1104E de 1124'ü çözerse etki "her yük değişimi" demektir; çözmezse konuma özgüdür.
+- **1124 etkisi Rab10 olmadan da var**, üç tekrarın üçünde ve iki parça boyunda. Etki saç tokasının kendi özelliği.
+- **Belirleyici kontrol K1104E hiçbir şeyi değiştirmiyor.** Aynı heliksin başka bir konumunda aynı yük tersine çevirmesi (sağlıklı bir insanda görülmüş) 1124'ü, dönüşü ve çekirdeği kontrollerle aynı bırakıyor. Etki "her yük değişimi" değil, **1122 konumuna özgü**.
+- **Önceden belirlenmiş birincil ölçüm (çekirdek alfa) tam pencerede ayrışıyor:** K1122E'nin üç koşusu da altıncı kontrolün altında. i,i+4 hidrojen bağı ölçüsü ayrışmıyor.
+- **E1128K**'nın üç tekrarından biri (r02) 1120'yi kaybediyor (%7), ama 1124 değişmiyor; tek koşuya dayandığı için yorumlanmadı.
+- **Düzeltme:** 9 Ekim'deki tablo (`results/k1122e_md_20261009/monomer/monomer_tam_100ns_0910.tsv`) "10-100 ns" diye etiketlenmişti, ama çekirdek ve bölge sütunları 10-50 ns karşılaştırma penceresinden geliyordu. Bu yüzden "birincil ölçüm ayrışmıyor" yazmıştık; tam pencerede ayrışıyor.
 
 ---
 
@@ -452,7 +471,8 @@ Periyodik öz temas hiçbir koşuda yok. Tablo: [results/k1122e_md_20261009/mono
 
 **Desteklenen:**
 - K1122E, saç tokasının dönüşünü ve heliks 2'nin başını (1124-1125) yerel olarak çözüyor.
-- Bu etki Rab10'lu ve Rab10'suz sistemde görülüyor: kompleksin 6 mutant başlangıcının hepsinde (p=0,002) ve monomerin 3 tekrarının hepsinde. Yükü koruyan K1122R'de görülmüyor.
+- Bu etki Rab10'lu ve Rab10'suz sistemde görülüyor: kompleksin 6 mutant başlangıcının hepsinde (p=0,002) ve monomerin 3 tekrarının hepsinde, iki parça boyunda. Yükü koruyan K1122R'de görülmüyor.
+- Etki konuma özgü: aynı heliksteki K1104E yük tersine çevirmesi hiçbir şeyi değiştirmiyor.
 - Bazı koşularda etki zamanla büyüyor ve heliks 2'nin ilk dönüşünün büyük ölçüde çözülmesine varıyor.
 - ThermoMPNN'in kararsızlaştırma tahmini (+1,65 kcal/mol) ve AF3'teki dönüş güveni düşüşü aynı yönü gösteriyor.
 
@@ -462,6 +482,7 @@ Periyodik öz temas hiçbir koşuda yok. Tablo: [results/k1122e_md_20261009/mono
 - GBSA'da tutarlı bir zayıflama.
 - Splice etkisi.
 - "1117 çözülmesi"nin mutanta özgü olması.
+- Switch II ve katalitik Q68 üzerinden GTP hidroliz geometrisinin değişmesi.
 
 **Hipotez düzeyinde:** firketenin Rab10 üzerindeki oturuşu heliks 1 tarafında hafifçe değişiyor olabilir.
 
@@ -476,12 +497,11 @@ Periyodik öz temas hiçbir koşuda yok. Tablo: [results/k1122e_md_20261009/mono
 
 ## Açık işler
 
-1. **Monomer dizisinin kalan 22 görevi:** K1104E x3, E1128K x3, K1122R'nin üçüncü tekrarı ve geniş parçanın 15 görevi. Bitince bu README güncellenecek.
-2. **Daha uzun kompleks koşuları:** s3'teki çözülme 100 ns'de dengeye ulaşmadı. Birkaç koşuyu 200-300 ns'ye uzatmak etkinin son boyunu gösterir.
-3. **Pozitif kontrol:** ara yüzü kesin bozan bir mutasyon (E1130A ya da Rab10 R70A) eklenmeden "ara yüz değişmedi" sonucu "MD bunu 100 ns'de göremez" olasılığından ayrılamıyor.
-4. **Heliks 1 hipotezi:** kesik uçların etkisini ayırmak için daha uzun bir KIF13A parçası gerekiyor.
-5. **Kalıtım:** varyantın de novo mu, ebeveynden mi geldiği gönderen laboratuvara sorulmalı. Bu, hesaplardan daha belirleyici.
-6. **Deneysel test:** Rab10-Q68L ile WT ve K1122E KIF13A kuyruğunun pull-down'ı, ya da oligodendrosit soyunda genişletme mikroskopisi (ExM).
+1. **Daha uzun kompleks koşuları:** s3'teki çözülme 100 ns'de dengeye ulaşmadı. Birkaç koşuyu 200-300 ns'ye uzatmak etkinin son boyunu gösterir.
+2. **Pozitif kontrol:** ara yüzü kesin bozan bir mutasyon (E1130A ya da Rab10 R70A) eklenmeden "ara yüz değişmedi" sonucu "MD bunu 100 ns'de göremez" olasılığından ayrılamıyor.
+3. **Heliks 1 hipotezi:** kesik uçların etkisini ayırmak için daha uzun bir KIF13A parçası gerekiyor.
+4. **Kalıtım:** varyantın de novo mu, ebeveynden mi geldiği gönderen laboratuvara sorulmalı. Bu, hesaplardan daha belirleyici.
+5. **Deneysel test:** Rab10-Q68L ile WT ve K1122E KIF13A kuyruğunun pull-down'ı, ya da oligodendrosit soyunda genişletme mikroskopisi (ExM).
 
 ---
 
